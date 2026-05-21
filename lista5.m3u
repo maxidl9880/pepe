@@ -1,4 +1,4 @@
-#EXTM3U x-tvg-url="" x-lista="Listas General 5" x-actualizado="2026-05-21 00:36"
+#EXTM3U x-tvg-url="" x-lista="Listas General 5" x-actualizado="2026-05-21 07:21"
 #EXTINF:-1 tvg-name="El diablo viste a la moda 2 (2026) | FHDTS Latino" group-title="Internacional" tvg-chno="" ,El diablo viste a la moda 2 (2026) | FHDTS Latino [SD]
 http://vodlat.top:8080/movie/Rrodriguez/Robert202304/636580.mp4
 #EXTINF:-1 tvg-name="Pinocho (2026)" group-title="General" tvg-chno="" ,Pinocho (2026) [SD]
@@ -11,6 +11,8 @@ http://vodlat.top:8080/movie/Rrodriguez/Robert202304/636583.mp4
 http://vodlat.top:8080/movie/Rrodriguez/Robert202304/636586.mp4
 #EXTINF:-1 tvg-name="The Punisher: La última muerte (2026) | Castellano" group-title="General" tvg-chno="" ,The Punisher: La última muerte (2026) | Castellano [SD]
 http://vodlat.top:8080/movie/Rrodriguez/Robert202304/638026.mp4
+#EXTINF:-1 tvg-name="The Punisher: La última muerte (2026)" group-title="General" tvg-chno="" ,The Punisher: La última muerte (2026) [SD]
+http://vodlat.top:8080/movie/Rrodriguez/Robert202304/638023.mp4
 #EXTINF:-1 tvg-name="Operación Trueno (1995)" group-title="General" tvg-chno="" ,Operación Trueno (1995) [SD]
 http://vodlat.top:8080/movie/Rrodriguez/Robert202304/637363.mp4
 #EXTINF:-1 tvg-name="yo & la Toscana (2026)' tvg-logo='https://image.tmdb.org/t/p/w600_and_h900_bestv2/mJS0IF7Af3WpPRhSTDT6rGpiLzw.jpg' group-title='▶️ ESTRENOS 2026 ▶️',Tu, yo & la Toscana (2026)" group-title="General" tvg-chno="" ,yo & la Toscana (2026)' tvg-logo='https://image.tmdb.org/t/p/w600_and_h900_bestv2/mJS0IF7Af3WpPRhSTDT6rGpiLzw.jpg' group-title='▶️ ESTRENOS 2026 ▶️',Tu, yo & la Toscana (2026) [SD]
@@ -997,5 +999,3 @@ http://tv.diablotv.net:8080/movie/medinaliliam/0eebe2fec35a/193105.mkv
 http://tv.diablotv.net:8080/movie/medinaliliam/0eebe2fec35a/193190.mkv
 #EXTINF:-1 tvg-name="Juegos entre Amigos: Despertar de Primavera (2023)" group-title="General" tvg-chno="" ,Juegos entre Amigos: Despertar de Primavera (2023) [SD]
 http://tv.diablotv.net:8080/movie/medinaliliam/0eebe2fec35a/193191.mkv
-#EXTINF:-1 tvg-name="La mujer policía 3 (2026)" group-title="General" tvg-chno="" ,La mujer policía 3 (2026) [SD]
-http://tv.diablotv.net:8080/movie/medinaliliam/0eebe2fec35a/193192.mkv

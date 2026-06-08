@@ -1,5 +1,3 @@
-#EXTM3U x-tvg-url="" x-lista="Listas General 3" x-actualizado="2026-06-07 21:15"
-#EXTINF:-1 tvg-name="EL MUNDIAL 3:" group-title="General" tvg-chno="" ,EL MUNDIAL 3: [SD]
-http://gol-tv.online:80/Ernesto/Ernesto/973696
-#EXTINF:-1 tvg-name="EL MUNDIAL 7:" group-title="General" tvg-chno="" ,EL MUNDIAL 7: [SD]
-http://gol-tv.online:80/Ernesto/Ernesto/973700
+#EXTM3U x-tvg-url="" x-lista="Listas General 3" x-actualizado="2026-06-08 14:02"
+#EXTINF:-1 tvg-name="PPV 2 - PPV 2 (e)(720)" group-title="General" tvg-chno="" ,PPV 2 - PPV 2 (e)(720) [SD]
+http://tv.zeuspro.xyz:8080/JAVI611/beaa0698e401/198898

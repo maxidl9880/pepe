@@ -1,4 +1,4 @@
-#EXTM3U x-tvg-url="" x-lista="Listas General 1" x-actualizado="2026-06-10 22:03"
+#EXTM3U x-tvg-url="" x-lista="Listas General 1" x-actualizado="2026-06-10 22:15"
 #EXTINF:-1 tvg-name="PPV 1 - Países Bajos vs. Uzbekistán (e)(1080+)" group-title="General" tvg-chno="" ,PPV 1 - Países Bajos vs. Uzbekistán (e)(1080+) [SD]
 http://tv.zeuspro.xyz:8080/JAVI611/beaa0698e401/198897
 #EXTINF:-1 tvg-name="PPV 2 - Francia vs. Irlanda del Norte (e)(720)" group-title="General" tvg-chno="" ,PPV 2 - Francia vs. Irlanda del Norte (e)(720) [SD]
@@ -471,6 +471,30 @@ http://tv.zeuspro.xyz:8080/JAVI611/beaa0698e401/9726
 http://tv.zeuspro.xyz:8080/JAVI611/beaa0698e401/9728
 #EXTINF:-1 tvg-name="CINE - Starz Family (M)(1080)" group-title="Peliculas" tvg-chno="" ,CINE - Starz Family (M)(1080) [SD]
 http://tv.zeuspro.xyz:8080/JAVI611/beaa0698e401/9731
+#EXTINF:-1 tvg-name="PPV 4 - PPV 4 (e)(720)" group-title="General" tvg-chno="" ,PPV 4 - PPV 4 (e)(720) [SD]
+http://tv.zeuspro.xyz:8080/JAVI611/beaa0698e401/198900
+#EXTINF:-1 tvg-name="DEPORTES - Espn 1 MEX (i)(1080)" group-title="Deportes" tvg-chno="" ,DEPORTES - Espn 1 MEX (i)(1080) [SD]
+http://tv.zeuspro.xyz:8080/JAVI611/beaa0698e401/9525
+#EXTINF:-1 tvg-name="DEPORTES - Espn 2 ARG (PM)(1080)" group-title="Deportes" tvg-chno="" ,DEPORTES - Espn 2 ARG (PM)(1080) [SD]
+http://tv.zeuspro.xyz:8080/JAVI611/beaa0698e401/9527
+#EXTINF:-1 tvg-name="DEPORTES - Espn 2 ARG (Z)(720)" group-title="Deportes" tvg-chno="" ,DEPORTES - Espn 2 ARG (Z)(720) [SD]
+http://tv.zeuspro.xyz:8080/JAVI611/beaa0698e401/9528
+#EXTINF:-1 tvg-name="DEPORTES - Espn 2 MEX (TV)(1080)" group-title="Deportes" tvg-chno="" ,DEPORTES - Espn 2 MEX (TV)(1080) [SD]
+http://tv.zeuspro.xyz:8080/JAVI611/beaa0698e401/9531
+#EXTINF:-1 tvg-name="DEPORTES - Espn 3 COL (Z)(720)" group-title="Deportes" tvg-chno="" ,DEPORTES - Espn 3 COL (Z)(720) [SD]
+http://tv.zeuspro.xyz:8080/JAVI611/beaa0698e401/179493
+#EXTINF:-1 tvg-name="DEPORTES - Espn 5 AR (Z)(720)" group-title="Deportes" tvg-chno="" ,DEPORTES - Espn 5 AR (Z)(720) [SD]
+http://tv.zeuspro.xyz:8080/JAVI611/beaa0698e401/179517
+#EXTINF:-1 tvg-name="DEPORTES - Espn Deportes (MEX) (M)(720)" group-title="Deportes" tvg-chno="" ,DEPORTES - Espn Deportes (MEX) (M)(720) [SD]
+http://tv.zeuspro.xyz:8080/JAVI611/beaa0698e401/9544
+#EXTINF:-1 tvg-name="DEPORTES - Espn Extra ARG (L)(1080)" group-title="Deportes" tvg-chno="" ,DEPORTES - Espn Extra ARG (L)(1080) [SD]
+http://tv.zeuspro.xyz:8080/JAVI611/beaa0698e401/9545
+#EXTINF:-1 tvg-name="DEPORTES - ESPN Premium ARG (TV)(1080)" group-title="Deportes" tvg-chno="" ,DEPORTES - ESPN Premium ARG (TV)(1080) [SD]
+http://tv.zeuspro.xyz:8080/JAVI611/beaa0698e401/9550
+#EXTINF:-1 tvg-name="DEPORTES - Espn Premium ARG (Z)(720)" group-title="Deportes" tvg-chno="" ,DEPORTES - Espn Premium ARG (Z)(720) [SD]
+http://tv.zeuspro.xyz:8080/JAVI611/beaa0698e401/179511
+#EXTINF:-1 tvg-name="DEPORTES - Fox Sports 1 COL (TV)(1080)" group-title="Deportes" tvg-chno="" ,DEPORTES - Fox Sports 1 COL (TV)(1080) [SD]
+http://tv.zeuspro.xyz:8080/JAVI611/beaa0698e401/9577
 #EXTINF:-1 tvg-name="CINE - Studio Universal (M)(1080)" group-title="Peliculas" tvg-chno="" ,CINE - Studio Universal (M)(1080) [SD]
 http://tv.zeuspro.xyz:8080/JAVI611/beaa0698e401/9732
 #EXTINF:-1 tvg-name="CINE - Syfy (M)(720)" group-title="Peliculas" tvg-chno="" ,CINE - Syfy (M)(720) [SD]
@@ -513,6 +537,10 @@ http://tv.zeuspro.xyz:8080/JAVI611/beaa0698e401/9819
 http://tv.zeuspro.xyz:8080/JAVI611/beaa0698e401/9821
 #EXTINF:-1 tvg-name="DOC-Discovery Home & Health (TV)(720)" group-title="General" tvg-chno="" ,DOC-Discovery Home & Health (TV)(720) [SD]
 http://tv.zeuspro.xyz:8080/JAVI611/beaa0698e401/9820
+#EXTINF:-1 tvg-name="DEPORTES - Fox Sports 3 COL (TV)(720)" group-title="Deportes" tvg-chno="" ,DEPORTES - Fox Sports 3 COL (TV)(720) [SD]
+http://tv.zeuspro.xyz:8080/JAVI611/beaa0698e401/9590
+#EXTINF:-1 tvg-name="DEPORTES - Fox Sports Premium (Z)(1080)" group-title="Deportes" tvg-chno="" ,DEPORTES - Fox Sports Premium (Z)(1080) [SD]
+http://tv.zeuspro.xyz:8080/JAVI611/beaa0698e401/179530
 #EXTINF:-1 tvg-name="DOC-Discovery ID (Z)" group-title="General" tvg-chno="" ,DOC-Discovery ID (Z) [SD]
 http://tv.zeuspro.xyz:8080/JAVI611/beaa0698e401/9785
 #EXTINF:-1 tvg-name="DOC-Discovery Science (L)(1080)" group-title="General" tvg-chno="" ,DOC-Discovery Science (L)(1080) [SD]
@@ -557,30 +585,6 @@ http://tv.zeuspro.xyz:8080/JAVI611/beaa0698e401/9790
 http://tv.zeuspro.xyz:8080/JAVI611/beaa0698e401/9794
 #EXTINF:-1 tvg-name="DOC-Garage TV (Z)(720)" group-title="General" tvg-chno="" ,DOC-Garage TV (Z)(720) [SD]
 http://tv.zeuspro.xyz:8080/JAVI611/beaa0698e401/9793
-#EXTINF:-1 tvg-name="PPV 4 - PPV 4 (e)(720)" group-title="General" tvg-chno="" ,PPV 4 - PPV 4 (e)(720) [SD]
-http://tv.zeuspro.xyz:8080/JAVI611/beaa0698e401/198900
-#EXTINF:-1 tvg-name="DEPORTES - Espn 1 MEX (i)(1080)" group-title="Deportes" tvg-chno="" ,DEPORTES - Espn 1 MEX (i)(1080) [SD]
-http://tv.zeuspro.xyz:8080/JAVI611/beaa0698e401/9525
-#EXTINF:-1 tvg-name="DEPORTES - Espn 2 ARG (PM)(1080)" group-title="Deportes" tvg-chno="" ,DEPORTES - Espn 2 ARG (PM)(1080) [SD]
-http://tv.zeuspro.xyz:8080/JAVI611/beaa0698e401/9527
-#EXTINF:-1 tvg-name="DEPORTES - Espn 2 ARG (Z)(720)" group-title="Deportes" tvg-chno="" ,DEPORTES - Espn 2 ARG (Z)(720) [SD]
-http://tv.zeuspro.xyz:8080/JAVI611/beaa0698e401/9528
-#EXTINF:-1 tvg-name="DEPORTES - Espn 2 MEX (TV)(1080)" group-title="Deportes" tvg-chno="" ,DEPORTES - Espn 2 MEX (TV)(1080) [SD]
-http://tv.zeuspro.xyz:8080/JAVI611/beaa0698e401/9531
-#EXTINF:-1 tvg-name="DEPORTES - Espn 3 COL (Z)(720)" group-title="Deportes" tvg-chno="" ,DEPORTES - Espn 3 COL (Z)(720) [SD]
-http://tv.zeuspro.xyz:8080/JAVI611/beaa0698e401/179493
-#EXTINF:-1 tvg-name="DEPORTES - Espn 5 AR (Z)(720)" group-title="Deportes" tvg-chno="" ,DEPORTES - Espn 5 AR (Z)(720) [SD]
-http://tv.zeuspro.xyz:8080/JAVI611/beaa0698e401/179517
-#EXTINF:-1 tvg-name="DEPORTES - Espn Deportes (MEX) (M)(720)" group-title="Deportes" tvg-chno="" ,DEPORTES - Espn Deportes (MEX) (M)(720) [SD]
-http://tv.zeuspro.xyz:8080/JAVI611/beaa0698e401/9544
-#EXTINF:-1 tvg-name="DEPORTES - Espn Extra ARG (L)(1080)" group-title="Deportes" tvg-chno="" ,DEPORTES - Espn Extra ARG (L)(1080) [SD]
-http://tv.zeuspro.xyz:8080/JAVI611/beaa0698e401/9545
-#EXTINF:-1 tvg-name="DEPORTES - ESPN Premium ARG (TV)(1080)" group-title="Deportes" tvg-chno="" ,DEPORTES - ESPN Premium ARG (TV)(1080) [SD]
-http://tv.zeuspro.xyz:8080/JAVI611/beaa0698e401/9550
-#EXTINF:-1 tvg-name="DEPORTES - Espn Premium ARG (Z)(720)" group-title="Deportes" tvg-chno="" ,DEPORTES - Espn Premium ARG (Z)(720) [SD]
-http://tv.zeuspro.xyz:8080/JAVI611/beaa0698e401/179511
-#EXTINF:-1 tvg-name="DEPORTES - Fox Sports 1 COL (TV)(1080)" group-title="Deportes" tvg-chno="" ,DEPORTES - Fox Sports 1 COL (TV)(1080) [SD]
-http://tv.zeuspro.xyz:8080/JAVI611/beaa0698e401/9577
 #EXTINF:-1 tvg-name="DOC-H2 (M)(1080)" group-title="General" tvg-chno="" ,DOC-H2 (M)(1080) [SD]
 http://tv.zeuspro.xyz:8080/JAVI611/beaa0698e401/9836
 #EXTINF:-1 tvg-name="DOC-Gourmet (Z)(1080)" group-title="General" tvg-chno="" ,DOC-Gourmet (Z)(1080) [SD]
@@ -633,10 +637,6 @@ http://tv.zeuspro.xyz:8080/JAVI611/beaa0698e401/9848
 http://tv.zeuspro.xyz:8080/JAVI611/beaa0698e401/9849
 #EXTINF:-1 tvg-name="DOC-Smithsonian Channel (L)(720)" group-title="General" tvg-chno="" ,DOC-Smithsonian Channel (L)(720) [SD]
 http://tv.zeuspro.xyz:8080/JAVI611/beaa0698e401/9850
-#EXTINF:-1 tvg-name="DEPORTES - Fox Sports 3 COL (TV)(720)" group-title="Deportes" tvg-chno="" ,DEPORTES - Fox Sports 3 COL (TV)(720) [SD]
-http://tv.zeuspro.xyz:8080/JAVI611/beaa0698e401/9590
-#EXTINF:-1 tvg-name="DEPORTES - Fox Sports Premium (Z)(1080)" group-title="Deportes" tvg-chno="" ,DEPORTES - Fox Sports Premium (Z)(1080) [SD]
-http://tv.zeuspro.xyz:8080/JAVI611/beaa0698e401/179530
 #EXTINF:-1 tvg-name="DOC-TLC (Z)(1080)" group-title="General" tvg-chno="" ,DOC-TLC (Z)(1080) [SD]
 http://tv.zeuspro.xyz:8080/JAVI611/beaa0698e401/9810
 #EXTINF:-1 tvg-name="DOC-TRU TV (L)(1080)" group-title="General" tvg-chno="" ,DOC-TRU TV (L)(1080) [SD]

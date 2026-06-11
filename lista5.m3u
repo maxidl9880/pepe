@@ -1,4 +1,4 @@
-#EXTM3U x-tvg-url="" x-lista="Listas General 5" x-actualizado="2026-06-10 22:38"
+#EXTM3U x-tvg-url="" x-lista="Listas General 5" x-actualizado="2026-06-10 22:44"
 #EXTINF:-1 tvg-name="PPV 1 - Países Bajos vs. Uzbekistán (e)(1080+)" group-title="General" tvg-chno="" ,PPV 1 - Países Bajos vs. Uzbekistán (e)(1080+) [SD]
 http://tv.zeuspro.xyz:8080/JAVI611/beaa0698e401/198897
 #EXTINF:-1 tvg-name="PPV 4 - PPV 4 (e)(720)" group-title="General" tvg-chno="" ,PPV 4 - PPV 4 (e)(720) [SD]
@@ -113,6 +113,8 @@ http://tv.zeuspro.xyz:8080/JAVI611/beaa0698e401/179527
 http://tv.zeuspro.xyz:8080/JAVI611/beaa0698e401/9575
 #EXTINF:-1 tvg-name="DEPORTES - Fox Sports 1 ARG (M)(720)" group-title="Deportes" tvg-chno="" ,DEPORTES - Fox Sports 1 ARG (M)(720) [SD]
 http://tv.zeuspro.xyz:8080/JAVI611/beaa0698e401/9576
+#EXTINF:-1 tvg-name="DEPORTES - Fox Sports 1 COL (TV)(1080)" group-title="Deportes" tvg-chno="" ,DEPORTES - Fox Sports 1 COL (TV)(1080) [SD]
+http://tv.zeuspro.xyz:8080/JAVI611/beaa0698e401/9577
 #EXTINF:-1 tvg-name="DEPORTES - Fox Sports 1 CH (Z)(720)" group-title="Deportes" tvg-chno="" ,DEPORTES - Fox Sports 1 CH (Z)(720) [SD]
 http://tv.zeuspro.xyz:8080/JAVI611/beaa0698e401/179535
 #EXTINF:-1 tvg-name="DEPORTES - Fox Sports 1 LAT (Z)(1080)" group-title="Deportes" tvg-chno="" ,DEPORTES - Fox Sports 1 LAT (Z)(1080) [SD]
@@ -411,8 +413,6 @@ http://tv.zeuspro.xyz:8080/JAVI611/beaa0698e401/9626
 http://tv.zeuspro.xyz:8080/JAVI611/beaa0698e401/9627
 #EXTINF:-1 tvg-name="CINE - CineCanal (TV)(1080)" group-title="Peliculas" tvg-chno="" ,CINE - CineCanal (TV)(1080) [SD]
 http://tv.zeuspro.xyz:8080/JAVI611/beaa0698e401/9629
-#EXTINF:-1 tvg-name="DEPORTES - Fox Sports 1 COL (TV)(1080)" group-title="Deportes" tvg-chno="" ,DEPORTES - Fox Sports 1 COL (TV)(1080) [SD]
-http://tv.zeuspro.xyz:8080/JAVI611/beaa0698e401/9577
 #EXTINF:-1 tvg-name="CINE - CineCanal (TV)(720)" group-title="Peliculas" tvg-chno="" ,CINE - CineCanal (TV)(720) [SD]
 http://tv.zeuspro.xyz:8080/JAVI611/beaa0698e401/9630
 #EXTINF:-1 tvg-name="DEPORTES - Fox Sports 3 COL (TV)(720)" group-title="Deportes" tvg-chno="" ,DEPORTES - Fox Sports 3 COL (TV)(720) [SD]

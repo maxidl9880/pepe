@@ -1,4 +1,4 @@
-#EXTM3U x-tvg-url="" x-lista="Listas General 2" x-actualizado="2026-06-10 21:53"
+#EXTM3U x-tvg-url="" x-lista="Listas General 2" x-actualizado="2026-06-10 22:04"
 #EXTINF:-1 tvg-name="PPV 1 - Países Bajos vs. Uzbekistán (e)(1080+)" group-title="General" tvg-chno="" ,PPV 1 - Países Bajos vs. Uzbekistán (e)(1080+) [SD]
 http://tv.zeuspro.xyz:8080/JAVI611/beaa0698e401/198897
 #EXTINF:-1 tvg-name="PPV 2 - Francia vs. Irlanda del Norte (e)(720)" group-title="General" tvg-chno="" ,PPV 2 - Francia vs. Irlanda del Norte (e)(720) [SD]
@@ -631,10 +631,14 @@ http://tv.zeuspro.xyz:8080/JAVI611/beaa0698e401/9807
 http://tv.zeuspro.xyz:8080/JAVI611/beaa0698e401/9848
 #EXTINF:-1 tvg-name="DOC-NatGeo Wild Ñ (TV)(720)" group-title="General" tvg-chno="" ,DOC-NatGeo Wild Ñ (TV)(720) [SD]
 http://tv.zeuspro.xyz:8080/JAVI611/beaa0698e401/9849
-#EXTINF:-1 tvg-name="DOC-TLC (Z)(1080)" group-title="General" tvg-chno="" ,DOC-TLC (Z)(1080) [SD]
-http://tv.zeuspro.xyz:8080/JAVI611/beaa0698e401/9810
 #EXTINF:-1 tvg-name="DOC-Smithsonian Channel (L)(720)" group-title="General" tvg-chno="" ,DOC-Smithsonian Channel (L)(720) [SD]
 http://tv.zeuspro.xyz:8080/JAVI611/beaa0698e401/9850
+#EXTINF:-1 tvg-name="DEPORTES - Fox Sports 3 COL (TV)(720)" group-title="Deportes" tvg-chno="" ,DEPORTES - Fox Sports 3 COL (TV)(720) [SD]
+http://tv.zeuspro.xyz:8080/JAVI611/beaa0698e401/9590
+#EXTINF:-1 tvg-name="DEPORTES - Fox Sports Premium (Z)(1080)" group-title="Deportes" tvg-chno="" ,DEPORTES - Fox Sports Premium (Z)(1080) [SD]
+http://tv.zeuspro.xyz:8080/JAVI611/beaa0698e401/179530
+#EXTINF:-1 tvg-name="DOC-TLC (Z)(1080)" group-title="General" tvg-chno="" ,DOC-TLC (Z)(1080) [SD]
+http://tv.zeuspro.xyz:8080/JAVI611/beaa0698e401/9810
 #EXTINF:-1 tvg-name="DOC-TRU TV (L)(1080)" group-title="General" tvg-chno="" ,DOC-TRU TV (L)(1080) [SD]
 http://tv.zeuspro.xyz:8080/JAVI611/beaa0698e401/9852
 #EXTINF:-1 tvg-name="Reality-Famosos MX | Camara 1 (L)" group-title="General" tvg-chno="" ,Reality-Famosos MX | Camara 1 (L) [SD]
@@ -871,10 +875,6 @@ http://tv.zeuspro.xyz:8080/JAVI611/beaa0698e401/8396
 http://tv.zeuspro.xyz:8080/JAVI611/beaa0698e401/8397
 #EXTINF:-1 tvg-name="NOV-Univision Miami (M)(720)" group-title="Noticias" tvg-chno="" ,NOV-Univision Miami (M)(720) [SD]
 http://tv.zeuspro.xyz:8080/JAVI611/beaa0698e401/8398
-#EXTINF:-1 tvg-name="DEPORTES - Fox Sports 3 COL (TV)(720)" group-title="Deportes" tvg-chno="" ,DEPORTES - Fox Sports 3 COL (TV)(720) [SD]
-http://tv.zeuspro.xyz:8080/JAVI611/beaa0698e401/9590
-#EXTINF:-1 tvg-name="DEPORTES - Fox Sports Premium (Z)(1080)" group-title="Deportes" tvg-chno="" ,DEPORTES - Fox Sports Premium (Z)(1080) [SD]
-http://tv.zeuspro.xyz:8080/JAVI611/beaa0698e401/179530
 #EXTINF:-1 tvg-name="NOV-Univision Miami (TV)(720)" group-title="Noticias" tvg-chno="" ,NOV-Univision Miami (TV)(720) [SD]
 http://tv.zeuspro.xyz:8080/JAVI611/beaa0698e401/8399
 #EXTINF:-1 tvg-name="NOV-Univision Network (TV)" group-title="Noticias" tvg-chno="" ,NOV-Univision Network (TV) [SD]

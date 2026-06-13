@@ -1,4 +1,4 @@
-#EXTM3U x-tvg-url="" x-lista="Listas General 3" x-actualizado="2026-06-13 19:54"
+#EXTM3U x-tvg-url="" x-lista="Listas General 3" x-actualizado="2026-06-13 20:02"
 #EXTINF:-1 tvg-name="PPV 2 - (e)(720)" group-title="General" tvg-chno="" ,PPV 2 - (e)(720) [SD]
 http://tv.zeuspro.xyz:8080/JAVI611/beaa0698e401/198898
 #EXTINF:-1 tvg-name="PPV 3 - (e)(1080+)" group-title="General" tvg-chno="" ,PPV 3 - (e)(1080+) [SD]
@@ -89,8 +89,6 @@ http://tv.zeuspro.xyz:8080/JAVI611/beaa0698e401/179504
 http://tv.zeuspro.xyz:8080/JAVI611/beaa0698e401/9545
 #EXTINF:-1 tvg-name="DEPORTES - Espn Extra MEX (Z)(720)" group-title="Deportes" tvg-chno="" ,DEPORTES - Espn Extra MEX (Z)(720) [SD]
 http://tv.zeuspro.xyz:8080/JAVI611/beaa0698e401/9547
-#EXTINF:-1 tvg-name="DEPORTES - Espn News (Z)(1080)" group-title="Deportes" tvg-chno="" ,DEPORTES - Espn News (Z)(1080) [SD]
-http://tv.zeuspro.xyz:8080/JAVI611/beaa0698e401/179490
 #EXTINF:-1 tvg-name="DEPORTES - ESPN Premium ARG (L)(SD)" group-title="Deportes" tvg-chno="" ,DEPORTES - ESPN Premium ARG (L)(SD) [SD]
 http://tv.zeuspro.xyz:8080/JAVI611/beaa0698e401/9549
 #EXTINF:-1 tvg-name="DEPORTES - Espn Premium ARG (M)(1080)" group-title="Deportes" tvg-chno="" ,DEPORTES - Espn Premium ARG (M)(1080) [SD]
@@ -287,10 +285,10 @@ http://tv.zeuspro.xyz:8080/JAVI611/beaa0698e401/9678
 http://tv.zeuspro.xyz:8080/JAVI611/beaa0698e401/9680
 #EXTINF:-1 tvg-name="CINE - HBO Family. (TV)(SD)" group-title="Peliculas" tvg-chno="" ,CINE - HBO Family. (TV)(SD) [SD]
 http://tv.zeuspro.xyz:8080/JAVI611/beaa0698e401/9677
-#EXTINF:-1 tvg-name="CINE - HBO Mundi (TV)(720)" group-title="Peliculas" tvg-chno="" ,CINE - HBO Mundi (TV)(720) [SD]
-http://tv.zeuspro.xyz:8080/JAVI611/beaa0698e401/9683
 #EXTINF:-1 tvg-name="CINE - HBO Mundi (L)(720)" group-title="Peliculas" tvg-chno="" ,CINE - HBO Mundi (L)(720) [SD]
 http://tv.zeuspro.xyz:8080/JAVI611/beaa0698e401/9682
+#EXTINF:-1 tvg-name="CINE - HBO Mundi (TV)(720)" group-title="Peliculas" tvg-chno="" ,CINE - HBO Mundi (TV)(720) [SD]
+http://tv.zeuspro.xyz:8080/JAVI611/beaa0698e401/9683
 #EXTINF:-1 tvg-name="CINE - HBO Plus (M)(SD) [Dual Audio]" group-title="Peliculas" tvg-chno="" ,CINE - HBO Plus (M)(SD) [Dual Audio] [SD]
 http://tv.zeuspro.xyz:8080/JAVI611/beaa0698e401/9686
 #EXTINF:-1 tvg-name="CINE - HBO Plus (TV)(SD)" group-title="Peliculas" tvg-chno="" ,CINE - HBO Plus (TV)(SD) [SD]

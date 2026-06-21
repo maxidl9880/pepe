@@ -1,4 +1,4 @@
-#EXTM3U x-tvg-url="" x-lista="Listas General 3" x-actualizado="2026-06-21 18:35"
+#EXTM3U x-tvg-url="" x-lista="Listas General 3" x-actualizado="2026-06-21 18:59"
 #EXTINF:-1 tvg-name="MEGA FHD" group-title="General" tvg-chno="" ,MEGA FHD [SD]
 http://promas.lat:2082/RetamalClaudio22/aEeaajWuT4Fv/30904
 #EXTINF:-1 tvg-name="MEGA HD" group-title="General" tvg-chno="" ,MEGA HD [SD]
@@ -379,14 +379,14 @@ http://promas.lat:2082/RetamalClaudio22/aEeaajWuT4Fv/75875
 http://promas.lat:2082/RetamalClaudio22/aEeaajWuT4Fv/75941
 #EXTINF:-1 tvg-name="Santa Maria TV | CL" group-title="General" tvg-chno="" ,Santa Maria TV | CL [SD]
 http://promas.lat:2082/RetamalClaudio22/aEeaajWuT4Fv/75901
+#EXTINF:-1 tvg-name="Dance FM ✪ | CL" group-title="General" tvg-chno="" ,Dance FM ✪ | CL [HD]
+http://promas.lat:2082/RetamalClaudio22/aEeaajWuT4Fv/75720
 #EXTINF:-1 tvg-name="Sensacion Costa | CL" group-title="General" tvg-chno="" ,Sensacion Costa | CL [SD]
 http://promas.lat:2082/RetamalClaudio22/aEeaajWuT4Fv/75917
 #EXTINF:-1 tvg-name="Sextavision | CL" group-title="General" tvg-chno="" ,Sextavision | CL [SD]
 http://promas.lat:2082/RetamalClaudio22/aEeaajWuT4Fv/75842
 #EXTINF:-1 tvg-name="Señal Mediabanco | CL" group-title="General" tvg-chno="" ,Señal Mediabanco | CL [SD]
 http://promas.lat:2082/RetamalClaudio22/aEeaajWuT4Fv/75773
-#EXTINF:-1 tvg-name="Dance FM ✪ | CL" group-title="General" tvg-chno="" ,Dance FM ✪ | CL [HD]
-http://promas.lat:2082/RetamalClaudio22/aEeaajWuT4Fv/75720
 #EXTINF:-1 tvg-name="Solobailalo TV ✪ | CL" group-title="General" tvg-chno="" ,Solobailalo TV ✪ | CL [SD]
 http://promas.lat:2082/RetamalClaudio22/aEeaajWuT4Fv/75721
 #EXTINF:-1 tvg-name="Supersonika TV | CL" group-title="General" tvg-chno="" ,Supersonika TV | CL [SD]

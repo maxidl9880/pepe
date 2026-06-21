@@ -1,4 +1,4 @@
-#EXTM3U x-tvg-url="" x-lista="Listas General 3" x-actualizado="2026-06-21 20:23"
+#EXTM3U x-tvg-url="" x-lista="Listas General 3" x-actualizado="2026-06-21 20:43"
 #EXTINF:-1 tvg-name="MEGA FHD" group-title="General" tvg-chno="" ,MEGA FHD [SD]
 http://promas.lat:2082/RetamalClaudio22/aEeaajWuT4Fv/30904
 #EXTINF:-1 tvg-name="MEGA HD" group-title="General" tvg-chno="" ,MEGA HD [SD]
@@ -375,8 +375,6 @@ http://promas.lat:2082/RetamalClaudio22/aEeaajWuT4Fv/23340
 http://promas.lat:2082/RetamalClaudio22/aEeaajWuT4Fv/75671
 #EXTINF:-1 tvg-name="San Pedro Conecta | CL" group-title="General" tvg-chno="" ,San Pedro Conecta | CL [SD]
 http://promas.lat:2082/RetamalClaudio22/aEeaajWuT4Fv/75875
-#EXTINF:-1 tvg-name="Dance FM ✪ | CL" group-title="General" tvg-chno="" ,Dance FM ✪ | CL [HD]
-http://promas.lat:2082/RetamalClaudio22/aEeaajWuT4Fv/75720
 #EXTINF:-1 tvg-name="Santa Cruz FM | CL" group-title="General" tvg-chno="" ,Santa Cruz FM | CL [SD]
 http://promas.lat:2082/RetamalClaudio22/aEeaajWuT4Fv/75941
 #EXTINF:-1 tvg-name="Santa Maria TV | CL" group-title="General" tvg-chno="" ,Santa Maria TV | CL [SD]
@@ -395,6 +393,8 @@ http://promas.lat:2082/RetamalClaudio22/aEeaajWuT4Fv/75866
 http://promas.lat:2082/RetamalClaudio22/aEeaajWuT4Fv/75882
 #EXTINF:-1 tvg-name="SurTV | CL" group-title="General" tvg-chno="" ,SurTV | CL [SD]
 http://promas.lat:2082/RetamalClaudio22/aEeaajWuT4Fv/75906
+#EXTINF:-1 tvg-name="Dance FM ✪ | CL" group-title="General" tvg-chno="" ,Dance FM ✪ | CL [HD]
+http://promas.lat:2082/RetamalClaudio22/aEeaajWuT4Fv/75720
 #EXTINF:-1 tvg-name="Suyai TV" group-title="General" tvg-chno="" ,Suyai TV [SD]
 http://promas.lat:2082/RetamalClaudio22/aEeaajWuT4Fv/74827
 #EXTINF:-1 tvg-name="Suyai TV II" group-title="General" tvg-chno="" ,Suyai TV II [SD]

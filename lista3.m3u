@@ -1,4 +1,4 @@
-#EXTM3U x-tvg-url="" x-lista="Listas General 3" x-actualizado="2026-06-13 20:02"
+#EXTM3U x-tvg-url="" x-lista="Listas General 3" x-actualizado="2026-06-21 16:16"
 #EXTINF:-1 tvg-name="PPV 2 - (e)(720)" group-title="General" tvg-chno="" ,PPV 2 - (e)(720) [SD]
 http://tv.zeuspro.xyz:8080/JAVI611/beaa0698e401/198898
 #EXTINF:-1 tvg-name="PPV 3 - (e)(1080+)" group-title="General" tvg-chno="" ,PPV 3 - (e)(1080+) [SD]
@@ -197,6 +197,8 @@ http://tv.zeuspro.xyz:8080/JAVI611/beaa0698e401/9563
 http://tv.zeuspro.xyz:8080/JAVI611/beaa0698e401/9564
 #EXTINF:-1 tvg-name="DEPORTES - Directv Sports 2 (e)(720)" group-title="Deportes" tvg-chno="" ,DEPORTES - Directv Sports 2 (e)(720) [SD]
 http://tv.zeuspro.xyz:8080/JAVI611/beaa0698e401/9565
+#EXTINF:-1 tvg-name="DEPORTES - Espn News (Z)(1080)" group-title="Deportes" tvg-chno="" ,DEPORTES - Espn News (Z)(1080) [SD]
+http://tv.zeuspro.xyz:8080/JAVI611/beaa0698e401/179490
 #EXTINF:-1 tvg-name="DEPORTES - Directv Sports 2 ARG (L)(720)" group-title="Deportes" tvg-chno="" ,DEPORTES - Directv Sports 2 ARG (L)(720) [SD]
 http://tv.zeuspro.xyz:8080/JAVI611/beaa0698e401/9566
 #EXTINF:-1 tvg-name="DEPORTES - Fight BOX  (TV)(1080)" group-title="Deportes" tvg-chno="" ,DEPORTES - Fight BOX  (TV)(1080) [SD]
@@ -285,10 +287,10 @@ http://tv.zeuspro.xyz:8080/JAVI611/beaa0698e401/9678
 http://tv.zeuspro.xyz:8080/JAVI611/beaa0698e401/9680
 #EXTINF:-1 tvg-name="CINE - HBO Family. (TV)(SD)" group-title="Peliculas" tvg-chno="" ,CINE - HBO Family. (TV)(SD) [SD]
 http://tv.zeuspro.xyz:8080/JAVI611/beaa0698e401/9677
-#EXTINF:-1 tvg-name="CINE - HBO Mundi (L)(720)" group-title="Peliculas" tvg-chno="" ,CINE - HBO Mundi (L)(720) [SD]
-http://tv.zeuspro.xyz:8080/JAVI611/beaa0698e401/9682
 #EXTINF:-1 tvg-name="CINE - HBO Mundi (TV)(720)" group-title="Peliculas" tvg-chno="" ,CINE - HBO Mundi (TV)(720) [SD]
 http://tv.zeuspro.xyz:8080/JAVI611/beaa0698e401/9683
+#EXTINF:-1 tvg-name="CINE - HBO Mundi (L)(720)" group-title="Peliculas" tvg-chno="" ,CINE - HBO Mundi (L)(720) [SD]
+http://tv.zeuspro.xyz:8080/JAVI611/beaa0698e401/9682
 #EXTINF:-1 tvg-name="CINE - HBO Plus (M)(SD) [Dual Audio]" group-title="Peliculas" tvg-chno="" ,CINE - HBO Plus (M)(SD) [Dual Audio] [SD]
 http://tv.zeuspro.xyz:8080/JAVI611/beaa0698e401/9686
 #EXTINF:-1 tvg-name="CINE - HBO Plus (TV)(SD)" group-title="Peliculas" tvg-chno="" ,CINE - HBO Plus (TV)(SD) [SD]
@@ -417,3 +419,189 @@ http://tv.zeuspro.xyz:8080/JAVI611/beaa0698e401/9627
 http://tv.zeuspro.xyz:8080/JAVI611/beaa0698e401/9629
 #EXTINF:-1 tvg-name="CINE - CineCanal (TV)(720)" group-title="Peliculas" tvg-chno="" ,CINE - CineCanal (TV)(720) [SD]
 http://tv.zeuspro.xyz:8080/JAVI611/beaa0698e401/9630
+#EXTINF:-1 tvg-name="CINE - Cinecanal (Z)(1080)" group-title="Peliculas" tvg-chno="" ,CINE - Cinecanal (Z)(1080) [SD]
+http://tv.zeuspro.xyz:8080/JAVI611/beaa0698e401/9631
+#EXTINF:-1 tvg-name="CINE - Cinema Dinamita (Z)(720)" group-title="Peliculas" tvg-chno="" ,CINE - Cinema Dinamita (Z)(720) [SD]
+http://tv.zeuspro.xyz:8080/JAVI611/beaa0698e401/9632
+#EXTINF:-1 tvg-name="CINE - Cinemax (M)(1080)" group-title="Peliculas" tvg-chno="" ,CINE - Cinemax (M)(1080) [SD]
+http://tv.zeuspro.xyz:8080/JAVI611/beaa0698e401/9633
+#EXTINF:-1 tvg-name="CINE - Cinemax (Z)(1080)" group-title="Peliculas" tvg-chno="" ,CINE - Cinemax (Z)(1080) [SD]
+http://tv.zeuspro.xyz:8080/JAVI611/beaa0698e401/9635
+#EXTINF:-1 tvg-name="CINE - Comedy Central (L)(1080)" group-title="Peliculas" tvg-chno="" ,CINE - Comedy Central (L)(1080) [SD]
+http://tv.zeuspro.xyz:8080/JAVI611/beaa0698e401/9636
+#EXTINF:-1 tvg-name="CINE - Comedy Central (M)(SD)" group-title="Peliculas" tvg-chno="" ,CINE - Comedy Central (M)(SD) [SD]
+http://tv.zeuspro.xyz:8080/JAVI611/beaa0698e401/9637
+#EXTINF:-1 tvg-name="CINE - De Pelicula (M)(1080)" group-title="Peliculas" tvg-chno="" ,CINE - De Pelicula (M)(1080) [SD]
+http://tv.zeuspro.xyz:8080/JAVI611/beaa0698e401/9638
+#EXTINF:-1 tvg-name="CINE - De Pelicula Plus (M)(1080)" group-title="Peliculas" tvg-chno="" ,CINE - De Pelicula Plus (M)(1080) [SD]
+http://tv.zeuspro.xyz:8080/JAVI611/beaa0698e401/9639
+#EXTINF:-1 tvg-name="CINE - De Película (TV)(1080)" group-title="Peliculas" tvg-chno="" ,CINE - De Película (TV)(1080) [SD]
+http://tv.zeuspro.xyz:8080/JAVI611/beaa0698e401/9642
+#EXTINF:-1 tvg-name="CINE - DHE (TV)(1080)" group-title="Peliculas" tvg-chno="" ,CINE - DHE (TV)(1080) [SD]
+http://tv.zeuspro.xyz:8080/JAVI611/beaa0698e401/9643
+#EXTINF:-1 tvg-name="CINE - Distrito Comedia (L)(1080)" group-title="Peliculas" tvg-chno="" ,CINE - Distrito Comedia (L)(1080) [SD]
+http://tv.zeuspro.xyz:8080/JAVI611/beaa0698e401/9644
+#EXTINF:-1 tvg-name="CINE - E! (M)(1080)" group-title="Peliculas" tvg-chno="" ,CINE - E! (M)(1080) [SD]
+http://tv.zeuspro.xyz:8080/JAVI611/beaa0698e401/9646
+#EXTINF:-1 tvg-name="CINE - El Gourmet (M)(1080)" group-title="Peliculas" tvg-chno="" ,CINE - El Gourmet (M)(1080) [SD]
+http://tv.zeuspro.xyz:8080/JAVI611/beaa0698e401/9647
+#EXTINF:-1 tvg-name="CINE - Europa Europa (M)(1080)" group-title="Peliculas" tvg-chno="" ,CINE - Europa Europa (M)(1080) [SD]
+http://tv.zeuspro.xyz:8080/JAVI611/beaa0698e401/9648
+#EXTINF:-1 tvg-name="CINE - Film & Arts (Z)(1080)" group-title="Peliculas" tvg-chno="" ,CINE - Film & Arts (Z)(1080) [SD]
+http://tv.zeuspro.xyz:8080/JAVI611/beaa0698e401/9649
+#EXTINF:-1 tvg-name="CINE - Filmex (Z)(1080)" group-title="Peliculas" tvg-chno="" ,CINE - Filmex (Z)(1080) [SD]
+http://tv.zeuspro.xyz:8080/JAVI611/beaa0698e401/9640
+#EXTINF:-1 tvg-name="CINE - Filmex Clasico (Z)(1080)" group-title="Peliculas" tvg-chno="" ,CINE - Filmex Clasico (Z)(1080) [SD]
+http://tv.zeuspro.xyz:8080/JAVI611/beaa0698e401/9641
+#EXTINF:-1 tvg-name="CINE - Food Network (M)(1080)" group-title="Peliculas" tvg-chno="" ,CINE - Food Network (M)(1080) [SD]
+http://tv.zeuspro.xyz:8080/JAVI611/beaa0698e401/9651
+#EXTINF:-1 tvg-name="CINE - Golden (Z)(1080)" group-title="Deportes" tvg-chno="" ,CINE - Golden (Z)(1080) [SD]
+http://tv.zeuspro.xyz:8080/JAVI611/beaa0698e401/9657
+#EXTINF:-1 tvg-name="CINE - Golden Edge (Z)(1080)" group-title="Deportes" tvg-chno="" ,CINE - Golden Edge (Z)(1080) [SD]
+http://tv.zeuspro.xyz:8080/JAVI611/beaa0698e401/9659
+#EXTINF:-1 tvg-name="CINE - Golden Edge (M)(720)" group-title="Deportes" tvg-chno="" ,CINE - Golden Edge (M)(720) [SD]
+http://tv.zeuspro.xyz:8080/JAVI611/beaa0698e401/9658
+#EXTINF:-1 tvg-name="CINE - Golden Plus (L)(720)" group-title="Deportes" tvg-chno="" ,CINE - Golden Plus (L)(720) [SD]
+http://tv.zeuspro.xyz:8080/JAVI611/beaa0698e401/9660
+#EXTINF:-1 tvg-name="CINE - Golden Plus (M)(1080) [Dual Audio]" group-title="Deportes" tvg-chno="" ,CINE - Golden Plus (M)(1080) [Dual Audio] [SD]
+http://tv.zeuspro.xyz:8080/JAVI611/beaa0698e401/9661
+#EXTINF:-1 tvg-name="CINE - Golden Plus (Z)(1080)" group-title="Deportes" tvg-chno="" ,CINE - Golden Plus (Z)(1080) [SD]
+http://tv.zeuspro.xyz:8080/JAVI611/beaa0698e401/9662
+#EXTINF:-1 tvg-name="CINE - Golden Premier 2 (Z)(720)" group-title="Deportes" tvg-chno="" ,CINE - Golden Premier 2 (Z)(720) [SD]
+http://tv.zeuspro.xyz:8080/JAVI611/beaa0698e401/9663
+#EXTINF:-1 tvg-name="CINE - Golden Premiere 2 (TV)(720)" group-title="Deportes" tvg-chno="" ,CINE - Golden Premiere 2 (TV)(720) [SD]
+http://tv.zeuspro.xyz:8080/JAVI611/beaa0698e401/9665
+#EXTINF:-1 tvg-name="CINE - Golden Premiere (M)(1080) [Dual Audio]" group-title="Deportes" tvg-chno="" ,CINE - Golden Premiere (M)(1080) [Dual Audio] [SD]
+http://tv.zeuspro.xyz:8080/JAVI611/beaa0698e401/9664
+#EXTINF:-1 tvg-name="CINE - Showtime Extreme (Z)" group-title="Peliculas" tvg-chno="" ,CINE - Showtime Extreme (Z) [SD]
+http://tv.zeuspro.xyz:8080/JAVI611/beaa0698e401/9709
+#EXTINF:-1 tvg-name="CINE - Lifetime (M)(1080)" group-title="Peliculas" tvg-chno="" ,CINE - Lifetime (M)(1080) [SD]
+http://tv.zeuspro.xyz:8080/JAVI611/beaa0698e401/9703
+#EXTINF:-1 tvg-name="CINE - Paramount (Z)(720)" group-title="Peliculas" tvg-chno="" ,CINE - Paramount (Z)(720) [SD]
+http://tv.zeuspro.xyz:8080/JAVI611/beaa0698e401/9705
+#EXTINF:-1 tvg-name="CINE - Showtime West Dual (M)(1080)" group-title="Peliculas" tvg-chno="" ,CINE - Showtime West Dual (M)(1080) [SD]
+http://tv.zeuspro.xyz:8080/JAVI611/beaa0698e401/9710
+#EXTINF:-1 tvg-name="CINE - Sony Channel (L)(1080)" group-title="Peliculas" tvg-chno="" ,CINE - Sony Channel (L)(1080) [SD]
+http://tv.zeuspro.xyz:8080/JAVI611/beaa0698e401/9711
+#EXTINF:-1 tvg-name="CINE - Sony Channel (M)(1080)" group-title="Peliculas" tvg-chno="" ,CINE - Sony Channel (M)(1080) [SD]
+http://tv.zeuspro.xyz:8080/JAVI611/beaa0698e401/9712
+#EXTINF:-1 tvg-name="CINE - Sony Cine (M)(1080)" group-title="Peliculas" tvg-chno="" ,CINE - Sony Cine (M)(1080) [SD]
+http://tv.zeuspro.xyz:8080/JAVI611/beaa0698e401/9713
+#EXTINF:-1 tvg-name="CINE - Sony Novelas (TV)(720)" group-title="Peliculas" tvg-chno="" ,CINE - Sony Novelas (TV)(720) [SD]
+http://tv.zeuspro.xyz:8080/JAVI611/beaa0698e401/9716
+#EXTINF:-1 tvg-name="CINE - Space (TV)(1080)" group-title="Peliculas" tvg-chno="" ,CINE - Space (TV)(1080) [SD]
+http://tv.zeuspro.xyz:8080/JAVI611/beaa0698e401/9717
+#EXTINF:-1 tvg-name="CINE - Space (TV)(720)" group-title="Peliculas" tvg-chno="" ,CINE - Space (TV)(720) [SD]
+http://tv.zeuspro.xyz:8080/JAVI611/beaa0698e401/9718
+#EXTINF:-1 tvg-name="CINE - Star TVE (M)(1080)" group-title="Peliculas" tvg-chno="" ,CINE - Star TVE (M)(1080) [SD]
+http://tv.zeuspro.xyz:8080/JAVI611/beaa0698e401/9726
+#EXTINF:-1 tvg-name="CINE - Starz Family (M)(1080)" group-title="Peliculas" tvg-chno="" ,CINE - Starz Family (M)(1080) [SD]
+http://tv.zeuspro.xyz:8080/JAVI611/beaa0698e401/9731
+#EXTINF:-1 tvg-name="CINE - Starz Comedy (M)(1080)" group-title="Peliculas" tvg-chno="" ,CINE - Starz Comedy (M)(1080) [SD]
+http://tv.zeuspro.xyz:8080/JAVI611/beaa0698e401/9728
+#EXTINF:-1 tvg-name="CINE - Studio Universal (M)(1080)" group-title="Peliculas" tvg-chno="" ,CINE - Studio Universal (M)(1080) [SD]
+http://tv.zeuspro.xyz:8080/JAVI611/beaa0698e401/9732
+#EXTINF:-1 tvg-name="CINE - Syfy (M)(720)" group-title="Peliculas" tvg-chno="" ,CINE - Syfy (M)(720) [SD]
+http://tv.zeuspro.xyz:8080/JAVI611/beaa0698e401/9735
+#EXTINF:-1 tvg-name="CINE - TBS (Z)" group-title="Peliculas" tvg-chno="" ,CINE - TBS (Z) [SD]
+http://tv.zeuspro.xyz:8080/JAVI611/beaa0698e401/9738
+#EXTINF:-1 tvg-name="CINE - TBS Very Funny (TV)(720)" group-title="Peliculas" tvg-chno="" ,CINE - TBS Very Funny (TV)(720) [SD]
+http://tv.zeuspro.xyz:8080/JAVI611/beaa0698e401/9739
+#EXTINF:-1 tvg-name="CINE - TCM (M)(SD)" group-title="Peliculas" tvg-chno="" ,CINE - TCM (M)(SD) [SD]
+http://tv.zeuspro.xyz:8080/JAVI611/beaa0698e401/9740
+#EXTINF:-1 tvg-name="CINE - TCM (Z)(1080)" group-title="Peliculas" tvg-chno="" ,CINE - TCM (Z)(1080) [SD]
+http://tv.zeuspro.xyz:8080/JAVI611/beaa0698e401/9741
+#EXTINF:-1 tvg-name="DOC-Animal Planet (L)(1080)" group-title="General" tvg-chno="" ,DOC-Animal Planet (L)(1080) [SD]
+http://tv.zeuspro.xyz:8080/JAVI611/beaa0698e401/9811
+#EXTINF:-1 tvg-name="DOC-Animal Planet (TV)(720)" group-title="General" tvg-chno="" ,DOC-Animal Planet (TV)(720) [SD]
+http://tv.zeuspro.xyz:8080/JAVI611/beaa0698e401/9813
+#EXTINF:-1 tvg-name="DOC-Animal Planet (M)(1080)" group-title="General" tvg-chno="" ,DOC-Animal Planet (M)(1080) [SD]
+http://tv.zeuspro.xyz:8080/JAVI611/beaa0698e401/9812
+#EXTINF:-1 tvg-name="DOC-Animal Planet (Z)(720)" group-title="General" tvg-chno="" ,DOC-Animal Planet (Z)(720) [SD]
+http://tv.zeuspro.xyz:8080/JAVI611/beaa0698e401/9780
+#EXTINF:-1 tvg-name="DOC-Comedy Central (Z)(1080)." group-title="General" tvg-chno="" ,DOC-Comedy Central (Z)(1080). [SD]
+http://tv.zeuspro.xyz:8080/JAVI611/beaa0698e401/9781
+#EXTINF:-1 tvg-name="DOC-Discovery Channel (L)(1080)" group-title="General" tvg-chno="" ,DOC-Discovery Channel (L)(1080) [SD]
+http://tv.zeuspro.xyz:8080/JAVI611/beaa0698e401/9814
+#EXTINF:-1 tvg-name="DOC-Discovery Channel (TV)(1080)" group-title="General" tvg-chno="" ,DOC-Discovery Channel (TV)(1080) [SD]
+http://tv.zeuspro.xyz:8080/JAVI611/beaa0698e401/9816
+#EXTINF:-1 tvg-name="DOC-Discovery Channel (Z)(720)" group-title="General" tvg-chno="" ,DOC-Discovery Channel (Z)(720) [SD]
+http://tv.zeuspro.xyz:8080/JAVI611/beaa0698e401/9782
+#EXTINF:-1 tvg-name="DOC-Discovery Familia (TV)(720)" group-title="General" tvg-chno="" ,DOC-Discovery Familia (TV)(720) [SD]
+http://tv.zeuspro.xyz:8080/JAVI611/beaa0698e401/9817
+#EXTINF:-1 tvg-name="DOC-Discovery FAMILIA (Z)(1080)" group-title="General" tvg-chno="" ,DOC-Discovery FAMILIA (Z)(1080) [SD]
+http://tv.zeuspro.xyz:8080/JAVI611/beaa0698e401/9783
+#EXTINF:-1 tvg-name="DOC-Discovery Familia (Z)(720)" group-title="General" tvg-chno="" ,DOC-Discovery Familia (Z)(720) [SD]
+http://tv.zeuspro.xyz:8080/JAVI611/beaa0698e401/9818
+#EXTINF:-1 tvg-name="DOC-Discovery H&H (Z)(720)" group-title="General" tvg-chno="" ,DOC-Discovery H&H (Z)(720) [SD]
+http://tv.zeuspro.xyz:8080/JAVI611/beaa0698e401/9784
+#EXTINF:-1 tvg-name="DOC-Discovery HGTV (TV)(1080)" group-title="General" tvg-chno="" ,DOC-Discovery HGTV (TV)(1080) [SD]
+http://tv.zeuspro.xyz:8080/JAVI611/beaa0698e401/9819
+#EXTINF:-1 tvg-name="DOC-Discovery Home & Health (M)(1080)" group-title="General" tvg-chno="" ,DOC-Discovery Home & Health (M)(1080) [SD]
+http://tv.zeuspro.xyz:8080/JAVI611/beaa0698e401/9821
+#EXTINF:-1 tvg-name="DOC-Discovery Home & Health (TV)(720)" group-title="General" tvg-chno="" ,DOC-Discovery Home & Health (TV)(720) [SD]
+http://tv.zeuspro.xyz:8080/JAVI611/beaa0698e401/9820
+#EXTINF:-1 tvg-name="DOC-Discovery ID (Z)" group-title="General" tvg-chno="" ,DOC-Discovery ID (Z) [SD]
+http://tv.zeuspro.xyz:8080/JAVI611/beaa0698e401/9785
+#EXTINF:-1 tvg-name="DOC-Discovery Science (L)(1080)" group-title="General" tvg-chno="" ,DOC-Discovery Science (L)(1080) [SD]
+http://tv.zeuspro.xyz:8080/JAVI611/beaa0698e401/9822
+#EXTINF:-1 tvg-name="DOC-Discovery Science (TV)(720)" group-title="General" tvg-chno="" ,DOC-Discovery Science (TV)(720) [SD]
+http://tv.zeuspro.xyz:8080/JAVI611/beaa0698e401/9823
+#EXTINF:-1 tvg-name="DOC-Discovery Science (Z)(1080)" group-title="General" tvg-chno="" ,DOC-Discovery Science (Z)(1080) [SD]
+http://tv.zeuspro.xyz:8080/JAVI611/beaa0698e401/9786
+#EXTINF:-1 tvg-name="DOC-Discovery Theater (L)(1080)" group-title="General" tvg-chno="" ,DOC-Discovery Theater (L)(1080) [SD]
+http://tv.zeuspro.xyz:8080/JAVI611/beaa0698e401/9787
+#EXTINF:-1 tvg-name="DOC-Discovery Theater (M)(1080)" group-title="General" tvg-chno="" ,DOC-Discovery Theater (M)(1080) [SD]
+http://tv.zeuspro.xyz:8080/JAVI611/beaa0698e401/9824
+#EXTINF:-1 tvg-name="DOC-Discovery Theater (Z)(1080)" group-title="General" tvg-chno="" ,DOC-Discovery Theater (Z)(1080) [SD]
+http://tv.zeuspro.xyz:8080/JAVI611/beaa0698e401/9788
+#EXTINF:-1 tvg-name="DOC-Discovery TLC (L)(1080)" group-title="General" tvg-chno="" ,DOC-Discovery TLC (L)(1080) [SD]
+http://tv.zeuspro.xyz:8080/JAVI611/beaa0698e401/9825
+#EXTINF:-1 tvg-name="DOC-Discovery TLC (M)(1080)" group-title="General" tvg-chno="" ,DOC-Discovery TLC (M)(1080) [SD]
+http://tv.zeuspro.xyz:8080/JAVI611/beaa0698e401/9826
+#EXTINF:-1 tvg-name="DOC-Discovery TLC (M)(SD)" group-title="General" tvg-chno="" ,DOC-Discovery TLC (M)(SD) [SD]
+http://tv.zeuspro.xyz:8080/JAVI611/beaa0698e401/9827
+#EXTINF:-1 tvg-name="DOC-Discovery TURBO (L)(1080)" group-title="General" tvg-chno="" ,DOC-Discovery TURBO (L)(1080) [SD]
+http://tv.zeuspro.xyz:8080/JAVI611/beaa0698e401/9829
+#EXTINF:-1 tvg-name="DOC-Discovery Turbo (M)(1080)" group-title="General" tvg-chno="" ,DOC-Discovery Turbo (M)(1080) [SD]
+http://tv.zeuspro.xyz:8080/JAVI611/beaa0698e401/9830
+#EXTINF:-1 tvg-name="DOC-Discovery Turbo (Z)(720)" group-title="General" tvg-chno="" ,DOC-Discovery Turbo (Z)(720) [SD]
+http://tv.zeuspro.xyz:8080/JAVI611/beaa0698e401/9789
+#EXTINF:-1 tvg-name="DOC-Discovery World (M)(1080)" group-title="Internacional" tvg-chno="" ,DOC-Discovery World (M)(1080) [SD]
+http://tv.zeuspro.xyz:8080/JAVI611/beaa0698e401/9832
+#EXTINF:-1 tvg-name="DOC-Discovery World (L)(1080)" group-title="Internacional" tvg-chno="" ,DOC-Discovery World (L)(1080) [SD]
+http://tv.zeuspro.xyz:8080/JAVI611/beaa0698e401/9831
+#EXTINF:-1 tvg-name="DOC-Discovery World (M)(720)" group-title="Internacional" tvg-chno="" ,DOC-Discovery World (M)(720) [SD]
+http://tv.zeuspro.xyz:8080/JAVI611/beaa0698e401/9833
+#EXTINF:-1 tvg-name="DOC-Discovery World (M)(SD)" group-title="Internacional" tvg-chno="" ,DOC-Discovery World (M)(SD) [SD]
+http://tv.zeuspro.xyz:8080/JAVI611/beaa0698e401/9834
+#EXTINF:-1 tvg-name="DOC-Discovery World (Z)(1080)" group-title="Internacional" tvg-chno="" ,DOC-Discovery World (Z)(1080) [SD]
+http://tv.zeuspro.xyz:8080/JAVI611/beaa0698e401/9790
+#EXTINF:-1 tvg-name="DOC-DW En Español (Z)(1080)" group-title="General" tvg-chno="" ,DOC-DW En Español (Z)(1080) [SD]
+http://tv.zeuspro.xyz:8080/JAVI611/beaa0698e401/9791
+#EXTINF:-1 tvg-name="DOC-Food Network (Z)(720)" group-title="General" tvg-chno="" ,DOC-Food Network (Z)(720) [SD]
+http://tv.zeuspro.xyz:8080/JAVI611/beaa0698e401/9792
+#EXTINF:-1 tvg-name="DOC-Garage TV (Z)(720)" group-title="General" tvg-chno="" ,DOC-Garage TV (Z)(720) [SD]
+http://tv.zeuspro.xyz:8080/JAVI611/beaa0698e401/9793
+#EXTINF:-1 tvg-name="DOC-Glitz (Z)(1080)" group-title="General" tvg-chno="" ,DOC-Glitz (Z)(1080) [SD]
+http://tv.zeuspro.xyz:8080/JAVI611/beaa0698e401/9794
+#EXTINF:-1 tvg-name="DOC-Gourmet (Z)(1080)" group-title="General" tvg-chno="" ,DOC-Gourmet (Z)(1080) [SD]
+http://tv.zeuspro.xyz:8080/JAVI611/beaa0698e401/9795
+#EXTINF:-1 tvg-name="DOC-H2 (M)(1080)" group-title="General" tvg-chno="" ,DOC-H2 (M)(1080) [SD]
+http://tv.zeuspro.xyz:8080/JAVI611/beaa0698e401/9836
+#EXTINF:-1 tvg-name="DOC-H2 (TV)(720)" group-title="General" tvg-chno="" ,DOC-H2 (TV)(720) [SD]
+http://tv.zeuspro.xyz:8080/JAVI611/beaa0698e401/9837
+#EXTINF:-1 tvg-name="DOC-HGTV (Z)(1080)" group-title="General" tvg-chno="" ,DOC-HGTV (Z)(1080) [SD]
+http://tv.zeuspro.xyz:8080/JAVI611/beaa0698e401/9796
+#EXTINF:-1 tvg-name="DOC-History (L)(1080) (1080p)" group-title="General" tvg-chno="" ,DOC-History (L)(1080) (1080p) [SD]
+http://tv.zeuspro.xyz:8080/JAVI611/beaa0698e401/9838
+#EXTINF:-1 tvg-name="DOC-History (Z)(1080)" group-title="General" tvg-chno="" ,DOC-History (Z)(1080) [SD]
+http://tv.zeuspro.xyz:8080/JAVI611/beaa0698e401/9797
+#EXTINF:-1 tvg-name="DOC-History 2 (L)(1080)" group-title="General" tvg-chno="" ,DOC-History 2 (L)(1080) [SD]
+http://tv.zeuspro.xyz:8080/JAVI611/beaa0698e401/9839
+#EXTINF:-1 tvg-name="DOC-History 2 (Z)(1080)" group-title="General" tvg-chno="" ,DOC-History 2 (Z)(1080) [SD]
+http://tv.zeuspro.xyz:8080/JAVI611/beaa0698e401/9798
+#EXTINF:-1 tvg-name="DOC-History Channel (M)(1080)" group-title="General" tvg-chno="" ,DOC-History Channel (M)(1080) [SD]
+http://tv.zeuspro.xyz:8080/JAVI611/beaa0698e401/9840
+#EXTINF:-1 tvg-name="DOC-History Channel (TV)(1080)" group-title="General" tvg-chno="" ,DOC-History Channel (TV)(1080) [SD]
+http://tv.zeuspro.xyz:8080/JAVI611/beaa0698e401/9841

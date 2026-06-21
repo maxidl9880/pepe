@@ -1,4 +1,4 @@
-#EXTM3U x-tvg-url="" x-lista="Listas General 3" x-actualizado="2026-06-21 17:56"
+#EXTM3U x-tvg-url="" x-lista="Listas General 3" x-actualizado="2026-06-21 18:14"
 #EXTINF:-1 tvg-name="MEGA FHD" group-title="General" tvg-chno="" ,MEGA FHD [SD]
 http://promas.lat:2082/RetamalClaudio22/aEeaajWuT4Fv/30904
 #EXTINF:-1 tvg-name="MEGA HD" group-title="General" tvg-chno="" ,MEGA HD [SD]
@@ -169,3 +169,179 @@ http://promas.lat:2082/RetamalClaudio22/aEeaajWuT4Fv/75775
 http://promas.lat:2082/RetamalClaudio22/aEeaajWuT4Fv/75922
 #EXTINF:-1 tvg-name="Carolina TV | CL" group-title="General" tvg-chno="" ,Carolina TV | CL [SD]
 http://promas.lat:2082/RetamalClaudio22/aEeaajWuT4Fv/75921
+#EXTINF:-1 tvg-name="Casa Sobre La Roca TV | CL" group-title="General" tvg-chno="" ,Casa Sobre La Roca TV | CL [SD]
+http://promas.lat:2082/RetamalClaudio22/aEeaajWuT4Fv/76017
+#EXTINF:-1 tvg-name="Cauquenesnet TV | CL" group-title="General" tvg-chno="" ,Cauquenesnet TV | CL [SD]
+http://promas.lat:2082/RetamalClaudio22/aEeaajWuT4Fv/75857
+#EXTINF:-1 tvg-name="CEAC TV | CL" group-title="General" tvg-chno="" ,CEAC TV | CL [SD]
+http://promas.lat:2082/RetamalClaudio22/aEeaajWuT4Fv/75769
+#EXTINF:-1 tvg-name="CDR ✪ | CL" group-title="General" tvg-chno="" ,CDR ✪ | CL [SD]
+http://promas.lat:2082/RetamalClaudio22/aEeaajWuT4Fv/75677
+#EXTINF:-1 tvg-name="Cero Anestesia | CL" group-title="General" tvg-chno="" ,Cero Anestesia | CL [SD]
+http://promas.lat:2082/RetamalClaudio22/aEeaajWuT4Fv/75786
+#EXTINF:-1 tvg-name="Chile Channel | CL" group-title="General" tvg-chno="" ,Chile Channel | CL [SD]
+http://promas.lat:2082/RetamalClaudio22/aEeaajWuT4Fv/75783
+#EXTINF:-1 tvg-name="CESTV | CL" group-title="General" tvg-chno="" ,CESTV | CL [SD]
+http://promas.lat:2082/RetamalClaudio22/aEeaajWuT4Fv/76028
+#EXTINF:-1 tvg-name="Chile Tradiciones ✪ | CL" group-title="General" tvg-chno="" ,Chile Tradiciones ✪ | CL [SD]
+http://promas.lat:2082/RetamalClaudio22/aEeaajWuT4Fv/75686
+#EXTINF:-1 tvg-name="Chilevisual Classic ✪ | CL" group-title="General" tvg-chno="" ,Chilevisual Classic ✪ | CL [SD]
+http://promas.lat:2082/RetamalClaudio22/aEeaajWuT4Fv/75711
+#EXTINF:-1 tvg-name="Chilevisual Cultura ✪ | CL" group-title="General" tvg-chno="" ,Chilevisual Cultura ✪ | CL [SD]
+http://promas.lat:2082/RetamalClaudio22/aEeaajWuT4Fv/75691
+#EXTINF:-1 tvg-name="Chilevisual Film ✪ | CL" group-title="Peliculas" tvg-chno="" ,Chilevisual Film ✪ | CL [SD]
+http://promas.lat:2082/RetamalClaudio22/aEeaajWuT4Fv/75690
+#EXTINF:-1 tvg-name="Chilevisual Kids ✪ | CL" group-title="Infantil" tvg-chno="" ,Chilevisual Kids ✪ | CL [SD]
+http://promas.lat:2082/RetamalClaudio22/aEeaajWuT4Fv/75689
+#EXTINF:-1 tvg-name="Chilevisual Retro ✪ | CL" group-title="General" tvg-chno="" ,Chilevisual Retro ✪ | CL [SD]
+http://promas.lat:2082/RetamalClaudio22/aEeaajWuT4Fv/75688
+#EXTINF:-1 tvg-name="Chiloe Red 25 | CL" group-title="General" tvg-chno="" ,Chiloe Red 25 | CL [SD]
+http://promas.lat:2082/RetamalClaudio22/aEeaajWuT4Fv/75900
+#EXTINF:-1 tvg-name="Classic Channel ✪ | CL" group-title="General" tvg-chno="" ,Classic Channel ✪ | CL [SD]
+http://promas.lat:2082/RetamalClaudio22/aEeaajWuT4Fv/75708
+#EXTINF:-1 tvg-name="Club TV | CL" group-title="General" tvg-chno="" ,Club TV | CL [SD]
+http://promas.lat:2082/RetamalClaudio22/aEeaajWuT4Fv/75876
+#EXTINF:-1 tvg-name="Contivision | CL" group-title="General" tvg-chno="" ,Contivision | CL [SD]
+http://promas.lat:2082/RetamalClaudio22/aEeaajWuT4Fv/75850
+#EXTINF:-1 tvg-name="Corcubio TV ✪ | CL" group-title="General" tvg-chno="" ,Corcubio TV ✪ | CL [SD]
+http://promas.lat:2082/RetamalClaudio22/aEeaajWuT4Fv/75685
+#EXTINF:-1 tvg-name="CRTV ✪ | CL" group-title="General" tvg-chno="" ,CRTV ✪ | CL [SD]
+http://promas.lat:2082/RetamalClaudio22/aEeaajWuT4Fv/75678
+#EXTINF:-1 tvg-name="Cultura Online | CL" group-title="General" tvg-chno="" ,Cultura Online | CL [SD]
+http://promas.lat:2082/RetamalClaudio22/aEeaajWuT4Fv/75768
+#EXTINF:-1 tvg-name="Decima TV | CL" group-title="General" tvg-chno="" ,Decima TV | CL [SD]
+http://promas.lat:2082/RetamalClaudio22/aEeaajWuT4Fv/75890
+#EXTINF:-1 tvg-name="Ekiz TV | CL" group-title="General" tvg-chno="" ,Ekiz TV | CL [SD]
+http://promas.lat:2082/RetamalClaudio22/aEeaajWuT4Fv/75843
+#EXTINF:-1 tvg-name="EGM Channel | CL" group-title="General" tvg-chno="" ,EGM Channel | CL [SD]
+http://promas.lat:2082/RetamalClaudio22/aEeaajWuT4Fv/75776
+#EXTINF:-1 tvg-name="El 3 de Conce | CL" group-title="General" tvg-chno="" ,El 3 de Conce | CL [SD]
+http://promas.lat:2082/RetamalClaudio22/aEeaajWuT4Fv/75735
+#EXTINF:-1 tvg-name="El Conquistador Concepcion | CL" group-title="General" tvg-chno="" ,El Conquistador Concepcion | CL [SD]
+http://promas.lat:2082/RetamalClaudio22/aEeaajWuT4Fv/75991
+#EXTINF:-1 tvg-name="El Conquistador Santiago | CL" group-title="General" tvg-chno="" ,El Conquistador Santiago | CL [SD]
+http://promas.lat:2082/RetamalClaudio22/aEeaajWuT4Fv/75989
+#EXTINF:-1 tvg-name="El Galpon 80 | CL" group-title="General" tvg-chno="" ,El Galpon 80 | CL [SD]
+http://promas.lat:2082/RetamalClaudio22/aEeaajWuT4Fv/75916
+#EXTINF:-1 tvg-name="El Pingüino TV - Punta Arenas" group-title="General" tvg-chno="" ,El Pingüino TV - Punta Arenas [SD]
+http://promas.lat:2082/RetamalClaudio22/aEeaajWuT4Fv/79
+#EXTINF:-1 tvg-name="El Sembrador | CL" group-title="General" tvg-chno="" ,El Sembrador | CL [SD]
+http://promas.lat:2082/RetamalClaudio22/aEeaajWuT4Fv/75990
+#EXTINF:-1 tvg-name="El Tipografo | CL" group-title="General" tvg-chno="" ,El Tipografo | CL [SD]
+http://promas.lat:2082/RetamalClaudio22/aEeaajWuT4Fv/75840
+#EXTINF:-1 tvg-name="Enfoque Digital TV | CL" group-title="General" tvg-chno="" ,Enfoque Digital TV | CL [SD]
+http://promas.lat:2082/RetamalClaudio22/aEeaajWuT4Fv/75805
+#EXTINF:-1 tvg-name="Energia TV | CL" group-title="General" tvg-chno="" ,Energia TV | CL [SD]
+http://promas.lat:2082/RetamalClaudio22/aEeaajWuT4Fv/75868
+#EXTINF:-1 tvg-name="Estudio TV | CL" group-title="General" tvg-chno="" ,Estudio TV | CL [SD]
+http://promas.lat:2082/RetamalClaudio22/aEeaajWuT4Fv/75827
+#EXTINF:-1 tvg-name="Eternal Metal ✪ | CL" group-title="General" tvg-chno="" ,Eternal Metal ✪ | CL [SD]
+http://promas.lat:2082/RetamalClaudio22/aEeaajWuT4Fv/75672
+#EXTINF:-1 tvg-name="Eva Medios | CL" group-title="General" tvg-chno="" ,Eva Medios | CL [SD]
+http://promas.lat:2082/RetamalClaudio22/aEeaajWuT4Fv/75729
+#EXTINF:-1 tvg-name="Exprezion TV | CL" group-title="General" tvg-chno="" ,Exprezion TV | CL [SD]
+http://promas.lat:2082/RetamalClaudio22/aEeaajWuT4Fv/75737
+#EXTINF:-1 tvg-name="Extrema TV" group-title="General" tvg-chno="" ,Extrema TV [SD]
+http://promas.lat:2082/RetamalClaudio22/aEeaajWuT4Fv/30339
+#EXTINF:-1 tvg-name="FM Hit | CL" group-title="Musica" tvg-chno="" ,FM Hit | CL [SD]
+http://promas.lat:2082/RetamalClaudio22/aEeaajWuT4Fv/75928
+#EXTINF:-1 tvg-name="Fortaleza TV | CL" group-title="General" tvg-chno="" ,Fortaleza TV | CL [SD]
+http://promas.lat:2082/RetamalClaudio22/aEeaajWuT4Fv/76027
+#EXTINF:-1 tvg-name="Frecuencia 7 Aconcagua | CL" group-title="General" tvg-chno="" ,Frecuencia 7 Aconcagua | CL [SD]
+http://promas.lat:2082/RetamalClaudio22/aEeaajWuT4Fv/75826
+#EXTINF:-1 tvg-name="Frecuencia Musical TV | US" group-title="Musica" tvg-chno="" ,Frecuencia Musical TV | US [SD]
+http://promas.lat:2082/RetamalClaudio22/aEeaajWuT4Fv/75728
+#EXTINF:-1 tvg-name="Freestyledjs ✪ | CL" group-title="General" tvg-chno="" ,Freestyledjs ✪ | CL [SD]
+http://promas.lat:2082/RetamalClaudio22/aEeaajWuT4Fv/75717
+#EXTINF:-1 tvg-name="G Vision | CL" group-title="General" tvg-chno="" ,G Vision | CL [SD]
+http://promas.lat:2082/RetamalClaudio22/aEeaajWuT4Fv/75738
+#EXTINF:-1 tvg-name="Gracia TV | CL" group-title="General" tvg-chno="" ,Gracia TV | CL [SD]
+http://promas.lat:2082/RetamalClaudio22/aEeaajWuT4Fv/76015
+#EXTINF:-1 tvg-name="Hiper TV" group-title="General" tvg-chno="" ,Hiper TV [SD]
+http://promas.lat:2082/RetamalClaudio22/aEeaajWuT4Fv/33179
+#EXTINF:-1 tvg-name="Hito Cero TV | CL" group-title="Musica" tvg-chno="" ,Hito Cero TV | CL [SD]
+http://promas.lat:2082/RetamalClaudio22/aEeaajWuT4Fv/75899
+#EXTINF:-1 tvg-name="Holvoet TV - Atacama" group-title="General" tvg-chno="" ,Holvoet TV - Atacama [SD]
+http://promas.lat:2082/RetamalClaudio22/aEeaajWuT4Fv/75
+#EXTINF:-1 tvg-name="Holvoet TV | CL" group-title="General" tvg-chno="" ,Holvoet TV | CL [SD]
+http://promas.lat:2082/RetamalClaudio22/aEeaajWuT4Fv/75799
+#EXTINF:-1 tvg-name="Huasco TV | CL" group-title="General" tvg-chno="" ,Huasco TV | CL [SD]
+http://promas.lat:2082/RetamalClaudio22/aEeaajWuT4Fv/75803
+#EXTINF:-1 tvg-name="Inet TV - Osorno" group-title="General" tvg-chno="" ,Inet TV - Osorno [SD]
+http://promas.lat:2082/RetamalClaudio22/aEeaajWuT4Fv/67
+#EXTINF:-1 tvg-name="Infinita TV Premium | US" group-title="General" tvg-chno="" ,Infinita TV Premium | US [SD]
+http://promas.lat:2082/RetamalClaudio22/aEeaajWuT4Fv/75727
+#EXTINF:-1 tvg-name="Interactiva FM | CL" group-title="General" tvg-chno="" ,Interactiva FM | CL [SD]
+http://promas.lat:2082/RetamalClaudio22/aEeaajWuT4Fv/75987
+#EXTINF:-1 tvg-name="IPNA Medio | CL" group-title="General" tvg-chno="" ,IPNA Medio | CL [SD]
+http://promas.lat:2082/RetamalClaudio22/aEeaajWuT4Fv/76023
+#EXTINF:-1 tvg-name="Iquique TV | CL" group-title="General" tvg-chno="" ,Iquique TV | CL [SD]
+http://promas.lat:2082/RetamalClaudio22/aEeaajWuT4Fv/75791
+#EXTINF:-1 tvg-name="ITV Patagonia" group-title="General" tvg-chno="" ,ITV Patagonia [SD]
+http://promas.lat:2082/RetamalClaudio22/aEeaajWuT4Fv/39865
+#EXTINF:-1 tvg-name="La Chilena TV ✪ | CL" group-title="General" tvg-chno="" ,La Chilena TV ✪ | CL [SD]
+http://promas.lat:2082/RetamalClaudio22/aEeaajWuT4Fv/75676
+#EXTINF:-1 tvg-name="La Clave | CL" group-title="General" tvg-chno="" ,La Clave | CL [SD]
+http://promas.lat:2082/RetamalClaudio22/aEeaajWuT4Fv/75996
+#EXTINF:-1 tvg-name="La Granja TV | CL" group-title="General" tvg-chno="" ,La Granja TV | CL [SD]
+http://promas.lat:2082/RetamalClaudio22/aEeaajWuT4Fv/75736
+#EXTINF:-1 tvg-name="La Nuestra ✪ | CL" group-title="General" tvg-chno="" ,La Nuestra ✪ | CL [SD]
+http://promas.lat:2082/RetamalClaudio22/aEeaajWuT4Fv/75707
+#EXTINF:-1 tvg-name="La Popular TV | CL" group-title="General" tvg-chno="" ,La Popular TV | CL [SD]
+http://promas.lat:2082/RetamalClaudio22/aEeaajWuT4Fv/75809
+#EXTINF:-1 tvg-name="La Red | CL" group-title="General" tvg-chno="" ,La Red | CL [SD]
+http://promas.lat:2082/RetamalClaudio22/aEeaajWuT4Fv/75742
+#EXTINF:-1 tvg-name="La Voz De Los Que Sobran TV | CL" group-title="General" tvg-chno="" ,La Voz De Los Que Sobran TV | CL [SD]
+http://promas.lat:2082/RetamalClaudio22/aEeaajWuT4Fv/75787
+#EXTINF:-1 tvg-name="Lanco TV" group-title="General" tvg-chno="" ,Lanco TV [SD]
+http://promas.lat:2082/RetamalClaudio22/aEeaajWuT4Fv/69231
+#EXTINF:-1 tvg-name="Longino TV ✪ | CL" group-title="General" tvg-chno="" ,Longino TV ✪ | CL [SD]
+http://promas.lat:2082/RetamalClaudio22/aEeaajWuT4Fv/75660
+#EXTINF:-1 tvg-name="Los Sauces TV ✪ | CL" group-title="General" tvg-chno="" ,Los Sauces TV ✪ | CL [SD]
+http://promas.lat:2082/RetamalClaudio22/aEeaajWuT4Fv/75713
+#EXTINF:-1 tvg-name="LRP Television | CL" group-title="General" tvg-chno="" ,LRP Television | CL [SD]
+http://promas.lat:2082/RetamalClaudio22/aEeaajWuT4Fv/75794
+#EXTINF:-1 tvg-name="Mega | CL" group-title="General" tvg-chno="" ,Mega | CL [SD]
+http://promas.lat:2082/RetamalClaudio22/aEeaajWuT4Fv/75747
+#EXTINF:-1 tvg-name="Metanoia TV | CL" group-title="General" tvg-chno="" ,Metanoia TV | CL [SD]
+http://promas.lat:2082/RetamalClaudio22/aEeaajWuT4Fv/76021
+#EXTINF:-1 tvg-name="Milodon TV | CL" group-title="General" tvg-chno="" ,Milodon TV | CL [SD]
+http://promas.lat:2082/RetamalClaudio22/aEeaajWuT4Fv/75934
+#EXTINF:-1 tvg-name="Modatima Petorca TV ✪ | CL" group-title="General" tvg-chno="" ,Modatima Petorca TV ✪ | CL [SD]
+http://promas.lat:2082/RetamalClaudio22/aEeaajWuT4Fv/75699
+#EXTINF:-1 tvg-name="Molina TV | CL" group-title="General" tvg-chno="" ,Molina TV | CL [SD]
+http://promas.lat:2082/RetamalClaudio22/aEeaajWuT4Fv/75851
+#EXTINF:-1 tvg-name="Nativa TV | CL" group-title="General" tvg-chno="" ,Nativa TV | CL [SD]
+http://promas.lat:2082/RetamalClaudio22/aEeaajWuT4Fv/75853
+#EXTINF:-1 tvg-name="NCTV | CL" group-title="General" tvg-chno="" ,NCTV | CL [SD]
+http://promas.lat:2082/RetamalClaudio22/aEeaajWuT4Fv/76014
+#EXTINF:-1 tvg-name="Nexovision | CL" group-title="General" tvg-chno="" ,Nexovision | CL [SD]
+http://promas.lat:2082/RetamalClaudio22/aEeaajWuT4Fv/75807
+#EXTINF:-1 tvg-name="NTV ✪ | CL" group-title="General" tvg-chno="" ,NTV ✪ | CL [SD]
+http://promas.lat:2082/RetamalClaudio22/aEeaajWuT4Fv/75684
+#EXTINF:-1 tvg-name="Nueva Region TV | CL" group-title="General" tvg-chno="" ,Nueva Region TV | CL [SD]
+http://promas.lat:2082/RetamalClaudio22/aEeaajWuT4Fv/75859
+#EXTINF:-1 tvg-name="Nuevo Tiempo" group-title="General" tvg-chno="" ,Nuevo Tiempo [SD]
+http://promas.lat:2082/RetamalClaudio22/aEeaajWuT4Fv/30341
+#EXTINF:-1 tvg-name="Opinionsur TV ✪ | CL" group-title="General" tvg-chno="" ,Opinionsur TV ✪ | CL [SD]
+http://promas.lat:2082/RetamalClaudio22/aEeaajWuT4Fv/75723
+#EXTINF:-1 tvg-name="Origen TV | CL" group-title="General" tvg-chno="" ,Origen TV | CL [SD]
+http://promas.lat:2082/RetamalClaudio22/aEeaajWuT4Fv/75806
+#EXTINF:-1 tvg-name="Pandamax TV | CL" group-title="General" tvg-chno="" ,Pandamax TV | CL [SD]
+http://promas.lat:2082/RetamalClaudio22/aEeaajWuT4Fv/75650
+#EXTINF:-1 tvg-name="Pauta TV | CL" group-title="General" tvg-chno="" ,Pauta TV | CL [SD]
+http://promas.lat:2082/RetamalClaudio22/aEeaajWuT4Fv/75997
+#EXTINF:-1 tvg-name="Pichilemu TV | CL" group-title="General" tvg-chno="" ,Pichilemu TV | CL [SD]
+http://promas.lat:2082/RetamalClaudio22/aEeaajWuT4Fv/75734
+#EXTINF:-1 tvg-name="PinguinoTV | CL" group-title="General" tvg-chno="" ,PinguinoTV | CL [SD]
+http://promas.lat:2082/RetamalClaudio22/aEeaajWuT4Fv/75910
+#EXTINF:-1 tvg-name="Pintana TV | CL" group-title="General" tvg-chno="" ,Pintana TV | CL [SD]
+http://promas.lat:2082/RetamalClaudio22/aEeaajWuT4Fv/75733
+#EXTINF:-1 tvg-name="PlanetaTV Kids | CL" group-title="Infantil" tvg-chno="" ,PlanetaTV Kids | CL [SD]
+http://promas.lat:2082/RetamalClaudio22/aEeaajWuT4Fv/75732
+#EXTINF:-1 tvg-name="PlanetaTV Movies ✪ | CL" group-title="Peliculas" tvg-chno="" ,PlanetaTV Movies ✪ | CL [SD]
+http://promas.lat:2082/RetamalClaudio22/aEeaajWuT4Fv/75675
+#EXTINF:-1 tvg-name="PlanetaTV Music ✪ | CL" group-title="Musica" tvg-chno="" ,PlanetaTV Music ✪ | CL [SD]
+http://promas.lat:2082/RetamalClaudio22/aEeaajWuT4Fv/75674
+#EXTINF:-1 tvg-name="Dance FM ✪ | CL" group-title="General" tvg-chno="" ,Dance FM ✪ | CL [HD]
+http://promas.lat:2082/RetamalClaudio22/aEeaajWuT4Fv/75720

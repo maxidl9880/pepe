@@ -1,4 +1,4 @@
-#EXTM3U x-tvg-url="" x-lista="Listas General 3" x-actualizado="2026-06-22 23:18"
+#EXTM3U x-tvg-url="" x-lista="Listas General 3" x-actualizado="2026-06-23 09:25"
 #EXTINF:-1 tvg-name="Velada 3 de lss estrellas Nicaragua" group-title="General" tvg-chno="" ,Velada 3 de lss estrellas Nicaragua [SD]
 http://flexlive.lat:8080/live/JhonSandoval2/H84TACX39/330410.ts
 #EXTINF:-1 tvg-name="M" group-title="General" tvg-chno="" ,M [SD]
@@ -845,10 +845,10 @@ http://flexlive.lat:8080/live/JhonSandoval2/H84TACX39/383545.ts
 http://flexlive.lat:8080/live/JhonSandoval2/H84TACX39/383546.ts
 #EXTINF:-1 tvg-name="CINE FHD | UNIVERSAL CRIME" group-title="Peliculas" tvg-chno="" ,CINE FHD | UNIVERSAL CRIME [SD]
 http://flexlive.lat:8080/live/JhonSandoval2/H84TACX39/383547.ts
-#EXTINF:-1 tvg-name="CINE  | A&E SD enc" group-title="Peliculas" tvg-chno="" ,CINE  | A&E SD enc [SD]
-http://flexlive.lat:8080/live/JhonSandoval2/H84TACX39/120053.ts
 #EXTINF:-1 tvg-name="CINE  | A&E HD" group-title="Peliculas" tvg-chno="" ,CINE  | A&E HD [SD]
 http://flexlive.lat:8080/live/JhonSandoval2/H84TACX39/120052.ts
+#EXTINF:-1 tvg-name="CINE  | A&E SD enc" group-title="Peliculas" tvg-chno="" ,CINE  | A&E SD enc [SD]
+http://flexlive.lat:8080/live/JhonSandoval2/H84TACX39/120053.ts
 #EXTINF:-1 tvg-name="CINE | AMC HD" group-title="Peliculas" tvg-chno="" ,CINE | AMC HD [SD]
 http://flexlive.lat:8080/live/JhonSandoval2/H84TACX39/120090.ts
 #EXTINF:-1 tvg-name="CINE | AMC  SD" group-title="Peliculas" tvg-chno="" ,CINE | AMC  SD [SD]

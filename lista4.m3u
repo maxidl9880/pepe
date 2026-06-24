@@ -1,4 +1,4 @@
-#EXTM3U x-tvg-url="" x-lista="Listas General 4" x-actualizado="2026-06-23 22:33"
+#EXTM3U x-tvg-url="" x-lista="Listas General 4" x-actualizado="2026-06-24 11:34"
 #EXTINF:-1 tvg-name="Velada 3 de lss estrellas Nicaragua" group-title="General" tvg-chno="" ,Velada 3 de lss estrellas Nicaragua [SD]
 http://flexlive.lat:8080/live/JhonSandoval2/H84TACX39/330410.ts
 #EXTINF:-1 tvg-name="M" group-title="General" tvg-chno="" ,M [SD]
@@ -423,12 +423,12 @@ http://flexlive.lat:8080/live/JhonSandoval2/H84TACX39/434912.ts
 http://flexlive.lat:8080/live/JhonSandoval2/H84TACX39/434913.ts
 #EXTINF:-1 tvg-name="USA: CBS Sports HQ" group-title="Deportes" tvg-chno="" ,USA: CBS Sports HQ [SD]
 http://flexlive.lat:8080/live/JhonSandoval2/H84TACX39/434914.ts
+#EXTINF:-1 tvg-name="USA: FITE 24/7" group-title="General" tvg-chno="" ,USA: FITE 24/7 [SD]
+http://flexlive.lat:8080/live/JhonSandoval2/H84TACX39/434915.ts
 #EXTINF:-1 tvg-name="USA: Glory Kickboxing" group-title="Deportes" tvg-chno="" ,USA: Glory Kickboxing [SD]
 http://flexlive.lat:8080/live/JhonSandoval2/H84TACX39/434917.ts
 #EXTINF:-1 tvg-name="USA: FUEL TV" group-title="General" tvg-chno="" ,USA: FUEL TV [SD]
 http://flexlive.lat:8080/live/JhonSandoval2/H84TACX39/434916.ts
-#EXTINF:-1 tvg-name="USA: FITE 24/7" group-title="General" tvg-chno="" ,USA: FITE 24/7 [SD]
-http://flexlive.lat:8080/live/JhonSandoval2/H84TACX39/434915.ts
 #EXTINF:-1 tvg-name="USA: KCMN-LD6" group-title="General" tvg-chno="" ,USA: KCMN-LD6 [SD]
 http://flexlive.lat:8080/live/JhonSandoval2/H84TACX39/434918.ts
 #EXTINF:-1 tvg-name="USA: Lacrosse TV" group-title="General" tvg-chno="" ,USA: Lacrosse TV [SD]

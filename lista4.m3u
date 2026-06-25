@@ -1,16 +1,16 @@
-#EXTM3U x-tvg-url="" x-lista="Listas General 4" x-actualizado="2026-06-24 23:17"
-#EXTINF:-1 tvg-name="M" group-title="General" tvg-chno="" ,M [SD]
-http://flexlive.lat:8080/live/JhonSandoval2/H84TACX39/469797.ts
+#EXTM3U x-tvg-url="" x-lista="Listas General 4" x-actualizado="2026-06-24 23:34"
 #EXTINF:-1 tvg-name="24/06 19:30 - Unión La Calera vs Universidad de Chile" group-title="General" tvg-chno="" ,24/06 19:30 - Unión La Calera vs Universidad de Chile [SD]
 http://flexlive.lat:8080/live/JhonSandoval2/H84TACX39/470410.ts
 #EXTINF:-1 tvg-name="Velada 3 de lss estrellas Nicaragua" group-title="General" tvg-chno="" ,Velada 3 de lss estrellas Nicaragua [SD]
 http://flexlive.lat:8080/live/JhonSandoval2/H84TACX39/330410.ts
-#EXTINF:-1 tvg-name="TV Realitys-GRAN HERMANO 24/H" group-title="General" tvg-chno="" ,TV Realitys-GRAN HERMANO 24/H [SD]
-http://flexlive.lat:8080/live/JhonSandoval2/H84TACX39/443643.ts
+#EXTINF:-1 tvg-name="M" group-title="General" tvg-chno="" ,M [SD]
+http://flexlive.lat:8080/live/JhonSandoval2/H84TACX39/469797.ts
 #EXTINF:-1 tvg-name="TV Realitys-CAMARA 2" group-title="General" tvg-chno="" ,TV Realitys-CAMARA 2 [SD]
 http://flexlive.lat:8080/live/JhonSandoval2/H84TACX39/443645.ts
 #EXTINF:-1 tvg-name="TV Realitys-CAMARA 1" group-title="General" tvg-chno="" ,TV Realitys-CAMARA 1 [SD]
 http://flexlive.lat:8080/live/JhonSandoval2/H84TACX39/443644.ts
+#EXTINF:-1 tvg-name="TV Realitys-GRAN HERMANO 24/H" group-title="General" tvg-chno="" ,TV Realitys-GRAN HERMANO 24/H [SD]
+http://flexlive.lat:8080/live/JhonSandoval2/H84TACX39/443643.ts
 #EXTINF:-1 tvg-name="TV Realitys-CAMARA 3" group-title="General" tvg-chno="" ,TV Realitys-CAMARA 3 [SD]
 http://flexlive.lat:8080/live/JhonSandoval2/H84TACX39/443646.ts
 #EXTINF:-1 tvg-name="MANSIÓN VIP" group-title="General" tvg-chno="" ,MANSIÓN VIP [SD]
@@ -55,947 +55,319 @@ http://flexlive.lat:8080/live/JhonSandoval2/H84TACX39/448991.ts
 http://flexlive.lat:8080/live/JhonSandoval2/H84TACX39/448992.ts
 #EXTINF:-1 tvg-name="MLS 11 | REAL SALT LAKE VS AUSTIN FC MAR 14 9:30 PM" group-title="General" tvg-chno="" ,MLS 11 | REAL SALT LAKE VS AUSTIN FC MAR 14 9:30 PM [SD]
 http://flexlive.lat:8080/live/JhonSandoval2/H84TACX39/448993.ts
-#EXTINF:-1 tvg-name="MLS 12 | LOS ANGELES FOOTBALL CLUB VS ST LOUIS CITY SC MAR 14 10:30 PM" group-title="Deportes" tvg-chno="" ,MLS 12 | LOS ANGELES FOOTBALL CLUB VS ST LOUIS CITY SC MAR 14 10:30 PM [SD]
-http://flexlive.lat:8080/live/JhonSandoval2/H84TACX39/448994.ts
 #EXTINF:-1 tvg-name="MLS 13 | MINNESOTA UNITED VS SEATTLE SOUNDERS FC MAR 22 2:30 PM" group-title="General" tvg-chno="" ,MLS 13 | MINNESOTA UNITED VS SEATTLE SOUNDERS FC MAR 22 2:30 PM [SD]
 http://flexlive.lat:8080/live/JhonSandoval2/H84TACX39/448995.ts
+#EXTINF:-1 tvg-name="MLS 12 | LOS ANGELES FOOTBALL CLUB VS ST LOUIS CITY SC MAR 14 10:30 PM" group-title="Deportes" tvg-chno="" ,MLS 12 | LOS ANGELES FOOTBALL CLUB VS ST LOUIS CITY SC MAR 14 10:30 PM [SD]
+http://flexlive.lat:8080/live/JhonSandoval2/H84TACX39/448994.ts
 #EXTINF:-1 tvg-name="MLS 13 | SAN JOSE EARTHQUAKES VS SPORTING KANSAS CITY FEB 21 10:30 PM" group-title="Deportes" tvg-chno="" ,MLS 13 | SAN JOSE EARTHQUAKES VS SPORTING KANSAS CITY FEB 21 10:30 PM [SD]
 http://flexlive.lat:8080/live/JhonSandoval2/H84TACX39/448996.ts
 #EXTINF:-1 tvg-name="MLS 14 | PORTLAND TIMBERS VS LA GALAXY MAR 22 4:45 PM" group-title="General" tvg-chno="" ,MLS 14 | PORTLAND TIMBERS VS LA GALAXY MAR 22 4:45 PM [SD]
 http://flexlive.lat:8080/live/JhonSandoval2/H84TACX39/448997.ts
 #EXTINF:-1 tvg-name="MLS 14 | San Diego vs Vancouver Whitecaps | 10.30 PM ET | SAT" group-title="Musica" tvg-chno="" ,MLS 14 | San Diego vs Vancouver Whitecaps | 10.30 PM ET | SAT [SD]
 http://flexlive.lat:8080/live/JhonSandoval2/H84TACX39/448998.ts
-#EXTINF:-1 tvg-name="MEGA" group-title="General" tvg-chno="" ,MEGA [SD]
-http://promas.lat:2082/RetamalClaudio22/aEeaajWuT4Fv/2355
-#EXTINF:-1 tvg-name="MEGA HD" group-title="General" tvg-chno="" ,MEGA HD [SD]
-http://promas.lat:2082/RetamalClaudio22/aEeaajWuT4Fv/14090
-#EXTINF:-1 tvg-name="MEGA FHD" group-title="General" tvg-chno="" ,MEGA FHD [SD]
-http://promas.lat:2082/RetamalClaudio22/aEeaajWuT4Fv/30904
-#EXTINF:-1 tvg-name="MEGA 2" group-title="General" tvg-chno="" ,MEGA 2 [SD]
-http://promas.lat:2082/RetamalClaudio22/aEeaajWuT4Fv/56930
-#EXTINF:-1 tvg-name="Meganoticias" group-title="Noticias" tvg-chno="" ,Meganoticias [SD]
-http://promas.lat:2082/RetamalClaudio22/aEeaajWuT4Fv/51139
-#EXTINF:-1 tvg-name="MEGA Plus" group-title="General" tvg-chno="" ,MEGA Plus [SD]
-http://promas.lat:2082/RetamalClaudio22/aEeaajWuT4Fv/6721
-#EXTINF:-1 tvg-name="Mega Ficcion" group-title="General" tvg-chno="" ,Mega Ficcion [SD]
-http://promas.lat:2082/RetamalClaudio22/aEeaajWuT4Fv/75772
-#EXTINF:-1 tvg-name="CHV" group-title="General" tvg-chno="" ,CHV [SD]
-http://promas.lat:2082/RetamalClaudio22/aEeaajWuT4Fv/37973
-#EXTINF:-1 tvg-name="CHV FHD2" group-title="General" tvg-chno="" ,CHV FHD2 [SD]
-http://promas.lat:2082/RetamalClaudio22/aEeaajWuT4Fv/57368
-#EXTINF:-1 tvg-name="CHV FHD" group-title="General" tvg-chno="" ,CHV FHD [SD]
-http://promas.lat:2082/RetamalClaudio22/aEeaajWuT4Fv/16018
-#EXTINF:-1 tvg-name="CHV HD" group-title="General" tvg-chno="" ,CHV HD [SD]
-http://promas.lat:2082/RetamalClaudio22/aEeaajWuT4Fv/2356
-#EXTINF:-1 tvg-name="CHV Noticias" group-title="Noticias" tvg-chno="" ,CHV Noticias [SD]
-http://promas.lat:2082/RetamalClaudio22/aEeaajWuT4Fv/51427
-#EXTINF:-1 tvg-name="CHV Deportes" group-title="Deportes" tvg-chno="" ,CHV Deportes [SD]
-http://promas.lat:2082/RetamalClaudio22/aEeaajWuT4Fv/56043
-#EXTINF:-1 tvg-name="Canal 13" group-title="General" tvg-chno="" ,Canal 13 [SD]
-http://promas.lat:2082/RetamalClaudio22/aEeaajWuT4Fv/19621
-#EXTINF:-1 tvg-name="Canal 13 FHD" group-title="General" tvg-chno="" ,Canal 13 FHD [SD]
-http://promas.lat:2082/RetamalClaudio22/aEeaajWuT4Fv/16017
-#EXTINF:-1 tvg-name="Canal 13 HD" group-title="General" tvg-chno="" ,Canal 13 HD [SD]
-http://promas.lat:2082/RetamalClaudio22/aEeaajWuT4Fv/2362
-#EXTINF:-1 tvg-name="Canal 13 FHD 2" group-title="General" tvg-chno="" ,Canal 13 FHD 2 [SD]
-http://promas.lat:2082/RetamalClaudio22/aEeaajWuT4Fv/57369
-#EXTINF:-1 tvg-name="13c" group-title="General" tvg-chno="" ,13c [SD]
-http://promas.lat:2082/RetamalClaudio22/aEeaajWuT4Fv/7111
-#EXTINF:-1 tvg-name="T13" group-title="General" tvg-chno="" ,T13 [SD]
-http://promas.lat:2082/RetamalClaudio22/aEeaajWuT4Fv/6352
-#EXTINF:-1 tvg-name="13 Deportes" group-title="Deportes" tvg-chno="" ,13 Deportes [SD]
-http://promas.lat:2082/RetamalClaudio22/aEeaajWuT4Fv/53333
-#EXTINF:-1 tvg-name="13 Cultura" group-title="General" tvg-chno="" ,13 Cultura [SD]
-http://promas.lat:2082/RetamalClaudio22/aEeaajWuT4Fv/53334
-#EXTINF:-1 tvg-name="13 Internacional" group-title="Internacional" tvg-chno="" ,13 Internacional [SD]
-http://promas.lat:2082/RetamalClaudio22/aEeaajWuT4Fv/51768
-#EXTINF:-1 tvg-name="13 Festival" group-title="General" tvg-chno="" ,13 Festival [SD]
-http://promas.lat:2082/RetamalClaudio22/aEeaajWuT4Fv/57482
-#EXTINF:-1 tvg-name="13 Cocina" group-title="General" tvg-chno="" ,13 Cocina [SD]
-http://promas.lat:2082/RetamalClaudio22/aEeaajWuT4Fv/57481
-#EXTINF:-1 tvg-name="13 Viajes" group-title="General" tvg-chno="" ,13 Viajes [SD]
-http://promas.lat:2082/RetamalClaudio22/aEeaajWuT4Fv/56768
-#EXTINF:-1 tvg-name="13 Pop" group-title="General" tvg-chno="" ,13 Pop [SD]
-http://promas.lat:2082/RetamalClaudio22/aEeaajWuT4Fv/51769
-#EXTINF:-1 tvg-name="13 Realities" group-title="General" tvg-chno="" ,13 Realities [SD]
-http://promas.lat:2082/RetamalClaudio22/aEeaajWuT4Fv/56769
-#EXTINF:-1 tvg-name="13 Teleseries" group-title="Series" tvg-chno="" ,13 Teleseries [SD]
-http://promas.lat:2082/RetamalClaudio22/aEeaajWuT4Fv/51770
-#EXTINF:-1 tvg-name="TVN" group-title="General" tvg-chno="" ,TVN [SD]
-http://promas.lat:2082/RetamalClaudio22/aEeaajWuT4Fv/19622
-#EXTINF:-1 tvg-name="TVN HD" group-title="General" tvg-chno="" ,TVN HD [SD]
-http://promas.lat:2082/RetamalClaudio22/aEeaajWuT4Fv/45941
-#EXTINF:-1 tvg-name="TVN FHD" group-title="General" tvg-chno="" ,TVN FHD [SD]
-http://promas.lat:2082/RetamalClaudio22/aEeaajWuT4Fv/2359
-#EXTINF:-1 tvg-name="TVN FHD 2" group-title="General" tvg-chno="" ,TVN FHD 2 [SD]
-http://promas.lat:2082/RetamalClaudio22/aEeaajWuT4Fv/2358
-#EXTINF:-1 tvg-name="TVN 24 Horas" group-title="General" tvg-chno="" ,TVN 24 Horas [SD]
-http://promas.lat:2082/RetamalClaudio22/aEeaajWuT4Fv/130479
-#EXTINF:-1 tvg-name="TVN 3" group-title="General" tvg-chno="" ,TVN 3 [SD]
-http://promas.lat:2082/RetamalClaudio22/aEeaajWuT4Fv/57192
-#EXTINF:-1 tvg-name="24 Horas" group-title="General" tvg-chno="" ,24 Horas [SD]
-http://promas.lat:2082/RetamalClaudio22/aEeaajWuT4Fv/2360
-#EXTINF:-1 tvg-name="CNN Chile" group-title="Noticias" tvg-chno="" ,CNN Chile [SD]
-http://promas.lat:2082/RetamalClaudio22/aEeaajWuT4Fv/2368
-#EXTINF:-1 tvg-name="TV Chile" group-title="General" tvg-chno="" ,TV Chile [SD]
-http://promas.lat:2082/RetamalClaudio22/aEeaajWuT4Fv/51
-#EXTINF:-1 tvg-name="La Red" group-title="General" tvg-chno="" ,La Red [SD]
-http://promas.lat:2082/RetamalClaudio22/aEeaajWuT4Fv/30823
-#EXTINF:-1 tvg-name="La Red HD" group-title="General" tvg-chno="" ,La Red HD [SD]
-http://promas.lat:2082/RetamalClaudio22/aEeaajWuT4Fv/2364
-#EXTINF:-1 tvg-name="La Red FHD" group-title="General" tvg-chno="" ,La Red FHD [SD]
-http://promas.lat:2082/RetamalClaudio22/aEeaajWuT4Fv/2365
-#EXTINF:-1 tvg-name="TV+" group-title="General" tvg-chno="" ,TV+ [SD]
-http://promas.lat:2082/RetamalClaudio22/aEeaajWuT4Fv/2366
-#EXTINF:-1 tvg-name="UCV 3 Auto Ajuste SD/HD" group-title="General" tvg-chno="" ,UCV 3 Auto Ajuste SD/HD [SD]
-http://promas.lat:2082/RetamalClaudio22/aEeaajWuT4Fv/19628
-#EXTINF:-1 tvg-name="UCV 3 HD" group-title="General" tvg-chno="" ,UCV 3 HD [SD]
-http://promas.lat:2082/RetamalClaudio22/aEeaajWuT4Fv/73
-#EXTINF:-1 tvg-name="TV Diputados" group-title="General" tvg-chno="" ,TV Diputados [SD]
-http://promas.lat:2082/RetamalClaudio22/aEeaajWuT4Fv/49
-#EXTINF:-1 tvg-name="REC TV" group-title="General" tvg-chno="" ,REC TV [SD]
-http://promas.lat:2082/RetamalClaudio22/aEeaajWuT4Fv/30423
-#EXTINF:-1 tvg-name="TV Chile Channel" group-title="General" tvg-chno="" ,TV Chile Channel [SD]
-http://promas.lat:2082/RetamalClaudio22/aEeaajWuT4Fv/30301
-#EXTINF:-1 tvg-name="Zona Latina" group-title="General" tvg-chno="" ,Zona Latina [SD]
-http://promas.lat:2082/RetamalClaudio22/aEeaajWuT4Fv/56926
-#EXTINF:-1 tvg-name="Via X" group-title="General" tvg-chno="" ,Via X [SD]
-http://promas.lat:2082/RetamalClaudio22/aEeaajWuT4Fv/56929
-#EXTINF:-1 tvg-name="Retro Plus 2 HD" group-title="General" tvg-chno="" ,Retro Plus 2 HD [SD]
-http://promas.lat:2082/RetamalClaudio22/aEeaajWuT4Fv/71508
-#EXTINF:-1 tvg-name="Retro Plus TV" group-title="General" tvg-chno="" ,Retro Plus TV [SD]
-http://promas.lat:2082/RetamalClaudio22/aEeaajWuT4Fv/74738
-#EXTINF:-1 tvg-name="Retro Plus 3" group-title="General" tvg-chno="" ,Retro Plus 3 [SD]
-http://promas.lat:2082/RetamalClaudio22/aEeaajWuT4Fv/71509
-#EXTINF:-1 tvg-name="Alternativa TV | CL" group-title="General" tvg-chno="" ,Alternativa TV | CL [SD]
-http://promas.lat:2082/RetamalClaudio22/aEeaajWuT4Fv/75804
-#EXTINF:-1 tvg-name="ADN | CL" group-title="General" tvg-chno="" ,ADN | CL [SD]
-http://promas.lat:2082/RetamalClaudio22/aEeaajWuT4Fv/76006
-#EXTINF:-1 tvg-name="Antofagasta TV | CL" group-title="General" tvg-chno="" ,Antofagasta TV | CL [SD]
-http://promas.lat:2082/RetamalClaudio22/aEeaajWuT4Fv/75793
-#EXTINF:-1 tvg-name="Apanines TV ✪ | CL" group-title="General" tvg-chno="" ,Apanines TV ✪ | CL [SD]
-http://promas.lat:2082/RetamalClaudio22/aEeaajWuT4Fv/75668
-#EXTINF:-1 tvg-name="Arica TV | CL" group-title="General" tvg-chno="" ,Arica TV | CL [SD]
-http://promas.lat:2082/RetamalClaudio22/aEeaajWuT4Fv/75788
-#EXTINF:-1 tvg-name="Atacama Noticias" group-title="Noticias" tvg-chno="" ,Atacama Noticias [SD]
-http://promas.lat:2082/RetamalClaudio22/aEeaajWuT4Fv/74
-#EXTINF:-1 tvg-name="Atacama TV" group-title="General" tvg-chno="" ,Atacama TV [SD]
-http://promas.lat:2082/RetamalClaudio22/aEeaajWuT4Fv/61
-#EXTINF:-1 tvg-name="ATV Valdivia | CL" group-title="General" tvg-chno="" ,ATV Valdivia | CL [SD]
-http://promas.lat:2082/RetamalClaudio22/aEeaajWuT4Fv/75888
-#EXTINF:-1 tvg-name="Aysen TV | CL" group-title="General" tvg-chno="" ,Aysen TV | CL [SD]
-http://promas.lat:2082/RetamalClaudio22/aEeaajWuT4Fv/75903
-#EXTINF:-1 tvg-name="Bajo Cero TV | CL" group-title="General" tvg-chno="" ,Bajo Cero TV | CL [SD]
-http://promas.lat:2082/RetamalClaudio22/aEeaajWuT4Fv/75915
-#EXTINF:-1 tvg-name="BioBio TV" group-title="General" tvg-chno="" ,BioBio TV [SD]
-http://promas.lat:2082/RetamalClaudio22/aEeaajWuT4Fv/7027
-#EXTINF:-1 tvg-name="Caldera Vision TV" group-title="General" tvg-chno="" ,Caldera Vision TV [SD]
-http://promas.lat:2082/RetamalClaudio22/aEeaajWuT4Fv/76490
-#EXTINF:-1 tvg-name="Canal 11 TV Aysen | CL" group-title="General" tvg-chno="" ,Canal 11 TV Aysen | CL [SD]
-http://promas.lat:2082/RetamalClaudio22/aEeaajWuT4Fv/75902
-#EXTINF:-1 tvg-name="Camara de Diputados | CL" group-title="General" tvg-chno="" ,Camara de Diputados | CL [SD]
-http://promas.lat:2082/RetamalClaudio22/aEeaajWuT4Fv/75766
-#EXTINF:-1 tvg-name="Canal 2 - Quellón" group-title="General" tvg-chno="" ,Canal 2 - Quellón [SD]
-http://promas.lat:2082/RetamalClaudio22/aEeaajWuT4Fv/6775
-#EXTINF:-1 tvg-name="Canal 21 - Chillán" group-title="General" tvg-chno="" ,Canal 21 - Chillán [SD]
-http://promas.lat:2082/RetamalClaudio22/aEeaajWuT4Fv/82
-#EXTINF:-1 tvg-name="Canal 30 Loncomilla | CL" group-title="General" tvg-chno="" ,Canal 30 Loncomilla | CL [SD]
-http://promas.lat:2082/RetamalClaudio22/aEeaajWuT4Fv/75856
-#EXTINF:-1 tvg-name="Canal 5 - Linares" group-title="General" tvg-chno="" ,Canal 5 - Linares [SD]
-http://promas.lat:2082/RetamalClaudio22/aEeaajWuT4Fv/77
-#EXTINF:-1 tvg-name="Canal 5 Puerto Montt | CL" group-title="General" tvg-chno="" ,Canal 5 Puerto Montt | CL [SD]
-http://promas.lat:2082/RetamalClaudio22/aEeaajWuT4Fv/75897
-#EXTINF:-1 tvg-name="Canal 57 Melipilla | CL" group-title="General" tvg-chno="" ,Canal 57 Melipilla | CL [SD]
-http://promas.lat:2082/RetamalClaudio22/aEeaajWuT4Fv/75836
-#EXTINF:-1 tvg-name="Canal Alta Frontera | CL" group-title="General" tvg-chno="" ,Canal Alta Frontera | CL [SD]
-http://promas.lat:2082/RetamalClaudio22/aEeaajWuT4Fv/75874
-#EXTINF:-1 tvg-name="Canal 74 TeVe | CL" group-title="General" tvg-chno="" ,Canal 74 TeVe | CL [SD]
-http://promas.lat:2082/RetamalClaudio22/aEeaajWuT4Fv/75821
-#EXTINF:-1 tvg-name="Canal 9 - Bio-Bio" group-title="General" tvg-chno="" ,Canal 9 - Bio-Bio [SD]
-http://promas.lat:2082/RetamalClaudio22/aEeaajWuT4Fv/81
-#EXTINF:-1 tvg-name="Canal Local | CL" group-title="General" tvg-chno="" ,Canal Local | CL [SD]
-http://promas.lat:2082/RetamalClaudio22/aEeaajWuT4Fv/75823
-#EXTINF:-1 tvg-name="Canal ISB | CL" group-title="General" tvg-chno="" ,Canal ISB | CL [SD]
-http://promas.lat:2082/RetamalClaudio22/aEeaajWuT4Fv/76016
-#EXTINF:-1 tvg-name="Canal Pais | CL" group-title="General" tvg-chno="" ,Canal Pais | CL [SD]
-http://promas.lat:2082/RetamalClaudio22/aEeaajWuT4Fv/75726
-#EXTINF:-1 tvg-name="Canal LOF Aconcagua | CL" group-title="General" tvg-chno="" ,Canal LOF Aconcagua | CL [SD]
-http://promas.lat:2082/RetamalClaudio22/aEeaajWuT4Fv/75820
-#EXTINF:-1 tvg-name="Canal Noticias Colchagua | CL" group-title="Noticias" tvg-chno="" ,Canal Noticias Colchagua | CL [SD]
-http://promas.lat:2082/RetamalClaudio22/aEeaajWuT4Fv/75838
-#EXTINF:-1 tvg-name="Canal SCÑ - San Carlos Ñuble | CL" group-title="General" tvg-chno="" ,Canal SCÑ - San Carlos Ñuble | CL [SD]
-http://promas.lat:2082/RetamalClaudio22/aEeaajWuT4Fv/75862
-#EXTINF:-1 tvg-name="Canal Turismo Travel TV | CL" group-title="General" tvg-chno="" ,Canal Turismo Travel TV | CL [SD]
-http://promas.lat:2082/RetamalClaudio22/aEeaajWuT4Fv/75785
-#EXTINF:-1 tvg-name="Caracola TV | CL" group-title="General" tvg-chno="" ,Caracola TV | CL [SD]
-http://promas.lat:2082/RetamalClaudio22/aEeaajWuT4Fv/75775
-#EXTINF:-1 tvg-name="Cappissima Multimedial TV | CL" group-title="General" tvg-chno="" ,Cappissima Multimedial TV | CL [SD]
-http://promas.lat:2082/RetamalClaudio22/aEeaajWuT4Fv/75789
-#EXTINF:-1 tvg-name="Carolina TV 2 | CL" group-title="General" tvg-chno="" ,Carolina TV 2 | CL [SD]
-http://promas.lat:2082/RetamalClaudio22/aEeaajWuT4Fv/75922
-#EXTINF:-1 tvg-name="Carolina TV | CL" group-title="General" tvg-chno="" ,Carolina TV | CL [SD]
-http://promas.lat:2082/RetamalClaudio22/aEeaajWuT4Fv/75921
-#EXTINF:-1 tvg-name="Casa Sobre La Roca TV | CL" group-title="General" tvg-chno="" ,Casa Sobre La Roca TV | CL [SD]
-http://promas.lat:2082/RetamalClaudio22/aEeaajWuT4Fv/76017
-#EXTINF:-1 tvg-name="Cauquenesnet TV | CL" group-title="General" tvg-chno="" ,Cauquenesnet TV | CL [SD]
-http://promas.lat:2082/RetamalClaudio22/aEeaajWuT4Fv/75857
-#EXTINF:-1 tvg-name="CDR ✪ | CL" group-title="General" tvg-chno="" ,CDR ✪ | CL [SD]
-http://promas.lat:2082/RetamalClaudio22/aEeaajWuT4Fv/75677
-#EXTINF:-1 tvg-name="CEAC TV | CL" group-title="General" tvg-chno="" ,CEAC TV | CL [SD]
-http://promas.lat:2082/RetamalClaudio22/aEeaajWuT4Fv/75769
-#EXTINF:-1 tvg-name="Cero Anestesia | CL" group-title="General" tvg-chno="" ,Cero Anestesia | CL [SD]
-http://promas.lat:2082/RetamalClaudio22/aEeaajWuT4Fv/75786
-#EXTINF:-1 tvg-name="CESTV | CL" group-title="General" tvg-chno="" ,CESTV | CL [SD]
-http://promas.lat:2082/RetamalClaudio22/aEeaajWuT4Fv/76028
-#EXTINF:-1 tvg-name="Chile Channel | CL" group-title="General" tvg-chno="" ,Chile Channel | CL [SD]
-http://promas.lat:2082/RetamalClaudio22/aEeaajWuT4Fv/75783
-#EXTINF:-1 tvg-name="Chile Tradiciones ✪ | CL" group-title="General" tvg-chno="" ,Chile Tradiciones ✪ | CL [SD]
-http://promas.lat:2082/RetamalClaudio22/aEeaajWuT4Fv/75686
-#EXTINF:-1 tvg-name="Chilevisual Classic ✪ | CL" group-title="General" tvg-chno="" ,Chilevisual Classic ✪ | CL [SD]
-http://promas.lat:2082/RetamalClaudio22/aEeaajWuT4Fv/75711
-#EXTINF:-1 tvg-name="Chilevisual Cultura ✪ | CL" group-title="General" tvg-chno="" ,Chilevisual Cultura ✪ | CL [SD]
-http://promas.lat:2082/RetamalClaudio22/aEeaajWuT4Fv/75691
-#EXTINF:-1 tvg-name="Chilevisual Film ✪ | CL" group-title="Peliculas" tvg-chno="" ,Chilevisual Film ✪ | CL [SD]
-http://promas.lat:2082/RetamalClaudio22/aEeaajWuT4Fv/75690
-#EXTINF:-1 tvg-name="Chilevisual Kids ✪ | CL" group-title="Infantil" tvg-chno="" ,Chilevisual Kids ✪ | CL [SD]
-http://promas.lat:2082/RetamalClaudio22/aEeaajWuT4Fv/75689
-#EXTINF:-1 tvg-name="Chilevisual Retro ✪ | CL" group-title="General" tvg-chno="" ,Chilevisual Retro ✪ | CL [SD]
-http://promas.lat:2082/RetamalClaudio22/aEeaajWuT4Fv/75688
-#EXTINF:-1 tvg-name="Chiloe Red 25 | CL" group-title="General" tvg-chno="" ,Chiloe Red 25 | CL [SD]
-http://promas.lat:2082/RetamalClaudio22/aEeaajWuT4Fv/75900
-#EXTINF:-1 tvg-name="Classic Channel ✪ | CL" group-title="General" tvg-chno="" ,Classic Channel ✪ | CL [SD]
-http://promas.lat:2082/RetamalClaudio22/aEeaajWuT4Fv/75708
-#EXTINF:-1 tvg-name="Club TV | CL" group-title="General" tvg-chno="" ,Club TV | CL [SD]
-http://promas.lat:2082/RetamalClaudio22/aEeaajWuT4Fv/75876
-#EXTINF:-1 tvg-name="Contivision | CL" group-title="General" tvg-chno="" ,Contivision | CL [SD]
-http://promas.lat:2082/RetamalClaudio22/aEeaajWuT4Fv/75850
-#EXTINF:-1 tvg-name="Corcubio TV ✪ | CL" group-title="General" tvg-chno="" ,Corcubio TV ✪ | CL [SD]
-http://promas.lat:2082/RetamalClaudio22/aEeaajWuT4Fv/75685
-#EXTINF:-1 tvg-name="CRTV ✪ | CL" group-title="General" tvg-chno="" ,CRTV ✪ | CL [SD]
-http://promas.lat:2082/RetamalClaudio22/aEeaajWuT4Fv/75678
-#EXTINF:-1 tvg-name="Cultura Online | CL" group-title="General" tvg-chno="" ,Cultura Online | CL [SD]
-http://promas.lat:2082/RetamalClaudio22/aEeaajWuT4Fv/75768
-#EXTINF:-1 tvg-name="Decima TV | CL" group-title="General" tvg-chno="" ,Decima TV | CL [SD]
-http://promas.lat:2082/RetamalClaudio22/aEeaajWuT4Fv/75890
-#EXTINF:-1 tvg-name="EGM Channel | CL" group-title="General" tvg-chno="" ,EGM Channel | CL [SD]
-http://promas.lat:2082/RetamalClaudio22/aEeaajWuT4Fv/75776
-#EXTINF:-1 tvg-name="El 3 de Conce | CL" group-title="General" tvg-chno="" ,El 3 de Conce | CL [SD]
-http://promas.lat:2082/RetamalClaudio22/aEeaajWuT4Fv/75735
-#EXTINF:-1 tvg-name="Ekiz TV | CL" group-title="General" tvg-chno="" ,Ekiz TV | CL [SD]
-http://promas.lat:2082/RetamalClaudio22/aEeaajWuT4Fv/75843
-#EXTINF:-1 tvg-name="El Conquistador Concepcion | CL" group-title="General" tvg-chno="" ,El Conquistador Concepcion | CL [SD]
-http://promas.lat:2082/RetamalClaudio22/aEeaajWuT4Fv/75991
-#EXTINF:-1 tvg-name="El Conquistador Santiago | CL" group-title="General" tvg-chno="" ,El Conquistador Santiago | CL [SD]
-http://promas.lat:2082/RetamalClaudio22/aEeaajWuT4Fv/75989
-#EXTINF:-1 tvg-name="El Pingüino TV - Punta Arenas" group-title="General" tvg-chno="" ,El Pingüino TV - Punta Arenas [SD]
-http://promas.lat:2082/RetamalClaudio22/aEeaajWuT4Fv/79
-#EXTINF:-1 tvg-name="El Galpon 80 | CL" group-title="General" tvg-chno="" ,El Galpon 80 | CL [SD]
-http://promas.lat:2082/RetamalClaudio22/aEeaajWuT4Fv/75916
-#EXTINF:-1 tvg-name="El Sembrador | CL" group-title="General" tvg-chno="" ,El Sembrador | CL [SD]
-http://promas.lat:2082/RetamalClaudio22/aEeaajWuT4Fv/75990
-#EXTINF:-1 tvg-name="Energia TV | CL" group-title="General" tvg-chno="" ,Energia TV | CL [SD]
-http://promas.lat:2082/RetamalClaudio22/aEeaajWuT4Fv/75868
-#EXTINF:-1 tvg-name="El Tipografo | CL" group-title="General" tvg-chno="" ,El Tipografo | CL [SD]
-http://promas.lat:2082/RetamalClaudio22/aEeaajWuT4Fv/75840
-#EXTINF:-1 tvg-name="Enfoque Digital TV | CL" group-title="General" tvg-chno="" ,Enfoque Digital TV | CL [SD]
-http://promas.lat:2082/RetamalClaudio22/aEeaajWuT4Fv/75805
-#EXTINF:-1 tvg-name="Eternal Metal ✪ | CL" group-title="General" tvg-chno="" ,Eternal Metal ✪ | CL [SD]
-http://promas.lat:2082/RetamalClaudio22/aEeaajWuT4Fv/75672
-#EXTINF:-1 tvg-name="Estudio TV | CL" group-title="General" tvg-chno="" ,Estudio TV | CL [SD]
-http://promas.lat:2082/RetamalClaudio22/aEeaajWuT4Fv/75827
-#EXTINF:-1 tvg-name="Eva Medios | CL" group-title="General" tvg-chno="" ,Eva Medios | CL [SD]
-http://promas.lat:2082/RetamalClaudio22/aEeaajWuT4Fv/75729
-#EXTINF:-1 tvg-name="Exprezion TV | CL" group-title="General" tvg-chno="" ,Exprezion TV | CL [SD]
-http://promas.lat:2082/RetamalClaudio22/aEeaajWuT4Fv/75737
-#EXTINF:-1 tvg-name="Extrema TV" group-title="General" tvg-chno="" ,Extrema TV [SD]
-http://promas.lat:2082/RetamalClaudio22/aEeaajWuT4Fv/30339
-#EXTINF:-1 tvg-name="FM Hit | CL" group-title="Musica" tvg-chno="" ,FM Hit | CL [SD]
-http://promas.lat:2082/RetamalClaudio22/aEeaajWuT4Fv/75928
-#EXTINF:-1 tvg-name="Fortaleza TV | CL" group-title="General" tvg-chno="" ,Fortaleza TV | CL [SD]
-http://promas.lat:2082/RetamalClaudio22/aEeaajWuT4Fv/76027
-#EXTINF:-1 tvg-name="Frecuencia 7 Aconcagua | CL" group-title="General" tvg-chno="" ,Frecuencia 7 Aconcagua | CL [SD]
-http://promas.lat:2082/RetamalClaudio22/aEeaajWuT4Fv/75826
-#EXTINF:-1 tvg-name="Frecuencia Musical TV | US" group-title="Musica" tvg-chno="" ,Frecuencia Musical TV | US [SD]
-http://promas.lat:2082/RetamalClaudio22/aEeaajWuT4Fv/75728
-#EXTINF:-1 tvg-name="Freestyledjs ✪ | CL" group-title="General" tvg-chno="" ,Freestyledjs ✪ | CL [SD]
-http://promas.lat:2082/RetamalClaudio22/aEeaajWuT4Fv/75717
-#EXTINF:-1 tvg-name="G Vision | CL" group-title="General" tvg-chno="" ,G Vision | CL [SD]
-http://promas.lat:2082/RetamalClaudio22/aEeaajWuT4Fv/75738
-#EXTINF:-1 tvg-name="Gracia TV | CL" group-title="General" tvg-chno="" ,Gracia TV | CL [SD]
-http://promas.lat:2082/RetamalClaudio22/aEeaajWuT4Fv/76015
-#EXTINF:-1 tvg-name="Hiper TV" group-title="General" tvg-chno="" ,Hiper TV [SD]
-http://promas.lat:2082/RetamalClaudio22/aEeaajWuT4Fv/33179
-#EXTINF:-1 tvg-name="Hito Cero TV | CL" group-title="Musica" tvg-chno="" ,Hito Cero TV | CL [SD]
-http://promas.lat:2082/RetamalClaudio22/aEeaajWuT4Fv/75899
-#EXTINF:-1 tvg-name="Holvoet TV - Atacama" group-title="General" tvg-chno="" ,Holvoet TV - Atacama [SD]
-http://promas.lat:2082/RetamalClaudio22/aEeaajWuT4Fv/75
-#EXTINF:-1 tvg-name="Holvoet TV | CL" group-title="General" tvg-chno="" ,Holvoet TV | CL [SD]
-http://promas.lat:2082/RetamalClaudio22/aEeaajWuT4Fv/75799
-#EXTINF:-1 tvg-name="Huasco TV | CL" group-title="General" tvg-chno="" ,Huasco TV | CL [SD]
-http://promas.lat:2082/RetamalClaudio22/aEeaajWuT4Fv/75803
-#EXTINF:-1 tvg-name="Inet TV - Osorno" group-title="General" tvg-chno="" ,Inet TV - Osorno [SD]
-http://promas.lat:2082/RetamalClaudio22/aEeaajWuT4Fv/67
-#EXTINF:-1 tvg-name="Infinita TV Premium | US" group-title="General" tvg-chno="" ,Infinita TV Premium | US [SD]
-http://promas.lat:2082/RetamalClaudio22/aEeaajWuT4Fv/75727
-#EXTINF:-1 tvg-name="Interactiva FM | CL" group-title="General" tvg-chno="" ,Interactiva FM | CL [SD]
-http://promas.lat:2082/RetamalClaudio22/aEeaajWuT4Fv/75987
-#EXTINF:-1 tvg-name="IPNA Medio | CL" group-title="General" tvg-chno="" ,IPNA Medio | CL [SD]
-http://promas.lat:2082/RetamalClaudio22/aEeaajWuT4Fv/76023
-#EXTINF:-1 tvg-name="Iquique TV | CL" group-title="General" tvg-chno="" ,Iquique TV | CL [SD]
-http://promas.lat:2082/RetamalClaudio22/aEeaajWuT4Fv/75791
-#EXTINF:-1 tvg-name="ITV Patagonia" group-title="General" tvg-chno="" ,ITV Patagonia [SD]
-http://promas.lat:2082/RetamalClaudio22/aEeaajWuT4Fv/39865
-#EXTINF:-1 tvg-name="La Chilena TV ✪ | CL" group-title="General" tvg-chno="" ,La Chilena TV ✪ | CL [SD]
-http://promas.lat:2082/RetamalClaudio22/aEeaajWuT4Fv/75676
-#EXTINF:-1 tvg-name="La Clave | CL" group-title="General" tvg-chno="" ,La Clave | CL [SD]
-http://promas.lat:2082/RetamalClaudio22/aEeaajWuT4Fv/75996
-#EXTINF:-1 tvg-name="La Granja TV | CL" group-title="General" tvg-chno="" ,La Granja TV | CL [SD]
-http://promas.lat:2082/RetamalClaudio22/aEeaajWuT4Fv/75736
-#EXTINF:-1 tvg-name="La Popular TV | CL" group-title="General" tvg-chno="" ,La Popular TV | CL [SD]
-http://promas.lat:2082/RetamalClaudio22/aEeaajWuT4Fv/75809
-#EXTINF:-1 tvg-name="La Nuestra ✪ | CL" group-title="General" tvg-chno="" ,La Nuestra ✪ | CL [SD]
-http://promas.lat:2082/RetamalClaudio22/aEeaajWuT4Fv/75707
-#EXTINF:-1 tvg-name="La Red | CL" group-title="General" tvg-chno="" ,La Red | CL [SD]
-http://promas.lat:2082/RetamalClaudio22/aEeaajWuT4Fv/75742
-#EXTINF:-1 tvg-name="La Voz De Los Que Sobran TV | CL" group-title="General" tvg-chno="" ,La Voz De Los Que Sobran TV | CL [SD]
-http://promas.lat:2082/RetamalClaudio22/aEeaajWuT4Fv/75787
-#EXTINF:-1 tvg-name="Longino TV ✪ | CL" group-title="General" tvg-chno="" ,Longino TV ✪ | CL [SD]
-http://promas.lat:2082/RetamalClaudio22/aEeaajWuT4Fv/75660
-#EXTINF:-1 tvg-name="Lanco TV" group-title="General" tvg-chno="" ,Lanco TV [SD]
-http://promas.lat:2082/RetamalClaudio22/aEeaajWuT4Fv/69231
-#EXTINF:-1 tvg-name="Los Sauces TV ✪ | CL" group-title="General" tvg-chno="" ,Los Sauces TV ✪ | CL [SD]
-http://promas.lat:2082/RetamalClaudio22/aEeaajWuT4Fv/75713
-#EXTINF:-1 tvg-name="Mega | CL" group-title="General" tvg-chno="" ,Mega | CL [SD]
-http://promas.lat:2082/RetamalClaudio22/aEeaajWuT4Fv/75747
-#EXTINF:-1 tvg-name="LRP Television | CL" group-title="General" tvg-chno="" ,LRP Television | CL [SD]
-http://promas.lat:2082/RetamalClaudio22/aEeaajWuT4Fv/75794
-#EXTINF:-1 tvg-name="Metanoia TV | CL" group-title="General" tvg-chno="" ,Metanoia TV | CL [SD]
-http://promas.lat:2082/RetamalClaudio22/aEeaajWuT4Fv/76021
-#EXTINF:-1 tvg-name="Modatima Petorca TV ✪ | CL" group-title="General" tvg-chno="" ,Modatima Petorca TV ✪ | CL [SD]
-http://promas.lat:2082/RetamalClaudio22/aEeaajWuT4Fv/75699
-#EXTINF:-1 tvg-name="Milodon TV | CL" group-title="General" tvg-chno="" ,Milodon TV | CL [SD]
-http://promas.lat:2082/RetamalClaudio22/aEeaajWuT4Fv/75934
-#EXTINF:-1 tvg-name="Molina TV | CL" group-title="General" tvg-chno="" ,Molina TV | CL [SD]
-http://promas.lat:2082/RetamalClaudio22/aEeaajWuT4Fv/75851
-#EXTINF:-1 tvg-name="NCTV | CL" group-title="General" tvg-chno="" ,NCTV | CL [SD]
-http://promas.lat:2082/RetamalClaudio22/aEeaajWuT4Fv/76014
-#EXTINF:-1 tvg-name="Nativa TV | CL" group-title="General" tvg-chno="" ,Nativa TV | CL [SD]
-http://promas.lat:2082/RetamalClaudio22/aEeaajWuT4Fv/75853
-#EXTINF:-1 tvg-name="Nexovision | CL" group-title="General" tvg-chno="" ,Nexovision | CL [SD]
-http://promas.lat:2082/RetamalClaudio22/aEeaajWuT4Fv/75807
-#EXTINF:-1 tvg-name="NTV ✪ | CL" group-title="General" tvg-chno="" ,NTV ✪ | CL [SD]
-http://promas.lat:2082/RetamalClaudio22/aEeaajWuT4Fv/75684
-#EXTINF:-1 tvg-name="Nueva Region TV | CL" group-title="General" tvg-chno="" ,Nueva Region TV | CL [SD]
-http://promas.lat:2082/RetamalClaudio22/aEeaajWuT4Fv/75859
-#EXTINF:-1 tvg-name="Nuevo Tiempo" group-title="General" tvg-chno="" ,Nuevo Tiempo [SD]
-http://promas.lat:2082/RetamalClaudio22/aEeaajWuT4Fv/30341
-#EXTINF:-1 tvg-name="Opinionsur TV ✪ | CL" group-title="General" tvg-chno="" ,Opinionsur TV ✪ | CL [SD]
-http://promas.lat:2082/RetamalClaudio22/aEeaajWuT4Fv/75723
-#EXTINF:-1 tvg-name="Origen TV | CL" group-title="General" tvg-chno="" ,Origen TV | CL [SD]
-http://promas.lat:2082/RetamalClaudio22/aEeaajWuT4Fv/75806
-#EXTINF:-1 tvg-name="Osorno TV+ | CL" group-title="General" tvg-chno="" ,Osorno TV+ | CL [SD]
-http://promas.lat:2082/RetamalClaudio22/aEeaajWuT4Fv/75889
-#EXTINF:-1 tvg-name="Pandamax TV | CL" group-title="General" tvg-chno="" ,Pandamax TV | CL [SD]
-http://promas.lat:2082/RetamalClaudio22/aEeaajWuT4Fv/75650
-#EXTINF:-1 tvg-name="Pauta TV | CL" group-title="General" tvg-chno="" ,Pauta TV | CL [SD]
-http://promas.lat:2082/RetamalClaudio22/aEeaajWuT4Fv/75997
-#EXTINF:-1 tvg-name="Pichilemu TV | CL" group-title="General" tvg-chno="" ,Pichilemu TV | CL [SD]
-http://promas.lat:2082/RetamalClaudio22/aEeaajWuT4Fv/75734
-#EXTINF:-1 tvg-name="PinguinoTV | CL" group-title="General" tvg-chno="" ,PinguinoTV | CL [SD]
-http://promas.lat:2082/RetamalClaudio22/aEeaajWuT4Fv/75910
-#EXTINF:-1 tvg-name="Pintana TV | CL" group-title="General" tvg-chno="" ,Pintana TV | CL [SD]
-http://promas.lat:2082/RetamalClaudio22/aEeaajWuT4Fv/75733
-#EXTINF:-1 tvg-name="PlanetaTV Kids | CL" group-title="Infantil" tvg-chno="" ,PlanetaTV Kids | CL [SD]
-http://promas.lat:2082/RetamalClaudio22/aEeaajWuT4Fv/75732
-#EXTINF:-1 tvg-name="PlanetaTV Movies ✪ | CL" group-title="Peliculas" tvg-chno="" ,PlanetaTV Movies ✪ | CL [SD]
-http://promas.lat:2082/RetamalClaudio22/aEeaajWuT4Fv/75675
-#EXTINF:-1 tvg-name="Plaza TV | CL" group-title="General" tvg-chno="" ,Plaza TV | CL [SD]
-http://promas.lat:2082/RetamalClaudio22/aEeaajWuT4Fv/75829
-#EXTINF:-1 tvg-name="PlanetaTV Music ✪ | CL" group-title="Musica" tvg-chno="" ,PlanetaTV Music ✪ | CL [SD]
-http://promas.lat:2082/RetamalClaudio22/aEeaajWuT4Fv/75674
-#EXTINF:-1 tvg-name="Portal FoxMix ✪ | CL" group-title="General" tvg-chno="" ,Portal FoxMix ✪ | CL [SD]
-http://promas.lat:2082/RetamalClaudio22/aEeaajWuT4Fv/75649
-#EXTINF:-1 tvg-name="Primicia Vida Television ✪ | CL" group-title="General" tvg-chno="" ,Primicia Vida Television ✪ | CL [SD]
-http://promas.lat:2082/RetamalClaudio22/aEeaajWuT4Fv/75703
-#EXTINF:-1 tvg-name="Pucon TV | CL" group-title="General" tvg-chno="" ,Pucon TV | CL [SD]
-http://promas.lat:2082/RetamalClaudio22/aEeaajWuT4Fv/75880
-#EXTINF:-1 tvg-name="Pudahuel FM | CL" group-title="General" tvg-chno="" ,Pudahuel FM | CL [SD]
-http://promas.lat:2082/RetamalClaudio22/aEeaajWuT4Fv/76003
-#EXTINF:-1 tvg-name="Puerta Norte | CL" group-title="General" tvg-chno="" ,Puerta Norte | CL [SD]
-http://promas.lat:2082/RetamalClaudio22/aEeaajWuT4Fv/75790
-#EXTINF:-1 tvg-name="Raices Arabes TV | CL" group-title="General" tvg-chno="" ,Raices Arabes TV | CL [SD]
-http://promas.lat:2082/RetamalClaudio22/aEeaajWuT4Fv/75779
-#EXTINF:-1 tvg-name="Puranoticia | CL" group-title="Noticias" tvg-chno="" ,Puranoticia | CL [SD]
-http://promas.lat:2082/RetamalClaudio22/aEeaajWuT4Fv/75770
-#EXTINF:-1 tvg-name="RAYZ Noticias ✪ | CL" group-title="Noticias" tvg-chno="" ,RAYZ Noticias ✪ | CL [SD]
-http://promas.lat:2082/RetamalClaudio22/aEeaajWuT4Fv/75692
-#EXTINF:-1 tvg-name="Red Circle ✪ | CL" group-title="General" tvg-chno="" ,Red Circle ✪ | CL [SD]
-http://promas.lat:2082/RetamalClaudio22/aEeaajWuT4Fv/75716
-#EXTINF:-1 tvg-name="Retro Play TV ✪ | CL" group-title="General" tvg-chno="" ,Retro Play TV ✪ | CL [SD]
-http://promas.lat:2082/RetamalClaudio22/aEeaajWuT4Fv/75679
-#EXTINF:-1 tvg-name="Restaurando Vidas TV | CL" group-title="General" tvg-chno="" ,Restaurando Vidas TV | CL [SD]
-http://promas.lat:2082/RetamalClaudio22/aEeaajWuT4Fv/76012
-#EXTINF:-1 tvg-name="Rewind TV" group-title="General" tvg-chno="" ,Rewind TV [SD]
-http://promas.lat:2082/RetamalClaudio22/aEeaajWuT4Fv/23340
-#EXTINF:-1 tvg-name="Ritmo TV | CL" group-title="General" tvg-chno="" ,Ritmo TV | CL [SD]
-http://promas.lat:2082/RetamalClaudio22/aEeaajWuT4Fv/75949
-#EXTINF:-1 tvg-name="Ruidos TV | CL" group-title="General" tvg-chno="" ,Ruidos TV | CL [SD]
-http://promas.lat:2082/RetamalClaudio22/aEeaajWuT4Fv/75671
-#EXTINF:-1 tvg-name="San Pedro Conecta | CL" group-title="General" tvg-chno="" ,San Pedro Conecta | CL [SD]
-http://promas.lat:2082/RetamalClaudio22/aEeaajWuT4Fv/75875
-#EXTINF:-1 tvg-name="Santa Cruz FM | CL" group-title="General" tvg-chno="" ,Santa Cruz FM | CL [SD]
-http://promas.lat:2082/RetamalClaudio22/aEeaajWuT4Fv/75941
-#EXTINF:-1 tvg-name="Santa Maria TV | CL" group-title="General" tvg-chno="" ,Santa Maria TV | CL [SD]
-http://promas.lat:2082/RetamalClaudio22/aEeaajWuT4Fv/75901
-#EXTINF:-1 tvg-name="Sensacion Costa | CL" group-title="General" tvg-chno="" ,Sensacion Costa | CL [SD]
-http://promas.lat:2082/RetamalClaudio22/aEeaajWuT4Fv/75917
-#EXTINF:-1 tvg-name="Sextavision | CL" group-title="General" tvg-chno="" ,Sextavision | CL [SD]
-http://promas.lat:2082/RetamalClaudio22/aEeaajWuT4Fv/75842
-#EXTINF:-1 tvg-name="Señal Mediabanco | CL" group-title="General" tvg-chno="" ,Señal Mediabanco | CL [SD]
-http://promas.lat:2082/RetamalClaudio22/aEeaajWuT4Fv/75773
-#EXTINF:-1 tvg-name="Solobailalo TV ✪ | CL" group-title="General" tvg-chno="" ,Solobailalo TV ✪ | CL [SD]
-http://promas.lat:2082/RetamalClaudio22/aEeaajWuT4Fv/75721
-#EXTINF:-1 tvg-name="Supersonika TV | CL" group-title="General" tvg-chno="" ,Supersonika TV | CL [SD]
-http://promas.lat:2082/RetamalClaudio22/aEeaajWuT4Fv/75866
-#EXTINF:-1 tvg-name="Sureña TV | CL" group-title="General" tvg-chno="" ,Sureña TV | CL [SD]
-http://promas.lat:2082/RetamalClaudio22/aEeaajWuT4Fv/75882
-#EXTINF:-1 tvg-name="SurTV | CL" group-title="General" tvg-chno="" ,SurTV | CL [SD]
-http://promas.lat:2082/RetamalClaudio22/aEeaajWuT4Fv/75906
-#EXTINF:-1 tvg-name="Suyai TV" group-title="General" tvg-chno="" ,Suyai TV [SD]
-http://promas.lat:2082/RetamalClaudio22/aEeaajWuT4Fv/74827
-#EXTINF:-1 tvg-name="Suyai TV II" group-title="General" tvg-chno="" ,Suyai TV II [SD]
-http://promas.lat:2082/RetamalClaudio22/aEeaajWuT4Fv/80099
-#EXTINF:-1 tvg-name="T-Vinet | CL" group-title="General" tvg-chno="" ,T-Vinet | CL [SD]
-http://promas.lat:2082/RetamalClaudio22/aEeaajWuT4Fv/75894
-#EXTINF:-1 tvg-name="T13 ✪ | CL" group-title="General" tvg-chno="" ,T13 ✪ | CL [SD]
-http://promas.lat:2082/RetamalClaudio22/aEeaajWuT4Fv/75680
-#EXTINF:-1 tvg-name="T31 Prime" group-title="General" tvg-chno="" ,T31 Prime [SD]
-http://promas.lat:2082/RetamalClaudio22/aEeaajWuT4Fv/52157
-#EXTINF:-1 tvg-name="Tele 8 Illapel | CL" group-title="General" tvg-chno="" ,Tele 8 Illapel | CL [SD]
-http://promas.lat:2082/RetamalClaudio22/aEeaajWuT4Fv/75813
-#EXTINF:-1 tvg-name="Telecanal Santa Cruz" group-title="General" tvg-chno="" ,Telecanal Santa Cruz [SD]
-http://promas.lat:2082/RetamalClaudio22/aEeaajWuT4Fv/30323
-#EXTINF:-1 tvg-name="Telecanal Talca | CL" group-title="General" tvg-chno="" ,Telecanal Talca | CL [SD]
-http://promas.lat:2082/RetamalClaudio22/aEeaajWuT4Fv/75846
-#EXTINF:-1 tvg-name="Telenorte ✪ | CL" group-title="General" tvg-chno="" ,Telenorte ✪ | CL [SD]
-http://promas.lat:2082/RetamalClaudio22/aEeaajWuT4Fv/75694
-#EXTINF:-1 tvg-name="Teletón TV" group-title="General" tvg-chno="" ,Teletón TV [SD]
-http://promas.lat:2082/RetamalClaudio22/aEeaajWuT4Fv/33183
-#EXTINF:-1 tvg-name="Televida HD | CL" group-title="General" tvg-chno="" ,Televida HD | CL [SD]
-http://promas.lat:2082/RetamalClaudio22/aEeaajWuT4Fv/76011
-#EXTINF:-1 tvg-name="Tendencias Prime | CL" group-title="General" tvg-chno="" ,Tendencias Prime | CL [SD]
-http://promas.lat:2082/RetamalClaudio22/aEeaajWuT4Fv/75831
-#EXTINF:-1 tvg-name="Terranova TV ✪ | CL" group-title="General" tvg-chno="" ,Terranova TV ✪ | CL [SD]
-http://promas.lat:2082/RetamalClaudio22/aEeaajWuT4Fv/75714
-#EXTINF:-1 tvg-name="Tevex | CL" group-title="General" tvg-chno="" ,Tevex | CL [SD]
-http://promas.lat:2082/RetamalClaudio22/aEeaajWuT4Fv/75781
-#EXTINF:-1 tvg-name="ThemaTV | CL" group-title="General" tvg-chno="" ,ThemaTV | CL [SD]
-http://promas.lat:2082/RetamalClaudio22/aEeaajWuT4Fv/75811
-#EXTINF:-1 tvg-name="TNE | CL" group-title="General" tvg-chno="" ,TNE | CL [SD]
-http://promas.lat:2082/RetamalClaudio22/aEeaajWuT4Fv/76010
-#EXTINF:-1 tvg-name="Tributo Valentina | CL" group-title="General" tvg-chno="" ,Tributo Valentina | CL [SD]
-http://promas.lat:2082/RetamalClaudio22/aEeaajWuT4Fv/75953
-#EXTINF:-1 tvg-name="TV 5 Linares | CL" group-title="General" tvg-chno="" ,TV 5 Linares | CL [SD]
-http://promas.lat:2082/RetamalClaudio22/aEeaajWuT4Fv/75849
-#EXTINF:-1 tvg-name="TV Canal 5 | CL" group-title="General" tvg-chno="" ,TV Canal 5 | CL [SD]
-http://promas.lat:2082/RetamalClaudio22/aEeaajWuT4Fv/75885
-#EXTINF:-1 tvg-name="TV Elqui | CL" group-title="General" tvg-chno="" ,TV Elqui | CL [SD]
-http://promas.lat:2082/RetamalClaudio22/aEeaajWuT4Fv/75815
-#EXTINF:-1 tvg-name="TV Emanuel | CL" group-title="General" tvg-chno="" ,TV Emanuel | CL [SD]
-http://promas.lat:2082/RetamalClaudio22/aEeaajWuT4Fv/76022
-#EXTINF:-1 tvg-name="TV EnPlacilla | CL" group-title="General" tvg-chno="" ,TV EnPlacilla | CL [SD]
-http://promas.lat:2082/RetamalClaudio22/aEeaajWuT4Fv/75817
-#EXTINF:-1 tvg-name="TV Provincial | CL" group-title="General" tvg-chno="" ,TV Provincial | CL [SD]
-http://promas.lat:2082/RetamalClaudio22/aEeaajWuT4Fv/75819
-#EXTINF:-1 tvg-name="TV Pop | CL" group-title="General" tvg-chno="" ,TV Pop | CL [SD]
-http://promas.lat:2082/RetamalClaudio22/aEeaajWuT4Fv/75780
-#EXTINF:-1 tvg-name="TV Norte Digital | CL" group-title="General" tvg-chno="" ,TV Norte Digital | CL [SD]
-http://promas.lat:2082/RetamalClaudio22/aEeaajWuT4Fv/75795
-#EXTINF:-1 tvg-name="TV Quinta Region | CL" group-title="General" tvg-chno="" ,TV Quinta Region | CL [SD]
-http://promas.lat:2082/RetamalClaudio22/aEeaajWuT4Fv/75824
-#EXTINF:-1 tvg-name="TV Salud | CL" group-title="General" tvg-chno="" ,TV Salud | CL [SD]
-http://promas.lat:2082/RetamalClaudio22/aEeaajWuT4Fv/75782
-#EXTINF:-1 tvg-name="TV vconline.cl | CL" group-title="General" tvg-chno="" ,TV vconline.cl | CL [SD]
-http://promas.lat:2082/RetamalClaudio22/aEeaajWuT4Fv/75925
-#EXTINF:-1 tvg-name="TV Turf Movil | CL" group-title="General" tvg-chno="" ,TV Turf Movil | CL [SD]
-http://promas.lat:2082/RetamalClaudio22/aEeaajWuT4Fv/75913
-#EXTINF:-1 tvg-name="TV y TV ✪ | CL" group-title="General" tvg-chno="" ,TV y TV ✪ | CL [SD]
-http://promas.lat:2082/RetamalClaudio22/aEeaajWuT4Fv/75710
-#EXTINF:-1 tvg-name="TV+ | CL" group-title="General" tvg-chno="" ,TV+ | CL [SD]
-http://promas.lat:2082/RetamalClaudio22/aEeaajWuT4Fv/75743
-#EXTINF:-1 tvg-name="TV8 | CL" group-title="General" tvg-chno="" ,TV8 | CL [SD]
-http://promas.lat:2082/RetamalClaudio22/aEeaajWuT4Fv/75871
-#EXTINF:-1 tvg-name="TVM" group-title="General" tvg-chno="" ,TVM [SD]
-http://promas.lat:2082/RetamalClaudio22/aEeaajWuT4Fv/50910
-#EXTINF:-1 tvg-name="TVN3 | CL" group-title="General" tvg-chno="" ,TVN3 | CL [SD]
-http://promas.lat:2082/RetamalClaudio22/aEeaajWuT4Fv/75745
-#EXTINF:-1 tvg-name="TVO San Vicente | CL" group-title="General" tvg-chno="" ,TVO San Vicente | CL [SD]
-http://promas.lat:2082/RetamalClaudio22/aEeaajWuT4Fv/75841
-#EXTINF:-1 tvg-name="TVR Canal 11 | CL" group-title="General" tvg-chno="" ,TVR Canal 11 | CL [SD]
-http://promas.lat:2082/RetamalClaudio22/aEeaajWuT4Fv/75844
-#EXTINF:-1 tvg-name="TVR | CL" group-title="General" tvg-chno="" ,TVR | CL [SD]
-http://promas.lat:2082/RetamalClaudio22/aEeaajWuT4Fv/75830
-#EXTINF:-1 tvg-name="TVU - Concepción" group-title="General" tvg-chno="" ,TVU - Concepción [SD]
-http://promas.lat:2082/RetamalClaudio22/aEeaajWuT4Fv/80
-#EXTINF:-1 tvg-name="U Chile TV ✪ | CL" group-title="General" tvg-chno="" ,U Chile TV ✪ | CL [SD]
-http://promas.lat:2082/RetamalClaudio22/aEeaajWuT4Fv/75681
-#EXTINF:-1 tvg-name="U Los Lagos | CL" group-title="General" tvg-chno="" ,U Los Lagos | CL [SD]
-http://promas.lat:2082/RetamalClaudio22/aEeaajWuT4Fv/75762
-#EXTINF:-1 tvg-name="UCV TV Chile" group-title="General" tvg-chno="" ,UCV TV Chile [SD]
-http://promas.lat:2082/RetamalClaudio22/aEeaajWuT4Fv/76534
-#EXTINF:-1 tvg-name="UesTV | CL" group-title="General" tvg-chno="" ,UesTV | CL [SD]
-http://promas.lat:2082/RetamalClaudio22/aEeaajWuT4Fv/75765
-#EXTINF:-1 tvg-name="Ufrovision | CL" group-title="General" tvg-chno="" ,Ufrovision | CL [SD]
-http://promas.lat:2082/RetamalClaudio22/aEeaajWuT4Fv/75761
-#EXTINF:-1 tvg-name="UMAG TV 1 - Punta Arenas" group-title="General" tvg-chno="" ,UMAG TV 1 - Punta Arenas [SD]
-http://promas.lat:2082/RetamalClaudio22/aEeaajWuT4Fv/71
-#EXTINF:-1 tvg-name="UMAG TV 2 - Punta Arenas" group-title="General" tvg-chno="" ,UMAG TV 2 - Punta Arenas [SD]
-http://promas.lat:2082/RetamalClaudio22/aEeaajWuT4Fv/54
-#EXTINF:-1 tvg-name="Universidad Autonoma TV | CL" group-title="General" tvg-chno="" ,Universidad Autonoma TV | CL [SD]
-http://promas.lat:2082/RetamalClaudio22/aEeaajWuT4Fv/75759
-#EXTINF:-1 tvg-name="Urban Pro DJ ✪ | CL" group-title="General" tvg-chno="" ,Urban Pro DJ ✪ | CL [SD]
-http://promas.lat:2082/RetamalClaudio22/aEeaajWuT4Fv/75705
-#EXTINF:-1 tvg-name="UTV San Clemente | CL" group-title="General" tvg-chno="" ,UTV San Clemente | CL [SD]
-http://promas.lat:2082/RetamalClaudio22/aEeaajWuT4Fv/75852
-#EXTINF:-1 tvg-name="Valparaiso Sporting | CL" group-title="Deportes" tvg-chno="" ,Valparaiso Sporting | CL [SD]
-http://promas.lat:2082/RetamalClaudio22/aEeaajWuT4Fv/75914
-#EXTINF:-1 tvg-name="VClassicTV Tropical ✪ | CL" group-title="General" tvg-chno="" ,VClassicTV Tropical ✪ | CL [SD]
-http://promas.lat:2082/RetamalClaudio22/aEeaajWuT4Fv/75667
-#EXTINF:-1 tvg-name="VClassicTV ✪ | CL" group-title="General" tvg-chno="" ,VClassicTV ✪ | CL [SD]
-http://promas.lat:2082/RetamalClaudio22/aEeaajWuT4Fv/75666
-#EXTINF:-1 tvg-name="Vida Nueva TV | CL" group-title="General" tvg-chno="" ,Vida Nueva TV | CL [SD]
-http://promas.lat:2082/RetamalClaudio22/aEeaajWuT4Fv/75825
-#EXTINF:-1 tvg-name="Vision Plus TV | CL" group-title="General" tvg-chno="" ,Vision Plus TV | CL [SD]
-http://promas.lat:2082/RetamalClaudio22/aEeaajWuT4Fv/75832
-#EXTINF:-1 tvg-name="Vivo TV | CL" group-title="General" tvg-chno="" ,Vivo TV | CL [SD]
-http://promas.lat:2082/RetamalClaudio22/aEeaajWuT4Fv/75845
-#EXTINF:-1 tvg-name="VLTV | CL" group-title="General" tvg-chno="" ,VLTV | CL [SD]
-http://promas.lat:2082/RetamalClaudio22/aEeaajWuT4Fv/75847
-#EXTINF:-1 tvg-name="VTV | CL" group-title="General" tvg-chno="" ,VTV | CL [SD]
-http://promas.lat:2082/RetamalClaudio22/aEeaajWuT4Fv/75816
-#EXTINF:-1 tvg-name="Wapp | CL" group-title="General" tvg-chno="" ,Wapp | CL [SD]
-http://promas.lat:2082/RetamalClaudio22/aEeaajWuT4Fv/75741
-#EXTINF:-1 tvg-name="VP Televisión | CL" group-title="General" tvg-chno="" ,VP Televisión | CL [SD]
-http://promas.lat:2082/RetamalClaudio22/aEeaajWuT4Fv/75867
-#EXTINF:-1 tvg-name="WF9 ✪ | CL" group-title="General" tvg-chno="" ,WF9 ✪ | CL [SD]
-http://promas.lat:2082/RetamalClaudio22/aEeaajWuT4Fv/75706
-#EXTINF:-1 tvg-name="YungayOnline | CL" group-title="General" tvg-chno="" ,YungayOnline | CL [SD]
-http://promas.lat:2082/RetamalClaudio22/aEeaajWuT4Fv/75864
-#EXTINF:-1 tvg-name="Zona de Prensa ✪ | CL" group-title="General" tvg-chno="" ,Zona de Prensa ✪ | CL [SD]
-http://promas.lat:2082/RetamalClaudio22/aEeaajWuT4Fv/75702
-#EXTINF:-1 tvg-name="TN (Todo Noticias)" group-title="Noticias" tvg-chno="" ,TN (Todo Noticias) [SD]
-http://promas.lat:2082/RetamalClaudio22/aEeaajWuT4Fv/138118
-#EXTINF:-1 tvg-name="Ziza TV | CL" group-title="General" tvg-chno="" ,Ziza TV | CL [SD]
-http://promas.lat:2082/RetamalClaudio22/aEeaajWuT4Fv/75777
-#EXTINF:-1 tvg-name="A24" group-title="General" tvg-chno="" ,A24 [SD]
-http://promas.lat:2082/RetamalClaudio22/aEeaajWuT4Fv/2339
-#EXTINF:-1 tvg-name="LN+ La Nación" group-title="General" tvg-chno="" ,LN+ La Nación [SD]
-http://promas.lat:2082/RetamalClaudio22/aEeaajWuT4Fv/2344
-#EXTINF:-1 tvg-name="Canal 26" group-title="General" tvg-chno="" ,Canal 26 [SD]
-http://promas.lat:2082/RetamalClaudio22/aEeaajWuT4Fv/1891
-#EXTINF:-1 tvg-name="C5N" group-title="General" tvg-chno="" ,C5N [SD]
-http://promas.lat:2082/RetamalClaudio22/aEeaajWuT4Fv/2340
-#EXTINF:-1 tvg-name="Crónica" group-title="General" tvg-chno="" ,Crónica [SD]
-http://promas.lat:2082/RetamalClaudio22/aEeaajWuT4Fv/2342
-#EXTINF:-1 tvg-name="Argentina 12" group-title="Internacional" tvg-chno="" ,Argentina 12 [SD]
-http://promas.lat:2082/RetamalClaudio22/aEeaajWuT4Fv/137389
-#EXTINF:-1 tvg-name="America TV" group-title="General" tvg-chno="" ,America TV [SD]
-http://promas.lat:2082/RetamalClaudio22/aEeaajWuT4Fv/6989
-#EXTINF:-1 tvg-name="America TV HD" group-title="General" tvg-chno="" ,America TV HD [SD]
-http://promas.lat:2082/RetamalClaudio22/aEeaajWuT4Fv/2345
-#EXTINF:-1 tvg-name="El Nueve" group-title="General" tvg-chno="" ,El Nueve [SD]
-http://promas.lat:2082/RetamalClaudio22/aEeaajWuT4Fv/2346
-#EXTINF:-1 tvg-name="El Nueve HD" group-title="General" tvg-chno="" ,El Nueve HD [SD]
-http://promas.lat:2082/RetamalClaudio22/aEeaajWuT4Fv/6987
-#EXTINF:-1 tvg-name="El Trece" group-title="General" tvg-chno="" ,El Trece [SD]
-http://promas.lat:2082/RetamalClaudio22/aEeaajWuT4Fv/6988
-#EXTINF:-1 tvg-name="El Trece HD" group-title="General" tvg-chno="" ,El Trece HD [SD]
-http://promas.lat:2082/RetamalClaudio22/aEeaajWuT4Fv/2347
-#EXTINF:-1 tvg-name="TELEFE" group-title="General" tvg-chno="" ,TELEFE [SD]
-http://promas.lat:2082/RetamalClaudio22/aEeaajWuT4Fv/6986
-#EXTINF:-1 tvg-name="TELEFE HD" group-title="General" tvg-chno="" ,TELEFE HD [SD]
-http://promas.lat:2082/RetamalClaudio22/aEeaajWuT4Fv/2348
-#EXTINF:-1 tvg-name="TV Publica" group-title="General" tvg-chno="" ,TV Publica [SD]
-http://promas.lat:2082/RetamalClaudio22/aEeaajWuT4Fv/166
-#EXTINF:-1 tvg-name="TV Publica HD" group-title="General" tvg-chno="" ,TV Publica HD [SD]
-http://promas.lat:2082/RetamalClaudio22/aEeaajWuT4Fv/167
-#EXTINF:-1 tvg-name="CineAR" group-title="Peliculas" tvg-chno="" ,CineAR [SD]
-http://promas.lat:2082/RetamalClaudio22/aEeaajWuT4Fv/2349
-#EXTINF:-1 tvg-name="Viajar TV" group-title="General" tvg-chno="" ,Viajar TV [SD]
-http://promas.lat:2082/RetamalClaudio22/aEeaajWuT4Fv/138006
-#EXTINF:-1 tvg-name="DeporTV Argentina" group-title="Internacional" tvg-chno="" ,DeporTV Argentina [SD]
-http://promas.lat:2082/RetamalClaudio22/aEeaajWuT4Fv/164
-#EXTINF:-1 tvg-name="Garage TV" group-title="General" tvg-chno="" ,Garage TV [SD]
-http://stream1.sersat.com/hls/garagetv.m3u8
-#EXTINF:-1 tvg-name="Bayres TV" group-title="General" tvg-chno="" ,Bayres TV [SD]
-http://promas.lat:2082/RetamalClaudio22/aEeaajWuT4Fv/75078
-#EXTINF:-1 tvg-name="Telemax HD" group-title="General" tvg-chno="" ,Telemax HD [SD]
-http://stream-gtlc.telecentro.net.ar/hls/telemaxhls/main.m3u8
-#EXTINF:-1 tvg-name="Argentinisima Satelital" group-title="General" tvg-chno="" ,Argentinisima Satelital [SD]
-http://stream1.sersat.com/hls/argentinisima.m3u8
-#EXTINF:-1 tvg-name="Canal 22 Web - Buenos Aires" group-title="General" tvg-chno="" ,Canal 22 Web - Buenos Aires [SD]
-http://promas.lat:2082/RetamalClaudio22/aEeaajWuT4Fv/51992
-#EXTINF:-1 tvg-name="Somos La Pampa" group-title="General" tvg-chno="" ,Somos La Pampa [SD]
-http://promas.lat:2082/RetamalClaudio22/aEeaajWuT4Fv/75202
-#EXTINF:-1 tvg-name="Power HD - Pinamar" group-title="General" tvg-chno="" ,Power HD - Pinamar [SD]
-http://live2.tensila.com/1-1-1.power-tv/hls/live/mystream.m3u8
-#EXTINF:-1 tvg-name="Canal 3 - Formosa" group-title="General" tvg-chno="" ,Canal 3 - Formosa [SD]
-http://promas.lat:2082/RetamalClaudio22/aEeaajWuT4Fv/173
-#EXTINF:-1 tvg-name="Canal 3 - Pinamar" group-title="General" tvg-chno="" ,Canal 3 - Pinamar [SD]
-http://promas.lat:2082/RetamalClaudio22/aEeaajWuT4Fv/183
-#EXTINF:-1 tvg-name="Canal 13 Max - Corrientes" group-title="General" tvg-chno="" ,Canal 13 Max - Corrientes [SD]
-http://promas.lat:2082/RetamalClaudio22/aEeaajWuT4Fv/157
-#EXTINF:-1 tvg-name="Cadena 103" group-title="General" tvg-chno="" ,Cadena 103 [SD]
-http://promas.lat:2082/RetamalClaudio22/aEeaajWuT4Fv/30356
-#EXTINF:-1 tvg-name="Quatro TV" group-title="General" tvg-chno="" ,Quatro TV [SD]
-http://promas.lat:2082/RetamalClaudio22/aEeaajWuT4Fv/75190
-#EXTINF:-1 tvg-name="Canal 50 Morteros" group-title="General" tvg-chno="" ,Canal 50 Morteros [SD]
-http://promas.lat:2082/RetamalClaudio22/aEeaajWuT4Fv/30357
-#EXTINF:-1 tvg-name="Gen TV (CABA)" group-title="General" tvg-chno="" ,Gen TV (CABA) [SD]
-http://promas.lat:2082/RetamalClaudio22/aEeaajWuT4Fv/37488
-#EXTINF:-1 tvg-name="Ciudad TV" group-title="General" tvg-chno="" ,Ciudad TV [SD]
-http://promas.lat:2082/RetamalClaudio22/aEeaajWuT4Fv/30358
-#EXTINF:-1 tvg-name="Milennio TV" group-title="General" tvg-chno="" ,Milennio TV [SD]
-http://promas.lat:2082/RetamalClaudio22/aEeaajWuT4Fv/49552
-#EXTINF:-1 tvg-name="5TV" group-title="General" tvg-chno="" ,5TV [SD]
-http://promas.lat:2082/RetamalClaudio22/aEeaajWuT4Fv/51985
-#EXTINF:-1 tvg-name="Nortevision" group-title="General" tvg-chno="" ,Nortevision [SD]
-http://promas.lat:2082/RetamalClaudio22/aEeaajWuT4Fv/51986
-#EXTINF:-1 tvg-name="Canal 13 Jujuy" group-title="General" tvg-chno="" ,Canal 13 Jujuy [SD]
-http://promas.lat:2082/RetamalClaudio22/aEeaajWuT4Fv/51987
-#EXTINF:-1 tvg-name="Canal 20 Villamaria" group-title="General" tvg-chno="" ,Canal 20 Villamaria [SD]
-http://promas.lat:2082/RetamalClaudio22/aEeaajWuT4Fv/51990
-#EXTINF:-1 tvg-name="Canal 21 TV" group-title="General" tvg-chno="" ,Canal 21 TV [SD]
-http://promas.lat:2082/RetamalClaudio22/aEeaajWuT4Fv/51991
-#EXTINF:-1 tvg-name="San Luis+" group-title="General" tvg-chno="" ,San Luis+ [SD]
-http://promas.lat:2082/RetamalClaudio22/aEeaajWuT4Fv/79890
-#EXTINF:-1 tvg-name="Canal 9 Televida | Mendoza" group-title="General" tvg-chno="" ,Canal 9 Televida | Mendoza [SD]
-http://promas.lat:2082/RetamalClaudio22/aEeaajWuT4Fv/75130
-#EXTINF:-1 tvg-name="Agofa TV - Rosario" group-title="General" tvg-chno="" ,Agofa TV - Rosario [SD]
-http://promas.lat:2082/RetamalClaudio22/aEeaajWuT4Fv/81935
-#EXTINF:-1 tvg-name="Neo TV" group-title="General" tvg-chno="" ,Neo TV [SD]
-http://promas.lat:2082/RetamalClaudio22/aEeaajWuT4Fv/69881
-#EXTINF:-1 tvg-name="Music Top | AR" group-title="Musica" tvg-chno="" ,Music Top | AR [SD]
-http://promas.lat:2082/RetamalClaudio22/aEeaajWuT4Fv/75244
-#EXTINF:-1 tvg-name="Avivamiento TV" group-title="General" tvg-chno="" ,Avivamiento TV [SD]
-http://promas.lat:2082/RetamalClaudio22/aEeaajWuT4Fv/19631
-#EXTINF:-1 tvg-name="Cali TV" group-title="General" tvg-chno="" ,Cali TV [SD]
-http://promas.lat:2082/RetamalClaudio22/aEeaajWuT4Fv/19632
-#EXTINF:-1 tvg-name="Canal Insitucional" group-title="General" tvg-chno="" ,Canal Insitucional [SD]
-http://promas.lat:2082/RetamalClaudio22/aEeaajWuT4Fv/13321
-#EXTINF:-1 tvg-name="Canal 1" group-title="General" tvg-chno="" ,Canal 1 [SD]
-http://promas.lat:2082/RetamalClaudio22/aEeaajWuT4Fv/36067
-#EXTINF:-1 tvg-name="Canal 1 HD" group-title="General" tvg-chno="" ,Canal 1 HD [SD]
-http://promas.lat:2082/RetamalClaudio22/aEeaajWuT4Fv/56581
-#EXTINF:-1 tvg-name="Canal TDI" group-title="General" tvg-chno="" ,Canal TDI [SD]
-http://promas.lat:2082/RetamalClaudio22/aEeaajWuT4Fv/19633
-#EXTINF:-1 tvg-name="Canal TRO" group-title="General" tvg-chno="" ,Canal TRO [SD]
-http://promas.lat:2082/RetamalClaudio22/aEeaajWuT4Fv/54979
-#EXTINF:-1 tvg-name="Canal Vision Dorada" group-title="General" tvg-chno="" ,Canal Vision Dorada [SD]
-http://promas.lat:2082/RetamalClaudio22/aEeaajWuT4Fv/2616
-#EXTINF:-1 tvg-name="Canal Tr3ce" group-title="General" tvg-chno="" ,Canal Tr3ce [SD]
-http://promas.lat:2082/RetamalClaudio22/aEeaajWuT4Fv/2614
-#EXTINF:-1 tvg-name="Caracol  1" group-title="General" tvg-chno="" ,Caracol  1 [SD]
-http://promas.lat:2082/RetamalClaudio22/aEeaajWuT4Fv/2369
-#EXTINF:-1 tvg-name="Caracol HD" group-title="General" tvg-chno="" ,Caracol HD [SD]
-http://promas.lat:2082/RetamalClaudio22/aEeaajWuT4Fv/38211
-#EXTINF:-1 tvg-name="Caracol 2" group-title="General" tvg-chno="" ,Caracol 2 [SD]
-http://promas.lat:2082/RetamalClaudio22/aEeaajWuT4Fv/30606
-#EXTINF:-1 tvg-name="Caracol FHD" group-title="General" tvg-chno="" ,Caracol FHD [SD]
-http://promas.lat:2082/RetamalClaudio22/aEeaajWuT4Fv/38210
-#EXTINF:-1 tvg-name="City TV" group-title="General" tvg-chno="" ,City TV [SD]
-http://promas.lat:2082/RetamalClaudio22/aEeaajWuT4Fv/2373
-#EXTINF:-1 tvg-name="CNC Medellín" group-title="General" tvg-chno="" ,CNC Medellín [SD]
-http://promas.lat:2082/RetamalClaudio22/aEeaajWuT4Fv/13328
-#EXTINF:-1 tvg-name="CNC Pasto" group-title="General" tvg-chno="" ,CNC Pasto [SD]
-http://promas.lat:2082/RetamalClaudio22/aEeaajWuT4Fv/13330
-#EXTINF:-1 tvg-name="Cosmovisión" group-title="General" tvg-chno="" ,Cosmovisión [SD]
-http://promas.lat:2082/RetamalClaudio22/aEeaajWuT4Fv/13326
-#EXTINF:-1 tvg-name="CTV" group-title="General" tvg-chno="" ,CTV [SD]
-http://promas.lat:2082/RetamalClaudio22/aEeaajWuT4Fv/30364
-#EXTINF:-1 tvg-name="Canal Capital" group-title="General" tvg-chno="" ,Canal Capital [SD]
-http://promas.lat:2082/RetamalClaudio22/aEeaajWuT4Fv/30363
-#EXTINF:-1 tvg-name="Eureka" group-title="General" tvg-chno="" ,Eureka [SD]
-http://promas.lat:2082/RetamalClaudio22/aEeaajWuT4Fv/51030
-#EXTINF:-1 tvg-name="NTN24" group-title="General" tvg-chno="" ,NTN24 [SD]
-http://promas.lat:2082/RetamalClaudio22/aEeaajWuT4Fv/2374
-#EXTINF:-1 tvg-name="Oasis TV" group-title="General" tvg-chno="" ,Oasis TV [SD]
-http://promas.lat:2082/RetamalClaudio22/aEeaajWuT4Fv/13324
-#EXTINF:-1 tvg-name="Noticiero 90 Minutos" group-title="General" tvg-chno="" ,Noticiero 90 Minutos [SD]
-http://promas.lat:2082/RetamalClaudio22/aEeaajWuT4Fv/13327
-#EXTINF:-1 tvg-name="RCN" group-title="General" tvg-chno="" ,RCN [SD]
-http://promas.lat:2082/RetamalClaudio22/aEeaajWuT4Fv/7112
-#EXTINF:-1 tvg-name="RCN HD" group-title="General" tvg-chno="" ,RCN HD [SD]
-http://promas.lat:2082/RetamalClaudio22/aEeaajWuT4Fv/30679
-#EXTINF:-1 tvg-name="RCN FHD" group-title="General" tvg-chno="" ,RCN FHD [SD]
-http://promas.lat:2082/RetamalClaudio22/aEeaajWuT4Fv/44540
-#EXTINF:-1 tvg-name="RCN Novelas" group-title="General" tvg-chno="" ,RCN Novelas [SD]
-http://promas.lat:2082/RetamalClaudio22/aEeaajWuT4Fv/30612
-#EXTINF:-1 tvg-name="RCN Más+" group-title="General" tvg-chno="" ,RCN Más+ [SD]
-http://promas.lat:2082/RetamalClaudio22/aEeaajWuT4Fv/57151
-#EXTINF:-1 tvg-name="Señal Colombia HD" group-title="Internacional" tvg-chno="" ,Señal Colombia HD [SD]
-http://promas.lat:2082/RetamalClaudio22/aEeaajWuT4Fv/51027
-#EXTINF:-1 tvg-name="Suram TV HD" group-title="General" tvg-chno="" ,Suram TV HD [SD]
-http://promas.lat:2082/RetamalClaudio22/aEeaajWuT4Fv/19635
-#EXTINF:-1 tvg-name="Telemedellin" group-title="General" tvg-chno="" ,Telemedellin [SD]
-http://promas.lat:2082/RetamalClaudio22/aEeaajWuT4Fv/19636
-#EXTINF:-1 tvg-name="Teleantioquia" group-title="General" tvg-chno="" ,Teleantioquia [SD]
-http://promas.lat:2082/RetamalClaudio22/aEeaajWuT4Fv/31854
-#EXTINF:-1 tvg-name="Telecafé" group-title="General" tvg-chno="" ,Telecafé [SD]
-http://promas.lat:2082/RetamalClaudio22/aEeaajWuT4Fv/2377
-#EXTINF:-1 tvg-name="Telecaribe" group-title="General" tvg-chno="" ,Telecaribe [SD]
-http://promas.lat:2082/RetamalClaudio22/aEeaajWuT4Fv/2378
-#EXTINF:-1 tvg-name="Telecaribe Plus" group-title="General" tvg-chno="" ,Telecaribe Plus [SD]
-http://promas.lat:2082/RetamalClaudio22/aEeaajWuT4Fv/48451
-#EXTINF:-1 tvg-name="Teleislas" group-title="General" tvg-chno="" ,Teleislas [SD]
-http://promas.lat:2082/RetamalClaudio22/aEeaajWuT4Fv/13323
-#EXTINF:-1 tvg-name="Tele Familia" group-title="General" tvg-chno="" ,Tele Familia [SD]
-http://promas.lat:2082/RetamalClaudio22/aEeaajWuT4Fv/48452
-#EXTINF:-1 tvg-name="Telemusica HD" group-title="Musica" tvg-chno="" ,Telemusica HD [SD]
-http://promas.lat:2082/RetamalClaudio22/aEeaajWuT4Fv/19637
-#EXTINF:-1 tvg-name="Telepacifico" group-title="General" tvg-chno="" ,Telepacifico [SD]
-http://promas.lat:2082/RetamalClaudio22/aEeaajWuT4Fv/2617
-#EXTINF:-1 tvg-name="TDI" group-title="General" tvg-chno="" ,TDI [SD]
-http://promas.lat:2082/RetamalClaudio22/aEeaajWuT4Fv/51029
-#EXTINF:-1 tvg-name="Tu Universo Tv" group-title="General" tvg-chno="" ,Tu Universo Tv [SD]
-http://promas.lat:2082/RetamalClaudio22/aEeaajWuT4Fv/52926
-#EXTINF:-1 tvg-name="VEO TV" group-title="General" tvg-chno="" ,VEO TV [SD]
-http://promas.lat:2082/RetamalClaudio22/aEeaajWuT4Fv/19634
-#EXTINF:-1 tvg-name="Cablenoticias" group-title="Noticias" tvg-chno="" ,Cablenoticias [SD]
-http://promas.lat:2082/RetamalClaudio22/aEeaajWuT4Fv/67064
-#EXTINF:-1 tvg-name="Canal 2 - Cali" group-title="General" tvg-chno="" ,Canal 2 - Cali [SD]
-http://promas.lat:2082/RetamalClaudio22/aEeaajWuT4Fv/76555
-#EXTINF:-1 tvg-name="Señal Colombia SD" group-title="Internacional" tvg-chno="" ,Señal Colombia SD [SD]
-http://promas.lat:2082/RetamalClaudio22/aEeaajWuT4Fv/74949
-#EXTINF:-1 tvg-name="Mi Música Popular" group-title="General" tvg-chno="" ,Mi Música Popular [SD]
-http://promas.lat:2082/RetamalClaudio22/aEeaajWuT4Fv/76958
-#EXTINF:-1 tvg-name="Cantina TV" group-title="General" tvg-chno="" ,Cantina TV [SD]
-http://promas.lat:2082/RetamalClaudio22/aEeaajWuT4Fv/74754
-#EXTINF:-1 tvg-name="La Kalle TV" group-title="General" tvg-chno="" ,La Kalle TV [SD]
-http://promas.lat:2082/RetamalClaudio22/aEeaajWuT4Fv/81018
-#EXTINF:-1 tvg-name="A&E" group-title="General" tvg-chno="" ,A&E [SD]
-http://promas.lat:2082/RetamalClaudio22/aEeaajWuT4Fv/7046
-#EXTINF:-1 tvg-name="City TV HD" group-title="General" tvg-chno="" ,City TV HD [SD]
-http://promas.lat:2082/RetamalClaudio22/aEeaajWuT4Fv/81207
-#EXTINF:-1 tvg-name="A&E HD" group-title="General" tvg-chno="" ,A&E HD [SD]
-http://promas.lat:2082/RetamalClaudio22/aEeaajWuT4Fv/2432
-#EXTINF:-1 tvg-name="AMC" group-title="General" tvg-chno="" ,AMC [SD]
-http://promas.lat:2082/RetamalClaudio22/aEeaajWuT4Fv/7047
-#EXTINF:-1 tvg-name="AMC HD" group-title="General" tvg-chno="" ,AMC HD [SD]
-http://promas.lat:2082/RetamalClaudio22/aEeaajWuT4Fv/2619
-#EXTINF:-1 tvg-name="AXN HD" group-title="General" tvg-chno="" ,AXN HD [SD]
-http://promas.lat:2082/RetamalClaudio22/aEeaajWuT4Fv/2620
-#EXTINF:-1 tvg-name="AXN" group-title="General" tvg-chno="" ,AXN [SD]
-http://promas.lat:2082/RetamalClaudio22/aEeaajWuT4Fv/7048
-#EXTINF:-1 tvg-name="AMC Series" group-title="Series" tvg-chno="" ,AMC Series [SD]
-http://promas.lat:2082/RetamalClaudio22/aEeaajWuT4Fv/138496
-#EXTINF:-1 tvg-name="AXN Movies HD" group-title="Peliculas" tvg-chno="" ,AXN Movies HD [SD]
-http://promas.lat:2082/RetamalClaudio22/aEeaajWuT4Fv/29513
-#EXTINF:-1 tvg-name="Az Cinema" group-title="Peliculas" tvg-chno="" ,Az Cinema [SD]
-http://promas.lat:2082/RetamalClaudio22/aEeaajWuT4Fv/14135
-#EXTINF:-1 tvg-name="Cinecanal HD" group-title="Peliculas" tvg-chno="" ,Cinecanal HD [SD]
-http://promas.lat:2082/RetamalClaudio22/aEeaajWuT4Fv/2622
-#EXTINF:-1 tvg-name="Cinemax" group-title="Peliculas" tvg-chno="" ,Cinemax [SD]
-http://promas.lat:2082/RetamalClaudio22/aEeaajWuT4Fv/2623
-#EXTINF:-1 tvg-name="Cinecanal" group-title="Peliculas" tvg-chno="" ,Cinecanal [SD]
-http://promas.lat:2082/RetamalClaudio22/aEeaajWuT4Fv/7054
-#EXTINF:-1 tvg-name="Cinemax HD" group-title="Peliculas" tvg-chno="" ,Cinemax HD [SD]
-http://promas.lat:2082/RetamalClaudio22/aEeaajWuT4Fv/50833
-#EXTINF:-1 tvg-name="Cinema Dinamita" group-title="Peliculas" tvg-chno="" ,Cinema Dinamita [SD]
-http://promas.lat:2082/RetamalClaudio22/aEeaajWuT4Fv/49384
-#EXTINF:-1 tvg-name="Cine Latino" group-title="Peliculas" tvg-chno="" ,Cine Latino [SD]
-http://promas.lat:2082/RetamalClaudio22/aEeaajWuT4Fv/49062
-#EXTINF:-1 tvg-name="Cinema Disney Family" group-title="Peliculas" tvg-chno="" ,Cinema Disney Family [SD]
-http://promas.lat:2082/RetamalClaudio22/aEeaajWuT4Fv/48949
-#EXTINF:-1 tvg-name="Cinema Familia" group-title="Peliculas" tvg-chno="" ,Cinema Familia [SD]
-http://promas.lat:2082/RetamalClaudio22/aEeaajWuT4Fv/6883
-#EXTINF:-1 tvg-name="Cinema Disney" group-title="Peliculas" tvg-chno="" ,Cinema Disney [SD]
-http://promas.lat:2082/RetamalClaudio22/aEeaajWuT4Fv/49063
-#EXTINF:-1 tvg-name="Canal Hollywood" group-title="General" tvg-chno="" ,Canal Hollywood [SD]
-http://promas.lat:2082/RetamalClaudio22/aEeaajWuT4Fv/29483
-#EXTINF:-1 tvg-name="Clover Channel" group-title="General" tvg-chno="" ,Clover Channel [SD]
-http://promas.lat:2082/RetamalClaudio22/aEeaajWuT4Fv/79927
-#EXTINF:-1 tvg-name="+Cine" group-title="Peliculas" tvg-chno="" ,+Cine [SD]
-http://promas.lat:2082/RetamalClaudio22/aEeaajWuT4Fv/51765
-#EXTINF:-1 tvg-name="De Película" group-title="General" tvg-chno="" ,De Película [SD]
-http://promas.lat:2082/RetamalClaudio22/aEeaajWuT4Fv/2624
-#EXTINF:-1 tvg-name="De Película Plus" group-title="General" tvg-chno="" ,De Película Plus [SD]
-http://promas.lat:2082/RetamalClaudio22/aEeaajWuT4Fv/2625
-#EXTINF:-1 tvg-name="De Película Clásico" group-title="General" tvg-chno="" ,De Película Clásico [SD]
-http://promas.lat:2082/RetamalClaudio22/aEeaajWuT4Fv/14716
-#EXTINF:-1 tvg-name="Dreamworks" group-title="General" tvg-chno="" ,Dreamworks [SD]
-http://promas.lat:2082/RetamalClaudio22/aEeaajWuT4Fv/56978
-#EXTINF:-1 tvg-name="Europa Europa" group-title="General" tvg-chno="" ,Europa Europa [SD]
-http://promas.lat:2082/RetamalClaudio22/aEeaajWuT4Fv/2626
-#EXTINF:-1 tvg-name="Film & Arts" group-title="Peliculas" tvg-chno="" ,Film & Arts [SD]
-http://promas.lat:2082/RetamalClaudio22/aEeaajWuT4Fv/2627
-#EXTINF:-1 tvg-name="Film & Arts HD" group-title="Peliculas" tvg-chno="" ,Film & Arts HD [SD]
-http://promas.lat:2082/RetamalClaudio22/aEeaajWuT4Fv/56693
-#EXTINF:-1 tvg-name="FX" group-title="General" tvg-chno="" ,FX [SD]
-http://promas.lat:2082/RetamalClaudio22/aEeaajWuT4Fv/30432
-#EXTINF:-1 tvg-name="FX HD" group-title="General" tvg-chno="" ,FX HD [SD]
-http://promas.lat:2082/RetamalClaudio22/aEeaajWuT4Fv/2636
-#EXTINF:-1 tvg-name="Golden" group-title="Deportes" tvg-chno="" ,Golden [SD]
-http://promas.lat:2082/RetamalClaudio22/aEeaajWuT4Fv/2638
-#EXTINF:-1 tvg-name="Golden Edge" group-title="Deportes" tvg-chno="" ,Golden Edge [SD]
-http://promas.lat:2082/RetamalClaudio22/aEeaajWuT4Fv/2639
-#EXTINF:-1 tvg-name="Golden Plus" group-title="Deportes" tvg-chno="" ,Golden Plus [SD]
-http://promas.lat:2082/RetamalClaudio22/aEeaajWuT4Fv/2640
-#EXTINF:-1 tvg-name="Golden Premier" group-title="Deportes" tvg-chno="" ,Golden Premier [SD]
-http://promas.lat:2082/RetamalClaudio22/aEeaajWuT4Fv/49061
-#EXTINF:-1 tvg-name="Golden Premier 2" group-title="Deportes" tvg-chno="" ,Golden Premier 2 [SD]
-http://promas.lat:2082/RetamalClaudio22/aEeaajWuT4Fv/53388
-#EXTINF:-1 tvg-name="HBO" group-title="Peliculas" tvg-chno="" ,HBO [SD]
-http://promas.lat:2082/RetamalClaudio22/aEeaajWuT4Fv/7010
-#EXTINF:-1 tvg-name="HBO HD" group-title="Peliculas" tvg-chno="" ,HBO HD [SD]
-http://promas.lat:2082/RetamalClaudio22/aEeaajWuT4Fv/2642
-#EXTINF:-1 tvg-name="HBO 2" group-title="Peliculas" tvg-chno="" ,HBO 2 [SD]
-http://promas.lat:2082/RetamalClaudio22/aEeaajWuT4Fv/7011
-#EXTINF:-1 tvg-name="HBO 2 HD" group-title="Peliculas" tvg-chno="" ,HBO 2 HD [SD]
-http://promas.lat:2082/RetamalClaudio22/aEeaajWuT4Fv/2643
-#EXTINF:-1 tvg-name="HBO Family" group-title="Peliculas" tvg-chno="" ,HBO Family [SD]
-http://promas.lat:2082/RetamalClaudio22/aEeaajWuT4Fv/7013
-#EXTINF:-1 tvg-name="HBO Family HD" group-title="Peliculas" tvg-chno="" ,HBO Family HD [SD]
-http://promas.lat:2082/RetamalClaudio22/aEeaajWuT4Fv/2644
-#EXTINF:-1 tvg-name="HBO Mundi" group-title="Peliculas" tvg-chno="" ,HBO Mundi [SD]
-http://promas.lat:2082/RetamalClaudio22/aEeaajWuT4Fv/15618
-#EXTINF:-1 tvg-name="HBO Mundi  HD" group-title="Peliculas" tvg-chno="" ,HBO Mundi  HD [SD]
-http://promas.lat:2082/RetamalClaudio22/aEeaajWuT4Fv/30415
-#EXTINF:-1 tvg-name="HBO Plus" group-title="Peliculas" tvg-chno="" ,HBO Plus [SD]
-http://promas.lat:2082/RetamalClaudio22/aEeaajWuT4Fv/7012
-#EXTINF:-1 tvg-name="HBO Plus HD" group-title="Peliculas" tvg-chno="" ,HBO Plus HD [SD]
-http://promas.lat:2082/RetamalClaudio22/aEeaajWuT4Fv/2645
-#EXTINF:-1 tvg-name="HBO Pop HD" group-title="Peliculas" tvg-chno="" ,HBO Pop HD [SD]
-http://promas.lat:2082/RetamalClaudio22/aEeaajWuT4Fv/30416
-#EXTINF:-1 tvg-name="HBO Pop" group-title="Peliculas" tvg-chno="" ,HBO Pop [SD]
-http://promas.lat:2082/RetamalClaudio22/aEeaajWuT4Fv/15619
-#EXTINF:-1 tvg-name="HBO Signature" group-title="Peliculas" tvg-chno="" ,HBO Signature [SD]
-http://promas.lat:2082/RetamalClaudio22/aEeaajWuT4Fv/7014
-#EXTINF:-1 tvg-name="HBO Signature HD" group-title="Peliculas" tvg-chno="" ,HBO Signature HD [SD]
-http://promas.lat:2082/RetamalClaudio22/aEeaajWuT4Fv/2646
-#EXTINF:-1 tvg-name="HBO Xtreme" group-title="Peliculas" tvg-chno="" ,HBO Xtreme [SD]
-http://promas.lat:2082/RetamalClaudio22/aEeaajWuT4Fv/30625
-#EXTINF:-1 tvg-name="HBO Xtreme HD" group-title="Peliculas" tvg-chno="" ,HBO Xtreme HD [SD]
-http://promas.lat:2082/RetamalClaudio22/aEeaajWuT4Fv/2695
-#EXTINF:-1 tvg-name="Movistar Cine" group-title="Peliculas" tvg-chno="" ,Movistar Cine [SD]
-http://promas.lat:2082/RetamalClaudio22/aEeaajWuT4Fv/2647
-#EXTINF:-1 tvg-name="MultiPremier" group-title="General" tvg-chno="" ,MultiPremier [SD]
-http://promas.lat:2082/RetamalClaudio22/aEeaajWuT4Fv/77337
-#EXTINF:-1 tvg-name="Netflix Cinema 1" group-title="Peliculas" tvg-chno="" ,Netflix Cinema 1 [SD]
-http://promas.lat:2082/RetamalClaudio22/aEeaajWuT4Fv/51451
-#EXTINF:-1 tvg-name="Netflix Cinema 2" group-title="Peliculas" tvg-chno="" ,Netflix Cinema 2 [SD]
-http://promas.lat:2082/RetamalClaudio22/aEeaajWuT4Fv/51452
-#EXTINF:-1 tvg-name="Netflix Cinema 3" group-title="Peliculas" tvg-chno="" ,Netflix Cinema 3 [SD]
-http://promas.lat:2082/RetamalClaudio22/aEeaajWuT4Fv/51453
-#EXTINF:-1 tvg-name="Netflix Cinema 4" group-title="Peliculas" tvg-chno="" ,Netflix Cinema 4 [SD]
-http://promas.lat:2082/RetamalClaudio22/aEeaajWuT4Fv/51454
-#EXTINF:-1 tvg-name="Netflix Cinema 5" group-title="Peliculas" tvg-chno="" ,Netflix Cinema 5 [SD]
-http://promas.lat:2082/RetamalClaudio22/aEeaajWuT4Fv/51455
-#EXTINF:-1 tvg-name="Disney Cinema 1" group-title="Peliculas" tvg-chno="" ,Disney Cinema 1 [SD]
-http://promas.lat:2082/RetamalClaudio22/aEeaajWuT4Fv/51456
-#EXTINF:-1 tvg-name="Disney Cinema 3" group-title="Peliculas" tvg-chno="" ,Disney Cinema 3 [SD]
-http://promas.lat:2082/RetamalClaudio22/aEeaajWuT4Fv/51458
-#EXTINF:-1 tvg-name="Paramount Channel" group-title="General" tvg-chno="" ,Paramount Channel [SD]
-http://promas.lat:2082/RetamalClaudio22/aEeaajWuT4Fv/30626
-#EXTINF:-1 tvg-name="Squirrel" group-title="General" tvg-chno="" ,Squirrel [SD]
-http://promas.lat:2082/RetamalClaudio22/aEeaajWuT4Fv/4884
-#EXTINF:-1 tvg-name="Panico Tv" group-title="General" tvg-chno="" ,Panico Tv [SD]
-http://promas.lat:2082/RetamalClaudio22/aEeaajWuT4Fv/27625
-#EXTINF:-1 tvg-name="Plex Indie" group-title="General" tvg-chno="" ,Plex Indie [SD]
-http://promas.lat:2082/RetamalClaudio22/aEeaajWuT4Fv/7001
-#EXTINF:-1 tvg-name="Prime Video" group-title="General" tvg-chno="" ,Prime Video [SD]
-http://promas.lat:2082/RetamalClaudio22/aEeaajWuT4Fv/2657
-#EXTINF:-1 tvg-name="Plex Movie" group-title="Peliculas" tvg-chno="" ,Plex Movie [SD]
-http://promas.lat:2082/RetamalClaudio22/aEeaajWuT4Fv/7002
-#EXTINF:-1 tvg-name="Plex Retro" group-title="General" tvg-chno="" ,Plex Retro [SD]
-http://promas.lat:2082/RetamalClaudio22/aEeaajWuT4Fv/7003
-#EXTINF:-1 tvg-name="Star Channel" group-title="General" tvg-chno="" ,Star Channel [SD]
-http://promas.lat:2082/RetamalClaudio22/aEeaajWuT4Fv/7015
-#EXTINF:-1 tvg-name="Star Channel HD" group-title="General" tvg-chno="" ,Star Channel HD [SD]
-http://promas.lat:2082/RetamalClaudio22/aEeaajWuT4Fv/2628
-#EXTINF:-1 tvg-name="Sony" group-title="General" tvg-chno="" ,Sony [SD]
-http://promas.lat:2082/RetamalClaudio22/aEeaajWuT4Fv/2648
-#EXTINF:-1 tvg-name="Sony HD" group-title="General" tvg-chno="" ,Sony HD [SD]
-http://promas.lat:2082/RetamalClaudio22/aEeaajWuT4Fv/30414
-#EXTINF:-1 tvg-name="Sony Cine" group-title="Peliculas" tvg-chno="" ,Sony Cine [SD]
-http://promas.lat:2082/RetamalClaudio22/aEeaajWuT4Fv/52273
-#EXTINF:-1 tvg-name="Space" group-title="General" tvg-chno="" ,Space [SD]
-http://promas.lat:2082/RetamalClaudio22/aEeaajWuT4Fv/47856
-#EXTINF:-1 tvg-name="Space HD" group-title="General" tvg-chno="" ,Space HD [SD]
-http://promas.lat:2082/RetamalClaudio22/aEeaajWuT4Fv/2649
-#EXTINF:-1 tvg-name="Studio Universal" group-title="Peliculas" tvg-chno="" ,Studio Universal [SD]
-http://promas.lat:2082/RetamalClaudio22/aEeaajWuT4Fv/2658
-#EXTINF:-1 tvg-name="Studio Universal HD" group-title="Peliculas" tvg-chno="" ,Studio Universal HD [SD]
-http://promas.lat:2082/RetamalClaudio22/aEeaajWuT4Fv/30627
-#EXTINF:-1 tvg-name="USA" group-title="General" tvg-chno="" ,USA [SD]
-http://promas.lat:2082/RetamalClaudio22/aEeaajWuT4Fv/2660
-#EXTINF:-1 tvg-name="USA HD" group-title="General" tvg-chno="" ,USA HD [SD]
-http://promas.lat:2082/RetamalClaudio22/aEeaajWuT4Fv/30628
-#EXTINF:-1 tvg-name="Showtime Beyond" group-title="General" tvg-chno="" ,Showtime Beyond [SD]
-http://promas.lat:2082/RetamalClaudio22/aEeaajWuT4Fv/30725
-#EXTINF:-1 tvg-name="Showtime" group-title="General" tvg-chno="" ,Showtime [SD]
-http://promas.lat:2082/RetamalClaudio22/aEeaajWuT4Fv/30726
-#EXTINF:-1 tvg-name="Showtime Extreme" group-title="General" tvg-chno="" ,Showtime Extreme [SD]
-http://promas.lat:2082/RetamalClaudio22/aEeaajWuT4Fv/30727
-#EXTINF:-1 tvg-name="Starz Family" group-title="General" tvg-chno="" ,Starz Family [SD]
-http://promas.lat:2082/RetamalClaudio22/aEeaajWuT4Fv/6884
-#EXTINF:-1 tvg-name="Starz Action" group-title="General" tvg-chno="" ,Starz Action [SD]
-http://promas.lat:2082/RetamalClaudio22/aEeaajWuT4Fv/2654
-#EXTINF:-1 tvg-name="Starz Cinema" group-title="Peliculas" tvg-chno="" ,Starz Cinema [SD]
-http://promas.lat:2082/RetamalClaudio22/aEeaajWuT4Fv/2650
-#EXTINF:-1 tvg-name="Starz Classic" group-title="General" tvg-chno="" ,Starz Classic [SD]
-http://promas.lat:2082/RetamalClaudio22/aEeaajWuT4Fv/2655
-#EXTINF:-1 tvg-name="Starz Comedy" group-title="General" tvg-chno="" ,Starz Comedy [SD]
-http://promas.lat:2082/RetamalClaudio22/aEeaajWuT4Fv/2651
-#EXTINF:-1 tvg-name="Starz Kids & Family" group-title="Infantil" tvg-chno="" ,Starz Kids & Family [SD]
-http://promas.lat:2082/RetamalClaudio22/aEeaajWuT4Fv/2653
-#EXTINF:-1 tvg-name="Starz Oeste HD" group-title="General" tvg-chno="" ,Starz Oeste HD [SD]
-http://promas.lat:2082/RetamalClaudio22/aEeaajWuT4Fv/6886
-#EXTINF:-1 tvg-name="Starz Suspense" group-title="General" tvg-chno="" ,Starz Suspense [SD]
-http://promas.lat:2082/RetamalClaudio22/aEeaajWuT4Fv/2656
-#EXTINF:-1 tvg-name="TNT" group-title="General" tvg-chno="" ,TNT [SD]
-http://promas.lat:2082/RetamalClaudio22/aEeaajWuT4Fv/82030
-#EXTINF:-1 tvg-name="TNT HD" group-title="General" tvg-chno="" ,TNT HD [SD]
-http://promas.lat:2082/RetamalClaudio22/aEeaajWuT4Fv/57187
-#EXTINF:-1 tvg-name="TNT Series" group-title="Series" tvg-chno="" ,TNT Series [SD]
-http://promas.lat:2082/RetamalClaudio22/aEeaajWuT4Fv/57188
-#EXTINF:-1 tvg-name="TCM" group-title="General" tvg-chno="" ,TCM [SD]
-http://promas.lat:2082/RetamalClaudio22/aEeaajWuT4Fv/2662
-#EXTINF:-1 tvg-name="Ultra Kidz" group-title="General" tvg-chno="" ,Ultra Kidz [SD]
-http://promas.lat:2082/RetamalClaudio22/aEeaajWuT4Fv/23668
-#EXTINF:-1 tvg-name="TNT Novelas" group-title="General" tvg-chno="" ,TNT Novelas [SD]
-http://promas.lat:2082/RetamalClaudio22/aEeaajWuT4Fv/57189
-#EXTINF:-1 tvg-name="Ultra Cine" group-title="Peliculas" tvg-chno="" ,Ultra Cine [SD]
-http://promas.lat:2082/RetamalClaudio22/aEeaajWuT4Fv/5688
-#EXTINF:-1 tvg-name="+Cine" group-title="Peliculas" tvg-chno="" ,+Cine [SD]
-http://promas.lat:2082/RetamalClaudio22/aEeaajWuT4Fv/5687
-#EXTINF:-1 tvg-name="Ultra Familia" group-title="General" tvg-chno="" ,Ultra Familia [SD]
-http://promas.lat:2082/RetamalClaudio22/aEeaajWuT4Fv/5691
-#EXTINF:-1 tvg-name="Universal Channel HD" group-title="Peliculas" tvg-chno="" ,Universal Channel HD [SD]
-http://promas.lat:2082/RetamalClaudio22/aEeaajWuT4Fv/2665
-#EXTINF:-1 tvg-name="Universal Channel" group-title="Peliculas" tvg-chno="" ,Universal Channel [SD]
-http://promas.lat:2082/RetamalClaudio22/aEeaajWuT4Fv/7051
-#EXTINF:-1 tvg-name="Universal Cinema" group-title="Peliculas" tvg-chno="" ,Universal Cinema [SD]
-http://promas.lat:2082/RetamalClaudio22/aEeaajWuT4Fv/50467
-#EXTINF:-1 tvg-name="Universal Cinema 2" group-title="Peliculas" tvg-chno="" ,Universal Cinema 2 [SD]
-http://promas.lat:2082/RetamalClaudio22/aEeaajWuT4Fv/50835
-#EXTINF:-1 tvg-name="Universal Comedy" group-title="Peliculas" tvg-chno="" ,Universal Comedy [SD]
-http://promas.lat:2082/RetamalClaudio22/aEeaajWuT4Fv/56568
-#EXTINF:-1 tvg-name="Universal Crime" group-title="Peliculas" tvg-chno="" ,Universal Crime [SD]
-http://promas.lat:2082/RetamalClaudio22/aEeaajWuT4Fv/50468
-#EXTINF:-1 tvg-name="Universal Comedy HD" group-title="Peliculas" tvg-chno="" ,Universal Comedy HD [SD]
-http://promas.lat:2082/RetamalClaudio22/aEeaajWuT4Fv/50469
-#EXTINF:-1 tvg-name="Universal Premiere" group-title="Peliculas" tvg-chno="" ,Universal Premiere [SD]
-http://promas.lat:2082/RetamalClaudio22/aEeaajWuT4Fv/56569
-#EXTINF:-1 tvg-name="Universal Premiere HD" group-title="Peliculas" tvg-chno="" ,Universal Premiere HD [SD]
-http://promas.lat:2082/RetamalClaudio22/aEeaajWuT4Fv/50470
-#EXTINF:-1 tvg-name="Universal Reality" group-title="Peliculas" tvg-chno="" ,Universal Reality [SD]
-http://promas.lat:2082/RetamalClaudio22/aEeaajWuT4Fv/50466
-#EXTINF:-1 tvg-name="Warner Channel HD" group-title="General" tvg-chno="" ,Warner Channel HD [SD]
-http://promas.lat:2082/RetamalClaudio22/aEeaajWuT4Fv/2666
-#EXTINF:-1 tvg-name="Warner Channel" group-title="General" tvg-chno="" ,Warner Channel [SD]
-http://promas.lat:2082/RetamalClaudio22/aEeaajWuT4Fv/7049
-#EXTINF:-1 tvg-name="My Time Movie Network - En Español" group-title="Peliculas" tvg-chno="" ,My Time Movie Network - En Español [SD]
-http://promas.lat:2082/RetamalClaudio22/aEeaajWuT4Fv/69792
-#EXTINF:-1 tvg-name="RetroX" group-title="General" tvg-chno="" ,RetroX [SD]
-http://promas.lat:2082/RetamalClaudio22/aEeaajWuT4Fv/76558
+#EXTINF:-1 tvg-name="MLS 15 | Los Angeles FC vs LA Galaxy | 10.30 PM ET | SAT | SPANISH" group-title="General" tvg-chno="" ,MLS 15 | Los Angeles FC vs LA Galaxy | 10.30 PM ET | SAT | SPANISH [SD]
+http://flexlive.lat:8080/live/JhonSandoval2/H84TACX39/448999.ts
+#EXTINF:-1 tvg-name="MLS 15 | SAN DIEGO FC VS REAL SALT LAKE MAR 22 6:30 PM" group-title="General" tvg-chno="" ,MLS 15 | SAN DIEGO FC VS REAL SALT LAKE MAR 22 6:30 PM [SD]
+http://flexlive.lat:8080/live/JhonSandoval2/H84TACX39/449000.ts
+#EXTINF:-1 tvg-name="EVENTOS NETFLIX #1" group-title="General" tvg-chno="" ,EVENTOS NETFLIX #1 [SD]
+http://flexlive.lat:8080/live/JhonSandoval2/H84TACX39/295372.ts
+#EXTINF:-1 tvg-name="EVENTOS NETFLIX #2" group-title="General" tvg-chno="" ,EVENTOS NETFLIX #2 [SD]
+http://flexlive.lat:8080/live/JhonSandoval2/H84TACX39/295373.ts
+#EXTINF:-1 tvg-name="EVENTOS NETFLIX #3" group-title="General" tvg-chno="" ,EVENTOS NETFLIX #3 [SD]
+http://flexlive.lat:8080/live/JhonSandoval2/H84TACX39/295374.ts
+#EXTINF:-1 tvg-name="RUN:TIME ACCIÓN" group-title="General" tvg-chno="" ,RUN:TIME ACCIÓN [SD]
+http://flexlive.lat:8080/live/JhonSandoval2/H84TACX39/272229.ts
+#EXTINF:-1 tvg-name="RUN:TIME CURROJAIME" group-title="General" tvg-chno="" ,RUN:TIME CURROJAIME [SD]
+http://flexlive.lat:8080/live/JhonSandoval2/H84TACX39/272230.ts
+#EXTINF:-1 tvg-name="RUN:TIME A SANGRE FRIA" group-title="General" tvg-chno="" ,RUN:TIME A SANGRE FRIA [SD]
+http://flexlive.lat:8080/live/JhonSandoval2/H84TACX39/272232.ts
+#EXTINF:-1 tvg-name="RUN :TIME CINE ESPANTO" group-title="Peliculas" tvg-chno="" ,RUN :TIME CINE ESPANTO [SD]
+http://flexlive.lat:8080/live/JhonSandoval2/H84TACX39/272235.ts
+#EXTINF:-1 tvg-name="RUN : TIME CRIMEN" group-title="General" tvg-chno="" ,RUN : TIME CRIMEN [SD]
+http://flexlive.lat:8080/live/JhonSandoval2/H84TACX39/272234.ts
+#EXTINF:-1 tvg-name="RUN : TIME PELICULAS" group-title="Peliculas" tvg-chno="" ,RUN : TIME PELICULAS [SD]
+http://flexlive.lat:8080/live/JhonSandoval2/H84TACX39/272236.ts
+#EXTINF:-1 tvg-name="RUN:TIME A SANGRE FRIA" group-title="General" tvg-chno="" ,RUN:TIME A SANGRE FRIA [SD]
+http://flexlive.lat:8080/live/JhonSandoval2/H84TACX39/272237.ts
+#EXTINF:-1 tvg-name="RUN:TIME COMEDIA" group-title="General" tvg-chno="" ,RUN:TIME COMEDIA [SD]
+http://flexlive.lat:8080/live/JhonSandoval2/H84TACX39/272238.ts
+#EXTINF:-1 tvg-name="RUN :TIME ROMANCE" group-title="General" tvg-chno="" ,RUN :TIME ROMANCE [SD]
+http://flexlive.lat:8080/live/JhonSandoval2/H84TACX39/273049.ts
+#EXTINF:-1 tvg-name="RUN :TIME FAMILIA" group-title="General" tvg-chno="" ,RUN :TIME FAMILIA [SD]
+http://flexlive.lat:8080/live/JhonSandoval2/H84TACX39/273050.ts
+#EXTINF:-1 tvg-name="RUN :TIME C4 ALERTA" group-title="General" tvg-chno="" ,RUN :TIME C4 ALERTA [SD]
+http://flexlive.lat:8080/live/JhonSandoval2/H84TACX39/273051.ts
+#EXTINF:-1 tvg-name="ESPN" group-title="Deportes" tvg-chno="" ,ESPN [SD]
+http://flexlive.lat:8080/live/JhonSandoval2/H84TACX39/269792.ts
+#EXTINF:-1 tvg-name="ESPN 2" group-title="Deportes" tvg-chno="" ,ESPN 2 [SD]
+http://flexlive.lat:8080/live/JhonSandoval2/H84TACX39/269793.ts
+#EXTINF:-1 tvg-name="ESPN 3" group-title="Deportes" tvg-chno="" ,ESPN 3 [SD]
+http://flexlive.lat:8080/live/JhonSandoval2/H84TACX39/269794.ts
+#EXTINF:-1 tvg-name="ESPN 4" group-title="Deportes" tvg-chno="" ,ESPN 4 [SD]
+http://flexlive.lat:8080/live/JhonSandoval2/H84TACX39/269795.ts
+#EXTINF:-1 tvg-name="ESPN 5" group-title="Deportes" tvg-chno="" ,ESPN 5 [SD]
+http://flexlive.lat:8080/live/JhonSandoval2/H84TACX39/269796.ts
+#EXTINF:-1 tvg-name="ESPN 6" group-title="Deportes" tvg-chno="" ,ESPN 6 [SD]
+http://flexlive.lat:8080/live/JhonSandoval2/H84TACX39/269797.ts
+#EXTINF:-1 tvg-name="ESPN 7" group-title="Deportes" tvg-chno="" ,ESPN 7 [SD]
+http://flexlive.lat:8080/live/JhonSandoval2/H84TACX39/269798.ts
+#EXTINF:-1 tvg-name="ESPN PREMIUM AR" group-title="Deportes" tvg-chno="" ,ESPN PREMIUM AR [SD]
+http://flexlive.lat:8080/live/JhonSandoval2/H84TACX39/404426.ts
+#EXTINF:-1 tvg-name="RD | CORAL 39" group-title="General" tvg-chno="" ,RD | CORAL 39 [SD]
+http://flexlive.lat:8080/live/JhonSandoval2/H84TACX39/330219.ts
+#EXTINF:-1 tvg-name="LIDOM 2" group-title="General" tvg-chno="" ,LIDOM 2 [SD]
+http://flexlive.lat:8080/live/JhonSandoval2/H84TACX39/330220.ts
+#EXTINF:-1 tvg-name="Tele Antillas" group-title="General" tvg-chno="" ,Tele Antillas [SD]
+http://flexlive.lat:8080/live/JhonSandoval2/H84TACX39/330221.ts
+#EXTINF:-1 tvg-name="Digital 15 HD" group-title="General" tvg-chno="" ,Digital 15 HD [SD]
+http://flexlive.lat:8080/live/JhonSandoval2/H84TACX39/330222.ts
+#EXTINF:-1 tvg-name="LUNA TV" group-title="General" tvg-chno="" ,LUNA TV [SD]
+http://flexlive.lat:8080/live/JhonSandoval2/H84TACX39/330223.ts
+#EXTINF:-1 tvg-name="Teleuniverso" group-title="General" tvg-chno="" ,Teleuniverso [SD]
+http://flexlive.lat:8080/live/JhonSandoval2/H84TACX39/330224.ts
+#EXTINF:-1 tvg-name="ESPN 5" group-title="Deportes" tvg-chno="" ,ESPN 5 [SD]
+http://flexlive.lat:8080/live/JhonSandoval2/H84TACX39/143824.ts
+#EXTINF:-1 tvg-name="BOX  EVENTO" group-title="General" tvg-chno="" ,BOX  EVENTO [SD]
+http://flexlive.lat:8080/live/JhonSandoval2/H84TACX39/239786.ts
+#EXTINF:-1 tvg-name="UFC - FOX PREMIUM EVENTO" group-title="Deportes" tvg-chno="" ,UFC - FOX PREMIUM EVENTO [SD]
+http://flexlive.lat:8080/live/JhonSandoval2/H84TACX39/174966.ts
+#EXTINF:-1 tvg-name="39 | UFC EVENTO" group-title="Deportes" tvg-chno="" ,39 | UFC EVENTO [SD]
+http://flexlive.lat:8080/live/JhonSandoval2/H84TACX39/204503.ts
+#EXTINF:-1 tvg-name="39 | UFC EVENTO" group-title="Deportes" tvg-chno="" ,39 | UFC EVENTO [SD]
+http://flexlive.lat:8080/live/JhonSandoval2/H84TACX39/174961.ts
+#EXTINF:-1 tvg-name="FOX UFC EVENTOS" group-title="Deportes" tvg-chno="" ,FOX UFC EVENTOS [SD]
+http://flexlive.lat:8080/live/JhonSandoval2/H84TACX39/149876.ts
+#EXTINF:-1 tvg-name="39 | UFC EVENTO BOXEO" group-title="Deportes" tvg-chno="" ,39 | UFC EVENTO BOXEO [SD]
+http://flexlive.lat:8080/live/JhonSandoval2/H84TACX39/174962.ts
+#EXTINF:-1 tvg-name="FOX SPORTS 3 ARGENTINA SD" group-title="Deportes" tvg-chno="" ,FOX SPORTS 3 ARGENTINA SD [SD]
+http://flexlive.lat:8080/live/JhonSandoval2/H84TACX39/199282.ts
+#EXTINF:-1 tvg-name="FOX SPORTS 2 ARGENTINA SD" group-title="Deportes" tvg-chno="" ,FOX SPORTS 2 ARGENTINA SD [SD]
+http://flexlive.lat:8080/live/JhonSandoval2/H84TACX39/199281.ts
+#EXTINF:-1 tvg-name="WWE NETWORK HD" group-title="Deportes" tvg-chno="" ,WWE NETWORK HD [SD]
+http://flexlive.lat:8080/live/JhonSandoval2/H84TACX39/199279.ts
+#EXTINF:-1 tvg-name="CLARO SPORTS HD" group-title="Deportes" tvg-chno="" ,CLARO SPORTS HD [SD]
+http://flexlive.lat:8080/live/JhonSandoval2/H84TACX39/199257.ts
+#EXTINF:-1 tvg-name="RED BULL TV HD" group-title="General" tvg-chno="" ,RED BULL TV HD [SD]
+http://flexlive.lat:8080/live/JhonSandoval2/H84TACX39/199265.ts
+#EXTINF:-1 tvg-name="FOX SPORTS 2 ARGENTINA HD" group-title="Deportes" tvg-chno="" ,FOX SPORTS 2 ARGENTINA HD [SD]
+http://flexlive.lat:8080/live/JhonSandoval2/H84TACX39/199261.ts
+#EXTINF:-1 tvg-name="FOX SPORTS ARGENTINA HD" group-title="Deportes" tvg-chno="" ,FOX SPORTS ARGENTINA HD [SD]
+http://flexlive.lat:8080/live/JhonSandoval2/H84TACX39/199260.ts
+#EXTINF:-1 tvg-name="SKY SPORTS HD" group-title="Deportes" tvg-chno="" ,SKY SPORTS HD [SD]
+http://flexlive.lat:8080/live/JhonSandoval2/H84TACX39/199266.ts
+#EXTINF:-1 tvg-name="TNT SPORTS ARGENTINA HD" group-title="Deportes" tvg-chno="" ,TNT SPORTS ARGENTINA HD [SD]
+http://flexlive.lat:8080/live/JhonSandoval2/H84TACX39/199268.ts
+#EXTINF:-1 tvg-name="TVC DEPORTES HD" group-title="Deportes" tvg-chno="" ,TVC DEPORTES HD [SD]
+http://flexlive.lat:8080/live/JhonSandoval2/H84TACX39/199270.ts
+#EXTINF:-1 tvg-name="BEIN SPORTS Ñ HD" group-title="Deportes" tvg-chno="" ,BEIN SPORTS Ñ HD [SD]
+http://flexlive.lat:8080/live/JhonSandoval2/H84TACX39/199255.ts
+#EXTINF:-1 tvg-name="UFC HD" group-title="Deportes" tvg-chno="" ,UFC HD [SD]
+http://flexlive.lat:8080/live/JhonSandoval2/H84TACX39/199271.ts
+#EXTINF:-1 tvg-name="BEIN SPORTS Ñ HD" group-title="Deportes" tvg-chno="" ,BEIN SPORTS Ñ HD [SD]
+http://flexlive.lat:8080/live/JhonSandoval2/H84TACX39/199256.ts
+#EXTINF:-1 tvg-name="ADRENALINA SPORTS HD" group-title="Deportes" tvg-chno="" ,ADRENALINA SPORTS HD [SD]
+http://flexlive.lat:8080/live/JhonSandoval2/H84TACX39/199254.ts
+#EXTINF:-1 tvg-name="EUROSPORT 1 HD" group-title="Deportes" tvg-chno="" ,EUROSPORT 1 HD [SD]
+http://flexlive.lat:8080/live/JhonSandoval2/H84TACX39/199258.ts
+#EXTINF:-1 tvg-name="ARG DEP | FOX SPORTS  1 SD" group-title="Deportes" tvg-chno="" ,ARG DEP | FOX SPORTS  1 SD [SD]
+http://flexlive.lat:8080/live/JhonSandoval2/H84TACX39/102466.ts
+#EXTINF:-1 tvg-name="EUROSPORT 2 HD" group-title="Deportes" tvg-chno="" ,EUROSPORT 2 HD [SD]
+http://flexlive.lat:8080/live/JhonSandoval2/H84TACX39/267444.ts
+#EXTINF:-1 tvg-name="Win Sports" group-title="Deportes" tvg-chno="" ,Win Sports [SD]
+http://flexlive.lat:8080/live/JhonSandoval2/H84TACX39/102461.ts
+#EXTINF:-1 tvg-name="DIRECTV SPORTS 1" group-title="Deportes" tvg-chno="" ,DIRECTV SPORTS 1 [SD]
+http://flexlive.lat:8080/live/JhonSandoval2/H84TACX39/102460.ts
+#EXTINF:-1 tvg-name="DEPORTES | FOX SPORTS 3 MX" group-title="Deportes" tvg-chno="" ,DEPORTES | FOX SPORTS 3 MX [SD]
+http://flexlive.lat:8080/live/JhonSandoval2/H84TACX39/102450.ts
+#EXTINF:-1 tvg-name="DEPORTES HD | FOX SPORTS  2 ARG" group-title="Deportes" tvg-chno="" ,DEPORTES HD | FOX SPORTS  2 ARG [SD]
+http://flexlive.lat:8080/live/JhonSandoval2/H84TACX39/102454.ts
+#EXTINF:-1 tvg-name="SV | CLARO SPORTS" group-title="Deportes" tvg-chno="" ,SV | CLARO SPORTS [SD]
+http://flexlive.lat:8080/live/JhonSandoval2/H84TACX39/102444.ts
+#EXTINF:-1 tvg-name="GT | TIGO SPORTS" group-title="Deportes" tvg-chno="" ,GT | TIGO SPORTS [SD]
+http://flexlive.lat:8080/live/JhonSandoval2/H84TACX39/102445.ts
+#EXTINF:-1 tvg-name="DIRECTV SPORTS 1" group-title="Deportes" tvg-chno="" ,DIRECTV SPORTS 1 [SD]
+http://flexlive.lat:8080/live/JhonSandoval2/H84TACX39/102459.ts
+#EXTINF:-1 tvg-name="ESPN USA" group-title="Deportes" tvg-chno="" ,ESPN USA [SD]
+http://flexlive.lat:8080/live/JhonSandoval2/H84TACX39/437056.ts
+#EXTINF:-1 tvg-name="ESPN 2 USA" group-title="Deportes" tvg-chno="" ,ESPN 2 USA [SD]
+http://flexlive.lat:8080/live/JhonSandoval2/H84TACX39/437059.ts
+#EXTINF:-1 tvg-name="ESPN DEPORTES USA" group-title="Deportes" tvg-chno="" ,ESPN DEPORTES USA [SD]
+http://flexlive.lat:8080/live/JhonSandoval2/H84TACX39/437065.ts
+#EXTINF:-1 tvg-name="ESPN NEW USA" group-title="Deportes" tvg-chno="" ,ESPN NEW USA [SD]
+http://flexlive.lat:8080/live/JhonSandoval2/H84TACX39/437062.ts
+#EXTINF:-1 tvg-name="ESPN + MX" group-title="Deportes" tvg-chno="" ,ESPN + MX [SD]
+http://flexlive.lat:8080/live/JhonSandoval2/H84TACX39/268518.ts
+#EXTINF:-1 tvg-name="ESPN HD" group-title="Deportes" tvg-chno="" ,ESPN HD [SD]
+http://flexlive.lat:8080/live/JhonSandoval2/H84TACX39/192172.ts
+#EXTINF:-1 tvg-name="ESPN SD MX" group-title="Deportes" tvg-chno="" ,ESPN SD MX [SD]
+http://flexlive.lat:8080/live/JhonSandoval2/H84TACX39/192173.ts
+#EXTINF:-1 tvg-name="ESPN MX SD" group-title="Deportes" tvg-chno="" ,ESPN MX SD [SD]
+http://flexlive.lat:8080/live/JhonSandoval2/H84TACX39/192188.ts
+#EXTINF:-1 tvg-name="ESPN MX HD" group-title="Deportes" tvg-chno="" ,ESPN MX HD [SD]
+http://flexlive.lat:8080/live/JhonSandoval2/H84TACX39/192187.ts
+#EXTINF:-1 tvg-name="ESPN 2 MX SD" group-title="Deportes" tvg-chno="" ,ESPN 2 MX SD [SD]
+http://flexlive.lat:8080/live/JhonSandoval2/H84TACX39/192190.ts
+#EXTINF:-1 tvg-name="ESPN 2 SD MX" group-title="Deportes" tvg-chno="" ,ESPN 2 SD MX [SD]
+http://flexlive.lat:8080/live/JhonSandoval2/H84TACX39/192174.ts
+#EXTINF:-1 tvg-name="ESPN 2 HD" group-title="Deportes" tvg-chno="" ,ESPN 2 HD [SD]
+http://flexlive.lat:8080/live/JhonSandoval2/H84TACX39/192175.ts
+#EXTINF:-1 tvg-name="ESPN MX 2 HD" group-title="Deportes" tvg-chno="" ,ESPN MX 2 HD [SD]
+http://flexlive.lat:8080/live/JhonSandoval2/H84TACX39/192189.ts
+#EXTINF:-1 tvg-name="ESPN 3 MX SD" group-title="Deportes" tvg-chno="" ,ESPN 3 MX SD [SD]
+http://flexlive.lat:8080/live/JhonSandoval2/H84TACX39/192192.ts
+#EXTINF:-1 tvg-name="ESPN 3 MX HD" group-title="Deportes" tvg-chno="" ,ESPN 3 MX HD [SD]
+http://flexlive.lat:8080/live/JhonSandoval2/H84TACX39/192191.ts
+#EXTINF:-1 tvg-name="ESPN 3 SD" group-title="Deportes" tvg-chno="" ,ESPN 3 SD [SD]
+http://flexlive.lat:8080/live/JhonSandoval2/H84TACX39/192177.ts
+#EXTINF:-1 tvg-name="ESPN 3 HD" group-title="Deportes" tvg-chno="" ,ESPN 3 HD [SD]
+http://flexlive.lat:8080/live/JhonSandoval2/H84TACX39/192176.ts
+#EXTINF:-1 tvg-name="ESPN 4 SD MX" group-title="Deportes" tvg-chno="" ,ESPN 4 SD MX [SD]
+http://flexlive.lat:8080/live/JhonSandoval2/H84TACX39/192178.ts
+#EXTINF:-1 tvg-name="ESPN 4 MX" group-title="Deportes" tvg-chno="" ,ESPN 4 MX [SD]
+http://flexlive.lat:8080/live/JhonSandoval2/H84TACX39/268519.ts
+#EXTINF:-1 tvg-name="ESPN 5 MX SD" group-title="Deportes" tvg-chno="" ,ESPN 5 MX SD [SD]
+http://flexlive.lat:8080/live/JhonSandoval2/H84TACX39/294391.ts
+#EXTINF:-1 tvg-name="ESPN 5 HD" group-title="Deportes" tvg-chno="" ,ESPN 5 HD [SD]
+http://flexlive.lat:8080/live/JhonSandoval2/H84TACX39/192179.ts
+#EXTINF:-1 tvg-name="ESPN 5 SD" group-title="Deportes" tvg-chno="" ,ESPN 5 SD [SD]
+http://flexlive.lat:8080/live/JhonSandoval2/H84TACX39/192180.ts
+#EXTINF:-1 tvg-name="ESPN 6 SD" group-title="Deportes" tvg-chno="" ,ESPN 6 SD [SD]
+http://flexlive.lat:8080/live/JhonSandoval2/H84TACX39/192182.ts
+#EXTINF:-1 tvg-name="ESPN 7 HD ( c )" group-title="Deportes" tvg-chno="" ,ESPN 7 HD ( c ) [SD]
+http://flexlive.lat:8080/live/JhonSandoval2/H84TACX39/192183.ts
+#EXTINF:-1 tvg-name="ESPN 6 HD" group-title="Deportes" tvg-chno="" ,ESPN 6 HD [SD]
+http://flexlive.lat:8080/live/JhonSandoval2/H84TACX39/192181.ts
+#EXTINF:-1 tvg-name="ESPN 7 SD" group-title="Deportes" tvg-chno="" ,ESPN 7 SD [SD]
+http://flexlive.lat:8080/live/JhonSandoval2/H84TACX39/192184.ts
+#EXTINF:-1 tvg-name="ESPN PREMIUM" group-title="Deportes" tvg-chno="" ,ESPN PREMIUM [SD]
+http://flexlive.lat:8080/live/JhonSandoval2/H84TACX39/192186.ts
+#EXTINF:-1 tvg-name="ESPN PREMIUM" group-title="Deportes" tvg-chno="" ,ESPN PREMIUM [SD]
+http://flexlive.lat:8080/live/JhonSandoval2/H84TACX39/192185.ts
+#EXTINF:-1 tvg-name="ESPN DEPORTES USA" group-title="Deportes" tvg-chno="" ,ESPN DEPORTES USA [SD]
+http://flexlive.lat:8080/live/JhonSandoval2/H84TACX39/192193.ts
+#EXTINF:-1 tvg-name="ESPN DEPORTE OPC 2" group-title="Deportes" tvg-chno="" ,ESPN DEPORTE OPC 2 [SD]
+http://flexlive.lat:8080/live/JhonSandoval2/H84TACX39/192195.ts
+#EXTINF:-1 tvg-name="BEIN SPORT Ñ HD" group-title="Deportes" tvg-chno="" ,BEIN SPORT Ñ HD [SD]
+http://flexlive.lat:8080/live/JhonSandoval2/H84TACX39/141055.ts
+#EXTINF:-1 tvg-name="EUR | BEIN SPORTS HD (P)" group-title="Deportes" tvg-chno="" ,EUR | BEIN SPORTS HD (P) [SD]
+http://flexlive.lat:8080/live/JhonSandoval2/H84TACX39/141043.ts
+#EXTINF:-1 tvg-name="beIN SPORTS 1 PREMIUM" group-title="Deportes" tvg-chno="" ,beIN SPORTS 1 PREMIUM [SD]
+http://flexlive.lat:8080/live/JhonSandoval2/H84TACX39/141045.ts
+#EXTINF:-1 tvg-name="beIN  extra" group-title="Deportes" tvg-chno="" ,beIN  extra [SD]
+http://flexlive.lat:8080/live/JhonSandoval2/H84TACX39/141047.ts
+#EXTINF:-1 tvg-name="beIN SPORTS XTRA" group-title="Deportes" tvg-chno="" ,beIN SPORTS XTRA [SD]
+http://flexlive.lat:8080/live/JhonSandoval2/H84TACX39/141046.ts
+#EXTINF:-1 tvg-name="BEIN SPORTS USA" group-title="Deportes" tvg-chno="" ,BEIN SPORTS USA [SD]
+http://flexlive.lat:8080/live/JhonSandoval2/H84TACX39/141052.ts
+#EXTINF:-1 tvg-name="FOX DEPORTES USA" group-title="Deportes" tvg-chno="" ,FOX DEPORTES USA [SD]
+http://flexlive.lat:8080/live/JhonSandoval2/H84TACX39/143271.ts
+#EXTINF:-1 tvg-name="FOX Sports | AR ❆" group-title="Deportes" tvg-chno="" ,FOX Sports | AR ❆ [SD]
+http://flexlive.lat:8080/live/JhonSandoval2/H84TACX39/199172.ts
+#EXTINF:-1 tvg-name="FOX Sports 2 | AR ❆" group-title="Deportes" tvg-chno="" ,FOX Sports 2 | AR ❆ [SD]
+http://flexlive.lat:8080/live/JhonSandoval2/H84TACX39/199173.ts
+#EXTINF:-1 tvg-name="FOX Sports 3 | AR ❆" group-title="Deportes" tvg-chno="" ,FOX Sports 3 | AR ❆ [SD]
+http://flexlive.lat:8080/live/JhonSandoval2/H84TACX39/199174.ts
+#EXTINF:-1 tvg-name="FOX Sports | CO ❆" group-title="Deportes" tvg-chno="" ,FOX Sports | CO ❆ [SD]
+http://flexlive.lat:8080/live/JhonSandoval2/H84TACX39/199176.ts
+#EXTINF:-1 tvg-name="FOX Sports 2 | CO ❆" group-title="Deportes" tvg-chno="" ,FOX Sports 2 | CO ❆ [SD]
+http://flexlive.lat:8080/live/JhonSandoval2/H84TACX39/199177.ts
+#EXTINF:-1 tvg-name="FOX Sports. PREMIUM MX" group-title="Deportes" tvg-chno="" ,FOX Sports. PREMIUM MX [SD]
+http://flexlive.lat:8080/live/JhonSandoval2/H84TACX39/199179.ts
+#EXTINF:-1 tvg-name="FOX Sports |  SOCCER plus❆" group-title="Deportes" tvg-chno="" ,FOX Sports |  SOCCER plus❆ [SD]
+http://flexlive.lat:8080/live/JhonSandoval2/H84TACX39/199193.ts
+#EXTINF:-1 tvg-name="FOX Sports | PREMIUM" group-title="Deportes" tvg-chno="" ,FOX Sports | PREMIUM [SD]
+http://flexlive.lat:8080/live/JhonSandoval2/H84TACX39/199192.ts
+#EXTINF:-1 tvg-name="FOX Sports | CL ❆" group-title="Deportes" tvg-chno="" ,FOX Sports | CL ❆ [SD]
+http://flexlive.lat:8080/live/JhonSandoval2/H84TACX39/199187.ts
+#EXTINF:-1 tvg-name="FOX Premium | MX ❆" group-title="Peliculas" tvg-chno="" ,FOX Premium | MX ❆ [SD]
+http://flexlive.lat:8080/live/JhonSandoval2/H84TACX39/199180.ts
+#EXTINF:-1 tvg-name="FOX Sports 1 | MX ❆" group-title="Deportes" tvg-chno="" ,FOX Sports 1 | MX ❆ [SD]
+http://flexlive.lat:8080/live/JhonSandoval2/H84TACX39/199181.ts
+#EXTINF:-1 tvg-name="FOX Sports 3 | PE ❆" group-title="Deportes" tvg-chno="" ,FOX Sports 3 | PE ❆ [SD]
+http://flexlive.lat:8080/live/JhonSandoval2/H84TACX39/199190.ts
+#EXTINF:-1 tvg-name="FOX Sports 3 | CL ❆" group-title="Deportes" tvg-chno="" ,FOX Sports 3 | CL ❆ [SD]
+http://flexlive.lat:8080/live/JhonSandoval2/H84TACX39/199186.ts
+#EXTINF:-1 tvg-name="FOX Sports 3 | MX ❆" group-title="Deportes" tvg-chno="" ,FOX Sports 3 | MX ❆ [SD]
+http://flexlive.lat:8080/live/JhonSandoval2/H84TACX39/199183.ts
+#EXTINF:-1 tvg-name="FOX Sports 3 | CO ❆" group-title="Deportes" tvg-chno="" ,FOX Sports 3 | CO ❆ [SD]
+http://flexlive.lat:8080/live/JhonSandoval2/H84TACX39/199178.ts
+#EXTINF:-1 tvg-name="Fox Sports 2 | 2MB LAT ❆" group-title="Deportes" tvg-chno="" ,Fox Sports 2 | 2MB LAT ❆ [SD]
+http://flexlive.lat:8080/live/JhonSandoval2/H84TACX39/199195.ts
+#EXTINF:-1 tvg-name="FOX Sports 2 | PE ❆" group-title="Deportes" tvg-chno="" ,FOX Sports 2 | PE ❆ [SD]
+http://flexlive.lat:8080/live/JhonSandoval2/H84TACX39/199189.ts
+#EXTINF:-1 tvg-name="FOX Sports 2 | CL ❆" group-title="Deportes" tvg-chno="" ,FOX Sports 2 | CL ❆ [SD]
+http://flexlive.lat:8080/live/JhonSandoval2/H84TACX39/199185.ts
+#EXTINF:-1 tvg-name="FOX Sports 2 | MX ❆" group-title="Deportes" tvg-chno="" ,FOX Sports 2 | MX ❆ [SD]
+http://flexlive.lat:8080/live/JhonSandoval2/H84TACX39/199182.ts
+#EXTINF:-1 tvg-name="DSports 2 | AR ❆" group-title="Deportes" tvg-chno="" ,DSports 2 | AR ❆ [SD]
+http://flexlive.lat:8080/live/JhonSandoval2/H84TACX39/249513.ts
+#EXTINF:-1 tvg-name="DSports + | AR ❆" group-title="Deportes" tvg-chno="" ,DSports + | AR ❆ [SD]
+http://flexlive.lat:8080/live/JhonSandoval2/H84TACX39/249514.ts
+#EXTINF:-1 tvg-name="DSports | CO ❆" group-title="Deportes" tvg-chno="" ,DSports | CO ❆ [SD]
+http://flexlive.lat:8080/live/JhonSandoval2/H84TACX39/249516.ts
+#EXTINF:-1 tvg-name="DSports | CO ❆" group-title="Deportes" tvg-chno="" ,DSports | CO ❆ [SD]
+http://flexlive.lat:8080/live/JhonSandoval2/H84TACX39/249517.ts
+#EXTINF:-1 tvg-name="DSports 2 | CL ❆" group-title="Deportes" tvg-chno="" ,DSports 2 | CL ❆ [SD]
+http://flexlive.lat:8080/live/JhonSandoval2/H84TACX39/249520.ts
+#EXTINF:-1 tvg-name="DSports 1 | CL ❆" group-title="Deportes" tvg-chno="" ,DSports 1 | CL ❆ [SD]
+http://flexlive.lat:8080/live/JhonSandoval2/H84TACX39/249519.ts
+#EXTINF:-1 tvg-name="DSports + | CL ❆" group-title="Deportes" tvg-chno="" ,DSports + | CL ❆ [SD]
+http://flexlive.lat:8080/live/JhonSandoval2/H84TACX39/249521.ts
+#EXTINF:-1 tvg-name="DSports 1 | EC ❆" group-title="Deportes" tvg-chno="" ,DSports 1 | EC ❆ [SD]
+http://flexlive.lat:8080/live/JhonSandoval2/H84TACX39/249523.ts
+#EXTINF:-1 tvg-name="DSports 2 | EC ❆" group-title="Deportes" tvg-chno="" ,DSports 2 | EC ❆ [SD]
+http://flexlive.lat:8080/live/JhonSandoval2/H84TACX39/249524.ts
+#EXTINF:-1 tvg-name="DSports + | EC ❆" group-title="Deportes" tvg-chno="" ,DSports + | EC ❆ [SD]
+http://flexlive.lat:8080/live/JhonSandoval2/H84TACX39/249525.ts
+#EXTINF:-1 tvg-name="DSports 1 | PE ❆" group-title="Deportes" tvg-chno="" ,DSports 1 | PE ❆ [SD]
+http://flexlive.lat:8080/live/JhonSandoval2/H84TACX39/249528.ts
+#EXTINF:-1 tvg-name="DSports 1 | PE ❆" group-title="Deportes" tvg-chno="" ,DSports 1 | PE ❆ [SD]
+http://flexlive.lat:8080/live/JhonSandoval2/H84TACX39/249527.ts
+#EXTINF:-1 tvg-name="DSports 1 ❆" group-title="Deportes" tvg-chno="" ,DSports 1 ❆ [SD]
+http://flexlive.lat:8080/live/JhonSandoval2/H84TACX39/249530.ts
+#EXTINF:-1 tvg-name="DSports 2" group-title="Deportes" tvg-chno="" ,DSports 2 [SD]
+http://flexlive.lat:8080/live/JhonSandoval2/H84TACX39/249531.ts
+#EXTINF:-1 tvg-name="DSports + ❆" group-title="Deportes" tvg-chno="" ,DSports + ❆ [SD]
+http://flexlive.lat:8080/live/JhonSandoval2/H84TACX39/249532.ts
+#EXTINF:-1 tvg-name="DSports Fight ❆" group-title="Deportes" tvg-chno="" ,DSports Fight ❆ [SD]
+http://flexlive.lat:8080/live/JhonSandoval2/H84TACX39/249534.ts
+#EXTINF:-1 tvg-name="DSports 2 | AR ❆" group-title="Deportes" tvg-chno="" ,DSports 2 | AR ❆ [SD]
+http://flexlive.lat:8080/live/JhonSandoval2/H84TACX39/249535.ts
+#EXTINF:-1 tvg-name="DSports + | AR ❆" group-title="Deportes" tvg-chno="" ,DSports + | AR ❆ [SD]
+http://flexlive.lat:8080/live/JhonSandoval2/H84TACX39/249512.ts
+#EXTINF:-1 tvg-name="DAZN 2 FHD" group-title="General" tvg-chno="" ,DAZN 2 FHD [SD]
+http://flexlive.lat:8080/live/JhonSandoval2/H84TACX39/124772.ts
+#EXTINF:-1 tvg-name="DAZN 4 FHD" group-title="General" tvg-chno="" ,DAZN 4 FHD [SD]
+http://flexlive.lat:8080/live/JhonSandoval2/H84TACX39/124775.ts
+#EXTINF:-1 tvg-name="DZN | M. DAZN LA LIGA 2 HD" group-title="General" tvg-chno="" ,DZN | M. DAZN LA LIGA 2 HD [SD]
+http://flexlive.lat:8080/live/JhonSandoval2/H84TACX39/124781.ts
+#EXTINF:-1 tvg-name="DZN | DAZN MOVISTAR 4 HD" group-title="General" tvg-chno="" ,DZN | DAZN MOVISTAR 4 HD [SD]
+http://flexlive.lat:8080/live/JhonSandoval2/H84TACX39/124792.ts
+#EXTINF:-1 tvg-name="DZN | DAZN MOVISTAR 3 HD" group-title="General" tvg-chno="" ,DZN | DAZN MOVISTAR 3 HD [SD]
+http://flexlive.lat:8080/live/JhonSandoval2/H84TACX39/124797.ts
+#EXTINF:-1 tvg-name="DZN | DAZN LA LIGA 1 SD" group-title="General" tvg-chno="" ,DZN | DAZN LA LIGA 1 SD [SD]
+http://flexlive.lat:8080/live/JhonSandoval2/H84TACX39/124778.ts
+#EXTINF:-1 tvg-name="DZN | DAZN F1 HD (TP)." group-title="General" tvg-chno="" ,DZN | DAZN F1 HD (TP). [SD]
+http://flexlive.lat:8080/live/JhonSandoval2/H84TACX39/124783.ts
+#EXTINF:-1 tvg-name="DZN | M. DAZN LA LIGA HD" group-title="General" tvg-chno="" ,DZN | M. DAZN LA LIGA HD [SD]
+http://flexlive.lat:8080/live/JhonSandoval2/H84TACX39/124782.ts
+#EXTINF:-1 tvg-name="DZN | M. DAZN LA LIGA 1 HD" group-title="General" tvg-chno="" ,DZN | M. DAZN LA LIGA 1 HD [SD]
+http://flexlive.lat:8080/live/JhonSandoval2/H84TACX39/124779.ts
+#EXTINF:-1 tvg-name="MLB Network" group-title="Deportes" tvg-chno="" ,MLB Network [SD]
+http://flexlive.lat:8080/live/JhonSandoval2/H84TACX39/306736.ts
+#EXTINF:-1 tvg-name="NBA NETWORK" group-title="Deportes" tvg-chno="" ,NBA NETWORK [SD]
+http://flexlive.lat:8080/live/JhonSandoval2/H84TACX39/212121.ts
+#EXTINF:-1 tvg-name="Desconocido" group-title="General" tvg-chno="" ,Desconocido [SD]
+http://flexlive.lat:8080/live/JhonSandoval2/H84TACX39/434881.ts
+#EXTINF:-1 tvg-name="PlayList Exportada por la aplicación Reproductor Simple IPTV - Descarga en PlayStore!" group-title="General" tvg-chno="" ,PlayList Exportada por la aplicación Reproductor Simple IPTV - Descarga en PlayStore! [SD]
+http://flexlive.lat:8080/live/JhonSandoval2/H84TACX39/434882.ts
+#EXTINF:-1 tvg-name="USA | GOLF CHANEL" group-title="Deportes" tvg-chno="" ,USA | GOLF CHANEL [SD]
+http://flexlive.lat:8080/live/JhonSandoval2/H84TACX39/434884.ts
+#EXTINF:-1 tvg-name="USA |  TENNIS CHANNEL" group-title="General" tvg-chno="" ,USA |  TENNIS CHANNEL [SD]
+http://flexlive.lat:8080/live/JhonSandoval2/H84TACX39/434885.ts
+#EXTINF:-1 tvg-name="USA |  STADIUM 1" group-title="General" tvg-chno="" ,USA |  STADIUM 1 [SD]
+http://flexlive.lat:8080/live/JhonSandoval2/H84TACX39/434886.ts
+#EXTINF:-1 tvg-name="USA |  SPORTSNET NEW YORK" group-title="Deportes" tvg-chno="" ,USA |  SPORTSNET NEW YORK [SD]
+http://flexlive.lat:8080/live/JhonSandoval2/H84TACX39/434887.ts
+#EXTINF:-1 tvg-name="USA |  SEC NETWORK" group-title="General" tvg-chno="" ,USA |  SEC NETWORK [SD]
+http://flexlive.lat:8080/live/JhonSandoval2/H84TACX39/434888.ts

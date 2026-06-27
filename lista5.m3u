@@ -1,4 +1,4 @@
-#EXTM3U x-tvg-url="" x-lista="Listas General 5" x-actualizado="2026-06-27 16:21"
+#EXTM3U x-tvg-url="" x-lista="Listas General 5" x-actualizado="2026-06-27 16:31"
 #EXTINF:-1 tvg-name="27/06 17:30 - Audax Italiano vs Magallanes" group-title="General" tvg-chno="" ,27/06 17:30 - Audax Italiano vs Magallanes [SD]
 http://flexlive.lat:8080/live/JhonSandoval2/H84TACX39/470410.ts
 #EXTINF:-1 tvg-name="M" group-title="General" tvg-chno="" ,M [SD]
@@ -833,10 +833,10 @@ http://flexlive.lat:8080/live/JhonSandoval2/H84TACX39/383539.ts
 http://flexlive.lat:8080/live/JhonSandoval2/H84TACX39/383541.ts
 #EXTINF:-1 tvg-name="CINE HD | UNIVERSAL REALITY" group-title="Peliculas" tvg-chno="" ,CINE HD | UNIVERSAL REALITY [SD]
 http://flexlive.lat:8080/live/JhonSandoval2/H84TACX39/383540.ts
-#EXTINF:-1 tvg-name="CINE FHD | UNIVERSAL REALITY @" group-title="Peliculas" tvg-chno="" ,CINE FHD | UNIVERSAL REALITY @ [SD]
-http://flexlive.lat:8080/live/JhonSandoval2/H84TACX39/383542.ts
 #EXTINF:-1 tvg-name="CINE FHD | UNIVERSAL CINEMA @" group-title="Peliculas" tvg-chno="" ,CINE FHD | UNIVERSAL CINEMA @ [SD]
 http://flexlive.lat:8080/live/JhonSandoval2/H84TACX39/383543.ts
+#EXTINF:-1 tvg-name="CINE FHD | UNIVERSAL REALITY @" group-title="Peliculas" tvg-chno="" ,CINE FHD | UNIVERSAL REALITY @ [SD]
+http://flexlive.lat:8080/live/JhonSandoval2/H84TACX39/383542.ts
 #EXTINF:-1 tvg-name="CINE FHD | UNIVERSAL COMEDY" group-title="Peliculas" tvg-chno="" ,CINE FHD | UNIVERSAL COMEDY [SD]
 http://flexlive.lat:8080/live/JhonSandoval2/H84TACX39/383544.ts
 #EXTINF:-1 tvg-name="CINE FHD | UNIVERSAL PREMIERE" group-title="Peliculas" tvg-chno="" ,CINE FHD | UNIVERSAL PREMIERE [SD]

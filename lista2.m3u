@@ -1,10 +1,10 @@
-#EXTM3U x-tvg-url="" x-lista="Listas General 2" x-actualizado="2026-06-26 12:34"
-#EXTINF:-1 tvg-name="24/06 19:30 - Unión La Calera vs Universidad de Chile" group-title="General" tvg-chno="" ,24/06 19:30 - Unión La Calera vs Universidad de Chile [SD]
+#EXTM3U x-tvg-url="" x-lista="Listas General 2" x-actualizado="2026-06-27 09:57"
+#EXTINF:-1 tvg-name="27/06 17:30 - Audax Italiano vs Magallanes" group-title="General" tvg-chno="" ,27/06 17:30 - Audax Italiano vs Magallanes [SD]
 http://flexlive.lat:8080/live/JhonSandoval2/H84TACX39/470410.ts
-#EXTINF:-1 tvg-name="Velada 3 de lss estrellas Nicaragua" group-title="General" tvg-chno="" ,Velada 3 de lss estrellas Nicaragua [SD]
-http://flexlive.lat:8080/live/JhonSandoval2/H84TACX39/330410.ts
 #EXTINF:-1 tvg-name="M" group-title="General" tvg-chno="" ,M [SD]
 http://flexlive.lat:8080/live/JhonSandoval2/H84TACX39/469797.ts
+#EXTINF:-1 tvg-name="Velada 3 de lss estrellas Nicaragua" group-title="General" tvg-chno="" ,Velada 3 de lss estrellas Nicaragua [SD]
+http://flexlive.lat:8080/live/JhonSandoval2/H84TACX39/330410.ts
 #EXTINF:-1 tvg-name="TV Realitys-CAMARA 2" group-title="General" tvg-chno="" ,TV Realitys-CAMARA 2 [SD]
 http://flexlive.lat:8080/live/JhonSandoval2/H84TACX39/443645.ts
 #EXTINF:-1 tvg-name="TV Realitys-CAMARA 1" group-title="General" tvg-chno="" ,TV Realitys-CAMARA 1 [SD]
@@ -15,22 +15,22 @@ http://flexlive.lat:8080/live/JhonSandoval2/H84TACX39/443643.ts
 http://flexlive.lat:8080/live/JhonSandoval2/H84TACX39/443646.ts
 #EXTINF:-1 tvg-name="MANSIÓN VIP" group-title="General" tvg-chno="" ,MANSIÓN VIP [SD]
 http://flexlive.lat:8080/live/JhonSandoval2/H84TACX39/443647.ts
-#EXTINF:-1 tvg-name="TV Realitys-CAMARA 1" group-title="General" tvg-chno="" ,TV Realitys-CAMARA 1 [SD]
-http://flexlive.lat:8080/live/JhonSandoval2/H84TACX39/443648.ts
-#EXTINF:-1 tvg-name="TV Realitys-CAMARA 2" group-title="General" tvg-chno="" ,TV Realitys-CAMARA 2 [SD]
-http://flexlive.lat:8080/live/JhonSandoval2/H84TACX39/443649.ts
 #EXTINF:-1 tvg-name="TV Realitys-PRINCIPAL" group-title="General" tvg-chno="" ,TV Realitys-PRINCIPAL [SD]
 http://flexlive.lat:8080/live/JhonSandoval2/H84TACX39/443650.ts
+#EXTINF:-1 tvg-name="TV Realitys-CAMARA 2" group-title="General" tvg-chno="" ,TV Realitys-CAMARA 2 [SD]
+http://flexlive.lat:8080/live/JhonSandoval2/H84TACX39/443649.ts
+#EXTINF:-1 tvg-name="TV Realitys-CAMARA 1" group-title="General" tvg-chno="" ,TV Realitys-CAMARA 1 [SD]
+http://flexlive.lat:8080/live/JhonSandoval2/H84TACX39/443648.ts
 #EXTINF:-1 tvg-name="TV Realitys-CUARTO CALMA" group-title="General" tvg-chno="" ,TV Realitys-CUARTO CALMA [SD]
 http://flexlive.lat:8080/live/JhonSandoval2/H84TACX39/443651.ts
 #EXTINF:-1 tvg-name="TV Realitys-CUARTO TORMENTA" group-title="General" tvg-chno="" ,TV Realitys-CUARTO TORMENTA [SD]
 http://flexlive.lat:8080/live/JhonSandoval2/H84TACX39/443652.ts
+#EXTINF:-1 tvg-name="TV Realitys-BAñOS" group-title="General" tvg-chno="" ,TV Realitys-BAñOS [SD]
+http://flexlive.lat:8080/live/JhonSandoval2/H84TACX39/443655.ts
 #EXTINF:-1 tvg-name="TV Realitys-SALA" group-title="General" tvg-chno="" ,TV Realitys-SALA [SD]
 http://flexlive.lat:8080/live/JhonSandoval2/H84TACX39/443653.ts
 #EXTINF:-1 tvg-name="TV Realitys-BEAUTY" group-title="General" tvg-chno="" ,TV Realitys-BEAUTY [SD]
 http://flexlive.lat:8080/live/JhonSandoval2/H84TACX39/443654.ts
-#EXTINF:-1 tvg-name="TV Realitys-BAñOS" group-title="General" tvg-chno="" ,TV Realitys-BAñOS [SD]
-http://flexlive.lat:8080/live/JhonSandoval2/H84TACX39/443655.ts
 #EXTINF:-1 tvg-name="C" group-title="General" tvg-chno="" ,C [SD]
 http://flexlive.lat:8080/live/JhonSandoval2/H84TACX39/457072.ts
 #EXTINF:-1 tvg-name="A" group-title="General" tvg-chno="" ,A [SD]
@@ -49,16 +49,16 @@ http://flexlive.lat:8080/live/JhonSandoval2/H84TACX39/448988.ts
 http://flexlive.lat:8080/live/JhonSandoval2/H84TACX39/448989.ts
 #EXTINF:-1 tvg-name="MLS 09 | AUSTIN FC VS LOS ANGELES FOOTBALL CLUB MAR 21 8:45 PM" group-title="Deportes" tvg-chno="" ,MLS 09 | AUSTIN FC VS LOS ANGELES FOOTBALL CLUB MAR 21 8:45 PM [SD]
 http://flexlive.lat:8080/live/JhonSandoval2/H84TACX39/448990.ts
-#EXTINF:-1 tvg-name="MLS 10 | VANCOUVER WHITECAPS FC VS SAN JOSE EARTHQUAKES MAR 21 10:30 PM" group-title="Musica" tvg-chno="" ,MLS 10 | VANCOUVER WHITECAPS FC VS SAN JOSE EARTHQUAKES MAR 21 10:30 PM [SD]
-http://flexlive.lat:8080/live/JhonSandoval2/H84TACX39/448991.ts
 #EXTINF:-1 tvg-name="MLS 11 | FC CINCINNATI VS CF MONTRÃ©AL MAR 22 1:00 PM" group-title="General" tvg-chno="" ,MLS 11 | FC CINCINNATI VS CF MONTRÃ©AL MAR 22 1:00 PM [SD]
 http://flexlive.lat:8080/live/JhonSandoval2/H84TACX39/448992.ts
+#EXTINF:-1 tvg-name="MLS 10 | VANCOUVER WHITECAPS FC VS SAN JOSE EARTHQUAKES MAR 21 10:30 PM" group-title="Musica" tvg-chno="" ,MLS 10 | VANCOUVER WHITECAPS FC VS SAN JOSE EARTHQUAKES MAR 21 10:30 PM [SD]
+http://flexlive.lat:8080/live/JhonSandoval2/H84TACX39/448991.ts
 #EXTINF:-1 tvg-name="MLS 11 | REAL SALT LAKE VS AUSTIN FC MAR 14 9:30 PM" group-title="General" tvg-chno="" ,MLS 11 | REAL SALT LAKE VS AUSTIN FC MAR 14 9:30 PM [SD]
 http://flexlive.lat:8080/live/JhonSandoval2/H84TACX39/448993.ts
-#EXTINF:-1 tvg-name="MLS 13 | MINNESOTA UNITED VS SEATTLE SOUNDERS FC MAR 22 2:30 PM" group-title="General" tvg-chno="" ,MLS 13 | MINNESOTA UNITED VS SEATTLE SOUNDERS FC MAR 22 2:30 PM [SD]
-http://flexlive.lat:8080/live/JhonSandoval2/H84TACX39/448995.ts
 #EXTINF:-1 tvg-name="MLS 12 | LOS ANGELES FOOTBALL CLUB VS ST LOUIS CITY SC MAR 14 10:30 PM" group-title="Deportes" tvg-chno="" ,MLS 12 | LOS ANGELES FOOTBALL CLUB VS ST LOUIS CITY SC MAR 14 10:30 PM [SD]
 http://flexlive.lat:8080/live/JhonSandoval2/H84TACX39/448994.ts
+#EXTINF:-1 tvg-name="MLS 13 | MINNESOTA UNITED VS SEATTLE SOUNDERS FC MAR 22 2:30 PM" group-title="General" tvg-chno="" ,MLS 13 | MINNESOTA UNITED VS SEATTLE SOUNDERS FC MAR 22 2:30 PM [SD]
+http://flexlive.lat:8080/live/JhonSandoval2/H84TACX39/448995.ts
 #EXTINF:-1 tvg-name="MLS 13 | SAN JOSE EARTHQUAKES VS SPORTING KANSAS CITY FEB 21 10:30 PM" group-title="Deportes" tvg-chno="" ,MLS 13 | SAN JOSE EARTHQUAKES VS SPORTING KANSAS CITY FEB 21 10:30 PM [SD]
 http://flexlive.lat:8080/live/JhonSandoval2/H84TACX39/448996.ts
 #EXTINF:-1 tvg-name="MLS 14 | PORTLAND TIMBERS VS LA GALAXY MAR 22 4:45 PM" group-title="General" tvg-chno="" ,MLS 14 | PORTLAND TIMBERS VS LA GALAXY MAR 22 4:45 PM [SD]
@@ -81,427 +81,3 @@ http://flexlive.lat:8080/live/JhonSandoval2/H84TACX39/272229.ts
 http://flexlive.lat:8080/live/JhonSandoval2/H84TACX39/272230.ts
 #EXTINF:-1 tvg-name="RUN:TIME A SANGRE FRIA" group-title="General" tvg-chno="" ,RUN:TIME A SANGRE FRIA [SD]
 http://flexlive.lat:8080/live/JhonSandoval2/H84TACX39/272232.ts
-#EXTINF:-1 tvg-name="RUN :TIME CINE ESPANTO" group-title="Peliculas" tvg-chno="" ,RUN :TIME CINE ESPANTO [SD]
-http://flexlive.lat:8080/live/JhonSandoval2/H84TACX39/272235.ts
-#EXTINF:-1 tvg-name="RUN : TIME CRIMEN" group-title="General" tvg-chno="" ,RUN : TIME CRIMEN [SD]
-http://flexlive.lat:8080/live/JhonSandoval2/H84TACX39/272234.ts
-#EXTINF:-1 tvg-name="RUN : TIME PELICULAS" group-title="Peliculas" tvg-chno="" ,RUN : TIME PELICULAS [SD]
-http://flexlive.lat:8080/live/JhonSandoval2/H84TACX39/272236.ts
-#EXTINF:-1 tvg-name="RUN:TIME A SANGRE FRIA" group-title="General" tvg-chno="" ,RUN:TIME A SANGRE FRIA [SD]
-http://flexlive.lat:8080/live/JhonSandoval2/H84TACX39/272237.ts
-#EXTINF:-1 tvg-name="RUN:TIME COMEDIA" group-title="General" tvg-chno="" ,RUN:TIME COMEDIA [SD]
-http://flexlive.lat:8080/live/JhonSandoval2/H84TACX39/272238.ts
-#EXTINF:-1 tvg-name="RUN :TIME ROMANCE" group-title="General" tvg-chno="" ,RUN :TIME ROMANCE [SD]
-http://flexlive.lat:8080/live/JhonSandoval2/H84TACX39/273049.ts
-#EXTINF:-1 tvg-name="RUN :TIME FAMILIA" group-title="General" tvg-chno="" ,RUN :TIME FAMILIA [SD]
-http://flexlive.lat:8080/live/JhonSandoval2/H84TACX39/273050.ts
-#EXTINF:-1 tvg-name="RUN :TIME C4 ALERTA" group-title="General" tvg-chno="" ,RUN :TIME C4 ALERTA [SD]
-http://flexlive.lat:8080/live/JhonSandoval2/H84TACX39/273051.ts
-#EXTINF:-1 tvg-name="ESPN" group-title="Deportes" tvg-chno="" ,ESPN [SD]
-http://flexlive.lat:8080/live/JhonSandoval2/H84TACX39/269792.ts
-#EXTINF:-1 tvg-name="ESPN 2" group-title="Deportes" tvg-chno="" ,ESPN 2 [SD]
-http://flexlive.lat:8080/live/JhonSandoval2/H84TACX39/269793.ts
-#EXTINF:-1 tvg-name="ESPN 3" group-title="Deportes" tvg-chno="" ,ESPN 3 [SD]
-http://flexlive.lat:8080/live/JhonSandoval2/H84TACX39/269794.ts
-#EXTINF:-1 tvg-name="ESPN 4" group-title="Deportes" tvg-chno="" ,ESPN 4 [SD]
-http://flexlive.lat:8080/live/JhonSandoval2/H84TACX39/269795.ts
-#EXTINF:-1 tvg-name="ESPN 5" group-title="Deportes" tvg-chno="" ,ESPN 5 [SD]
-http://flexlive.lat:8080/live/JhonSandoval2/H84TACX39/269796.ts
-#EXTINF:-1 tvg-name="ESPN 6" group-title="Deportes" tvg-chno="" ,ESPN 6 [SD]
-http://flexlive.lat:8080/live/JhonSandoval2/H84TACX39/269797.ts
-#EXTINF:-1 tvg-name="ESPN 7" group-title="Deportes" tvg-chno="" ,ESPN 7 [SD]
-http://flexlive.lat:8080/live/JhonSandoval2/H84TACX39/269798.ts
-#EXTINF:-1 tvg-name="ESPN PREMIUM AR" group-title="Deportes" tvg-chno="" ,ESPN PREMIUM AR [SD]
-http://flexlive.lat:8080/live/JhonSandoval2/H84TACX39/404426.ts
-#EXTINF:-1 tvg-name="RD | CORAL 39" group-title="General" tvg-chno="" ,RD | CORAL 39 [SD]
-http://flexlive.lat:8080/live/JhonSandoval2/H84TACX39/330219.ts
-#EXTINF:-1 tvg-name="LIDOM 2" group-title="General" tvg-chno="" ,LIDOM 2 [SD]
-http://flexlive.lat:8080/live/JhonSandoval2/H84TACX39/330220.ts
-#EXTINF:-1 tvg-name="Tele Antillas" group-title="General" tvg-chno="" ,Tele Antillas [SD]
-http://flexlive.lat:8080/live/JhonSandoval2/H84TACX39/330221.ts
-#EXTINF:-1 tvg-name="Digital 15 HD" group-title="General" tvg-chno="" ,Digital 15 HD [SD]
-http://flexlive.lat:8080/live/JhonSandoval2/H84TACX39/330222.ts
-#EXTINF:-1 tvg-name="LUNA TV" group-title="General" tvg-chno="" ,LUNA TV [SD]
-http://flexlive.lat:8080/live/JhonSandoval2/H84TACX39/330223.ts
-#EXTINF:-1 tvg-name="Teleuniverso" group-title="General" tvg-chno="" ,Teleuniverso [SD]
-http://flexlive.lat:8080/live/JhonSandoval2/H84TACX39/330224.ts
-#EXTINF:-1 tvg-name="ESPN 5" group-title="Deportes" tvg-chno="" ,ESPN 5 [SD]
-http://flexlive.lat:8080/live/JhonSandoval2/H84TACX39/143824.ts
-#EXTINF:-1 tvg-name="BOX  EVENTO" group-title="General" tvg-chno="" ,BOX  EVENTO [SD]
-http://flexlive.lat:8080/live/JhonSandoval2/H84TACX39/239786.ts
-#EXTINF:-1 tvg-name="UFC - FOX PREMIUM EVENTO" group-title="Deportes" tvg-chno="" ,UFC - FOX PREMIUM EVENTO [SD]
-http://flexlive.lat:8080/live/JhonSandoval2/H84TACX39/174966.ts
-#EXTINF:-1 tvg-name="39 | UFC EVENTO" group-title="Deportes" tvg-chno="" ,39 | UFC EVENTO [SD]
-http://flexlive.lat:8080/live/JhonSandoval2/H84TACX39/204503.ts
-#EXTINF:-1 tvg-name="39 | UFC EVENTO" group-title="Deportes" tvg-chno="" ,39 | UFC EVENTO [SD]
-http://flexlive.lat:8080/live/JhonSandoval2/H84TACX39/174961.ts
-#EXTINF:-1 tvg-name="FOX UFC EVENTOS" group-title="Deportes" tvg-chno="" ,FOX UFC EVENTOS [SD]
-http://flexlive.lat:8080/live/JhonSandoval2/H84TACX39/149876.ts
-#EXTINF:-1 tvg-name="39 | UFC EVENTO BOXEO" group-title="Deportes" tvg-chno="" ,39 | UFC EVENTO BOXEO [SD]
-http://flexlive.lat:8080/live/JhonSandoval2/H84TACX39/174962.ts
-#EXTINF:-1 tvg-name="FOX SPORTS 3 ARGENTINA SD" group-title="Deportes" tvg-chno="" ,FOX SPORTS 3 ARGENTINA SD [SD]
-http://flexlive.lat:8080/live/JhonSandoval2/H84TACX39/199282.ts
-#EXTINF:-1 tvg-name="FOX SPORTS 2 ARGENTINA SD" group-title="Deportes" tvg-chno="" ,FOX SPORTS 2 ARGENTINA SD [SD]
-http://flexlive.lat:8080/live/JhonSandoval2/H84TACX39/199281.ts
-#EXTINF:-1 tvg-name="WWE NETWORK HD" group-title="Deportes" tvg-chno="" ,WWE NETWORK HD [SD]
-http://flexlive.lat:8080/live/JhonSandoval2/H84TACX39/199279.ts
-#EXTINF:-1 tvg-name="CLARO SPORTS HD" group-title="Deportes" tvg-chno="" ,CLARO SPORTS HD [SD]
-http://flexlive.lat:8080/live/JhonSandoval2/H84TACX39/199257.ts
-#EXTINF:-1 tvg-name="RED BULL TV HD" group-title="General" tvg-chno="" ,RED BULL TV HD [SD]
-http://flexlive.lat:8080/live/JhonSandoval2/H84TACX39/199265.ts
-#EXTINF:-1 tvg-name="FOX SPORTS 2 ARGENTINA HD" group-title="Deportes" tvg-chno="" ,FOX SPORTS 2 ARGENTINA HD [SD]
-http://flexlive.lat:8080/live/JhonSandoval2/H84TACX39/199261.ts
-#EXTINF:-1 tvg-name="FOX SPORTS ARGENTINA HD" group-title="Deportes" tvg-chno="" ,FOX SPORTS ARGENTINA HD [SD]
-http://flexlive.lat:8080/live/JhonSandoval2/H84TACX39/199260.ts
-#EXTINF:-1 tvg-name="SKY SPORTS HD" group-title="Deportes" tvg-chno="" ,SKY SPORTS HD [SD]
-http://flexlive.lat:8080/live/JhonSandoval2/H84TACX39/199266.ts
-#EXTINF:-1 tvg-name="TNT SPORTS ARGENTINA HD" group-title="Deportes" tvg-chno="" ,TNT SPORTS ARGENTINA HD [SD]
-http://flexlive.lat:8080/live/JhonSandoval2/H84TACX39/199268.ts
-#EXTINF:-1 tvg-name="TVC DEPORTES HD" group-title="Deportes" tvg-chno="" ,TVC DEPORTES HD [SD]
-http://flexlive.lat:8080/live/JhonSandoval2/H84TACX39/199270.ts
-#EXTINF:-1 tvg-name="BEIN SPORTS Ñ HD" group-title="Deportes" tvg-chno="" ,BEIN SPORTS Ñ HD [SD]
-http://flexlive.lat:8080/live/JhonSandoval2/H84TACX39/199255.ts
-#EXTINF:-1 tvg-name="UFC HD" group-title="Deportes" tvg-chno="" ,UFC HD [SD]
-http://flexlive.lat:8080/live/JhonSandoval2/H84TACX39/199271.ts
-#EXTINF:-1 tvg-name="BEIN SPORTS Ñ HD" group-title="Deportes" tvg-chno="" ,BEIN SPORTS Ñ HD [SD]
-http://flexlive.lat:8080/live/JhonSandoval2/H84TACX39/199256.ts
-#EXTINF:-1 tvg-name="ADRENALINA SPORTS HD" group-title="Deportes" tvg-chno="" ,ADRENALINA SPORTS HD [SD]
-http://flexlive.lat:8080/live/JhonSandoval2/H84TACX39/199254.ts
-#EXTINF:-1 tvg-name="EUROSPORT 1 HD" group-title="Deportes" tvg-chno="" ,EUROSPORT 1 HD [SD]
-http://flexlive.lat:8080/live/JhonSandoval2/H84TACX39/199258.ts
-#EXTINF:-1 tvg-name="ARG DEP | FOX SPORTS  1 SD" group-title="Deportes" tvg-chno="" ,ARG DEP | FOX SPORTS  1 SD [SD]
-http://flexlive.lat:8080/live/JhonSandoval2/H84TACX39/102466.ts
-#EXTINF:-1 tvg-name="EUROSPORT 2 HD" group-title="Deportes" tvg-chno="" ,EUROSPORT 2 HD [SD]
-http://flexlive.lat:8080/live/JhonSandoval2/H84TACX39/267444.ts
-#EXTINF:-1 tvg-name="Win Sports" group-title="Deportes" tvg-chno="" ,Win Sports [SD]
-http://flexlive.lat:8080/live/JhonSandoval2/H84TACX39/102461.ts
-#EXTINF:-1 tvg-name="DIRECTV SPORTS 1" group-title="Deportes" tvg-chno="" ,DIRECTV SPORTS 1 [SD]
-http://flexlive.lat:8080/live/JhonSandoval2/H84TACX39/102460.ts
-#EXTINF:-1 tvg-name="DEPORTES | FOX SPORTS 3 MX" group-title="Deportes" tvg-chno="" ,DEPORTES | FOX SPORTS 3 MX [SD]
-http://flexlive.lat:8080/live/JhonSandoval2/H84TACX39/102450.ts
-#EXTINF:-1 tvg-name="DEPORTES HD | FOX SPORTS  2 ARG" group-title="Deportes" tvg-chno="" ,DEPORTES HD | FOX SPORTS  2 ARG [SD]
-http://flexlive.lat:8080/live/JhonSandoval2/H84TACX39/102454.ts
-#EXTINF:-1 tvg-name="SV | CLARO SPORTS" group-title="Deportes" tvg-chno="" ,SV | CLARO SPORTS [SD]
-http://flexlive.lat:8080/live/JhonSandoval2/H84TACX39/102444.ts
-#EXTINF:-1 tvg-name="GT | TIGO SPORTS" group-title="Deportes" tvg-chno="" ,GT | TIGO SPORTS [SD]
-http://flexlive.lat:8080/live/JhonSandoval2/H84TACX39/102445.ts
-#EXTINF:-1 tvg-name="DIRECTV SPORTS 1" group-title="Deportes" tvg-chno="" ,DIRECTV SPORTS 1 [SD]
-http://flexlive.lat:8080/live/JhonSandoval2/H84TACX39/102459.ts
-#EXTINF:-1 tvg-name="ESPN USA" group-title="Deportes" tvg-chno="" ,ESPN USA [SD]
-http://flexlive.lat:8080/live/JhonSandoval2/H84TACX39/437056.ts
-#EXTINF:-1 tvg-name="ESPN 2 USA" group-title="Deportes" tvg-chno="" ,ESPN 2 USA [SD]
-http://flexlive.lat:8080/live/JhonSandoval2/H84TACX39/437059.ts
-#EXTINF:-1 tvg-name="ESPN DEPORTES USA" group-title="Deportes" tvg-chno="" ,ESPN DEPORTES USA [SD]
-http://flexlive.lat:8080/live/JhonSandoval2/H84TACX39/437065.ts
-#EXTINF:-1 tvg-name="ESPN NEW USA" group-title="Deportes" tvg-chno="" ,ESPN NEW USA [SD]
-http://flexlive.lat:8080/live/JhonSandoval2/H84TACX39/437062.ts
-#EXTINF:-1 tvg-name="ESPN + MX" group-title="Deportes" tvg-chno="" ,ESPN + MX [SD]
-http://flexlive.lat:8080/live/JhonSandoval2/H84TACX39/268518.ts
-#EXTINF:-1 tvg-name="ESPN HD" group-title="Deportes" tvg-chno="" ,ESPN HD [SD]
-http://flexlive.lat:8080/live/JhonSandoval2/H84TACX39/192172.ts
-#EXTINF:-1 tvg-name="ESPN SD MX" group-title="Deportes" tvg-chno="" ,ESPN SD MX [SD]
-http://flexlive.lat:8080/live/JhonSandoval2/H84TACX39/192173.ts
-#EXTINF:-1 tvg-name="ESPN MX SD" group-title="Deportes" tvg-chno="" ,ESPN MX SD [SD]
-http://flexlive.lat:8080/live/JhonSandoval2/H84TACX39/192188.ts
-#EXTINF:-1 tvg-name="ESPN MX HD" group-title="Deportes" tvg-chno="" ,ESPN MX HD [SD]
-http://flexlive.lat:8080/live/JhonSandoval2/H84TACX39/192187.ts
-#EXTINF:-1 tvg-name="ESPN 2 MX SD" group-title="Deportes" tvg-chno="" ,ESPN 2 MX SD [SD]
-http://flexlive.lat:8080/live/JhonSandoval2/H84TACX39/192190.ts
-#EXTINF:-1 tvg-name="ESPN 2 SD MX" group-title="Deportes" tvg-chno="" ,ESPN 2 SD MX [SD]
-http://flexlive.lat:8080/live/JhonSandoval2/H84TACX39/192174.ts
-#EXTINF:-1 tvg-name="ESPN 2 HD" group-title="Deportes" tvg-chno="" ,ESPN 2 HD [SD]
-http://flexlive.lat:8080/live/JhonSandoval2/H84TACX39/192175.ts
-#EXTINF:-1 tvg-name="ESPN MX 2 HD" group-title="Deportes" tvg-chno="" ,ESPN MX 2 HD [SD]
-http://flexlive.lat:8080/live/JhonSandoval2/H84TACX39/192189.ts
-#EXTINF:-1 tvg-name="ESPN 3 MX SD" group-title="Deportes" tvg-chno="" ,ESPN 3 MX SD [SD]
-http://flexlive.lat:8080/live/JhonSandoval2/H84TACX39/192192.ts
-#EXTINF:-1 tvg-name="ESPN 3 MX HD" group-title="Deportes" tvg-chno="" ,ESPN 3 MX HD [SD]
-http://flexlive.lat:8080/live/JhonSandoval2/H84TACX39/192191.ts
-#EXTINF:-1 tvg-name="ESPN 3 SD" group-title="Deportes" tvg-chno="" ,ESPN 3 SD [SD]
-http://flexlive.lat:8080/live/JhonSandoval2/H84TACX39/192177.ts
-#EXTINF:-1 tvg-name="ESPN 3 HD" group-title="Deportes" tvg-chno="" ,ESPN 3 HD [SD]
-http://flexlive.lat:8080/live/JhonSandoval2/H84TACX39/192176.ts
-#EXTINF:-1 tvg-name="ESPN 4 SD MX" group-title="Deportes" tvg-chno="" ,ESPN 4 SD MX [SD]
-http://flexlive.lat:8080/live/JhonSandoval2/H84TACX39/192178.ts
-#EXTINF:-1 tvg-name="ESPN 4 MX" group-title="Deportes" tvg-chno="" ,ESPN 4 MX [SD]
-http://flexlive.lat:8080/live/JhonSandoval2/H84TACX39/268519.ts
-#EXTINF:-1 tvg-name="ESPN 5 MX SD" group-title="Deportes" tvg-chno="" ,ESPN 5 MX SD [SD]
-http://flexlive.lat:8080/live/JhonSandoval2/H84TACX39/294391.ts
-#EXTINF:-1 tvg-name="ESPN 5 HD" group-title="Deportes" tvg-chno="" ,ESPN 5 HD [SD]
-http://flexlive.lat:8080/live/JhonSandoval2/H84TACX39/192179.ts
-#EXTINF:-1 tvg-name="ESPN 5 SD" group-title="Deportes" tvg-chno="" ,ESPN 5 SD [SD]
-http://flexlive.lat:8080/live/JhonSandoval2/H84TACX39/192180.ts
-#EXTINF:-1 tvg-name="ESPN 6 SD" group-title="Deportes" tvg-chno="" ,ESPN 6 SD [SD]
-http://flexlive.lat:8080/live/JhonSandoval2/H84TACX39/192182.ts
-#EXTINF:-1 tvg-name="ESPN 7 HD ( c )" group-title="Deportes" tvg-chno="" ,ESPN 7 HD ( c ) [SD]
-http://flexlive.lat:8080/live/JhonSandoval2/H84TACX39/192183.ts
-#EXTINF:-1 tvg-name="ESPN 6 HD" group-title="Deportes" tvg-chno="" ,ESPN 6 HD [SD]
-http://flexlive.lat:8080/live/JhonSandoval2/H84TACX39/192181.ts
-#EXTINF:-1 tvg-name="ESPN 7 SD" group-title="Deportes" tvg-chno="" ,ESPN 7 SD [SD]
-http://flexlive.lat:8080/live/JhonSandoval2/H84TACX39/192184.ts
-#EXTINF:-1 tvg-name="ESPN PREMIUM" group-title="Deportes" tvg-chno="" ,ESPN PREMIUM [SD]
-http://flexlive.lat:8080/live/JhonSandoval2/H84TACX39/192186.ts
-#EXTINF:-1 tvg-name="ESPN PREMIUM" group-title="Deportes" tvg-chno="" ,ESPN PREMIUM [SD]
-http://flexlive.lat:8080/live/JhonSandoval2/H84TACX39/192185.ts
-#EXTINF:-1 tvg-name="ESPN DEPORTES USA" group-title="Deportes" tvg-chno="" ,ESPN DEPORTES USA [SD]
-http://flexlive.lat:8080/live/JhonSandoval2/H84TACX39/192193.ts
-#EXTINF:-1 tvg-name="ESPN DEPORTE OPC 2" group-title="Deportes" tvg-chno="" ,ESPN DEPORTE OPC 2 [SD]
-http://flexlive.lat:8080/live/JhonSandoval2/H84TACX39/192195.ts
-#EXTINF:-1 tvg-name="BEIN SPORT Ñ HD" group-title="Deportes" tvg-chno="" ,BEIN SPORT Ñ HD [SD]
-http://flexlive.lat:8080/live/JhonSandoval2/H84TACX39/141055.ts
-#EXTINF:-1 tvg-name="EUR | BEIN SPORTS HD (P)" group-title="Deportes" tvg-chno="" ,EUR | BEIN SPORTS HD (P) [SD]
-http://flexlive.lat:8080/live/JhonSandoval2/H84TACX39/141043.ts
-#EXTINF:-1 tvg-name="beIN SPORTS 1 PREMIUM" group-title="Deportes" tvg-chno="" ,beIN SPORTS 1 PREMIUM [SD]
-http://flexlive.lat:8080/live/JhonSandoval2/H84TACX39/141045.ts
-#EXTINF:-1 tvg-name="beIN  extra" group-title="Deportes" tvg-chno="" ,beIN  extra [SD]
-http://flexlive.lat:8080/live/JhonSandoval2/H84TACX39/141047.ts
-#EXTINF:-1 tvg-name="beIN SPORTS XTRA" group-title="Deportes" tvg-chno="" ,beIN SPORTS XTRA [SD]
-http://flexlive.lat:8080/live/JhonSandoval2/H84TACX39/141046.ts
-#EXTINF:-1 tvg-name="BEIN SPORTS USA" group-title="Deportes" tvg-chno="" ,BEIN SPORTS USA [SD]
-http://flexlive.lat:8080/live/JhonSandoval2/H84TACX39/141052.ts
-#EXTINF:-1 tvg-name="FOX DEPORTES USA" group-title="Deportes" tvg-chno="" ,FOX DEPORTES USA [SD]
-http://flexlive.lat:8080/live/JhonSandoval2/H84TACX39/143271.ts
-#EXTINF:-1 tvg-name="FOX Sports | AR ❆" group-title="Deportes" tvg-chno="" ,FOX Sports | AR ❆ [SD]
-http://flexlive.lat:8080/live/JhonSandoval2/H84TACX39/199172.ts
-#EXTINF:-1 tvg-name="FOX Sports 2 | AR ❆" group-title="Deportes" tvg-chno="" ,FOX Sports 2 | AR ❆ [SD]
-http://flexlive.lat:8080/live/JhonSandoval2/H84TACX39/199173.ts
-#EXTINF:-1 tvg-name="FOX Sports 3 | AR ❆" group-title="Deportes" tvg-chno="" ,FOX Sports 3 | AR ❆ [SD]
-http://flexlive.lat:8080/live/JhonSandoval2/H84TACX39/199174.ts
-#EXTINF:-1 tvg-name="FOX Sports | CO ❆" group-title="Deportes" tvg-chno="" ,FOX Sports | CO ❆ [SD]
-http://flexlive.lat:8080/live/JhonSandoval2/H84TACX39/199176.ts
-#EXTINF:-1 tvg-name="FOX Sports 2 | CO ❆" group-title="Deportes" tvg-chno="" ,FOX Sports 2 | CO ❆ [SD]
-http://flexlive.lat:8080/live/JhonSandoval2/H84TACX39/199177.ts
-#EXTINF:-1 tvg-name="FOX Sports. PREMIUM MX" group-title="Deportes" tvg-chno="" ,FOX Sports. PREMIUM MX [SD]
-http://flexlive.lat:8080/live/JhonSandoval2/H84TACX39/199179.ts
-#EXTINF:-1 tvg-name="FOX Sports |  SOCCER plus❆" group-title="Deportes" tvg-chno="" ,FOX Sports |  SOCCER plus❆ [SD]
-http://flexlive.lat:8080/live/JhonSandoval2/H84TACX39/199193.ts
-#EXTINF:-1 tvg-name="FOX Sports | PREMIUM" group-title="Deportes" tvg-chno="" ,FOX Sports | PREMIUM [SD]
-http://flexlive.lat:8080/live/JhonSandoval2/H84TACX39/199192.ts
-#EXTINF:-1 tvg-name="FOX Sports | CL ❆" group-title="Deportes" tvg-chno="" ,FOX Sports | CL ❆ [SD]
-http://flexlive.lat:8080/live/JhonSandoval2/H84TACX39/199187.ts
-#EXTINF:-1 tvg-name="FOX Premium | MX ❆" group-title="Peliculas" tvg-chno="" ,FOX Premium | MX ❆ [SD]
-http://flexlive.lat:8080/live/JhonSandoval2/H84TACX39/199180.ts
-#EXTINF:-1 tvg-name="FOX Sports 1 | MX ❆" group-title="Deportes" tvg-chno="" ,FOX Sports 1 | MX ❆ [SD]
-http://flexlive.lat:8080/live/JhonSandoval2/H84TACX39/199181.ts
-#EXTINF:-1 tvg-name="FOX Sports 3 | PE ❆" group-title="Deportes" tvg-chno="" ,FOX Sports 3 | PE ❆ [SD]
-http://flexlive.lat:8080/live/JhonSandoval2/H84TACX39/199190.ts
-#EXTINF:-1 tvg-name="FOX Sports 3 | CL ❆" group-title="Deportes" tvg-chno="" ,FOX Sports 3 | CL ❆ [SD]
-http://flexlive.lat:8080/live/JhonSandoval2/H84TACX39/199186.ts
-#EXTINF:-1 tvg-name="FOX Sports 3 | MX ❆" group-title="Deportes" tvg-chno="" ,FOX Sports 3 | MX ❆ [SD]
-http://flexlive.lat:8080/live/JhonSandoval2/H84TACX39/199183.ts
-#EXTINF:-1 tvg-name="FOX Sports 3 | CO ❆" group-title="Deportes" tvg-chno="" ,FOX Sports 3 | CO ❆ [SD]
-http://flexlive.lat:8080/live/JhonSandoval2/H84TACX39/199178.ts
-#EXTINF:-1 tvg-name="Fox Sports 2 | 2MB LAT ❆" group-title="Deportes" tvg-chno="" ,Fox Sports 2 | 2MB LAT ❆ [SD]
-http://flexlive.lat:8080/live/JhonSandoval2/H84TACX39/199195.ts
-#EXTINF:-1 tvg-name="FOX Sports 2 | PE ❆" group-title="Deportes" tvg-chno="" ,FOX Sports 2 | PE ❆ [SD]
-http://flexlive.lat:8080/live/JhonSandoval2/H84TACX39/199189.ts
-#EXTINF:-1 tvg-name="FOX Sports 2 | CL ❆" group-title="Deportes" tvg-chno="" ,FOX Sports 2 | CL ❆ [SD]
-http://flexlive.lat:8080/live/JhonSandoval2/H84TACX39/199185.ts
-#EXTINF:-1 tvg-name="FOX Sports 2 | MX ❆" group-title="Deportes" tvg-chno="" ,FOX Sports 2 | MX ❆ [SD]
-http://flexlive.lat:8080/live/JhonSandoval2/H84TACX39/199182.ts
-#EXTINF:-1 tvg-name="DSports 2 | AR ❆" group-title="Deportes" tvg-chno="" ,DSports 2 | AR ❆ [SD]
-http://flexlive.lat:8080/live/JhonSandoval2/H84TACX39/249513.ts
-#EXTINF:-1 tvg-name="DSports + | AR ❆" group-title="Deportes" tvg-chno="" ,DSports + | AR ❆ [SD]
-http://flexlive.lat:8080/live/JhonSandoval2/H84TACX39/249514.ts
-#EXTINF:-1 tvg-name="DSports | CO ❆" group-title="Deportes" tvg-chno="" ,DSports | CO ❆ [SD]
-http://flexlive.lat:8080/live/JhonSandoval2/H84TACX39/249516.ts
-#EXTINF:-1 tvg-name="DSports | CO ❆" group-title="Deportes" tvg-chno="" ,DSports | CO ❆ [SD]
-http://flexlive.lat:8080/live/JhonSandoval2/H84TACX39/249517.ts
-#EXTINF:-1 tvg-name="DSports 2 | CL ❆" group-title="Deportes" tvg-chno="" ,DSports 2 | CL ❆ [SD]
-http://flexlive.lat:8080/live/JhonSandoval2/H84TACX39/249520.ts
-#EXTINF:-1 tvg-name="DSports 1 | CL ❆" group-title="Deportes" tvg-chno="" ,DSports 1 | CL ❆ [SD]
-http://flexlive.lat:8080/live/JhonSandoval2/H84TACX39/249519.ts
-#EXTINF:-1 tvg-name="DSports + | CL ❆" group-title="Deportes" tvg-chno="" ,DSports + | CL ❆ [SD]
-http://flexlive.lat:8080/live/JhonSandoval2/H84TACX39/249521.ts
-#EXTINF:-1 tvg-name="DSports 1 | EC ❆" group-title="Deportes" tvg-chno="" ,DSports 1 | EC ❆ [SD]
-http://flexlive.lat:8080/live/JhonSandoval2/H84TACX39/249523.ts
-#EXTINF:-1 tvg-name="DSports 2 | EC ❆" group-title="Deportes" tvg-chno="" ,DSports 2 | EC ❆ [SD]
-http://flexlive.lat:8080/live/JhonSandoval2/H84TACX39/249524.ts
-#EXTINF:-1 tvg-name="DSports + | EC ❆" group-title="Deportes" tvg-chno="" ,DSports + | EC ❆ [SD]
-http://flexlive.lat:8080/live/JhonSandoval2/H84TACX39/249525.ts
-#EXTINF:-1 tvg-name="DSports 1 | PE ❆" group-title="Deportes" tvg-chno="" ,DSports 1 | PE ❆ [SD]
-http://flexlive.lat:8080/live/JhonSandoval2/H84TACX39/249528.ts
-#EXTINF:-1 tvg-name="DSports 1 | PE ❆" group-title="Deportes" tvg-chno="" ,DSports 1 | PE ❆ [SD]
-http://flexlive.lat:8080/live/JhonSandoval2/H84TACX39/249527.ts
-#EXTINF:-1 tvg-name="DSports 1 ❆" group-title="Deportes" tvg-chno="" ,DSports 1 ❆ [SD]
-http://flexlive.lat:8080/live/JhonSandoval2/H84TACX39/249530.ts
-#EXTINF:-1 tvg-name="DSports 2" group-title="Deportes" tvg-chno="" ,DSports 2 [SD]
-http://flexlive.lat:8080/live/JhonSandoval2/H84TACX39/249531.ts
-#EXTINF:-1 tvg-name="DSports + ❆" group-title="Deportes" tvg-chno="" ,DSports + ❆ [SD]
-http://flexlive.lat:8080/live/JhonSandoval2/H84TACX39/249532.ts
-#EXTINF:-1 tvg-name="DSports Fight ❆" group-title="Deportes" tvg-chno="" ,DSports Fight ❆ [SD]
-http://flexlive.lat:8080/live/JhonSandoval2/H84TACX39/249534.ts
-#EXTINF:-1 tvg-name="DSports 2 | AR ❆" group-title="Deportes" tvg-chno="" ,DSports 2 | AR ❆ [SD]
-http://flexlive.lat:8080/live/JhonSandoval2/H84TACX39/249535.ts
-#EXTINF:-1 tvg-name="DSports + | AR ❆" group-title="Deportes" tvg-chno="" ,DSports + | AR ❆ [SD]
-http://flexlive.lat:8080/live/JhonSandoval2/H84TACX39/249512.ts
-#EXTINF:-1 tvg-name="DAZN 2 FHD" group-title="General" tvg-chno="" ,DAZN 2 FHD [SD]
-http://flexlive.lat:8080/live/JhonSandoval2/H84TACX39/124772.ts
-#EXTINF:-1 tvg-name="DAZN 4 FHD" group-title="General" tvg-chno="" ,DAZN 4 FHD [SD]
-http://flexlive.lat:8080/live/JhonSandoval2/H84TACX39/124775.ts
-#EXTINF:-1 tvg-name="DZN | M. DAZN LA LIGA 2 HD" group-title="General" tvg-chno="" ,DZN | M. DAZN LA LIGA 2 HD [SD]
-http://flexlive.lat:8080/live/JhonSandoval2/H84TACX39/124781.ts
-#EXTINF:-1 tvg-name="DZN | DAZN MOVISTAR 4 HD" group-title="General" tvg-chno="" ,DZN | DAZN MOVISTAR 4 HD [SD]
-http://flexlive.lat:8080/live/JhonSandoval2/H84TACX39/124792.ts
-#EXTINF:-1 tvg-name="DZN | DAZN MOVISTAR 3 HD" group-title="General" tvg-chno="" ,DZN | DAZN MOVISTAR 3 HD [SD]
-http://flexlive.lat:8080/live/JhonSandoval2/H84TACX39/124797.ts
-#EXTINF:-1 tvg-name="DZN | DAZN LA LIGA 1 SD" group-title="General" tvg-chno="" ,DZN | DAZN LA LIGA 1 SD [SD]
-http://flexlive.lat:8080/live/JhonSandoval2/H84TACX39/124778.ts
-#EXTINF:-1 tvg-name="DZN | DAZN F1 HD (TP)." group-title="General" tvg-chno="" ,DZN | DAZN F1 HD (TP). [SD]
-http://flexlive.lat:8080/live/JhonSandoval2/H84TACX39/124783.ts
-#EXTINF:-1 tvg-name="DZN | M. DAZN LA LIGA HD" group-title="General" tvg-chno="" ,DZN | M. DAZN LA LIGA HD [SD]
-http://flexlive.lat:8080/live/JhonSandoval2/H84TACX39/124782.ts
-#EXTINF:-1 tvg-name="DZN | M. DAZN LA LIGA 1 HD" group-title="General" tvg-chno="" ,DZN | M. DAZN LA LIGA 1 HD [SD]
-http://flexlive.lat:8080/live/JhonSandoval2/H84TACX39/124779.ts
-#EXTINF:-1 tvg-name="MLB Network" group-title="Deportes" tvg-chno="" ,MLB Network [SD]
-http://flexlive.lat:8080/live/JhonSandoval2/H84TACX39/306736.ts
-#EXTINF:-1 tvg-name="NBA NETWORK" group-title="Deportes" tvg-chno="" ,NBA NETWORK [SD]
-http://flexlive.lat:8080/live/JhonSandoval2/H84TACX39/212121.ts
-#EXTINF:-1 tvg-name="Desconocido" group-title="General" tvg-chno="" ,Desconocido [SD]
-http://flexlive.lat:8080/live/JhonSandoval2/H84TACX39/434881.ts
-#EXTINF:-1 tvg-name="PlayList Exportada por la aplicación Reproductor Simple IPTV - Descarga en PlayStore!" group-title="General" tvg-chno="" ,PlayList Exportada por la aplicación Reproductor Simple IPTV - Descarga en PlayStore! [SD]
-http://flexlive.lat:8080/live/JhonSandoval2/H84TACX39/434882.ts
-#EXTINF:-1 tvg-name="USA | GOLF CHANEL" group-title="Deportes" tvg-chno="" ,USA | GOLF CHANEL [SD]
-http://flexlive.lat:8080/live/JhonSandoval2/H84TACX39/434884.ts
-#EXTINF:-1 tvg-name="USA |  TENNIS CHANNEL" group-title="General" tvg-chno="" ,USA |  TENNIS CHANNEL [SD]
-http://flexlive.lat:8080/live/JhonSandoval2/H84TACX39/434885.ts
-#EXTINF:-1 tvg-name="USA |  STADIUM 1" group-title="General" tvg-chno="" ,USA |  STADIUM 1 [SD]
-http://flexlive.lat:8080/live/JhonSandoval2/H84TACX39/434886.ts
-#EXTINF:-1 tvg-name="USA |  SPORTSNET NEW YORK" group-title="Deportes" tvg-chno="" ,USA |  SPORTSNET NEW YORK [SD]
-http://flexlive.lat:8080/live/JhonSandoval2/H84TACX39/434887.ts
-#EXTINF:-1 tvg-name="USA |  SEC NETWORK" group-title="General" tvg-chno="" ,USA |  SEC NETWORK [SD]
-http://flexlive.lat:8080/live/JhonSandoval2/H84TACX39/434888.ts
-#EXTINF:-1 tvg-name="USA |  OUTDOOR CHANNEL" group-title="General" tvg-chno="" ,USA |  OUTDOOR CHANNEL [SD]
-http://flexlive.lat:8080/live/JhonSandoval2/H84TACX39/434889.ts
-#EXTINF:-1 tvg-name="USA |  MSG PLUS" group-title="General" tvg-chno="" ,USA |  MSG PLUS [SD]
-http://flexlive.lat:8080/live/JhonSandoval2/H84TACX39/434891.ts
-#EXTINF:-1 tvg-name="USA |  NBC SPORTS" group-title="Deportes" tvg-chno="" ,USA |  NBC SPORTS [SD]
-http://flexlive.lat:8080/live/JhonSandoval2/H84TACX39/434890.ts
-#EXTINF:-1 tvg-name="USA |  MOTORTREND" group-title="General" tvg-chno="" ,USA |  MOTORTREND [SD]
-http://flexlive.lat:8080/live/JhonSandoval2/H84TACX39/434892.ts
-#EXTINF:-1 tvg-name="USA |  MAVTV" group-title="General" tvg-chno="" ,USA |  MAVTV [SD]
-http://flexlive.lat:8080/live/JhonSandoval2/H84TACX39/434893.ts
-#EXTINF:-1 tvg-name="USA |  FUBO SPORTS NETWORK HD" group-title="Deportes" tvg-chno="" ,USA |  FUBO SPORTS NETWORK HD [SD]
-http://flexlive.lat:8080/live/JhonSandoval2/H84TACX39/434894.ts
-#EXTINF:-1 tvg-name="USA |  FIGHT TV" group-title="General" tvg-chno="" ,USA |  FIGHT TV [SD]
-http://flexlive.lat:8080/live/JhonSandoval2/H84TACX39/434895.ts
-#EXTINF:-1 tvg-name="USA |  CBS SPORTS NETWORK" group-title="Deportes" tvg-chno="" ,USA |  CBS SPORTS NETWORK [SD]
-http://flexlive.lat:8080/live/JhonSandoval2/H84TACX39/434896.ts
-#EXTINF:-1 tvg-name="USA |  BEIN SPORTS USA" group-title="Deportes" tvg-chno="" ,USA |  BEIN SPORTS USA [SD]
-http://flexlive.lat:8080/live/JhonSandoval2/H84TACX39/434897.ts
-#EXTINF:-1 tvg-name="USA |  BEIN SPORTS ESPANOL" group-title="Deportes" tvg-chno="" ,USA |  BEIN SPORTS ESPANOL [SD]
-http://flexlive.lat:8080/live/JhonSandoval2/H84TACX39/434899.ts
-#EXTINF:-1 tvg-name="USA |  BEIN SPORTS XTRA" group-title="Deportes" tvg-chno="" ,USA |  BEIN SPORTS XTRA [SD]
-http://flexlive.lat:8080/live/JhonSandoval2/H84TACX39/434898.ts
-#EXTINF:-1 tvg-name="USA |  BEIN SPORTS 8" group-title="Deportes" tvg-chno="" ,USA |  BEIN SPORTS 8 [SD]
-http://flexlive.lat:8080/live/JhonSandoval2/H84TACX39/434900.ts
-#EXTINF:-1 tvg-name="USA |  BEIN SPORTS 7" group-title="Deportes" tvg-chno="" ,USA |  BEIN SPORTS 7 [SD]
-http://flexlive.lat:8080/live/JhonSandoval2/H84TACX39/434901.ts
-#EXTINF:-1 tvg-name="USA |  BEIN SPORTS 6" group-title="Deportes" tvg-chno="" ,USA |  BEIN SPORTS 6 [SD]
-http://flexlive.lat:8080/live/JhonSandoval2/H84TACX39/434902.ts
-#EXTINF:-1 tvg-name="USA |  BEIN SPORTS 5" group-title="Deportes" tvg-chno="" ,USA |  BEIN SPORTS 5 [SD]
-http://flexlive.lat:8080/live/JhonSandoval2/H84TACX39/434903.ts
-#EXTINF:-1 tvg-name="USA |  FANDUEL SPORTS NETWORK" group-title="Deportes" tvg-chno="" ,USA |  FANDUEL SPORTS NETWORK [SD]
-http://flexlive.lat:8080/live/JhonSandoval2/H84TACX39/434905.ts
-#EXTINF:-1 tvg-name="USA |  BEIN SPORTS 4" group-title="Deportes" tvg-chno="" ,USA |  BEIN SPORTS 4 [SD]
-http://flexlive.lat:8080/live/JhonSandoval2/H84TACX39/434904.ts
-#EXTINF:-1 tvg-name="USA |  ESPN DEPORTES" group-title="Deportes" tvg-chno="" ,USA |  ESPN DEPORTES [SD]
-http://flexlive.lat:8080/live/JhonSandoval2/H84TACX39/434906.ts
-#EXTINF:-1 tvg-name="USA |  ESPN" group-title="Deportes" tvg-chno="" ,USA |  ESPN [SD]
-http://flexlive.lat:8080/live/JhonSandoval2/H84TACX39/434907.ts
-#EXTINF:-1 tvg-name="USA| SPORTSMAN CHANNEL" group-title="Deportes" tvg-chno="" ,USA| SPORTSMAN CHANNEL [SD]
-http://flexlive.lat:8080/live/JhonSandoval2/H84TACX39/434908.ts
-#EXTINF:-1 tvg-name="USA: 30A Golf Kingdom" group-title="Deportes" tvg-chno="" ,USA: 30A Golf Kingdom [SD]
-http://flexlive.lat:8080/live/JhonSandoval2/H84TACX39/434909.ts
-#EXTINF:-1 tvg-name="USA: ACCDN" group-title="General" tvg-chno="" ,USA: ACCDN [SD]
-http://flexlive.lat:8080/live/JhonSandoval2/H84TACX39/434910.ts
-#EXTINF:-1 tvg-name="USA: BEK TV Sports West" group-title="Deportes" tvg-chno="" ,USA: BEK TV Sports West [SD]
-http://flexlive.lat:8080/live/JhonSandoval2/H84TACX39/434911.ts
-#EXTINF:-1 tvg-name="USA: Billiard TV" group-title="General" tvg-chno="" ,USA: Billiard TV [SD]
-http://flexlive.lat:8080/live/JhonSandoval2/H84TACX39/434912.ts
-#EXTINF:-1 tvg-name="USA: CBS Sports Golazo Network" group-title="Deportes" tvg-chno="" ,USA: CBS Sports Golazo Network [SD]
-http://flexlive.lat:8080/live/JhonSandoval2/H84TACX39/434913.ts
-#EXTINF:-1 tvg-name="USA: CBS Sports HQ" group-title="Deportes" tvg-chno="" ,USA: CBS Sports HQ [SD]
-http://flexlive.lat:8080/live/JhonSandoval2/H84TACX39/434914.ts
-#EXTINF:-1 tvg-name="USA: FITE 24/7" group-title="General" tvg-chno="" ,USA: FITE 24/7 [SD]
-http://flexlive.lat:8080/live/JhonSandoval2/H84TACX39/434915.ts
-#EXTINF:-1 tvg-name="USA: FUEL TV" group-title="General" tvg-chno="" ,USA: FUEL TV [SD]
-http://flexlive.lat:8080/live/JhonSandoval2/H84TACX39/434916.ts
-#EXTINF:-1 tvg-name="USA: Glory Kickboxing" group-title="Deportes" tvg-chno="" ,USA: Glory Kickboxing [SD]
-http://flexlive.lat:8080/live/JhonSandoval2/H84TACX39/434917.ts
-#EXTINF:-1 tvg-name="USA: KCMN-LD6" group-title="General" tvg-chno="" ,USA: KCMN-LD6 [SD]
-http://flexlive.lat:8080/live/JhonSandoval2/H84TACX39/434918.ts
-#EXTINF:-1 tvg-name="USA: Lacrosse TV" group-title="General" tvg-chno="" ,USA: Lacrosse TV [SD]
-http://flexlive.lat:8080/live/JhonSandoval2/H84TACX39/434919.ts
-#EXTINF:-1 tvg-name="USA: MLB" group-title="Deportes" tvg-chno="" ,USA: MLB [SD]
-http://flexlive.lat:8080/live/JhonSandoval2/H84TACX39/434920.ts
-#EXTINF:-1 tvg-name="USA: NBC Sports Philadelphia" group-title="Deportes" tvg-chno="" ,USA: NBC Sports Philadelphia [SD]
-http://flexlive.lat:8080/live/JhonSandoval2/H84TACX39/434921.ts
-#EXTINF:-1 tvg-name="USA: NFL Channel" group-title="Deportes" tvg-chno="" ,USA: NFL Channel [SD]
-http://flexlive.lat:8080/live/JhonSandoval2/H84TACX39/434922.ts
-#EXTINF:-1 tvg-name="USA: NHL" group-title="General" tvg-chno="" ,USA: NHL [SD]
-http://flexlive.lat:8080/live/JhonSandoval2/H84TACX39/434923.ts
-#EXTINF:-1 tvg-name="USA: PBR RidePass" group-title="General" tvg-chno="" ,USA: PBR RidePass [SD]
-http://flexlive.lat:8080/live/JhonSandoval2/H84TACX39/434924.ts
-#EXTINF:-1 tvg-name="USA: PGA Tour" group-title="General" tvg-chno="" ,USA: PGA Tour [SD]
-http://flexlive.lat:8080/live/JhonSandoval2/H84TACX39/434925.ts
-#EXTINF:-1 tvg-name="USA: PokerGo" group-title="General" tvg-chno="" ,USA: PokerGo [SD]
-http://flexlive.lat:8080/live/JhonSandoval2/H84TACX39/434926.ts
-#EXTINF:-1 tvg-name="USA: Red Bull TV" group-title="General" tvg-chno="" ,USA: Red Bull TV [SD]
-http://flexlive.lat:8080/live/JhonSandoval2/H84TACX39/434927.ts
-#EXTINF:-1 tvg-name="USA: SportsGrid" group-title="Deportes" tvg-chno="" ,USA: SportsGrid [SD]
-http://flexlive.lat:8080/live/JhonSandoval2/H84TACX39/434928.ts
-#EXTINF:-1 tvg-name="USA: TVS Bowling Network" group-title="General" tvg-chno="" ,USA: TVS Bowling Network [SD]
-http://flexlive.lat:8080/live/JhonSandoval2/H84TACX39/434929.ts
-#EXTINF:-1 tvg-name="USA: TVS Boxing" group-title="Deportes" tvg-chno="" ,USA: TVS Boxing [SD]
-http://flexlive.lat:8080/live/JhonSandoval2/H84TACX39/434930.ts
-#EXTINF:-1 tvg-name="USA: TVS Classic Sports" group-title="Deportes" tvg-chno="" ,USA: TVS Classic Sports [SD]
-http://flexlive.lat:8080/live/JhonSandoval2/H84TACX39/434931.ts
-#EXTINF:-1 tvg-name="USA: TVS Sports" group-title="Deportes" tvg-chno="" ,USA: TVS Sports [SD]
-http://flexlive.lat:8080/live/JhonSandoval2/H84TACX39/434932.ts
-#EXTINF:-1 tvg-name="USA: TVS Turbo" group-title="General" tvg-chno="" ,USA: TVS Turbo [SD]
-http://flexlive.lat:8080/live/JhonSandoval2/H84TACX39/434934.ts
-#EXTINF:-1 tvg-name="USA: TVS Sports Bureau" group-title="Deportes" tvg-chno="" ,USA: TVS Sports Bureau [SD]
-http://flexlive.lat:8080/live/JhonSandoval2/H84TACX39/434933.ts
-#EXTINF:-1 tvg-name="USA: TVS Women Sports" group-title="Deportes" tvg-chno="" ,USA: TVS Women Sports [SD]
-http://flexlive.lat:8080/live/JhonSandoval2/H84TACX39/434935.ts
-#EXTINF:-1 tvg-name="USA: Unbeaten" group-title="General" tvg-chno="" ,USA: Unbeaten [SD]
-http://flexlive.lat:8080/live/JhonSandoval2/H84TACX39/434936.ts
-#EXTINF:-1 tvg-name="USA: W14DK-D 14.5 All Sports Television Network" group-title="Deportes" tvg-chno="" ,USA: W14DK-D 14.5 All Sports Television Network [SD]
-http://flexlive.lat:8080/live/JhonSandoval2/H84TACX39/434937.ts
-#EXTINF:-1 tvg-name="FOX SPORTS 1 USA (FS1)" group-title="Deportes" tvg-chno="" ,FOX SPORTS 1 USA (FS1) [SD]
-http://flexlive.lat:8080/live/JhonSandoval2/H84TACX39/434938.ts
-#EXTINF:-1 tvg-name="PLUTO ESPANA TV Motor" group-title="General" tvg-chno="" ,PLUTO ESPANA TV Motor [SD]
-http://flexlive.lat:8080/live/JhonSandoval2/H84TACX39/294872.ts
-#EXTINF:-1 tvg-name="Moto2 y 3 Tests" group-title="General" tvg-chno="" ,Moto2 y 3 Tests [SD]
-http://flexlive.lat:8080/live/JhonSandoval2/H84TACX39/294873.ts
-#EXTINF:-1 tvg-name="DEPORTES FORMULA 1 & GP**" group-title="Deportes" tvg-chno="" ,DEPORTES FORMULA 1 & GP** [SD]
-http://flexlive.lat:8080/live/JhonSandoval2/H84TACX39/294874.ts
-#EXTINF:-1 tvg-name="Superbikes Carrera" group-title="General" tvg-chno="" ,Superbikes Carrera [SD]
-http://flexlive.lat:8080/live/JhonSandoval2/H84TACX39/294875.ts
-#EXTINF:-1 tvg-name="Superbikes Clasificación" group-title="General" tvg-chno="" ,Superbikes Clasificación [SD]
-http://flexlive.lat:8080/live/JhonSandoval2/H84TACX39/294876.ts
-#EXTINF:-1 tvg-name="Formula 1 TESTS" group-title="General" tvg-chno="" ,Formula 1 TESTS [SD]
-http://flexlive.lat:8080/live/JhonSandoval2/H84TACX39/294877.ts
-#EXTINF:-1 tvg-name="Formula 1 Clasificacion" group-title="General" tvg-chno="" ,Formula 1 Clasificacion [SD]
-http://flexlive.lat:8080/live/JhonSandoval2/H84TACX39/294878.ts
-#EXTINF:-1 tvg-name="Moto GP Clasificacion" group-title="General" tvg-chno="" ,Moto GP Clasificacion [SD]
-http://flexlive.lat:8080/live/JhonSandoval2/H84TACX39/294879.ts
-#EXTINF:-1 tvg-name="Superbikes Tests" group-title="General" tvg-chno="" ,Superbikes Tests [SD]
-http://flexlive.lat:8080/live/JhonSandoval2/H84TACX39/294880.ts
-#EXTINF:-1 tvg-name="MEGA" group-title="General" tvg-chno="" ,MEGA [SD]
-http://promas.lat:2082/RetamalClaudio22/aEeaajWuT4Fv/2355
-#EXTINF:-1 tvg-name="MEGA HD" group-title="General" tvg-chno="" ,MEGA HD [SD]
-http://promas.lat:2082/RetamalClaudio22/aEeaajWuT4Fv/14090
-#EXTINF:-1 tvg-name="MEGA FHD" group-title="General" tvg-chno="" ,MEGA FHD [SD]
-http://promas.lat:2082/RetamalClaudio22/aEeaajWuT4Fv/30904
-#EXTINF:-1 tvg-name="MEGA Plus" group-title="General" tvg-chno="" ,MEGA Plus [SD]
-http://promas.lat:2082/RetamalClaudio22/aEeaajWuT4Fv/6721
-#EXTINF:-1 tvg-name="MEGA 2" group-title="General" tvg-chno="" ,MEGA 2 [SD]
-http://promas.lat:2082/RetamalClaudio22/aEeaajWuT4Fv/56930
-#EXTINF:-1 tvg-name="Meganoticias" group-title="Noticias" tvg-chno="" ,Meganoticias [SD]
-http://promas.lat:2082/RetamalClaudio22/aEeaajWuT4Fv/51139
-#EXTINF:-1 tvg-name="CHV" group-title="General" tvg-chno="" ,CHV [SD]
-http://promas.lat:2082/RetamalClaudio22/aEeaajWuT4Fv/37973
-#EXTINF:-1 tvg-name="Mega Ficcion" group-title="General" tvg-chno="" ,Mega Ficcion [SD]
-http://promas.lat:2082/RetamalClaudio22/aEeaajWuT4Fv/75772

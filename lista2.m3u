@@ -1,4 +1,4 @@
-#EXTM3U x-tvg-url="" x-lista="Listas General 2" x-actualizado="2026-06-27 16:31"
+#EXTM3U x-tvg-url="" x-lista="Listas General 2" x-actualizado="2026-06-27 17:04"
 #EXTINF:-1 tvg-name="27/06 17:30 - Audax Italiano vs Magallanes" group-title="General" tvg-chno="" ,27/06 17:30 - Audax Italiano vs Magallanes [SD]
 http://flexlive.lat:8080/live/JhonSandoval2/H84TACX39/470410.ts
 #EXTINF:-1 tvg-name="M" group-title="General" tvg-chno="" ,M [SD]
@@ -417,10 +417,10 @@ http://flexlive.lat:8080/live/JhonSandoval2/H84TACX39/434909.ts
 http://flexlive.lat:8080/live/JhonSandoval2/H84TACX39/434910.ts
 #EXTINF:-1 tvg-name="USA: BEK TV Sports West" group-title="Deportes" tvg-chno="" ,USA: BEK TV Sports West [SD]
 http://flexlive.lat:8080/live/JhonSandoval2/H84TACX39/434911.ts
-#EXTINF:-1 tvg-name="USA: Billiard TV" group-title="General" tvg-chno="" ,USA: Billiard TV [SD]
-http://flexlive.lat:8080/live/JhonSandoval2/H84TACX39/434912.ts
 #EXTINF:-1 tvg-name="USA: CBS Sports Golazo Network" group-title="Deportes" tvg-chno="" ,USA: CBS Sports Golazo Network [SD]
 http://flexlive.lat:8080/live/JhonSandoval2/H84TACX39/434913.ts
+#EXTINF:-1 tvg-name="USA: Billiard TV" group-title="General" tvg-chno="" ,USA: Billiard TV [SD]
+http://flexlive.lat:8080/live/JhonSandoval2/H84TACX39/434912.ts
 #EXTINF:-1 tvg-name="USA: CBS Sports HQ" group-title="Deportes" tvg-chno="" ,USA: CBS Sports HQ [SD]
 http://flexlive.lat:8080/live/JhonSandoval2/H84TACX39/434914.ts
 #EXTINF:-1 tvg-name="USA: FITE 24/7" group-title="General" tvg-chno="" ,USA: FITE 24/7 [SD]

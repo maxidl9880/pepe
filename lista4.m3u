@@ -1,4 +1,4 @@
-#EXTM3U x-tvg-url="" x-lista="Listas General 4" x-actualizado="2026-07-01 11:43"
+#EXTM3U x-tvg-url="" x-lista="Listas General 4" x-actualizado="2026-07-01 13:05"
 #EXTINF:-1 tvg-name="D$P0RT$>PERU HD" group-title="General" tvg-chno="" ,D$P0RT$>PERU HD [SD]
 http://goldtv.lat:80/live/Sebita2022/Manya2022/540026.ts
 #EXTINF:-1 tvg-name=">D$P0RT$  ECU HD" group-title="General" tvg-chno="" ,>D$P0RT$  ECU HD [SD]
@@ -141,3 +141,861 @@ http://goldtv.lat:80/live/Sebita2022/Manya2022/406855.ts
 http://goldtv.lat:80/live/Sebita2022/Manya2022/406854.ts
 #EXTINF:-1 tvg-name="L∆  LlG∆_TV 6 FHD |opc-3|(Solo Eventos)" group-title="General" tvg-chno="" ,L∆  LlG∆_TV 6 FHD |opc-3|(Solo Eventos) [SD]
 http://goldtv.lat:80/live/Sebita2022/Manya2022/406850.ts
+#EXTINF:-1 tvg-name="L∆  LlG∆_TV 5 Orange" group-title="General" tvg-chno="" ,L∆  LlG∆_TV 5 Orange [SD]
+http://goldtv.lat:80/live/Sebita2022/Manya2022/406835.ts
+#EXTINF:-1 tvg-name="L∆  LlG∆_TV 5 Orange" group-title="General" tvg-chno="" ,L∆  LlG∆_TV 5 Orange [SD]
+http://goldtv.lat:80/live/Sebita2022/Manya2022/406876.ts
+#EXTINF:-1 tvg-name="L∆  LlG∆_TV 6 FHD |opc-2|(Solo Eventos)" group-title="General" tvg-chno="" ,L∆  LlG∆_TV 6 FHD |opc-2|(Solo Eventos) [SD]
+http://goldtv.lat:80/live/Sebita2022/Manya2022/406851.ts
+#EXTINF:-1 tvg-name="L∆  LlG∆_TV 6 FHD" group-title="General" tvg-chno="" ,L∆  LlG∆_TV 6 FHD [SD]
+http://goldtv.lat:80/live/Sebita2022/Manya2022/406852.ts
+#EXTINF:-1 tvg-name="L∆  LlG∆_TV 6 Orange" group-title="General" tvg-chno="" ,L∆  LlG∆_TV 6 Orange [SD]
+http://goldtv.lat:80/live/Sebita2022/Manya2022/406875.ts
+#EXTINF:-1 tvg-name="L∆  LlG∆_TV 6 Orange" group-title="General" tvg-chno="" ,L∆  LlG∆_TV 6 Orange [SD]
+http://goldtv.lat:80/live/Sebita2022/Manya2022/406834.ts
+#EXTINF:-1 tvg-name="L∆  LlG∆_TV 7 FHD |opc-3|(Solo Eventos)" group-title="General" tvg-chno="" ,L∆  LlG∆_TV 7 FHD |opc-3|(Solo Eventos) [SD]
+http://goldtv.lat:80/live/Sebita2022/Manya2022/406848.ts
+#EXTINF:-1 tvg-name="L∆  LlG∆_TV 7 FHD" group-title="General" tvg-chno="" ,L∆  LlG∆_TV 7 FHD [SD]
+http://goldtv.lat:80/live/Sebita2022/Manya2022/406849.ts
+#EXTINF:-1 tvg-name="L∆  LlG∆_TV 9 FHD |opc-3|(Solo Eventos)" group-title="General" tvg-chno="" ,L∆  LlG∆_TV 9 FHD |opc-3|(Solo Eventos) [SD]
+http://goldtv.lat:80/live/Sebita2022/Manya2022/406844.ts
+#EXTINF:-1 tvg-name="L∆  LlG∆_TV |opc-3|(Solo Eventos)" group-title="General" tvg-chno="" ,L∆  LlG∆_TV |opc-3|(Solo Eventos) [SD]
+http://goldtv.lat:80/live/Sebita2022/Manya2022/406846.ts
+#EXTINF:-1 tvg-name="L∆  LlG∆_TV 8 FHD" group-title="General" tvg-chno="" ,L∆  LlG∆_TV 8 FHD [SD]
+http://goldtv.lat:80/live/Sebita2022/Manya2022/406847.ts
+#EXTINF:-1 tvg-name="L∆  LlG∆_TV 9 FHD" group-title="General" tvg-chno="" ,L∆  LlG∆_TV 9 FHD [SD]
+http://goldtv.lat:80/live/Sebita2022/Manya2022/406845.ts
+#EXTINF:-1 tvg-name="L∆  LlG∆_TV 10 FHD" group-title="General" tvg-chno="" ,L∆  LlG∆_TV 10 FHD [SD]
+http://goldtv.lat:80/live/Sebita2022/Manya2022/406843.ts
+#EXTINF:-1 tvg-name="L∆  LlG∆_TV 10 FHD |opc-3|(Solo Eventos)" group-title="General" tvg-chno="" ,L∆  LlG∆_TV 10 FHD |opc-3|(Solo Eventos) [SD]
+http://goldtv.lat:80/live/Sebita2022/Manya2022/406842.ts
+#EXTINF:-1 tvg-name="LlG∆ END€SA 2" group-title="General" tvg-chno="" ,LlG∆ END€SA 2 [SD]
+http://goldtv.lat:80/live/Sebita2022/Manya2022/406880.ts
+#EXTINF:-1 tvg-name="LlG∆ END€SA 1" group-title="General" tvg-chno="" ,LlG∆ END€SA 1 [SD]
+http://goldtv.lat:80/live/Sebita2022/Manya2022/406879.ts
+#EXTINF:-1 tvg-name="LlG∆ END€SA 3" group-title="General" tvg-chno="" ,LlG∆ END€SA 3 [SD]
+http://goldtv.lat:80/live/Sebita2022/Manya2022/406881.ts
+#EXTINF:-1 tvg-name="LlG∆ END€SA 4" group-title="General" tvg-chno="" ,LlG∆ END€SA 4 [SD]
+http://goldtv.lat:80/live/Sebita2022/Manya2022/406882.ts
+#EXTINF:-1 tvg-name="SKYSP0RTS L∆ LlG∆ HD OPC1" group-title="General" tvg-chno="" ,SKYSP0RTS L∆ LlG∆ HD OPC1 [SD]
+http://goldtv.lat:80/live/Sebita2022/Manya2022/406836.ts
+#EXTINF:-1 tvg-name="LlG∆ END€SA 5" group-title="General" tvg-chno="" ,LlG∆ END€SA 5 [SD]
+http://goldtv.lat:80/live/Sebita2022/Manya2022/406883.ts
+#EXTINF:-1 tvg-name="SKYSP0RTS L∆ LlG∆ HD" group-title="General" tvg-chno="" ,SKYSP0RTS L∆ LlG∆ HD [SD]
+http://goldtv.lat:80/live/Sebita2022/Manya2022/406837.ts
+#EXTINF:-1 tvg-name="SKYSP0RTS BUND€S LlG∆ HD" group-title="General" tvg-chno="" ,SKYSP0RTS BUND€S LlG∆ HD [SD]
+http://goldtv.lat:80/live/Sebita2022/Manya2022/406840.ts
+#EXTINF:-1 tvg-name="LIG∆ DE C∆M₱E0NES M+ FHD" group-title="General" tvg-chno="" ,LIG∆ DE C∆M₱E0NES M+ FHD [SD]
+http://goldtv.lat:80/live/Sebita2022/Manya2022/376384.ts
+#EXTINF:-1 tvg-name="LIG∆ DE C∆M₱E0NES M+ FHD" group-title="General" tvg-chno="" ,LIG∆ DE C∆M₱E0NES M+ FHD [SD]
+http://goldtv.lat:80/live/Sebita2022/Manya2022/305949.ts
+#EXTINF:-1 tvg-name="LIG∆ DE C∆M₱E0NES M+ HD" group-title="General" tvg-chno="" ,LIG∆ DE C∆M₱E0NES M+ HD [SD]
+http://goldtv.lat:80/live/Sebita2022/Manya2022/376383.ts
+#EXTINF:-1 tvg-name="LIG∆ DE C∆M₱E0NES M+ HD" group-title="General" tvg-chno="" ,LIG∆ DE C∆M₱E0NES M+ HD [SD]
+http://goldtv.lat:80/live/Sebita2022/Manya2022/305950.ts
+#EXTINF:-1 tvg-name="LIG∆ DE C∆M₱E0NES M+  FHD OP1" group-title="General" tvg-chno="" ,LIG∆ DE C∆M₱E0NES M+  FHD OP1 [SD]
+http://goldtv.lat:80/live/Sebita2022/Manya2022/305952.ts
+#EXTINF:-1 tvg-name="LIG∆ DE C∆M₱E0NES M+ 2" group-title="General" tvg-chno="" ,LIG∆ DE C∆M₱E0NES M+ 2 [SD]
+http://goldtv.lat:80/live/Sebita2022/Manya2022/305954.ts
+#EXTINF:-1 tvg-name="LIG∆ DE C∆M₱E0NES M+  HD OP2" group-title="General" tvg-chno="" ,LIG∆ DE C∆M₱E0NES M+  HD OP2 [SD]
+http://goldtv.lat:80/live/Sebita2022/Manya2022/305951.ts
+#EXTINF:-1 tvg-name="LIG∆ DE C∆M₱E0NES M+ 3" group-title="General" tvg-chno="" ,LIG∆ DE C∆M₱E0NES M+ 3 [SD]
+http://goldtv.lat:80/live/Sebita2022/Manya2022/305955.ts
+#EXTINF:-1 tvg-name="LIG∆ DE C∆M₱E0NES M+ 2 FHD" group-title="General" tvg-chno="" ,LIG∆ DE C∆M₱E0NES M+ 2 FHD [SD]
+http://goldtv.lat:80/live/Sebita2022/Manya2022/305953.ts
+#EXTINF:-1 tvg-name="LIG∆ DE C∆M₱E0NES M+ 3 HD" group-title="General" tvg-chno="" ,LIG∆ DE C∆M₱E0NES M+ 3 HD [SD]
+http://goldtv.lat:80/live/Sebita2022/Manya2022/305956.ts
+#EXTINF:-1 tvg-name="LIG∆ DE C∆M₱E0NES M+ 1" group-title="General" tvg-chno="" ,LIG∆ DE C∆M₱E0NES M+ 1 [SD]
+http://goldtv.lat:80/live/Sebita2022/Manya2022/376370.ts
+#EXTINF:-1 tvg-name="E$:| LlG∆ Dę Ç∆M₱Ę0NE$ 3 pør_M¹+" group-title="General" tvg-chno="" ,E$:| LlG∆ Dę Ç∆M₱Ę0NE$ 3 pør_M¹+ [SD]
+http://goldtv.lat:80/live/Sebita2022/Manya2022/376375.ts
+#EXTINF:-1 tvg-name="LIG∆ DE C∆M₱E0NES M+ 2 pør_M²+" group-title="General" tvg-chno="" ,LIG∆ DE C∆M₱E0NES M+ 2 pør_M²+ [SD]
+http://goldtv.lat:80/live/Sebita2022/Manya2022/376374.ts
+#EXTINF:-1 tvg-name="LIG∆ DE C∆M₱E0NES M+ 2" group-title="General" tvg-chno="" ,LIG∆ DE C∆M₱E0NES M+ 2 [SD]
+http://goldtv.lat:80/live/Sebita2022/Manya2022/376371.ts
+#EXTINF:-1 tvg-name="E$: LlG∆ Dę Ç∆M₱Ę0NE$ 4 pør_M⁴+" group-title="General" tvg-chno="" ,E$: LlG∆ Dę Ç∆M₱Ę0NE$ 4 pør_M⁴+ [SD]
+http://goldtv.lat:80/live/Sebita2022/Manya2022/376376.ts
+#EXTINF:-1 tvg-name="LIG∆ DE C∆M₱E0NES M+ 5 pør M⁵+" group-title="General" tvg-chno="" ,LIG∆ DE C∆M₱E0NES M+ 5 pør M⁵+ [SD]
+http://goldtv.lat:80/live/Sebita2022/Manya2022/376377.ts
+#EXTINF:-1 tvg-name="LIG∆ DE C∆M₱E0NES M+ 6 pør_M⁶+" group-title="General" tvg-chno="" ,LIG∆ DE C∆M₱E0NES M+ 6 pør_M⁶+ [SD]
+http://goldtv.lat:80/live/Sebita2022/Manya2022/376378.ts
+#EXTINF:-1 tvg-name="LIG∆ DE C∆M₱E0NES M+ 8 pør_'M™+" group-title="General" tvg-chno="" ,LIG∆ DE C∆M₱E0NES M+ 8 pør_'M™+ [SD]
+http://goldtv.lat:80/live/Sebita2022/Manya2022/376380.ts
+#EXTINF:-1 tvg-name="LIG∆ DE C∆M₱E0NES M+ 7 pør_M⁷+" group-title="General" tvg-chno="" ,LIG∆ DE C∆M₱E0NES M+ 7 pør_M⁷+ [SD]
+http://goldtv.lat:80/live/Sebita2022/Manya2022/376379.ts
+#EXTINF:-1 tvg-name="LIG∆ DE C∆M₱E0NES M+ 9 pør_M™+" group-title="General" tvg-chno="" ,LIG∆ DE C∆M₱E0NES M+ 9 pør_M™+ [SD]
+http://goldtv.lat:80/live/Sebita2022/Manya2022/376381.ts
+#EXTINF:-1 tvg-name="LIG∆ DE C∆M₱E0NES M+ 12 pør_M¹²+" group-title="General" tvg-chno="" ,LIG∆ DE C∆M₱E0NES M+ 12 pør_M¹²+ [SD]
+http://goldtv.lat:80/live/Sebita2022/Manya2022/376372.ts
+#EXTINF:-1 tvg-name="LIG∆ DE C∆M₱E0NES 12 M+" group-title="General" tvg-chno="" ,LIG∆ DE C∆M₱E0NES 12 M+ [SD]
+http://goldtv.lat:80/live/Sebita2022/Manya2022/376385.ts
+#EXTINF:-1 tvg-name="LIG∆ DE C∆M₱E0NES M+ 13 pør_M¹³+" group-title="General" tvg-chno="" ,LIG∆ DE C∆M₱E0NES M+ 13 pør_M¹³+ [SD]
+http://goldtv.lat:80/live/Sebita2022/Manya2022/376373.ts
+#EXTINF:-1 tvg-name="AR | E$PN (¹) HD" group-title="General" tvg-chno="" ,AR | E$PN (¹) HD [SD]
+http://goldtv.lat:80/live/Sebita2022/Manya2022/81262.ts
+#EXTINF:-1 tvg-name="AR | E$PN 2 SD" group-title="General" tvg-chno="" ,AR | E$PN 2 SD [SD]
+http://goldtv.lat:80/live/Sebita2022/Manya2022/81259.ts
+#EXTINF:-1 tvg-name="AR  | E$PN 2 HD" group-title="General" tvg-chno="" ,AR  | E$PN 2 HD [SD]
+http://goldtv.lat:80/live/Sebita2022/Manya2022/81258.ts
+#EXTINF:-1 tvg-name="AR | F⚽X SPORTS 1 HD" group-title="Deportes" tvg-chno="" ,AR | F⚽X SPORTS 1 HD [SD]
+http://goldtv.lat:80/live/Sebita2022/Manya2022/50506.ts
+#EXTINF:-1 tvg-name="AR | Ę$PN ₱REMlUM HD" group-title="General" tvg-chno="" ,AR | Ę$PN ₱REMlUM HD [SD]
+http://goldtv.lat:80/live/Sebita2022/Manya2022/81254.ts
+#EXTINF:-1 tvg-name="AR || E$PN PR€MIUM FHD" group-title="General" tvg-chno="" ,AR || E$PN PR€MIUM FHD [SD]
+http://goldtv.lat:80/live/Sebita2022/Manya2022/149087.ts
+#EXTINF:-1 tvg-name="AR | FOX SPORTS 3 SD" group-title="Deportes" tvg-chno="" ,AR | FOX SPORTS 3 SD [SD]
+http://goldtv.lat:80/live/Sebita2022/Manya2022/50509.ts
+#EXTINF:-1 tvg-name="AR | FOX SPORTS 3 HD" group-title="Deportes" tvg-chno="" ,AR | FOX SPORTS 3 HD [SD]
+http://goldtv.lat:80/live/Sebita2022/Manya2022/50508.ts
+#EXTINF:-1 tvg-name="AR | FOX SPORTS 2 HD" group-title="Deportes" tvg-chno="" ,AR | FOX SPORTS 2 HD [SD]
+http://goldtv.lat:80/live/Sebita2022/Manya2022/50507.ts
+#EXTINF:-1 tvg-name="AR  | TYC SPORTS SD" group-title="Deportes" tvg-chno="" ,AR  | TYC SPORTS SD [SD]
+http://goldtv.lat:80/live/Sebita2022/Manya2022/81253.ts
+#EXTINF:-1 tvg-name="AR ||**T.ŃT*SP0RTS FHD" group-title="General" tvg-chno="" ,AR ||**T.ŃT*SP0RTS FHD [SD]
+http://goldtv.lat:80/live/Sebita2022/Manya2022/81284.ts
+#EXTINF:-1 tvg-name="AR | TⓝΤ SPORTS HD" group-title="Deportes" tvg-chno="" ,AR | TⓝΤ SPORTS HD [SD]
+http://goldtv.lat:80/live/Sebita2022/Manya2022/81251.ts
+#EXTINF:-1 tvg-name="AR | DEPORT TV HD" group-title="General" tvg-chno="" ,AR | DEPORT TV HD [SD]
+http://goldtv.lat:80/live/Sebita2022/Manya2022/81539.ts
+#EXTINF:-1 tvg-name="AR | T°Y°C $P0RTS lNTERN∆Cl0N∆L" group-title="General" tvg-chno="" ,AR | T°Y°C $P0RTS lNTERN∆Cl0N∆L [SD]
+http://goldtv.lat:80/live/Sebita2022/Manya2022/81538.ts
+#EXTINF:-1 tvg-name="AR | T*Y*C SPORTS HD" group-title="Deportes" tvg-chno="" ,AR | T*Y*C SPORTS HD [SD]
+http://goldtv.lat:80/live/Sebita2022/Manya2022/81252.ts
+#EXTINF:-1 tvg-name="E$PN HD" group-title="General" tvg-chno="" ,E$PN HD [SD]
+http://goldtv.lat:80/live/Sebita2022/Manya2022/306497.ts
+#EXTINF:-1 tvg-name="D| T&© Sports" group-title="Deportes" tvg-chno="" ,D| T&© Sports [SD]
+http://goldtv.lat:80/live/Sebita2022/Manya2022/361001.ts
+#EXTINF:-1 tvg-name="E$PN SD" group-title="General" tvg-chno="" ,E$PN SD [SD]
+http://goldtv.lat:80/live/Sebita2022/Manya2022/306498.ts
+#EXTINF:-1 tvg-name="E$PN 3 HD" group-title="General" tvg-chno="" ,E$PN 3 HD [SD]
+http://goldtv.lat:80/live/Sebita2022/Manya2022/306489.ts
+#EXTINF:-1 tvg-name="E$PN 2 SD" group-title="General" tvg-chno="" ,E$PN 2 SD [SD]
+http://goldtv.lat:80/live/Sebita2022/Manya2022/306487.ts
+#EXTINF:-1 tvg-name="E$PN 2 HD" group-title="General" tvg-chno="" ,E$PN 2 HD [SD]
+http://goldtv.lat:80/live/Sebita2022/Manya2022/306486.ts
+#EXTINF:-1 tvg-name="E$PN 3 SD" group-title="General" tvg-chno="" ,E$PN 3 SD [SD]
+http://goldtv.lat:80/live/Sebita2022/Manya2022/306490.ts
+#EXTINF:-1 tvg-name="E$PN 4 HD" group-title="General" tvg-chno="" ,E$PN 4 HD [SD]
+http://goldtv.lat:80/live/Sebita2022/Manya2022/306492.ts
+#EXTINF:-1 tvg-name="E$PN 4 SD" group-title="General" tvg-chno="" ,E$PN 4 SD [SD]
+http://goldtv.lat:80/live/Sebita2022/Manya2022/306493.ts
+#EXTINF:-1 tvg-name="COMBATE SD" group-title="General" tvg-chno="" ,COMBATE SD [SD]
+http://goldtv.lat:80/live/Sebita2022/Manya2022/306483.ts
+#EXTINF:-1 tvg-name="COMBATE H265" group-title="General" tvg-chno="" ,COMBATE H265 [SD]
+http://goldtv.lat:80/live/Sebita2022/Manya2022/306484.ts
+#EXTINF:-1 tvg-name="COMBATE HD" group-title="General" tvg-chno="" ,COMBATE HD [SD]
+http://goldtv.lat:80/live/Sebita2022/Manya2022/306482.ts
+#EXTINF:-1 tvg-name="SPORTV HD" group-title="Deportes" tvg-chno="" ,SPORTV HD [SD]
+http://goldtv.lat:80/live/Sebita2022/Manya2022/306510.ts
+#EXTINF:-1 tvg-name="FOX SPORTS 2 HD" group-title="Deportes" tvg-chno="" ,FOX SPORTS 2 HD [SD]
+http://goldtv.lat:80/live/Sebita2022/Manya2022/306500.ts
+#EXTINF:-1 tvg-name="FOX SPORTS 2 SD" group-title="Deportes" tvg-chno="" ,FOX SPORTS 2 SD [SD]
+http://goldtv.lat:80/live/Sebita2022/Manya2022/306501.ts
+#EXTINF:-1 tvg-name="SPORTV 2 HD" group-title="Deportes" tvg-chno="" ,SPORTV 2 HD [SD]
+http://goldtv.lat:80/live/Sebita2022/Manya2022/306504.ts
+#EXTINF:-1 tvg-name="SPORTV SD" group-title="Deportes" tvg-chno="" ,SPORTV SD [SD]
+http://goldtv.lat:80/live/Sebita2022/Manya2022/306511.ts
+#EXTINF:-1 tvg-name="SPORTV 2 SD" group-title="Deportes" tvg-chno="" ,SPORTV 2 SD [SD]
+http://goldtv.lat:80/live/Sebita2022/Manya2022/306505.ts
+#EXTINF:-1 tvg-name="SPORTV 3 HD" group-title="Deportes" tvg-chno="" ,SPORTV 3 HD [SD]
+http://goldtv.lat:80/live/Sebita2022/Manya2022/306507.ts
+#EXTINF:-1 tvg-name="SPORTV 3 SD" group-title="Deportes" tvg-chno="" ,SPORTV 3 SD [SD]
+http://goldtv.lat:80/live/Sebita2022/Manya2022/306508.ts
+#EXTINF:-1 tvg-name="BAND SPORTS HD" group-title="Deportes" tvg-chno="" ,BAND SPORTS HD [SD]
+http://goldtv.lat:80/live/Sebita2022/Manya2022/306479.ts
+#EXTINF:-1 tvg-name="TÑT SPORTS HD" group-title="Deportes" tvg-chno="" ,TÑT SPORTS HD [SD]
+http://goldtv.lat:80/live/Sebita2022/Manya2022/306512.ts
+#EXTINF:-1 tvg-name="TÑT SPORTS  2 HD" group-title="Deportes" tvg-chno="" ,TÑT SPORTS  2 HD [SD]
+http://goldtv.lat:80/live/Sebita2022/Manya2022/306513.ts
+#EXTINF:-1 tvg-name="TÑT SPORTS 3 HD" group-title="Deportes" tvg-chno="" ,TÑT SPORTS 3 HD [SD]
+http://goldtv.lat:80/live/Sebita2022/Manya2022/306514.ts
+#EXTINF:-1 tvg-name="Premier clues" group-title="General" tvg-chno="" ,Premier clues [SD]
+http://goldtv.lat:80/live/Sebita2022/Manya2022/306480.ts
+#EXTINF:-1 tvg-name="TÑT SPORTS 4 HD" group-title="Deportes" tvg-chno="" ,TÑT SPORTS 4 HD [SD]
+http://goldtv.lat:80/live/Sebita2022/Manya2022/306515.ts
+#EXTINF:-1 tvg-name="FURACÃO LIVE" group-title="General" tvg-chno="" ,FURACÃO LIVE [SD]
+http://goldtv.lat:80/live/Sebita2022/Manya2022/306502.ts
+#EXTINF:-1 tvg-name="E$PN EXTRA 4K" group-title="General" tvg-chno="" ,E$PN EXTRA 4K [SD]
+http://goldtv.lat:80/live/Sebita2022/Manya2022/306494.ts
+#EXTINF:-1 tvg-name="UFC FIGHT PASS 1" group-title="Deportes" tvg-chno="" ,UFC FIGHT PASS 1 [SD]
+http://goldtv.lat:80/live/Sebita2022/Manya2022/306517.ts
+#EXTINF:-1 tvg-name="UFC FIGHT PASS 2" group-title="Deportes" tvg-chno="" ,UFC FIGHT PASS 2 [SD]
+http://goldtv.lat:80/live/Sebita2022/Manya2022/306518.ts
+#EXTINF:-1 tvg-name="CO | WIN SPORTS +  HD" group-title="Deportes" tvg-chno="" ,CO | WIN SPORTS +  HD [SD]
+http://goldtv.lat:80/live/Sebita2022/Manya2022/1384.ts
+#EXTINF:-1 tvg-name="CO | WIN SPORTS +  FHD" group-title="Deportes" tvg-chno="" ,CO | WIN SPORTS +  FHD [SD]
+http://goldtv.lat:80/live/Sebita2022/Manya2022/1383.ts
+#EXTINF:-1 tvg-name="CO | Win Sports + HD OP 02" group-title="Deportes" tvg-chno="" ,CO | Win Sports + HD OP 02 [SD]
+http://goldtv.lat:80/live/Sebita2022/Manya2022/69291.ts
+#EXTINF:-1 tvg-name="CO | WIN SPORTS +  HD" group-title="Deportes" tvg-chno="" ,CO | WIN SPORTS +  HD [SD]
+http://goldtv.lat:80/live/Sebita2022/Manya2022/69293.ts
+#EXTINF:-1 tvg-name="CO | Win Sports+ 4K" group-title="Deportes" tvg-chno="" ,CO | Win Sports+ 4K [SD]
+http://goldtv.lat:80/live/Sebita2022/Manya2022/400194.ts
+#EXTINF:-1 tvg-name="EC l ECDF HD" group-title="General" tvg-chno="" ,EC l ECDF HD [SD]
+http://goldtv.lat:80/live/Sebita2022/Manya2022/314939.ts
+#EXTINF:-1 tvg-name="EC l 3CDF HD OP 02" group-title="General" tvg-chno="" ,EC l 3CDF HD OP 02 [SD]
+http://goldtv.lat:80/live/Sebita2022/Manya2022/314940.ts
+#EXTINF:-1 tvg-name="CO | Win Sports SD" group-title="Deportes" tvg-chno="" ,CO | Win Sports SD [SD]
+http://goldtv.lat:80/live/Sebita2022/Manya2022/69294.ts
+#EXTINF:-1 tvg-name="ECU: GOLTV PPV (EVENTOS ᴸᶦᵍᵃ Eᶜᵘᵃᵈᵒʳ ᴴᴰ)" group-title="Deportes" tvg-chno="" ,ECU: GOLTV PPV (EVENTOS ᴸᶦᵍᵃ Eᶜᵘᵃᵈᵒʳ ᴴᴰ) [SD]
+http://goldtv.lat:80/live/Sebita2022/Manya2022/401841.ts
+#EXTINF:-1 tvg-name="EC : D$ports~ HD OP 02" group-title="General" tvg-chno="" ,EC : D$ports~ HD OP 02 [SD]
+http://goldtv.lat:80/live/Sebita2022/Manya2022/316112.ts
+#EXTINF:-1 tvg-name="ECU: EL CANAL DEL FUTBOL ᴸᶦᵍᵃ Eᶜᵘᵃᵈᵒʳ ᴴᴰ" group-title="Deportes" tvg-chno="" ,ECU: EL CANAL DEL FUTBOL ᴸᶦᵍᵃ Eᶜᵘᵃᵈᵒʳ ᴴᴰ [SD]
+http://goldtv.lat:80/live/Sebita2022/Manya2022/401842.ts
+#EXTINF:-1 tvg-name="CL | *T*N*T SPORTS FHD /OP /0" group-title="Deportes" tvg-chno="" ,CL | *T*N*T SPORTS FHD /OP /0 [SD]
+http://goldtv.lat:80/live/Sebita2022/Manya2022/276334.ts
+#EXTINF:-1 tvg-name="ECU: D ECUADOR ᴸᶦᵍᵃ Eᶜᵘᵃᵈᵒʳ ᴴᴰ" group-title="General" tvg-chno="" ,ECU: D ECUADOR ᴸᶦᵍᵃ Eᶜᵘᵃᵈᵒʳ ᴴᴰ [SD]
+http://goldtv.lat:80/live/Sebita2022/Manya2022/401843.ts
+#EXTINF:-1 tvg-name="CL | *T*N*T SPORTS HD/OP/ 01" group-title="Deportes" tvg-chno="" ,CL | *T*N*T SPORTS HD/OP/ 01 [SD]
+http://goldtv.lat:80/live/Sebita2022/Manya2022/276332.ts
+#EXTINF:-1 tvg-name="CL | *T*N*T SPORTS HD / OP / 02" group-title="Deportes" tvg-chno="" ,CL | *T*N*T SPORTS HD / OP / 02 [SD]
+http://goldtv.lat:80/live/Sebita2022/Manya2022/276335.ts
+#EXTINF:-1 tvg-name="CL | *T*N*T SPORTS HD / OP / 04" group-title="Deportes" tvg-chno="" ,CL | *T*N*T SPORTS HD / OP / 04 [SD]
+http://goldtv.lat:80/live/Sebita2022/Manya2022/276342.ts
+#EXTINF:-1 tvg-name="CL | *T*N*T SPORTS SD / OP / 03" group-title="Deportes" tvg-chno="" ,CL | *T*N*T SPORTS SD / OP / 03 [SD]
+http://goldtv.lat:80/live/Sebita2022/Manya2022/276341.ts
+#EXTINF:-1 tvg-name="CL | ¢DO BASICO" group-title="General" tvg-chno="" ,CL | ¢DO BASICO [SD]
+http://goldtv.lat:80/live/Sebita2022/Manya2022/316111.ts
+#EXTINF:-1 tvg-name="CL | *T*N*T SPORTS HD" group-title="Deportes" tvg-chno="" ,CL | *T*N*T SPORTS HD [SD]
+http://goldtv.lat:80/live/Sebita2022/Manya2022/307531.ts
+#EXTINF:-1 tvg-name="CL | ¢DO" group-title="General" tvg-chno="" ,CL | ¢DO [SD]
+http://goldtv.lat:80/live/Sebita2022/Manya2022/315926.ts
+#EXTINF:-1 tvg-name="TYG⚽ SP⚽RTS 3" group-title="General" tvg-chno="" ,TYG⚽ SP⚽RTS 3 [SD]
+http://goldtv.lat:80/live/Sebita2022/Manya2022/160822.ts
+#EXTINF:-1 tvg-name="TYG⚽ SP⚽RTS 1" group-title="General" tvg-chno="" ,TYG⚽ SP⚽RTS 1 [SD]
+http://goldtv.lat:80/live/Sebita2022/Manya2022/160820.ts
+#EXTINF:-1 tvg-name="TYG⚽ SP⚽RTS 2" group-title="General" tvg-chno="" ,TYG⚽ SP⚽RTS 2 [SD]
+http://goldtv.lat:80/live/Sebita2022/Manya2022/160821.ts
+#EXTINF:-1 tvg-name="Fútbol canal" group-title="General" tvg-chno="" ,Fútbol canal [SD]
+http://goldtv.lat:80/live/Sebita2022/Manya2022/316155.ts
+#EXTINF:-1 tvg-name="PE | L1GA 1 MAX HQ" group-title="General" tvg-chno="" ,PE | L1GA 1 MAX HQ [SD]
+http://goldtv.lat:80/live/Sebita2022/Manya2022/306890.ts
+#EXTINF:-1 tvg-name="PE | L1GA 1 MAX HD" group-title="General" tvg-chno="" ,PE | L1GA 1 MAX HD [SD]
+http://goldtv.lat:80/live/Sebita2022/Manya2022/306889.ts
+#EXTINF:-1 tvg-name="PE| ¦ L&GA 1 MAX HD OP 3" group-title="General" tvg-chno="" ,PE| ¦ L&GA 1 MAX HD OP 3 [SD]
+http://goldtv.lat:80/live/Sebita2022/Manya2022/306892.ts
+#EXTINF:-1 tvg-name="PE| ¦ L1  HD" group-title="General" tvg-chno="" ,PE| ¦ L1  HD [SD]
+http://goldtv.lat:80/live/Sebita2022/Manya2022/306893.ts
+#EXTINF:-1 tvg-name="PE| ¦ L&GA 1 MAX HD OP 2" group-title="General" tvg-chno="" ,PE| ¦ L&GA 1 MAX HD OP 2 [SD]
+http://goldtv.lat:80/live/Sebita2022/Manya2022/306891.ts
+#EXTINF:-1 tvg-name="PE| ¦ a 1 SD" group-title="General" tvg-chno="" ,PE| ¦ a 1 SD [SD]
+http://goldtv.lat:80/live/Sebita2022/Manya2022/306894.ts
+#EXTINF:-1 tvg-name="PE| D$PORTS 1 SD" group-title="General" tvg-chno="" ,PE| D$PORTS 1 SD [SD]
+http://goldtv.lat:80/live/Sebita2022/Manya2022/306884.ts
+#EXTINF:-1 tvg-name="PE| D$PORTS 1 HD" group-title="General" tvg-chno="" ,PE| D$PORTS 1 HD [SD]
+http://goldtv.lat:80/live/Sebita2022/Manya2022/306883.ts
+#EXTINF:-1 tvg-name="PE| D$PORTS 2 HD" group-title="General" tvg-chno="" ,PE| D$PORTS 2 HD [SD]
+http://goldtv.lat:80/live/Sebita2022/Manya2022/306885.ts
+#EXTINF:-1 tvg-name="PE| D$PORTS + HD" group-title="General" tvg-chno="" ,PE| D$PORTS + HD [SD]
+http://goldtv.lat:80/live/Sebita2022/Manya2022/306887.ts
+#EXTINF:-1 tvg-name="PE| D$PORTS 2 SD" group-title="General" tvg-chno="" ,PE| D$PORTS 2 SD [SD]
+http://goldtv.lat:80/live/Sebita2022/Manya2022/306886.ts
+#EXTINF:-1 tvg-name="PE| D$PORTS + SD" group-title="General" tvg-chno="" ,PE| D$PORTS + SD [SD]
+http://goldtv.lat:80/live/Sebita2022/Manya2022/306888.ts
+#EXTINF:-1 tvg-name="PE | E$PN 1HD" group-title="General" tvg-chno="" ,PE | E$PN 1HD [SD]
+http://goldtv.lat:80/live/Sebita2022/Manya2022/306869.ts
+#EXTINF:-1 tvg-name="PE | ESPN 1 SD" group-title="Deportes" tvg-chno="" ,PE | ESPN 1 SD [SD]
+http://goldtv.lat:80/live/Sebita2022/Manya2022/306870.ts
+#EXTINF:-1 tvg-name="PE| E$PN 2 HD" group-title="General" tvg-chno="" ,PE| E$PN 2 HD [SD]
+http://goldtv.lat:80/live/Sebita2022/Manya2022/306871.ts
+#EXTINF:-1 tvg-name="PE| E$PN 3 HD" group-title="General" tvg-chno="" ,PE| E$PN 3 HD [SD]
+http://goldtv.lat:80/live/Sebita2022/Manya2022/306873.ts
+#EXTINF:-1 tvg-name="PE| E$PN 2 SD" group-title="General" tvg-chno="" ,PE| E$PN 2 SD [SD]
+http://goldtv.lat:80/live/Sebita2022/Manya2022/306872.ts
+#EXTINF:-1 tvg-name="PE| E$PN 3 SD" group-title="General" tvg-chno="" ,PE| E$PN 3 SD [SD]
+http://goldtv.lat:80/live/Sebita2022/Manya2022/306874.ts
+#EXTINF:-1 tvg-name="PE| ESPN 4 HD" group-title="Deportes" tvg-chno="" ,PE| ESPN 4 HD [SD]
+http://goldtv.lat:80/live/Sebita2022/Manya2022/306875.ts
+#EXTINF:-1 tvg-name="PE| ESPN 4 SD" group-title="Deportes" tvg-chno="" ,PE| ESPN 4 SD [SD]
+http://goldtv.lat:80/live/Sebita2022/Manya2022/306876.ts
+#EXTINF:-1 tvg-name="PE| E$PN 5 HD" group-title="General" tvg-chno="" ,PE| E$PN 5 HD [SD]
+http://goldtv.lat:80/live/Sebita2022/Manya2022/306877.ts
+#EXTINF:-1 tvg-name="PE| ESPN 5 SD" group-title="Deportes" tvg-chno="" ,PE| ESPN 5 SD [SD]
+http://goldtv.lat:80/live/Sebita2022/Manya2022/306878.ts
+#EXTINF:-1 tvg-name="PE| E$PN 6 SD" group-title="General" tvg-chno="" ,PE| E$PN 6 SD [SD]
+http://goldtv.lat:80/live/Sebita2022/Manya2022/306880.ts
+#EXTINF:-1 tvg-name="PE| E$PN 7 HD" group-title="General" tvg-chno="" ,PE| E$PN 7 HD [SD]
+http://goldtv.lat:80/live/Sebita2022/Manya2022/306881.ts
+#EXTINF:-1 tvg-name="PE| E$PN 6 HD" group-title="General" tvg-chno="" ,PE| E$PN 6 HD [SD]
+http://goldtv.lat:80/live/Sebita2022/Manya2022/306879.ts
+#EXTINF:-1 tvg-name="PE| E$PN 7 SD" group-title="General" tvg-chno="" ,PE| E$PN 7 SD [SD]
+http://goldtv.lat:80/live/Sebita2022/Manya2022/306882.ts
+#EXTINF:-1 tvg-name="PE| G⚽L P3RU  HD" group-title="General" tvg-chno="" ,PE| G⚽L P3RU  HD [SD]
+http://goldtv.lat:80/live/Sebita2022/Manya2022/306865.ts
+#EXTINF:-1 tvg-name="PE| G⚽L P3RU OP 02" group-title="General" tvg-chno="" ,PE| G⚽L P3RU OP 02 [SD]
+http://goldtv.lat:80/live/Sebita2022/Manya2022/306866.ts
+#EXTINF:-1 tvg-name="PE | MOVISTAR  DEPORTES HD" group-title="Deportes" tvg-chno="" ,PE | MOVISTAR  DEPORTES HD [SD]
+http://goldtv.lat:80/live/Sebita2022/Manya2022/306867.ts
+#EXTINF:-1 tvg-name="PE | MOVISTAR DEPORTES SD" group-title="Deportes" tvg-chno="" ,PE | MOVISTAR DEPORTES SD [SD]
+http://goldtv.lat:80/live/Sebita2022/Manya2022/306868.ts
+#EXTINF:-1 tvg-name="CLARO SPORTS 2 HD" group-title="Deportes" tvg-chno="" ,CLARO SPORTS 2 HD [SD]
+http://goldtv.lat:80/live/Sebita2022/Manya2022/475136.ts
+#EXTINF:-1 tvg-name="MX | TUDN USA HD" group-title="General" tvg-chno="" ,MX | TUDN USA HD [SD]
+http://goldtv.lat:80/live/Sebita2022/Manya2022/437846.ts
+#EXTINF:-1 tvg-name="MX | TUDN USA" group-title="General" tvg-chno="" ,MX | TUDN USA [SD]
+http://goldtv.lat:80/live/Sebita2022/Manya2022/314975.ts
+#EXTINF:-1 tvg-name="CLARO SPORTS 1 HD" group-title="Deportes" tvg-chno="" ,CLARO SPORTS 1 HD [SD]
+http://goldtv.lat:80/live/Sebita2022/Manya2022/475133.ts
+#EXTINF:-1 tvg-name="MX | Azteca 7 | México" group-title="General" tvg-chno="" ,MX | Azteca 7 | México [SD]
+http://goldtv.lat:80/live/Sebita2022/Manya2022/362476.ts
+#EXTINF:-1 tvg-name="MX | TUDN MX" group-title="General" tvg-chno="" ,MX | TUDN MX [SD]
+http://goldtv.lat:80/live/Sebita2022/Manya2022/362472.ts
+#EXTINF:-1 tvg-name="MX | TUDN OP 2" group-title="General" tvg-chno="" ,MX | TUDN OP 2 [SD]
+http://goldtv.lat:80/live/Sebita2022/Manya2022/314974.ts
+#EXTINF:-1 tvg-name="MX | AZTECA DEPORTES" group-title="Deportes" tvg-chno="" ,MX | AZTECA DEPORTES [SD]
+http://goldtv.lat:80/live/Sebita2022/Manya2022/314976.ts
+#EXTINF:-1 tvg-name="MX | Canal 5 | México" group-title="General" tvg-chno="" ,MX | Canal 5 | México [SD]
+http://goldtv.lat:80/live/Sebita2022/Manya2022/362477.ts
+#EXTINF:-1 tvg-name="MX | ESPN 2 MX HD" group-title="Deportes" tvg-chno="" ,MX | ESPN 2 MX HD [SD]
+http://goldtv.lat:80/live/Sebita2022/Manya2022/437843.ts
+#EXTINF:-1 tvg-name="PPV | SPORTS HD" group-title="Deportes" tvg-chno="" ,PPV | SPORTS HD [SD]
+http://goldtv.lat:80/live/Sebita2022/Manya2022/362468.ts
+#EXTINF:-1 tvg-name="PPV | SPORTS  §UNDES£lGA" group-title="Deportes" tvg-chno="" ,PPV | SPORTS  §UNDES£lGA [SD]
+http://goldtv.lat:80/live/Sebita2022/Manya2022/362470.ts
+#EXTINF:-1 tvg-name="PPV | SPORTS EVENTS 1" group-title="Deportes" tvg-chno="" ,PPV | SPORTS EVENTS 1 [SD]
+http://goldtv.lat:80/live/Sebita2022/Manya2022/362463.ts
+#EXTINF:-1 tvg-name="PPV | SPORTS EVENTS 2" group-title="Deportes" tvg-chno="" ,PPV | SPORTS EVENTS 2 [SD]
+http://goldtv.lat:80/live/Sebita2022/Manya2022/362464.ts
+#EXTINF:-1 tvg-name="PPV | SPORTS EVENTS 3" group-title="Deportes" tvg-chno="" ,PPV | SPORTS EVENTS 3 [SD]
+http://goldtv.lat:80/live/Sebita2022/Manya2022/362465.ts
+#EXTINF:-1 tvg-name="PPV | SPORTS EVENTS 2" group-title="Deportes" tvg-chno="" ,PPV | SPORTS EVENTS 2 [SD]
+http://goldtv.lat:80/live/Sebita2022/Manya2022/362467.ts
+#EXTINF:-1 tvg-name="PPV |  SPORTS 16" group-title="Deportes" tvg-chno="" ,PPV |  SPORTS 16 [SD]
+http://goldtv.lat:80/live/Sebita2022/Manya2022/362462.ts
+#EXTINF:-1 tvg-name="PPV | SPORTS 24" group-title="Deportes" tvg-chno="" ,PPV | SPORTS 24 [SD]
+http://goldtv.lat:80/live/Sebita2022/Manya2022/362469.ts
+#EXTINF:-1 tvg-name="PPV | SPORTS EVENTS 4" group-title="Deportes" tvg-chno="" ,PPV | SPORTS EVENTS 4 [SD]
+http://goldtv.lat:80/live/Sebita2022/Manya2022/362466.ts
+#EXTINF:-1 tvg-name="CR: TD+ 2" group-title="General" tvg-chno="" ,CR: TD+ 2 [SD]
+http://goldtv.lat:80/live/Sebita2022/Manya2022/406432.ts
+#EXTINF:-1 tvg-name="CR | TD+2 HD⭐" group-title="General" tvg-chno="" ,CR | TD+2 HD⭐ [SD]
+http://goldtv.lat:80/live/Sebita2022/Manya2022/406431.ts
+#EXTINF:-1 tvg-name="Z| *TUDN> MX" group-title="General" tvg-chno="" ,Z| *TUDN> MX [SD]
+http://goldtv.lat:80/live/Sebita2022/Manya2022/360954.ts
+#EXTINF:-1 tvg-name="CR: TD+ 1" group-title="General" tvg-chno="" ,CR: TD+ 1 [SD]
+http://goldtv.lat:80/live/Sebita2022/Manya2022/406434.ts
+#EXTINF:-1 tvg-name="CR | FUTV OPC # 3" group-title="General" tvg-chno="" ,CR | FUTV OPC # 3 [SD]
+http://goldtv.lat:80/live/Sebita2022/Manya2022/406439.ts
+#EXTINF:-1 tvg-name="CR | TD+ SD ⭐" group-title="General" tvg-chno="" ,CR | TD+ SD ⭐ [SD]
+http://goldtv.lat:80/live/Sebita2022/Manya2022/406433.ts
+#EXTINF:-1 tvg-name="CR | FUTV OP 1 ⭐" group-title="General" tvg-chno="" ,CR | FUTV OP 1 ⭐ [SD]
+http://goldtv.lat:80/live/Sebita2022/Manya2022/406437.ts
+#EXTINF:-1 tvg-name="CR: FUTV OP 3" group-title="General" tvg-chno="" ,CR: FUTV OP 3 [SD]
+http://goldtv.lat:80/live/Sebita2022/Manya2022/406438.ts
+#EXTINF:-1 tvg-name="EVENTOS COSTA RICA" group-title="General" tvg-chno="" ,EVENTOS COSTA RICA [SD]
+http://goldtv.lat:80/live/Sebita2022/Manya2022/406440.ts
+#EXTINF:-1 tvg-name="CR | ¥!GO SPORTS HD ⭐" group-title="Deportes" tvg-chno="" ,CR | ¥!GO SPORTS HD ⭐ [SD]
+http://goldtv.lat:80/live/Sebita2022/Manya2022/406435.ts
+#EXTINF:-1 tvg-name="CR | ¥!GO SPORT SD⭐" group-title="Deportes" tvg-chno="" ,CR | ¥!GO SPORT SD⭐ [SD]
+http://goldtv.lat:80/live/Sebita2022/Manya2022/406436.ts
+#EXTINF:-1 tvg-name="E$PN HD" group-title="General" tvg-chno="" ,E$PN HD [SD]
+http://goldtv.lat:80/live/Sebita2022/Manya2022/306385.ts
+#EXTINF:-1 tvg-name="ESPN HD OP 2" group-title="Deportes" tvg-chno="" ,ESPN HD OP 2 [SD]
+http://goldtv.lat:80/live/Sebita2022/Manya2022/472221.ts
+#EXTINF:-1 tvg-name="E$PN 2 HD" group-title="General" tvg-chno="" ,E$PN 2 HD [SD]
+http://goldtv.lat:80/live/Sebita2022/Manya2022/306386.ts
+#EXTINF:-1 tvg-name="E$PN 2 SD" group-title="General" tvg-chno="" ,E$PN 2 SD [SD]
+http://goldtv.lat:80/live/Sebita2022/Manya2022/306387.ts
+#EXTINF:-1 tvg-name="ESPN 3 HD" group-title="Deportes" tvg-chno="" ,ESPN 3 HD [SD]
+http://goldtv.lat:80/live/Sebita2022/Manya2022/306388.ts
+#EXTINF:-1 tvg-name="E$PN 3 SD" group-title="General" tvg-chno="" ,E$PN 3 SD [SD]
+http://goldtv.lat:80/live/Sebita2022/Manya2022/306389.ts
+#EXTINF:-1 tvg-name="E$PN 4 HD" group-title="General" tvg-chno="" ,E$PN 4 HD [SD]
+http://goldtv.lat:80/live/Sebita2022/Manya2022/306390.ts
+#EXTINF:-1 tvg-name="ESPⓝ 4 SD" group-title="General" tvg-chno="" ,ESPⓝ 4 SD [SD]
+http://goldtv.lat:80/live/Sebita2022/Manya2022/306391.ts
+#EXTINF:-1 tvg-name="ESPⓝ 5 HD" group-title="General" tvg-chno="" ,ESPⓝ 5 HD [SD]
+http://goldtv.lat:80/live/Sebita2022/Manya2022/306392.ts
+#EXTINF:-1 tvg-name="E$PN 5 SD" group-title="General" tvg-chno="" ,E$PN 5 SD [SD]
+http://goldtv.lat:80/live/Sebita2022/Manya2022/306393.ts
+#EXTINF:-1 tvg-name="E$PN 6 SD" group-title="General" tvg-chno="" ,E$PN 6 SD [SD]
+http://goldtv.lat:80/live/Sebita2022/Manya2022/306395.ts
+#EXTINF:-1 tvg-name="E$PN 6 HD" group-title="General" tvg-chno="" ,E$PN 6 HD [SD]
+http://goldtv.lat:80/live/Sebita2022/Manya2022/306394.ts
+#EXTINF:-1 tvg-name="ESPⓝ PREMIUM AR HD" group-title="General" tvg-chno="" ,ESPⓝ PREMIUM AR HD [SD]
+http://goldtv.lat:80/live/Sebita2022/Manya2022/306398.ts
+#EXTINF:-1 tvg-name="E$PN 7 HD" group-title="General" tvg-chno="" ,E$PN 7 HD [SD]
+http://goldtv.lat:80/live/Sebita2022/Manya2022/306396.ts
+#EXTINF:-1 tvg-name="ESPⓝ 7 SD" group-title="General" tvg-chno="" ,ESPⓝ 7 SD [SD]
+http://goldtv.lat:80/live/Sebita2022/Manya2022/306397.ts
+#EXTINF:-1 tvg-name="ESPN Brasil 4" group-title="Deportes" tvg-chno="" ,ESPN Brasil 4 [SD]
+http://goldtv.lat:80/live/Sebita2022/Manya2022/306427.ts
+#EXTINF:-1 tvg-name="ESPN Brasil 2" group-title="Deportes" tvg-chno="" ,ESPN Brasil 2 [SD]
+http://goldtv.lat:80/live/Sebita2022/Manya2022/306425.ts
+#EXTINF:-1 tvg-name="E$PN PREMIUM AR SD" group-title="General" tvg-chno="" ,E$PN PREMIUM AR SD [SD]
+http://goldtv.lat:80/live/Sebita2022/Manya2022/306399.ts
+#EXTINF:-1 tvg-name="ESPN Brasil 3" group-title="Deportes" tvg-chno="" ,ESPN Brasil 3 [SD]
+http://goldtv.lat:80/live/Sebita2022/Manya2022/306426.ts
+#EXTINF:-1 tvg-name="AR | F⚽X SPORTS 1 HD" group-title="Deportes" tvg-chno="" ,AR | F⚽X SPORTS 1 HD [SD]
+http://goldtv.lat:80/live/Sebita2022/Manya2022/99836.ts
+#EXTINF:-1 tvg-name="AR | F⚽X SPORTS 1 SD." group-title="Deportes" tvg-chno="" ,AR | F⚽X SPORTS 1 SD. [SD]
+http://goldtv.lat:80/live/Sebita2022/Manya2022/99837.ts
+#EXTINF:-1 tvg-name="AR | FOX SPORTS 2 SD" group-title="Deportes" tvg-chno="" ,AR | FOX SPORTS 2 SD [SD]
+http://goldtv.lat:80/live/Sebita2022/Manya2022/144412.ts
+#EXTINF:-1 tvg-name="AR | FOX SPORTS 3 SD" group-title="Deportes" tvg-chno="" ,AR | FOX SPORTS 3 SD [SD]
+http://goldtv.lat:80/live/Sebita2022/Manya2022/306176.ts
+#EXTINF:-1 tvg-name="AR | FOX SPORTS 2 HD" group-title="Deportes" tvg-chno="" ,AR | FOX SPORTS 2 HD [SD]
+http://goldtv.lat:80/live/Sebita2022/Manya2022/100116.ts
+#EXTINF:-1 tvg-name="MX | FOX SPORTS 1 HD" group-title="Deportes" tvg-chno="" ,MX | FOX SPORTS 1 HD [SD]
+http://goldtv.lat:80/live/Sebita2022/Manya2022/306299.ts
+#EXTINF:-1 tvg-name="MX | F0X SPORTS 1 SD" group-title="Deportes" tvg-chno="" ,MX | F0X SPORTS 1 SD [SD]
+http://goldtv.lat:80/live/Sebita2022/Manya2022/306300.ts
+#EXTINF:-1 tvg-name="MX | FOX SPORTS PREMIUM HD" group-title="Deportes" tvg-chno="" ,MX | FOX SPORTS PREMIUM HD [SD]
+http://goldtv.lat:80/live/Sebita2022/Manya2022/306663.ts
+#EXTINF:-1 tvg-name="MX | FOX SPORTS 3 HD" group-title="Deportes" tvg-chno="" ,MX | FOX SPORTS 3 HD [SD]
+http://goldtv.lat:80/live/Sebita2022/Manya2022/306303.ts
+#EXTINF:-1 tvg-name="MX | F0X SPORTS 2 SD" group-title="Deportes" tvg-chno="" ,MX | F0X SPORTS 2 SD [SD]
+http://goldtv.lat:80/live/Sebita2022/Manya2022/306302.ts
+#EXTINF:-1 tvg-name="MX | FOX SPORTS 2 HD" group-title="Deportes" tvg-chno="" ,MX | FOX SPORTS 2 HD [SD]
+http://goldtv.lat:80/live/Sebita2022/Manya2022/306301.ts
+#EXTINF:-1 tvg-name="MX | F0X SPORTS 3 SD" group-title="Deportes" tvg-chno="" ,MX | F0X SPORTS 3 SD [SD]
+http://goldtv.lat:80/live/Sebita2022/Manya2022/306304.ts
+#EXTINF:-1 tvg-name="MX | FOX SPORTS PREMIUM SD" group-title="Deportes" tvg-chno="" ,MX | FOX SPORTS PREMIUM SD [SD]
+http://goldtv.lat:80/live/Sebita2022/Manya2022/306664.ts
+#EXTINF:-1 tvg-name="AR | FOX SPORTS 3 HD" group-title="Deportes" tvg-chno="" ,AR | FOX SPORTS 3 HD [SD]
+http://goldtv.lat:80/live/Sebita2022/Manya2022/306175.ts
+#EXTINF:-1 tvg-name="PE| D$PORTS + HD" group-title="General" tvg-chno="" ,PE| D$PORTS + HD [SD]
+http://goldtv.lat:80/live/Sebita2022/Manya2022/50724.ts
+#EXTINF:-1 tvg-name="PE| D$PORTS 1SD" group-title="General" tvg-chno="" ,PE| D$PORTS 1SD [SD]
+http://goldtv.lat:80/live/Sebita2022/Manya2022/417690.ts
+#EXTINF:-1 tvg-name="AR | D$PORTS 2 HD" group-title="General" tvg-chno="" ,AR | D$PORTS 2 HD [SD]
+http://goldtv.lat:80/live/Sebita2022/Manya2022/50725.ts
+#EXTINF:-1 tvg-name="AR | D$PORTS + HD" group-title="General" tvg-chno="" ,AR | D$PORTS + HD [SD]
+http://goldtv.lat:80/live/Sebita2022/Manya2022/54471.ts
+#EXTINF:-1 tvg-name="AR | D$P0RTS + 0PC ²" group-title="General" tvg-chno="" ,AR | D$P0RTS + 0PC ² [SD]
+http://goldtv.lat:80/live/Sebita2022/Manya2022/54472.ts
+#EXTINF:-1 tvg-name="AR | D$PORTS 2 0PC ²" group-title="General" tvg-chno="" ,AR | D$PORTS 2 0PC ² [SD]
+http://goldtv.lat:80/live/Sebita2022/Manya2022/50726.ts
+#EXTINF:-1 tvg-name="⏩ UFC 02 ⏪" group-title="Deportes" tvg-chno="" ,⏩ UFC 02 ⏪ [SD]
+http://goldtv.lat:80/live/Sebita2022/Manya2022/428793.ts
+#EXTINF:-1 tvg-name="CINE|•FILMS & ∆RTS" group-title="Peliculas" tvg-chno="" ,CINE|•FILMS & ∆RTS [SD]
+http://goldtv.lat:80/live/Sebita2022/Manya2022/538270.ts
+#EXTINF:-1 tvg-name="⏩ UFC 01 ⏪" group-title="Deportes" tvg-chno="" ,⏩ UFC 01 ⏪ [SD]
+http://goldtv.lat:80/live/Sebita2022/Manya2022/428790.ts
+#EXTINF:-1 tvg-name="CINE l P∆NICO HD" group-title="Peliculas" tvg-chno="" ,CINE l P∆NICO HD [SD]
+http://goldtv.lat:80/live/Sebita2022/Manya2022/538093.ts
+#EXTINF:-1 tvg-name="CINE | A&E HD" group-title="Peliculas" tvg-chno="" ,CINE | A&E HD [SD]
+http://goldtv.lat:80/live/Sebita2022/Manya2022/435979.ts
+#EXTINF:-1 tvg-name="CINE | A&E SD" group-title="Peliculas" tvg-chno="" ,CINE | A&E SD [SD]
+http://goldtv.lat:80/live/Sebita2022/Manya2022/435982.ts
+#EXTINF:-1 tvg-name="CINE | STAR CHANEL SD" group-title="Peliculas" tvg-chno="" ,CINE | STAR CHANEL SD [SD]
+http://goldtv.lat:80/live/Sebita2022/Manya2022/436010.ts
+#EXTINF:-1 tvg-name="CINE | CINEMAX HD" group-title="Peliculas" tvg-chno="" ,CINE | CINEMAX HD [SD]
+http://goldtv.lat:80/live/Sebita2022/Manya2022/435991.ts
+#EXTINF:-1 tvg-name="CINE | STAR CHANEL HD" group-title="Peliculas" tvg-chno="" ,CINE | STAR CHANEL HD [SD]
+http://goldtv.lat:80/live/Sebita2022/Manya2022/436007.ts
+#EXTINF:-1 tvg-name="CINE | CINECANAL  HD" group-title="Peliculas" tvg-chno="" ,CINE | CINECANAL  HD [SD]
+http://goldtv.lat:80/live/Sebita2022/Manya2022/1251.ts
+#EXTINF:-1 tvg-name="CINE | CINEMAX SD" group-title="Peliculas" tvg-chno="" ,CINE | CINEMAX SD [SD]
+http://goldtv.lat:80/live/Sebita2022/Manya2022/435994.ts
+#EXTINF:-1 tvg-name="CINE | CINECANAL  SD" group-title="Peliculas" tvg-chno="" ,CINE | CINECANAL  SD [SD]
+http://goldtv.lat:80/live/Sebita2022/Manya2022/1252.ts
+#EXTINF:-1 tvg-name="CINE | AXN  SD" group-title="Peliculas" tvg-chno="" ,CINE | AXN  SD [SD]
+http://goldtv.lat:80/live/Sebita2022/Manya2022/1257.ts
+#EXTINF:-1 tvg-name="CINE | AXN  FHD" group-title="Peliculas" tvg-chno="" ,CINE | AXN  FHD [SD]
+http://goldtv.lat:80/live/Sebita2022/Manya2022/1254.ts
+#EXTINF:-1 tvg-name="CINE | AXN  HD" group-title="Peliculas" tvg-chno="" ,CINE | AXN  HD [SD]
+http://goldtv.lat:80/live/Sebita2022/Manya2022/1255.ts
+#EXTINF:-1 tvg-name="CINE  | TNT SERIES  FHD" group-title="Peliculas" tvg-chno="" ,CINE  | TNT SERIES  FHD [SD]
+http://goldtv.lat:80/live/Sebita2022/Manya2022/1247.ts
+#EXTINF:-1 tvg-name="CINE | TNT SERIES  HD" group-title="Peliculas" tvg-chno="" ,CINE | TNT SERIES  HD [SD]
+http://goldtv.lat:80/live/Sebita2022/Manya2022/1248.ts
+#EXTINF:-1 tvg-name="CINE  | TⓝT  FHD" group-title="Peliculas" tvg-chno="" ,CINE  | TⓝT  FHD [SD]
+http://goldtv.lat:80/live/Sebita2022/Manya2022/1244.ts
+#EXTINF:-1 tvg-name="CINE  | TÑT  HD" group-title="Peliculas" tvg-chno="" ,CINE  | TÑT  HD [SD]
+http://goldtv.lat:80/live/Sebita2022/Manya2022/1245.ts
+#EXTINF:-1 tvg-name="CINE  | TNT  SD" group-title="Peliculas" tvg-chno="" ,CINE  | TNT  SD [SD]
+http://goldtv.lat:80/live/Sebita2022/Manya2022/1246.ts
+#EXTINF:-1 tvg-name="CINE | HBO  FHD" group-title="Peliculas" tvg-chno="" ,CINE | HBO  FHD [SD]
+http://goldtv.lat:80/live/Sebita2022/Manya2022/54.ts
+#EXTINF:-1 tvg-name="CINE | HBO  HD" group-title="Peliculas" tvg-chno="" ,CINE | HBO  HD [SD]
+http://goldtv.lat:80/live/Sebita2022/Manya2022/55.ts
+#EXTINF:-1 tvg-name="CINE |  TNT SERIES  SD" group-title="Peliculas" tvg-chno="" ,CINE |  TNT SERIES  SD [SD]
+http://goldtv.lat:80/live/Sebita2022/Manya2022/1250.ts
+#EXTINF:-1 tvg-name="CINE  | HBO  SD" group-title="Peliculas" tvg-chno="" ,CINE  | HBO  SD [SD]
+http://goldtv.lat:80/live/Sebita2022/Manya2022/1240.ts
+#EXTINF:-1 tvg-name="CINE | HBO 2 HD" group-title="Peliculas" tvg-chno="" ,CINE | HBO 2 HD [SD]
+http://goldtv.lat:80/live/Sebita2022/Manya2022/435985.ts
+#EXTINF:-1 tvg-name="CINE | HBO 2 FHD" group-title="Peliculas" tvg-chno="" ,CINE | HBO 2 FHD [SD]
+http://goldtv.lat:80/live/Sebita2022/Manya2022/435988.ts
+#EXTINF:-1 tvg-name="CINE  | HBO FAMILY FHD" group-title="Peliculas" tvg-chno="" ,CINE  | HBO FAMILY FHD [SD]
+http://goldtv.lat:80/live/Sebita2022/Manya2022/51.ts
+#EXTINF:-1 tvg-name="CINE | HBO FAMILY  HD" group-title="Peliculas" tvg-chno="" ,CINE | HBO FAMILY  HD [SD]
+http://goldtv.lat:80/live/Sebita2022/Manya2022/52.ts
+#EXTINF:-1 tvg-name="CINE | HBO FAMILY  SD" group-title="Peliculas" tvg-chno="" ,CINE | HBO FAMILY  SD [SD]
+http://goldtv.lat:80/live/Sebita2022/Manya2022/53.ts
+#EXTINF:-1 tvg-name="CINE  | HBO XTREME HD" group-title="Peliculas" tvg-chno="" ,CINE  | HBO XTREME HD [SD]
+http://goldtv.lat:80/live/Sebita2022/Manya2022/47.ts
+#EXTINF:-1 tvg-name="CINE  | HBO PLUS  FHD" group-title="Peliculas" tvg-chno="" ,CINE  | HBO PLUS  FHD [SD]
+http://goldtv.lat:80/live/Sebita2022/Manya2022/50.ts
+#EXTINF:-1 tvg-name="CINE  | HBO PLUS  HD" group-title="Peliculas" tvg-chno="" ,CINE  | HBO PLUS  HD [SD]
+http://goldtv.lat:80/live/Sebita2022/Manya2022/49.ts
+#EXTINF:-1 tvg-name="CINE | HBO SIGNATURE  SD" group-title="Peliculas" tvg-chno="" ,CINE | HBO SIGNATURE  SD [SD]
+http://goldtv.lat:80/live/Sebita2022/Manya2022/46.ts
+#EXTINF:-1 tvg-name="CINE | HBO XTREME FHD" group-title="Peliculas" tvg-chno="" ,CINE | HBO XTREME FHD [SD]
+http://goldtv.lat:80/live/Sebita2022/Manya2022/48.ts
+#EXTINF:-1 tvg-name="CINE  | HBO POP  FHD" group-title="Peliculas" tvg-chno="" ,CINE  | HBO POP  FHD [SD]
+http://goldtv.lat:80/live/Sebita2022/Manya2022/1242.ts
+#EXTINF:-1 tvg-name="CINE | HBO MUNDl FHD" group-title="Peliculas" tvg-chno="" ,CINE | HBO MUNDl FHD [SD]
+http://goldtv.lat:80/live/Sebita2022/Manya2022/53937.ts
+#EXTINF:-1 tvg-name="CINE | HBO MUNDI HD" group-title="Peliculas" tvg-chno="" ,CINE | HBO MUNDI HD [SD]
+http://goldtv.lat:80/live/Sebita2022/Manya2022/53939.ts
+#EXTINF:-1 tvg-name="CINE  | HBO .POP  HD" group-title="Peliculas" tvg-chno="" ,CINE  | HBO .POP  HD [SD]
+http://goldtv.lat:80/live/Sebita2022/Manya2022/1243.ts
+#EXTINF:-1 tvg-name="CINE | SPACE CHANEL  HD" group-title="Peliculas" tvg-chno="" ,CINE | SPACE CHANEL  HD [SD]
+http://goldtv.lat:80/live/Sebita2022/Manya2022/1281.ts
+#EXTINF:-1 tvg-name="CINE l P∆R∆M0UNT + HD" group-title="Peliculas" tvg-chno="" ,CINE l P∆R∆M0UNT + HD [SD]
+http://goldtv.lat:80/live/Sebita2022/Manya2022/53938.ts
+#EXTINF:-1 tvg-name="CINE | SPACE CHANEL  FHD" group-title="Peliculas" tvg-chno="" ,CINE | SPACE CHANEL  FHD [SD]
+http://goldtv.lat:80/live/Sebita2022/Manya2022/1280.ts
+#EXTINF:-1 tvg-name="CINE | SPACE CHANEL  SD" group-title="Peliculas" tvg-chno="" ,CINE | SPACE CHANEL  SD [SD]
+http://goldtv.lat:80/live/Sebita2022/Manya2022/1282.ts
+#EXTINF:-1 tvg-name="CINE | FX  HD" group-title="Peliculas" tvg-chno="" ,CINE | FX  HD [SD]
+http://goldtv.lat:80/live/Sebita2022/Manya2022/1275.ts
+#EXTINF:-1 tvg-name="CINE | FX  SD" group-title="Peliculas" tvg-chno="" ,CINE | FX  SD [SD]
+http://goldtv.lat:80/live/Sebita2022/Manya2022/1276.ts
+#EXTINF:-1 tvg-name="CINE |  TCM  SD" group-title="Peliculas" tvg-chno="" ,CINE |  TCM  SD [SD]
+http://goldtv.lat:80/live/Sebita2022/Manya2022/1267.ts
+#EXTINF:-1 tvg-name="CINE | CINE LATINO" group-title="Peliculas" tvg-chno="" ,CINE | CINE LATINO [SD]
+http://goldtv.lat:80/live/Sebita2022/Manya2022/100681.ts
+#EXTINF:-1 tvg-name="CINE | TCM  HD" group-title="Peliculas" tvg-chno="" ,CINE | TCM  HD [SD]
+http://goldtv.lat:80/live/Sebita2022/Manya2022/1266.ts
+#EXTINF:-1 tvg-name="CINE | GOLDEN PLUS SD" group-title="Deportes" tvg-chno="" ,CINE | GOLDEN PLUS SD [SD]
+http://goldtv.lat:80/live/Sebita2022/Manya2022/53942.ts
+#EXTINF:-1 tvg-name="CINE | GOLDEN PLUS HD" group-title="Deportes" tvg-chno="" ,CINE | GOLDEN PLUS HD [SD]
+http://goldtv.lat:80/live/Sebita2022/Manya2022/53941.ts
+#EXTINF:-1 tvg-name="CINE GOLDEN PLUS FHD" group-title="Deportes" tvg-chno="" ,CINE GOLDEN PLUS FHD [SD]
+http://goldtv.lat:80/live/Sebita2022/Manya2022/53940.ts
+#EXTINF:-1 tvg-name="CINE | GOLDEN PREMIER  HD" group-title="Deportes" tvg-chno="" ,CINE | GOLDEN PREMIER  HD [SD]
+http://goldtv.lat:80/live/Sebita2022/Manya2022/1293.ts
+#EXTINF:-1 tvg-name="CINE | WARNER  FHD" group-title="Peliculas" tvg-chno="" ,CINE | WARNER  FHD [SD]
+http://goldtv.lat:80/live/Sebita2022/Manya2022/1258.ts
+#EXTINF:-1 tvg-name="CINE | GOLDEN PREMIER  SD" group-title="Deportes" tvg-chno="" ,CINE | GOLDEN PREMIER  SD [SD]
+http://goldtv.lat:80/live/Sebita2022/Manya2022/1294.ts
+#EXTINF:-1 tvg-name="CINE | WARNER  SD" group-title="Peliculas" tvg-chno="" ,CINE | WARNER  SD [SD]
+http://goldtv.lat:80/live/Sebita2022/Manya2022/1260.ts
+#EXTINF:-1 tvg-name="CINE | WARNER  HD" group-title="Peliculas" tvg-chno="" ,CINE | WARNER  HD [SD]
+http://goldtv.lat:80/live/Sebita2022/Manya2022/1259.ts
+#EXTINF:-1 tvg-name="CINE | SONY M0VIES FHD" group-title="Peliculas" tvg-chno="" ,CINE | SONY M0VIES FHD [SD]
+http://goldtv.lat:80/live/Sebita2022/Manya2022/1261.ts
+#EXTINF:-1 tvg-name="CINE | SONY  SD" group-title="Peliculas" tvg-chno="" ,CINE | SONY  SD [SD]
+http://goldtv.lat:80/live/Sebita2022/Manya2022/1264.ts
+#EXTINF:-1 tvg-name="CINE | GOLDEN  HD" group-title="Deportes" tvg-chno="" ,CINE | GOLDEN  HD [SD]
+http://goldtv.lat:80/live/Sebita2022/Manya2022/1287.ts
+#EXTINF:-1 tvg-name="CINE | SONY  HD" group-title="Peliculas" tvg-chno="" ,CINE | SONY  HD [SD]
+http://goldtv.lat:80/live/Sebita2022/Manya2022/1263.ts
+#EXTINF:-1 tvg-name="CINE | GOLDEN  SD" group-title="Deportes" tvg-chno="" ,CINE | GOLDEN  SD [SD]
+http://goldtv.lat:80/live/Sebita2022/Manya2022/1288.ts
+#EXTINF:-1 tvg-name="CINE | GOLDEN EDG  HD" group-title="Deportes" tvg-chno="" ,CINE | GOLDEN EDG  HD [SD]
+http://goldtv.lat:80/live/Sebita2022/Manya2022/1290.ts
+#EXTINF:-1 tvg-name="CINE | GOLDEN EDG  SD" group-title="Deportes" tvg-chno="" ,CINE | GOLDEN EDG  SD [SD]
+http://goldtv.lat:80/live/Sebita2022/Manya2022/1291.ts
+#EXTINF:-1 tvg-name="P | UNIVERSAL COMEDY HD" group-title="Peliculas" tvg-chno="" ,P | UNIVERSAL COMEDY HD [SD]
+http://goldtv.lat:80/live/Sebita2022/Manya2022/111417.ts
+#EXTINF:-1 tvg-name="P | UNIVERSAL CINEMA HD" group-title="Peliculas" tvg-chno="" ,P | UNIVERSAL CINEMA HD [SD]
+http://goldtv.lat:80/live/Sebita2022/Manya2022/111421.ts
+#EXTINF:-1 tvg-name="P | UNIVERSAL CRIMEN HD" group-title="Peliculas" tvg-chno="" ,P | UNIVERSAL CRIMEN HD [SD]
+http://goldtv.lat:80/live/Sebita2022/Manya2022/111422.ts
+#EXTINF:-1 tvg-name="P | UNIVERSAL REALITY HD" group-title="Peliculas" tvg-chno="" ,P | UNIVERSAL REALITY HD [SD]
+http://goldtv.lat:80/live/Sebita2022/Manya2022/111420.ts
+#EXTINF:-1 tvg-name="P | UNIVERSAL PREMIER HD" group-title="Peliculas" tvg-chno="" ,P | UNIVERSAL PREMIER HD [SD]
+http://goldtv.lat:80/live/Sebita2022/Manya2022/111419.ts
+#EXTINF:-1 tvg-name="CINE | UNIVERSAL CHANEL HD" group-title="Peliculas" tvg-chno="" ,CINE | UNIVERSAL CHANEL HD [SD]
+http://goldtv.lat:80/live/Sebita2022/Manya2022/1269.ts
+#EXTINF:-1 tvg-name="CINE | UNIVERSAL CHANEL  SD" group-title="Peliculas" tvg-chno="" ,CINE | UNIVERSAL CHANEL  SD [SD]
+http://goldtv.lat:80/live/Sebita2022/Manya2022/1270.ts
+#EXTINF:-1 tvg-name="CINE | UNIVERSAL STUDIO FHD" group-title="Peliculas" tvg-chno="" ,CINE | UNIVERSAL STUDIO FHD [SD]
+http://goldtv.lat:80/live/Sebita2022/Manya2022/1268.ts
+#EXTINF:-1 tvg-name="CINE | AMC HD" group-title="Peliculas" tvg-chno="" ,CINE | AMC HD [SD]
+http://goldtv.lat:80/live/Sebita2022/Manya2022/1284.ts
+#EXTINF:-1 tvg-name="CINE | AMC  SD" group-title="Peliculas" tvg-chno="" ,CINE | AMC  SD [SD]
+http://goldtv.lat:80/live/Sebita2022/Manya2022/1285.ts
+#EXTINF:-1 tvg-name="EUROPA EUROPA" group-title="General" tvg-chno="" ,EUROPA EUROPA [SD]
+http://goldtv.lat:80/live/Sebita2022/Manya2022/317522.ts
+#EXTINF:-1 tvg-name="ClNE | AMC SERIES" group-title="Series" tvg-chno="" ,ClNE | AMC SERIES [SD]
+http://goldtv.lat:80/live/Sebita2022/Manya2022/376321.ts
+#EXTINF:-1 tvg-name="ClNE l °US∆ SERIES" group-title="Series" tvg-chno="" ,ClNE l °US∆ SERIES [SD]
+http://goldtv.lat:80/live/Sebita2022/Manya2022/346686.ts
+#EXTINF:-1 tvg-name="ClNE l DHE cine  HD" group-title="Peliculas" tvg-chno="" ,ClNE l DHE cine  HD [SD]
+http://goldtv.lat:80/live/Sebita2022/Manya2022/400290.ts
+#EXTINF:-1 tvg-name="Discovery Channel HD" group-title="General" tvg-chno="" ,Discovery Channel HD [SD]
+http://goldtv.lat:80/live/Sebita2022/Manya2022/53457.ts
+#EXTINF:-1 tvg-name="Discovery Channel SD" group-title="General" tvg-chno="" ,Discovery Channel SD [SD]
+http://goldtv.lat:80/live/Sebita2022/Manya2022/53458.ts
+#EXTINF:-1 tvg-name="DISCOVERY Turbo SD" group-title="General" tvg-chno="" ,DISCOVERY Turbo SD [SD]
+http://goldtv.lat:80/live/Sebita2022/Manya2022/53468.ts
+#EXTINF:-1 tvg-name="DISCOVERY Science HD" group-title="General" tvg-chno="" ,DISCOVERY Science HD [SD]
+http://goldtv.lat:80/live/Sebita2022/Manya2022/53464.ts
+#EXTINF:-1 tvg-name="DISCOVERY Turbo HD" group-title="General" tvg-chno="" ,DISCOVERY Turbo HD [SD]
+http://goldtv.lat:80/live/Sebita2022/Manya2022/53467.ts
+#EXTINF:-1 tvg-name="Discovery Investigation sd" group-title="General" tvg-chno="" ,Discovery Investigation sd [SD]
+http://goldtv.lat:80/live/Sebita2022/Manya2022/53463.ts
+#EXTINF:-1 tvg-name="Discovery Investigation HD" group-title="General" tvg-chno="" ,Discovery Investigation HD [SD]
+http://goldtv.lat:80/live/Sebita2022/Manya2022/53462.ts
+#EXTINF:-1 tvg-name="DISCOVERY World SD" group-title="Internacional" tvg-chno="" ,DISCOVERY World SD [SD]
+http://goldtv.lat:80/live/Sebita2022/Manya2022/53470.ts
+#EXTINF:-1 tvg-name="FOOD NETWORK" group-title="General" tvg-chno="" ,FOOD NETWORK [SD]
+http://goldtv.lat:80/live/Sebita2022/Manya2022/227677.ts
+#EXTINF:-1 tvg-name="DISCOVERY Theater HD" group-title="General" tvg-chno="" ,DISCOVERY Theater HD [SD]
+http://goldtv.lat:80/live/Sebita2022/Manya2022/53465.ts
+#EXTINF:-1 tvg-name="DISCOVERY Theater sd" group-title="General" tvg-chno="" ,DISCOVERY Theater sd [SD]
+http://goldtv.lat:80/live/Sebita2022/Manya2022/53466.ts
+#EXTINF:-1 tvg-name="HOLA! TV" group-title="General" tvg-chno="" ,HOLA! TV [SD]
+http://goldtv.lat:80/live/Sebita2022/Manya2022/126560.ts
+#EXTINF:-1 tvg-name="EL GOURMET" group-title="General" tvg-chno="" ,EL GOURMET [SD]
+http://goldtv.lat:80/live/Sebita2022/Manya2022/53474.ts
+#EXTINF:-1 tvg-name="LIFETIME HD" group-title="General" tvg-chno="" ,LIFETIME HD [SD]
+http://goldtv.lat:80/live/Sebita2022/Manya2022/128338.ts
+#EXTINF:-1 tvg-name="E! Entretainment HD" group-title="General" tvg-chno="" ,E! Entretainment HD [SD]
+http://goldtv.lat:80/live/Sebita2022/Manya2022/126151.ts
+#EXTINF:-1 tvg-name="E! Entretainment FHD" group-title="General" tvg-chno="" ,E! Entretainment FHD [SD]
+http://goldtv.lat:80/live/Sebita2022/Manya2022/122959.ts
+#EXTINF:-1 tvg-name="NATGEO HD" group-title="General" tvg-chno="" ,NATGEO HD [SD]
+http://goldtv.lat:80/live/Sebita2022/Manya2022/53489.ts
+#EXTINF:-1 tvg-name="NATGEO HD" group-title="General" tvg-chno="" ,NATGEO HD [SD]
+http://goldtv.lat:80/live/Sebita2022/Manya2022/53491.ts
+#EXTINF:-1 tvg-name="HISTORY HD" group-title="General" tvg-chno="" ,HISTORY HD [SD]
+http://goldtv.lat:80/live/Sebita2022/Manya2022/53481.ts
+#EXTINF:-1 tvg-name="HISTORY SD" group-title="General" tvg-chno="" ,HISTORY SD [SD]
+http://goldtv.lat:80/live/Sebita2022/Manya2022/53482.ts
+#EXTINF:-1 tvg-name="History 2 SD" group-title="General" tvg-chno="" ,History 2 SD [SD]
+http://goldtv.lat:80/live/Sebita2022/Manya2022/53488.ts
+#EXTINF:-1 tvg-name="ANIMAL Planet HD." group-title="General" tvg-chno="" ,ANIMAL Planet HD. [SD]
+http://goldtv.lat:80/live/Sebita2022/Manya2022/54172.ts
+#EXTINF:-1 tvg-name="ANIMAL PLANET SD" group-title="General" tvg-chno="" ,ANIMAL PLANET SD [SD]
+http://goldtv.lat:80/live/Sebita2022/Manya2022/114382.ts
+#EXTINF:-1 tvg-name="DISCOVERY World HD" group-title="Internacional" tvg-chno="" ,DISCOVERY World HD [SD]
+http://goldtv.lat:80/live/Sebita2022/Manya2022/53469.ts
+#EXTINF:-1 tvg-name="History 2 HD" group-title="General" tvg-chno="" ,History 2 HD [SD]
+http://goldtv.lat:80/live/Sebita2022/Manya2022/53483.ts
+#EXTINF:-1 tvg-name="CGTN ESPANOL HD" group-title="General" tvg-chno="" ,CGTN ESPANOL HD [SD]
+http://goldtv.lat:80/live/Sebita2022/Manya2022/435858.ts
+#EXTINF:-1 tvg-name="TLC SD" group-title="General" tvg-chno="" ,TLC SD [SD]
+http://goldtv.lat:80/live/Sebita2022/Manya2022/126559.ts
+#EXTINF:-1 tvg-name="NATGEO FHD" group-title="General" tvg-chno="" ,NATGEO FHD [SD]
+http://goldtv.lat:80/live/Sebita2022/Manya2022/53492.ts
+#EXTINF:-1 tvg-name="Az click" group-title="General" tvg-chno="" ,Az click [SD]
+http://goldtv.lat:80/live/Sebita2022/Manya2022/315941.ts
+#EXTINF:-1 tvg-name="CANAL DE C0ClN∆" group-title="General" tvg-chno="" ,CANAL DE C0ClN∆ [SD]
+http://goldtv.lat:80/live/Sebita2022/Manya2022/110241.ts
+#EXTINF:-1 tvg-name="Discovery Familia HD" group-title="General" tvg-chno="" ,Discovery Familia HD [SD]
+http://goldtv.lat:80/live/Sebita2022/Manya2022/53473.ts
+#EXTINF:-1 tvg-name="TLC HD" group-title="General" tvg-chno="" ,TLC HD [SD]
+http://goldtv.lat:80/live/Sebita2022/Manya2022/126558.ts
+#EXTINF:-1 tvg-name="C∆N∆L DEC∆S∆" group-title="General" tvg-chno="" ,C∆N∆L DEC∆S∆ [SD]
+http://goldtv.lat:80/live/Sebita2022/Manya2022/110244.ts
+#EXTINF:-1 tvg-name="Discovery Familia FHD" group-title="General" tvg-chno="" ,Discovery Familia FHD [SD]
+http://goldtv.lat:80/live/Sebita2022/Manya2022/53472.ts
+#EXTINF:-1 tvg-name="LOVE  NATURALEZA HD" group-title="General" tvg-chno="" ,LOVE  NATURALEZA HD [SD]
+http://goldtv.lat:80/live/Sebita2022/Manya2022/118747.ts
+#EXTINF:-1 tvg-name="HGTV FHD" group-title="General" tvg-chno="" ,HGTV FHD [SD]
+http://goldtv.lat:80/live/Sebita2022/Manya2022/126561.ts
+#EXTINF:-1 tvg-name="Discovery Home & Health SD" group-title="General" tvg-chno="" ,Discovery Home & Health SD [SD]
+http://goldtv.lat:80/live/Sebita2022/Manya2022/53460.ts
+#EXTINF:-1 tvg-name="Discovery Home & Health HD" group-title="General" tvg-chno="" ,Discovery Home & Health HD [SD]
+http://goldtv.lat:80/live/Sebita2022/Manya2022/53459.ts
+#EXTINF:-1 tvg-name="NIÑOS | NICKTOONS HD" group-title="Infantil" tvg-chno="" ,NIÑOS | NICKTOONS HD [SD]
+http://goldtv.lat:80/live/Sebita2022/Manya2022/132709.ts
+#EXTINF:-1 tvg-name="NATGEO WILD HD" group-title="General" tvg-chno="" ,NATGEO WILD HD [SD]
+http://goldtv.lat:80/live/Sebita2022/Manya2022/54171.ts
+#EXTINF:-1 tvg-name="NIÑOS | NICKTOONS SD" group-title="Infantil" tvg-chno="" ,NIÑOS | NICKTOONS SD [SD]
+http://goldtv.lat:80/live/Sebita2022/Manya2022/132710.ts
+#EXTINF:-1 tvg-name="NIÑOS | DISCOVERY KIDS  HD" group-title="Infantil" tvg-chno="" ,NIÑOS | DISCOVERY KIDS  HD [SD]
+http://goldtv.lat:80/live/Sebita2022/Manya2022/132701.ts
+#EXTINF:-1 tvg-name="NIÑOS | DISCOVERY KIDS SD" group-title="Infantil" tvg-chno="" ,NIÑOS | DISCOVERY KIDS SD [SD]
+http://goldtv.lat:80/live/Sebita2022/Manya2022/132702.ts
+#EXTINF:-1 tvg-name="NIÑOS | DISNEY CHANNEL HD" group-title="General" tvg-chno="" ,NIÑOS | DISNEY CHANNEL HD [SD]
+http://goldtv.lat:80/live/Sebita2022/Manya2022/132699.ts
+#EXTINF:-1 tvg-name="NIÑOS | DISNEY CHANNEL SD" group-title="General" tvg-chno="" ,NIÑOS | DISNEY CHANNEL SD [SD]
+http://goldtv.lat:80/live/Sebita2022/Manya2022/132700.ts
+#EXTINF:-1 tvg-name="NIÑOS | DISNEY JR HD" group-title="General" tvg-chno="" ,NIÑOS | DISNEY JR HD [SD]
+http://goldtv.lat:80/live/Sebita2022/Manya2022/132697.ts
+#EXTINF:-1 tvg-name="NIÑOS | BABY TV HD" group-title="Infantil" tvg-chno="" ,NIÑOS | BABY TV HD [SD]
+http://goldtv.lat:80/live/Sebita2022/Manya2022/132689.ts
+#EXTINF:-1 tvg-name="NIÑOS | DISNEY JR SD" group-title="General" tvg-chno="" ,NIÑOS | DISNEY JR SD [SD]
+http://goldtv.lat:80/live/Sebita2022/Manya2022/132698.ts
+#EXTINF:-1 tvg-name="NIÑOS | BABY TV SD" group-title="Infantil" tvg-chno="" ,NIÑOS | BABY TV SD [SD]
+http://goldtv.lat:80/live/Sebita2022/Manya2022/132690.ts
+#EXTINF:-1 tvg-name="NIÑOS | NICK JR SD" group-title="Infantil" tvg-chno="" ,NIÑOS | NICK JR SD [SD]
+http://goldtv.lat:80/live/Sebita2022/Manya2022/132696.ts
+#EXTINF:-1 tvg-name="NIÑOS | PLiM PLiM" group-title="General" tvg-chno="" ,NIÑOS | PLiM PLiM [SD]
+http://goldtv.lat:80/live/Sebita2022/Manya2022/132712.ts
+#EXTINF:-1 tvg-name="NIÑOS | NICKELODEON HD" group-title="Infantil" tvg-chno="" ,NIÑOS | NICKELODEON HD [SD]
+http://goldtv.lat:80/live/Sebita2022/Manya2022/132711.ts
+#EXTINF:-1 tvg-name="NIÑOS | CARTOONITO SD" group-title="Infantil" tvg-chno="" ,NIÑOS | CARTOONITO SD [SD]
+http://goldtv.lat:80/live/Sebita2022/Manya2022/132708.ts
+#EXTINF:-1 tvg-name="NIÑOS | CARTOON NETWORK HD" group-title="Infantil" tvg-chno="" ,NIÑOS | CARTOON NETWORK HD [SD]
+http://goldtv.lat:80/live/Sebita2022/Manya2022/132707.ts
+#EXTINF:-1 tvg-name="NIÑOS | NICK HD" group-title="Infantil" tvg-chno="" ,NIÑOS | NICK HD [SD]
+http://goldtv.lat:80/live/Sebita2022/Manya2022/132691.ts
+#EXTINF:-1 tvg-name="NIÑOS | DRE∆MW0RK INFANTIL" group-title="Infantil" tvg-chno="" ,NIÑOS | DRE∆MW0RK INFANTIL [SD]
+http://goldtv.lat:80/live/Sebita2022/Manya2022/143797.ts
+#EXTINF:-1 tvg-name="NIÑOS | NICK SD" group-title="Infantil" tvg-chno="" ,NIÑOS | NICK SD [SD]
+http://goldtv.lat:80/live/Sebita2022/Manya2022/132692.ts
+#EXTINF:-1 tvg-name="NIÑOS | BITME +10" group-title="General" tvg-chno="" ,NIÑOS | BITME +10 [SD]
+http://goldtv.lat:80/live/Sebita2022/Manya2022/132694.ts
+#EXTINF:-1 tvg-name="NIÑOS | NICK 2 HD" group-title="Infantil" tvg-chno="" ,NIÑOS | NICK 2 HD [SD]
+http://goldtv.lat:80/live/Sebita2022/Manya2022/132693.ts
+#EXTINF:-1 tvg-name="NIÑOS | TOONCAST SD" group-title="General" tvg-chno="" ,NIÑOS | TOONCAST SD [SD]
+http://goldtv.lat:80/live/Sebita2022/Manya2022/132704.ts
+#EXTINF:-1 tvg-name="NIÑOS | NICK JR HD" group-title="Infantil" tvg-chno="" ,NIÑOS | NICK JR HD [SD]
+http://goldtv.lat:80/live/Sebita2022/Manya2022/132695.ts
+#EXTINF:-1 tvg-name="⏩ EXCLUSIVO⏪" group-title="General" tvg-chno="" ,⏩ EXCLUSIVO⏪ [SD]
+http://goldtv.lat:80/live/Sebita2022/Manya2022/475882.ts
+#EXTINF:-1 tvg-name="EC | TELEAMAZONAS UIO HD" group-title="General" tvg-chno="" ,EC | TELEAMAZONAS UIO HD [SD]
+http://goldtv.lat:80/live/Sebita2022/Manya2022/360514.ts
+#EXTINF:-1 tvg-name="NIÑOS | TOONCAST HD" group-title="General" tvg-chno="" ,NIÑOS | TOONCAST HD [SD]
+http://goldtv.lat:80/live/Sebita2022/Manya2022/132703.ts
+#EXTINF:-1 tvg-name="EC | TELEAMAZONAS UIO SD" group-title="General" tvg-chno="" ,EC | TELEAMAZONAS UIO SD [SD]
+http://goldtv.lat:80/live/Sebita2022/Manya2022/360515.ts
+#EXTINF:-1 tvg-name="EC | TELEAMAZONAS GQUIL  HD" group-title="General" tvg-chno="" ,EC | TELEAMAZONAS GQUIL  HD [SD]
+http://goldtv.lat:80/live/Sebita2022/Manya2022/360512.ts
+#EXTINF:-1 tvg-name="EC | TELEAMAZONAS GQUIL SD" group-title="General" tvg-chno="" ,EC | TELEAMAZONAS GQUIL SD [SD]
+http://goldtv.lat:80/live/Sebita2022/Manya2022/360513.ts
+#EXTINF:-1 tvg-name="EC | ECUAVISA UIO HD" group-title="General" tvg-chno="" ,EC | ECUAVISA UIO HD [SD]
+http://goldtv.lat:80/live/Sebita2022/Manya2022/360507.ts
+#EXTINF:-1 tvg-name="EC | ECUAVISA UIO SD" group-title="General" tvg-chno="" ,EC | ECUAVISA UIO SD [SD]
+http://goldtv.lat:80/live/Sebita2022/Manya2022/360508.ts
+#EXTINF:-1 tvg-name="EC | ECUAVISA GQUIL HD" group-title="General" tvg-chno="" ,EC | ECUAVISA GQUIL HD [SD]
+http://goldtv.lat:80/live/Sebita2022/Manya2022/360509.ts
+#EXTINF:-1 tvg-name="EC | ECUAVISA INTER HD Ⓓ" group-title="General" tvg-chno="" ,EC | ECUAVISA INTER HD Ⓓ [SD]
+http://goldtv.lat:80/live/Sebita2022/Manya2022/360511.ts
+#EXTINF:-1 tvg-name="EC | ECUAVISA GQUIL SD" group-title="General" tvg-chno="" ,EC | ECUAVISA GQUIL SD [SD]
+http://goldtv.lat:80/live/Sebita2022/Manya2022/360510.ts
+#EXTINF:-1 tvg-name="EC | TC TELEVISION HD" group-title="General" tvg-chno="" ,EC | TC TELEVISION HD [SD]
+http://goldtv.lat:80/live/Sebita2022/Manya2022/360518.ts
+#EXTINF:-1 tvg-name="EC TC TELEVISION SD" group-title="General" tvg-chno="" ,EC TC TELEVISION SD [SD]
+http://goldtv.lat:80/live/Sebita2022/Manya2022/360519.ts
+#EXTINF:-1 tvg-name="EC | TC INTERNACIONAL HD" group-title="Internacional" tvg-chno="" ,EC | TC INTERNACIONAL HD [SD]
+http://goldtv.lat:80/live/Sebita2022/Manya2022/360542.ts
+#EXTINF:-1 tvg-name="EC | OROMAR TV HD Ⓓ" group-title="General" tvg-chno="" ,EC | OROMAR TV HD Ⓓ [SD]
+http://goldtv.lat:80/live/Sebita2022/Manya2022/360516.ts
+#EXTINF:-1 tvg-name="EC | OROMAR SD Ⓓ" group-title="General" tvg-chno="" ,EC | OROMAR SD Ⓓ [SD]
+http://goldtv.lat:80/live/Sebita2022/Manya2022/360517.ts
+#EXTINF:-1 tvg-name="EC | RTS SD Ⓓ" group-title="General" tvg-chno="" ,EC | RTS SD Ⓓ [SD]
+http://goldtv.lat:80/live/Sebita2022/Manya2022/360530.ts
+#EXTINF:-1 tvg-name="EC | RTS HD Ⓓ" group-title="General" tvg-chno="" ,EC | RTS HD Ⓓ [SD]
+http://goldtv.lat:80/live/Sebita2022/Manya2022/360531.ts
+#EXTINF:-1 tvg-name="EC | ECUADOR TV HD" group-title="General" tvg-chno="" ,EC | ECUADOR TV HD [SD]
+http://goldtv.lat:80/live/Sebita2022/Manya2022/360520.ts
+#EXTINF:-1 tvg-name="EC | ⱧECHOS ECUADOR  HD" group-title="General" tvg-chno="" ,EC | ⱧECHOS ECUADOR  HD [SD]
+http://goldtv.lat:80/live/Sebita2022/Manya2022/360522.ts
+#EXTINF:-1 tvg-name="EC | ECUADOR TV SD" group-title="General" tvg-chno="" ,EC | ECUADOR TV SD [SD]
+http://goldtv.lat:80/live/Sebita2022/Manya2022/360521.ts
+#EXTINF:-1 tvg-name="EC | ZARACAY TV" group-title="General" tvg-chno="" ,EC | ZARACAY TV [SD]
+http://goldtv.lat:80/live/Sebita2022/Manya2022/360525.ts
+#EXTINF:-1 tvg-name="EC | GAMAVISION HD" group-title="General" tvg-chno="" ,EC | GAMAVISION HD [SD]
+http://goldtv.lat:80/live/Sebita2022/Manya2022/360524.ts
+#EXTINF:-1 tvg-name="ECU || RTVHD" group-title="General" tvg-chno="" ,ECU || RTVHD [SD]
+http://goldtv.lat:80/live/Sebita2022/Manya2022/533532.ts
+#EXTINF:-1 tvg-name="EC | TV COLOR HD" group-title="General" tvg-chno="" ,EC | TV COLOR HD [SD]
+http://goldtv.lat:80/live/Sebita2022/Manya2022/360537.ts
+#EXTINF:-1 tvg-name="EC | ASOMAVISION HD" group-title="General" tvg-chno="" ,EC | ASOMAVISION HD [SD]
+http://goldtv.lat:80/live/Sebita2022/Manya2022/360538.ts
+#EXTINF:-1 tvg-name="EC | AUSTRAL TV HD" group-title="General" tvg-chno="" ,EC | AUSTRAL TV HD [SD]
+http://goldtv.lat:80/live/Sebita2022/Manya2022/360539.ts
+#EXTINF:-1 tvg-name="EC | TELERAMA HD" group-title="General" tvg-chno="" ,EC | TELERAMA HD [SD]
+http://goldtv.lat:80/live/Sebita2022/Manya2022/360527.ts
+#EXTINF:-1 tvg-name="ECU || Canar tv" group-title="General" tvg-chno="" ,ECU || Canar tv [SD]
+http://goldtv.lat:80/live/Sebita2022/Manya2022/541431.ts
+#EXTINF:-1 tvg-name="EC | MAJESTAD TV HD" group-title="General" tvg-chno="" ,EC | MAJESTAD TV HD [SD]
+http://goldtv.lat:80/live/Sebita2022/Manya2022/360541.ts
+#EXTINF:-1 tvg-name="EC | Canal Uno HD" group-title="General" tvg-chno="" ,EC | Canal Uno HD [SD]
+http://goldtv.lat:80/live/Sebita2022/Manya2022/360532.ts
+#EXTINF:-1 tvg-name="EC | TVC  HD" group-title="General" tvg-chno="" ,EC | TVC  HD [SD]
+http://goldtv.lat:80/live/Sebita2022/Manya2022/360528.ts
+#EXTINF:-1 tvg-name="EC | Wuan+" group-title="General" tvg-chno="" ,EC | Wuan+ [SD]
+http://goldtv.lat:80/live/Sebita2022/Manya2022/360533.ts
+#EXTINF:-1 tvg-name="EC | MANAVISION HD" group-title="General" tvg-chno="" ,EC | MANAVISION HD [SD]
+http://goldtv.lat:80/live/Sebita2022/Manya2022/360536.ts
+#EXTINF:-1 tvg-name="EC | RTU" group-title="General" tvg-chno="" ,EC | RTU [SD]
+http://goldtv.lat:80/live/Sebita2022/Manya2022/360523.ts
+#EXTINF:-1 tvg-name="EC I MULTICANAL HD" group-title="General" tvg-chno="" ,EC I MULTICANAL HD [SD]
+http://goldtv.lat:80/live/Sebita2022/Manya2022/360526.ts
+#EXTINF:-1 tvg-name="EC | CANELA TV" group-title="General" tvg-chno="" ,EC | CANELA TV [SD]
+http://goldtv.lat:80/live/Sebita2022/Manya2022/443036.ts
+#EXTINF:-1 tvg-name="ECU || SONO ONDA" group-title="General" tvg-chno="" ,ECU || SONO ONDA [SD]
+http://goldtv.lat:80/live/Sebita2022/Manya2022/443042.ts
+#EXTINF:-1 tvg-name="ECU || UNIANDES TV AMBATO" group-title="General" tvg-chno="" ,ECU || UNIANDES TV AMBATO [SD]
+http://goldtv.lat:80/live/Sebita2022/Manya2022/443039.ts
+#EXTINF:-1 tvg-name="Dragon Ball Z" group-title="General" tvg-chno="" ,Dragon Ball Z [SD]
+http://goldtv.lat:80/live/Sebita2022/Manya2022/475229.ts
+#EXTINF:-1 tvg-name="PE| AMERICA HD" group-title="General" tvg-chno="" ,PE| AMERICA HD [SD]
+http://goldtv.lat:80/live/Sebita2022/Manya2022/306666.ts
+#EXTINF:-1 tvg-name="ECU || CURIQUINGUE TV" group-title="General" tvg-chno="" ,ECU || CURIQUINGUE TV [SD]
+http://goldtv.lat:80/live/Sebita2022/Manya2022/443048.ts
+#EXTINF:-1 tvg-name="PE| LATINA HD" group-title="General" tvg-chno="" ,PE| LATINA HD [SD]
+http://goldtv.lat:80/live/Sebita2022/Manya2022/306668.ts
+#EXTINF:-1 tvg-name="PE| AMERICA HD OP 02" group-title="General" tvg-chno="" ,PE| AMERICA HD OP 02 [SD]
+http://goldtv.lat:80/live/Sebita2022/Manya2022/306667.ts
+#EXTINF:-1 tvg-name="PE| LATINA HD OP 02" group-title="General" tvg-chno="" ,PE| LATINA HD OP 02 [SD]
+http://goldtv.lat:80/live/Sebita2022/Manya2022/306669.ts
+#EXTINF:-1 tvg-name="PE| PANAMERICA HD OP 02" group-title="General" tvg-chno="" ,PE| PANAMERICA HD OP 02 [SD]
+http://goldtv.lat:80/live/Sebita2022/Manya2022/306673.ts
+#EXTINF:-1 tvg-name="PE| ATV HD" group-title="General" tvg-chno="" ,PE| ATV HD [SD]
+http://goldtv.lat:80/live/Sebita2022/Manya2022/306670.ts
+#EXTINF:-1 tvg-name="PE| ATV HD OP 02" group-title="General" tvg-chno="" ,PE| ATV HD OP 02 [SD]
+http://goldtv.lat:80/live/Sebita2022/Manya2022/306671.ts
+#EXTINF:-1 tvg-name="PE| PANAMERICANA HD" group-title="General" tvg-chno="" ,PE| PANAMERICANA HD [SD]
+http://goldtv.lat:80/live/Sebita2022/Manya2022/306674.ts
+#EXTINF:-1 tvg-name="PE| WILLAX  SD" group-title="General" tvg-chno="" ,PE| WILLAX  SD [SD]
+http://goldtv.lat:80/live/Sebita2022/Manya2022/306677.ts
+#EXTINF:-1 tvg-name="PE| WILLAX HD" group-title="General" tvg-chno="" ,PE| WILLAX HD [SD]
+http://goldtv.lat:80/live/Sebita2022/Manya2022/306676.ts
+#EXTINF:-1 tvg-name="PE| R.P.P SD" group-title="General" tvg-chno="" ,PE| R.P.P SD [SD]
+http://goldtv.lat:80/live/Sebita2022/Manya2022/306681.ts
+#EXTINF:-1 tvg-name="PE| C4N4L N SD" group-title="General" tvg-chno="" ,PE| C4N4L N SD [SD]
+http://goldtv.lat:80/live/Sebita2022/Manya2022/306679.ts
+#EXTINF:-1 tvg-name="PE| R.P.P HD" group-title="General" tvg-chno="" ,PE| R.P.P HD [SD]
+http://goldtv.lat:80/live/Sebita2022/Manya2022/306680.ts
+#EXTINF:-1 tvg-name="PE| GLOBAL TV HD" group-title="General" tvg-chno="" ,PE| GLOBAL TV HD [SD]
+http://goldtv.lat:80/live/Sebita2022/Manya2022/306682.ts
+#EXTINF:-1 tvg-name="PE| GLOBAL TV HD OP 02" group-title="General" tvg-chno="" ,PE| GLOBAL TV HD OP 02 [SD]
+http://goldtv.lat:80/live/Sebita2022/Manya2022/306683.ts
+#EXTINF:-1 tvg-name="PE| EXITOSA HD" group-title="General" tvg-chno="" ,PE| EXITOSA HD [SD]
+http://goldtv.lat:80/live/Sebita2022/Manya2022/306684.ts
+#EXTINF:-1 tvg-name="PE| PERU NOTICIAS SD" group-title="Noticias" tvg-chno="" ,PE| PERU NOTICIAS SD [SD]
+http://goldtv.lat:80/live/Sebita2022/Manya2022/306689.ts
+#EXTINF:-1 tvg-name="PE| EXITOSA SD" group-title="General" tvg-chno="" ,PE| EXITOSA SD [SD]
+http://goldtv.lat:80/live/Sebita2022/Manya2022/306685.ts
+#EXTINF:-1 tvg-name="PE| PERU NOTICIAS HD" group-title="Noticias" tvg-chno="" ,PE| PERU NOTICIAS HD [SD]
+http://goldtv.lat:80/live/Sebita2022/Manya2022/306688.ts
+#EXTINF:-1 tvg-name="PE| M0V1ST4R PLU5 HD" group-title="General" tvg-chno="" ,PE| M0V1ST4R PLU5 HD [SD]
+http://goldtv.lat:80/live/Sebita2022/Manya2022/306690.ts
+#EXTINF:-1 tvg-name="PE| M0V1ST4R PLU5 SD" group-title="General" tvg-chno="" ,PE| M0V1ST4R PLU5 SD [SD]
+http://goldtv.lat:80/live/Sebita2022/Manya2022/306691.ts
+#EXTINF:-1 tvg-name="PE | CANAL DEL CONGRESO" group-title="General" tvg-chno="" ,PE | CANAL DEL CONGRESO [SD]
+http://goldtv.lat:80/live/Sebita2022/Manya2022/306695.ts
+#EXTINF:-1 tvg-name="PE | KARIBEÑA TV HD" group-title="General" tvg-chno="" ,PE | KARIBEÑA TV HD [SD]
+http://goldtv.lat:80/live/Sebita2022/Manya2022/306692.ts
+#EXTINF:-1 tvg-name="PE| TV PERU HD" group-title="General" tvg-chno="" ,PE| TV PERU HD [SD]
+http://goldtv.lat:80/live/Sebita2022/Manya2022/306686.ts
+#EXTINF:-1 tvg-name="PE| ATV HD" group-title="General" tvg-chno="" ,PE| ATV HD [SD]
+http://goldtv.lat:80/live/Sebita2022/Manya2022/306672.ts
+#EXTINF:-1 tvg-name="PE | RTS" group-title="General" tvg-chno="" ,PE | RTS [SD]
+http://goldtv.lat:80/live/Sebita2022/Manya2022/306693.ts
+#EXTINF:-1 tvg-name="PE| TV PERU SD" group-title="General" tvg-chno="" ,PE| TV PERU SD [SD]
+http://goldtv.lat:80/live/Sebita2022/Manya2022/306687.ts
+#EXTINF:-1 tvg-name="PE | JUSTICIA TV HD" group-title="General" tvg-chno="" ,PE | JUSTICIA TV HD [SD]
+http://goldtv.lat:80/live/Sebita2022/Manya2022/306694.ts
+#EXTINF:-1 tvg-name="UR|•M∆R0Ñ∆S• HD" group-title="General" tvg-chno="" ,UR|•M∆R0Ñ∆S• HD [SD]
+http://goldtv.lat:80/live/Sebita2022/Manya2022/542835.ts
+#EXTINF:-1 tvg-name="PE| C4N4L N HD" group-title="General" tvg-chno="" ,PE| C4N4L N HD [SD]
+http://goldtv.lat:80/live/Sebita2022/Manya2022/306678.ts
+#EXTINF:-1 tvg-name="UR | CANAL 4 ʜᴅ" group-title="General" tvg-chno="" ,UR | CANAL 4 ʜᴅ [SD]
+http://goldtv.lat:80/live/Sebita2022/Manya2022/52811.ts
+#EXTINF:-1 tvg-name="UR | C.ANAL 4 ꜰʜᴅ" group-title="General" tvg-chno="" ,UR | C.ANAL 4 ꜰʜᴅ [SD]
+http://goldtv.lat:80/live/Sebita2022/Manya2022/52810.ts
+#EXTINF:-1 tvg-name="UR | C.ANAL 4  ꜱᴅ" group-title="General" tvg-chno="" ,UR | C.ANAL 4  ꜱᴅ [SD]
+http://goldtv.lat:80/live/Sebita2022/Manya2022/52812.ts
+#EXTINF:-1 tvg-name="UR | CANAL 10 ꜰʜᴅ" group-title="General" tvg-chno="" ,UR | CANAL 10 ꜰʜᴅ [SD]
+http://goldtv.lat:80/live/Sebita2022/Manya2022/52815.ts
+#EXTINF:-1 tvg-name="UR | CANAL 10 ꜱᴅ" group-title="General" tvg-chno="" ,UR | CANAL 10 ꜱᴅ [SD]
+http://goldtv.lat:80/live/Sebita2022/Manya2022/52817.ts
+#EXTINF:-1 tvg-name="UR | CANAL 10 ʜᴅ" group-title="General" tvg-chno="" ,UR | CANAL 10 ʜᴅ [SD]
+http://goldtv.lat:80/live/Sebita2022/Manya2022/52816.ts
+#EXTINF:-1 tvg-name="UR | CANAL TELE 12 ꜰʜᴅ" group-title="General" tvg-chno="" ,UR | CANAL TELE 12 ꜰʜᴅ [SD]
+http://goldtv.lat:80/live/Sebita2022/Manya2022/52818.ts
+#EXTINF:-1 tvg-name="UR | CANAL TELE 12 ꜱᴅ" group-title="General" tvg-chno="" ,UR | CANAL TELE 12 ꜱᴅ [SD]
+http://goldtv.lat:80/live/Sebita2022/Manya2022/52820.ts

@@ -1,1001 +1,141 @@
-#EXTM3U x-tvg-url="" x-lista="Listas General 3" x-actualizado="2026-06-30 22:14"
-#EXTINF:-1 tvg-name="ClNE l DHE cine  HD" group-title="Peliculas" tvg-chno="" ,ClNE l DHE cine  HD [SD]
-http://p2premium.club:80/live/Ney123/Ney123/400290.ts
-#EXTINF:-1 tvg-name="Discovery Channel HD" group-title="General" tvg-chno="" ,Discovery Channel HD [SD]
-http://p2premium.club:80/live/Ney123/Ney123/53457.ts
-#EXTINF:-1 tvg-name="Discovery Channel SD" group-title="General" tvg-chno="" ,Discovery Channel SD [SD]
-http://p2premium.club:80/live/Ney123/Ney123/53458.ts
-#EXTINF:-1 tvg-name="DISCOVERY Science HD" group-title="General" tvg-chno="" ,DISCOVERY Science HD [SD]
-http://p2premium.club:80/live/Ney123/Ney123/53464.ts
-#EXTINF:-1 tvg-name="DISCOVERY Turbo HD" group-title="General" tvg-chno="" ,DISCOVERY Turbo HD [SD]
-http://p2premium.club:80/live/Ney123/Ney123/53467.ts
-#EXTINF:-1 tvg-name="DISCOVERY Turbo SD" group-title="General" tvg-chno="" ,DISCOVERY Turbo SD [SD]
-http://p2premium.club:80/live/Ney123/Ney123/53468.ts
-#EXTINF:-1 tvg-name="DISCOVERY World SD" group-title="Internacional" tvg-chno="" ,DISCOVERY World SD [SD]
-http://p2premium.club:80/live/Ney123/Ney123/53470.ts
-#EXTINF:-1 tvg-name="Discovery Investigation sd" group-title="General" tvg-chno="" ,Discovery Investigation sd [SD]
-http://p2premium.club:80/live/Ney123/Ney123/53463.ts
-#EXTINF:-1 tvg-name="Discovery Investigation HD" group-title="General" tvg-chno="" ,Discovery Investigation HD [SD]
-http://p2premium.club:80/live/Ney123/Ney123/53462.ts
-#EXTINF:-1 tvg-name="DISCOVERY Theater HD" group-title="General" tvg-chno="" ,DISCOVERY Theater HD [SD]
-http://p2premium.club:80/live/Ney123/Ney123/53465.ts
-#EXTINF:-1 tvg-name="DISCOVERY Theater sd" group-title="General" tvg-chno="" ,DISCOVERY Theater sd [SD]
-http://p2premium.club:80/live/Ney123/Ney123/53466.ts
-#EXTINF:-1 tvg-name="FOOD NETWORK" group-title="General" tvg-chno="" ,FOOD NETWORK [SD]
-http://p2premium.club:80/live/Ney123/Ney123/227677.ts
-#EXTINF:-1 tvg-name="EL GOURMET" group-title="General" tvg-chno="" ,EL GOURMET [SD]
-http://p2premium.club:80/live/Ney123/Ney123/53474.ts
-#EXTINF:-1 tvg-name="HOLA! TV" group-title="General" tvg-chno="" ,HOLA! TV [SD]
-http://p2premium.club:80/live/Ney123/Ney123/126560.ts
-#EXTINF:-1 tvg-name="LIFETIME HD" group-title="General" tvg-chno="" ,LIFETIME HD [SD]
-http://p2premium.club:80/live/Ney123/Ney123/128338.ts
-#EXTINF:-1 tvg-name="E! Entretainment FHD" group-title="General" tvg-chno="" ,E! Entretainment FHD [SD]
-http://p2premium.club:80/live/Ney123/Ney123/122959.ts
-#EXTINF:-1 tvg-name="E! Entretainment HD" group-title="General" tvg-chno="" ,E! Entretainment HD [SD]
-http://p2premium.club:80/live/Ney123/Ney123/126151.ts
-#EXTINF:-1 tvg-name="NATGEO HD" group-title="General" tvg-chno="" ,NATGEO HD [SD]
-http://p2premium.club:80/live/Ney123/Ney123/53489.ts
-#EXTINF:-1 tvg-name="NATGEO HD" group-title="General" tvg-chno="" ,NATGEO HD [SD]
-http://p2premium.club:80/live/Ney123/Ney123/53491.ts
-#EXTINF:-1 tvg-name="HISTORY SD" group-title="General" tvg-chno="" ,HISTORY SD [SD]
-http://p2premium.club:80/live/Ney123/Ney123/53482.ts
-#EXTINF:-1 tvg-name="ANIMAL Planet HD." group-title="General" tvg-chno="" ,ANIMAL Planet HD. [SD]
-http://p2premium.club:80/live/Ney123/Ney123/54172.ts
-#EXTINF:-1 tvg-name="HISTORY HD" group-title="General" tvg-chno="" ,HISTORY HD [SD]
-http://p2premium.club:80/live/Ney123/Ney123/53481.ts
-#EXTINF:-1 tvg-name="ANIMAL PLANET SD" group-title="General" tvg-chno="" ,ANIMAL PLANET SD [SD]
-http://p2premium.club:80/live/Ney123/Ney123/114382.ts
-#EXTINF:-1 tvg-name="History 2 SD" group-title="General" tvg-chno="" ,History 2 SD [SD]
-http://p2premium.club:80/live/Ney123/Ney123/53488.ts
-#EXTINF:-1 tvg-name="History 2 HD" group-title="General" tvg-chno="" ,History 2 HD [SD]
-http://p2premium.club:80/live/Ney123/Ney123/53483.ts
-#EXTINF:-1 tvg-name="CGTN ESPANOL HD" group-title="General" tvg-chno="" ,CGTN ESPANOL HD [SD]
-http://p2premium.club:80/live/Ney123/Ney123/435858.ts
-#EXTINF:-1 tvg-name="DISCOVERY World HD" group-title="Internacional" tvg-chno="" ,DISCOVERY World HD [SD]
-http://p2premium.club:80/live/Ney123/Ney123/53469.ts
-#EXTINF:-1 tvg-name="TLC SD" group-title="General" tvg-chno="" ,TLC SD [SD]
-http://p2premium.club:80/live/Ney123/Ney123/126559.ts
-#EXTINF:-1 tvg-name="NATGEO FHD" group-title="General" tvg-chno="" ,NATGEO FHD [SD]
-http://p2premium.club:80/live/Ney123/Ney123/53492.ts
-#EXTINF:-1 tvg-name="Az click" group-title="General" tvg-chno="" ,Az click [SD]
-http://p2premium.club:80/live/Ney123/Ney123/315941.ts
-#EXTINF:-1 tvg-name="CANAL DE C0ClN∆" group-title="General" tvg-chno="" ,CANAL DE C0ClN∆ [SD]
-http://p2premium.club:80/live/Ney123/Ney123/110241.ts
-#EXTINF:-1 tvg-name="TLC HD" group-title="General" tvg-chno="" ,TLC HD [SD]
-http://p2premium.club:80/live/Ney123/Ney123/126558.ts
-#EXTINF:-1 tvg-name="Discovery Familia HD" group-title="General" tvg-chno="" ,Discovery Familia HD [SD]
-http://p2premium.club:80/live/Ney123/Ney123/53473.ts
-#EXTINF:-1 tvg-name="Discovery Familia FHD" group-title="General" tvg-chno="" ,Discovery Familia FHD [SD]
-http://p2premium.club:80/live/Ney123/Ney123/53472.ts
-#EXTINF:-1 tvg-name="C∆N∆L DEC∆S∆" group-title="General" tvg-chno="" ,C∆N∆L DEC∆S∆ [SD]
-http://p2premium.club:80/live/Ney123/Ney123/110244.ts
-#EXTINF:-1 tvg-name="LOVE  NATURALEZA HD" group-title="General" tvg-chno="" ,LOVE  NATURALEZA HD [SD]
-http://p2premium.club:80/live/Ney123/Ney123/118747.ts
-#EXTINF:-1 tvg-name="HGTV FHD" group-title="General" tvg-chno="" ,HGTV FHD [SD]
-http://p2premium.club:80/live/Ney123/Ney123/126561.ts
-#EXTINF:-1 tvg-name="Discovery Home & Health SD" group-title="General" tvg-chno="" ,Discovery Home & Health SD [SD]
-http://p2premium.club:80/live/Ney123/Ney123/53460.ts
-#EXTINF:-1 tvg-name="Discovery Home & Health HD" group-title="General" tvg-chno="" ,Discovery Home & Health HD [SD]
-http://p2premium.club:80/live/Ney123/Ney123/53459.ts
-#EXTINF:-1 tvg-name="NATGEO WILD HD" group-title="General" tvg-chno="" ,NATGEO WILD HD [SD]
-http://p2premium.club:80/live/Ney123/Ney123/54171.ts
-#EXTINF:-1 tvg-name="NIÑOS | NICKTOONS HD" group-title="Infantil" tvg-chno="" ,NIÑOS | NICKTOONS HD [SD]
-http://p2premium.club:80/live/Ney123/Ney123/132709.ts
-#EXTINF:-1 tvg-name="NIÑOS | NICKTOONS SD" group-title="Infantil" tvg-chno="" ,NIÑOS | NICKTOONS SD [SD]
-http://p2premium.club:80/live/Ney123/Ney123/132710.ts
-#EXTINF:-1 tvg-name="NIÑOS | DISCOVERY KIDS  HD" group-title="Infantil" tvg-chno="" ,NIÑOS | DISCOVERY KIDS  HD [SD]
-http://p2premium.club:80/live/Ney123/Ney123/132701.ts
-#EXTINF:-1 tvg-name="NIÑOS | DISCOVERY KIDS SD" group-title="Infantil" tvg-chno="" ,NIÑOS | DISCOVERY KIDS SD [SD]
-http://p2premium.club:80/live/Ney123/Ney123/132702.ts
-#EXTINF:-1 tvg-name="NIÑOS | DISNEY CHANNEL HD" group-title="General" tvg-chno="" ,NIÑOS | DISNEY CHANNEL HD [SD]
-http://p2premium.club:80/live/Ney123/Ney123/132699.ts
-#EXTINF:-1 tvg-name="NIÑOS | DISNEY CHANNEL SD" group-title="General" tvg-chno="" ,NIÑOS | DISNEY CHANNEL SD [SD]
-http://p2premium.club:80/live/Ney123/Ney123/132700.ts
-#EXTINF:-1 tvg-name="NIÑOS | DISNEY JR HD" group-title="General" tvg-chno="" ,NIÑOS | DISNEY JR HD [SD]
-http://p2premium.club:80/live/Ney123/Ney123/132697.ts
-#EXTINF:-1 tvg-name="NIÑOS | DISNEY JR SD" group-title="General" tvg-chno="" ,NIÑOS | DISNEY JR SD [SD]
-http://p2premium.club:80/live/Ney123/Ney123/132698.ts
-#EXTINF:-1 tvg-name="NIÑOS | BABY TV HD" group-title="Infantil" tvg-chno="" ,NIÑOS | BABY TV HD [SD]
-http://p2premium.club:80/live/Ney123/Ney123/132689.ts
-#EXTINF:-1 tvg-name="NIÑOS | BABY TV SD" group-title="Infantil" tvg-chno="" ,NIÑOS | BABY TV SD [SD]
-http://p2premium.club:80/live/Ney123/Ney123/132690.ts
-#EXTINF:-1 tvg-name="NIÑOS | NICKELODEON HD" group-title="Infantil" tvg-chno="" ,NIÑOS | NICKELODEON HD [SD]
-http://p2premium.club:80/live/Ney123/Ney123/132711.ts
-#EXTINF:-1 tvg-name="NIÑOS | PLiM PLiM" group-title="General" tvg-chno="" ,NIÑOS | PLiM PLiM [SD]
-http://p2premium.club:80/live/Ney123/Ney123/132712.ts
-#EXTINF:-1 tvg-name="NIÑOS | CARTOONITO SD" group-title="Infantil" tvg-chno="" ,NIÑOS | CARTOONITO SD [SD]
-http://p2premium.club:80/live/Ney123/Ney123/132708.ts
-#EXTINF:-1 tvg-name="NIÑOS | NICK JR SD" group-title="Infantil" tvg-chno="" ,NIÑOS | NICK JR SD [SD]
-http://p2premium.club:80/live/Ney123/Ney123/132696.ts
-#EXTINF:-1 tvg-name="NIÑOS | CARTOON NETWORK HD" group-title="Infantil" tvg-chno="" ,NIÑOS | CARTOON NETWORK HD [SD]
-http://p2premium.club:80/live/Ney123/Ney123/132707.ts
-#EXTINF:-1 tvg-name="NIÑOS | NICK SD" group-title="Infantil" tvg-chno="" ,NIÑOS | NICK SD [SD]
-http://p2premium.club:80/live/Ney123/Ney123/132692.ts
-#EXTINF:-1 tvg-name="NIÑOS | NICK HD" group-title="Infantil" tvg-chno="" ,NIÑOS | NICK HD [SD]
-http://p2premium.club:80/live/Ney123/Ney123/132691.ts
-#EXTINF:-1 tvg-name="NIÑOS | BITME +10" group-title="General" tvg-chno="" ,NIÑOS | BITME +10 [SD]
-http://p2premium.club:80/live/Ney123/Ney123/132694.ts
-#EXTINF:-1 tvg-name="NIÑOS | DRE∆MW0RK INFANTIL" group-title="Infantil" tvg-chno="" ,NIÑOS | DRE∆MW0RK INFANTIL [SD]
-http://p2premium.club:80/live/Ney123/Ney123/143797.ts
-#EXTINF:-1 tvg-name="NIÑOS | TOONCAST SD" group-title="General" tvg-chno="" ,NIÑOS | TOONCAST SD [SD]
-http://p2premium.club:80/live/Ney123/Ney123/132704.ts
-#EXTINF:-1 tvg-name="NIÑOS | NICK 2 HD" group-title="Infantil" tvg-chno="" ,NIÑOS | NICK 2 HD [SD]
-http://p2premium.club:80/live/Ney123/Ney123/132693.ts
-#EXTINF:-1 tvg-name="NIÑOS | NICK JR HD" group-title="Infantil" tvg-chno="" ,NIÑOS | NICK JR HD [SD]
-http://p2premium.club:80/live/Ney123/Ney123/132695.ts
-#EXTINF:-1 tvg-name="EC | TELEAMAZONAS UIO HD" group-title="General" tvg-chno="" ,EC | TELEAMAZONAS UIO HD [SD]
-http://p2premium.club:80/live/Ney123/Ney123/360514.ts
-#EXTINF:-1 tvg-name="NIÑOS | TOONCAST HD" group-title="General" tvg-chno="" ,NIÑOS | TOONCAST HD [SD]
-http://p2premium.club:80/live/Ney123/Ney123/132703.ts
-#EXTINF:-1 tvg-name="⏩ EXCLUSIVO⏪" group-title="General" tvg-chno="" ,⏩ EXCLUSIVO⏪ [SD]
-http://p2premium.club:80/live/Ney123/Ney123/475882.ts
-#EXTINF:-1 tvg-name="EC | TELEAMAZONAS UIO SD" group-title="General" tvg-chno="" ,EC | TELEAMAZONAS UIO SD [SD]
-http://p2premium.club:80/live/Ney123/Ney123/360515.ts
-#EXTINF:-1 tvg-name="EC | TELEAMAZONAS GQUIL  HD" group-title="General" tvg-chno="" ,EC | TELEAMAZONAS GQUIL  HD [SD]
-http://p2premium.club:80/live/Ney123/Ney123/360512.ts
-#EXTINF:-1 tvg-name="EC | TELEAMAZONAS GQUIL SD" group-title="General" tvg-chno="" ,EC | TELEAMAZONAS GQUIL SD [SD]
-http://p2premium.club:80/live/Ney123/Ney123/360513.ts
-#EXTINF:-1 tvg-name="EC | ECUAVISA UIO HD" group-title="General" tvg-chno="" ,EC | ECUAVISA UIO HD [SD]
-http://p2premium.club:80/live/Ney123/Ney123/360507.ts
-#EXTINF:-1 tvg-name="EC | ECUAVISA UIO SD" group-title="General" tvg-chno="" ,EC | ECUAVISA UIO SD [SD]
-http://p2premium.club:80/live/Ney123/Ney123/360508.ts
-#EXTINF:-1 tvg-name="EC | ECUAVISA GQUIL HD" group-title="General" tvg-chno="" ,EC | ECUAVISA GQUIL HD [SD]
-http://p2premium.club:80/live/Ney123/Ney123/360509.ts
-#EXTINF:-1 tvg-name="EC | ECUAVISA GQUIL SD" group-title="General" tvg-chno="" ,EC | ECUAVISA GQUIL SD [SD]
-http://p2premium.club:80/live/Ney123/Ney123/360510.ts
-#EXTINF:-1 tvg-name="EC | ECUAVISA INTER HD Ⓓ" group-title="General" tvg-chno="" ,EC | ECUAVISA INTER HD Ⓓ [SD]
-http://p2premium.club:80/live/Ney123/Ney123/360511.ts
-#EXTINF:-1 tvg-name="EC | TC TELEVISION HD" group-title="General" tvg-chno="" ,EC | TC TELEVISION HD [SD]
-http://p2premium.club:80/live/Ney123/Ney123/360518.ts
-#EXTINF:-1 tvg-name="EC TC TELEVISION SD" group-title="General" tvg-chno="" ,EC TC TELEVISION SD [SD]
-http://p2premium.club:80/live/Ney123/Ney123/360519.ts
-#EXTINF:-1 tvg-name="EC | TC INTERNACIONAL HD" group-title="Internacional" tvg-chno="" ,EC | TC INTERNACIONAL HD [SD]
-http://p2premium.club:80/live/Ney123/Ney123/360542.ts
-#EXTINF:-1 tvg-name="EC | OROMAR TV HD Ⓓ" group-title="General" tvg-chno="" ,EC | OROMAR TV HD Ⓓ [SD]
-http://p2premium.club:80/live/Ney123/Ney123/360516.ts
-#EXTINF:-1 tvg-name="EC | OROMAR SD Ⓓ" group-title="General" tvg-chno="" ,EC | OROMAR SD Ⓓ [SD]
-http://p2premium.club:80/live/Ney123/Ney123/360517.ts
-#EXTINF:-1 tvg-name="EC | RTS HD Ⓓ" group-title="General" tvg-chno="" ,EC | RTS HD Ⓓ [SD]
-http://p2premium.club:80/live/Ney123/Ney123/360531.ts
-#EXTINF:-1 tvg-name="EC | RTS SD Ⓓ" group-title="General" tvg-chno="" ,EC | RTS SD Ⓓ [SD]
-http://p2premium.club:80/live/Ney123/Ney123/360530.ts
-#EXTINF:-1 tvg-name="EC | ECUADOR TV HD" group-title="General" tvg-chno="" ,EC | ECUADOR TV HD [SD]
-http://p2premium.club:80/live/Ney123/Ney123/360520.ts
-#EXTINF:-1 tvg-name="EC | ECUADOR TV SD" group-title="General" tvg-chno="" ,EC | ECUADOR TV SD [SD]
-http://p2premium.club:80/live/Ney123/Ney123/360521.ts
-#EXTINF:-1 tvg-name="EC | ⱧECHOS ECUADOR  HD" group-title="General" tvg-chno="" ,EC | ⱧECHOS ECUADOR  HD [SD]
-http://p2premium.club:80/live/Ney123/Ney123/360522.ts
-#EXTINF:-1 tvg-name="EC | ZARACAY TV" group-title="General" tvg-chno="" ,EC | ZARACAY TV [SD]
-http://p2premium.club:80/live/Ney123/Ney123/360525.ts
-#EXTINF:-1 tvg-name="EC | GAMAVISION HD" group-title="General" tvg-chno="" ,EC | GAMAVISION HD [SD]
-http://p2premium.club:80/live/Ney123/Ney123/360524.ts
-#EXTINF:-1 tvg-name="ECU || RTVHD" group-title="General" tvg-chno="" ,ECU || RTVHD [SD]
-http://p2premium.club:80/live/Ney123/Ney123/533532.ts
-#EXTINF:-1 tvg-name="EC | TV COLOR HD" group-title="General" tvg-chno="" ,EC | TV COLOR HD [SD]
-http://p2premium.club:80/live/Ney123/Ney123/360537.ts
-#EXTINF:-1 tvg-name="EC | ASOMAVISION HD" group-title="General" tvg-chno="" ,EC | ASOMAVISION HD [SD]
-http://p2premium.club:80/live/Ney123/Ney123/360538.ts
-#EXTINF:-1 tvg-name="EC | AUSTRAL TV HD" group-title="General" tvg-chno="" ,EC | AUSTRAL TV HD [SD]
-http://p2premium.club:80/live/Ney123/Ney123/360539.ts
-#EXTINF:-1 tvg-name="ECU || Canar tv" group-title="General" tvg-chno="" ,ECU || Canar tv [SD]
-http://p2premium.club:80/live/Ney123/Ney123/541431.ts
-#EXTINF:-1 tvg-name="EC | MAJESTAD TV HD" group-title="General" tvg-chno="" ,EC | MAJESTAD TV HD [SD]
-http://p2premium.club:80/live/Ney123/Ney123/360541.ts
-#EXTINF:-1 tvg-name="EC | TELERAMA HD" group-title="General" tvg-chno="" ,EC | TELERAMA HD [SD]
-http://p2premium.club:80/live/Ney123/Ney123/360527.ts
-#EXTINF:-1 tvg-name="EC | TVC  HD" group-title="General" tvg-chno="" ,EC | TVC  HD [SD]
-http://p2premium.club:80/live/Ney123/Ney123/360528.ts
-#EXTINF:-1 tvg-name="EC | Canal Uno HD" group-title="General" tvg-chno="" ,EC | Canal Uno HD [SD]
-http://p2premium.club:80/live/Ney123/Ney123/360532.ts
-#EXTINF:-1 tvg-name="EC | Wuan+" group-title="General" tvg-chno="" ,EC | Wuan+ [SD]
-http://p2premium.club:80/live/Ney123/Ney123/360533.ts
-#EXTINF:-1 tvg-name="EC | MANAVISION HD" group-title="General" tvg-chno="" ,EC | MANAVISION HD [SD]
-http://p2premium.club:80/live/Ney123/Ney123/360536.ts
-#EXTINF:-1 tvg-name="EC | RTU" group-title="General" tvg-chno="" ,EC | RTU [SD]
-http://p2premium.club:80/live/Ney123/Ney123/360523.ts
-#EXTINF:-1 tvg-name="EC I MULTICANAL HD" group-title="General" tvg-chno="" ,EC I MULTICANAL HD [SD]
-http://p2premium.club:80/live/Ney123/Ney123/360526.ts
-#EXTINF:-1 tvg-name="ECU || UNIANDES TV AMBATO" group-title="General" tvg-chno="" ,ECU || UNIANDES TV AMBATO [SD]
-http://p2premium.club:80/live/Ney123/Ney123/443039.ts
-#EXTINF:-1 tvg-name="EC | CANELA TV" group-title="General" tvg-chno="" ,EC | CANELA TV [SD]
-http://p2premium.club:80/live/Ney123/Ney123/443036.ts
-#EXTINF:-1 tvg-name="ECU || SONO ONDA" group-title="General" tvg-chno="" ,ECU || SONO ONDA [SD]
-http://p2premium.club:80/live/Ney123/Ney123/443042.ts
-#EXTINF:-1 tvg-name="ECU || CURIQUINGUE TV" group-title="General" tvg-chno="" ,ECU || CURIQUINGUE TV [SD]
-http://p2premium.club:80/live/Ney123/Ney123/443048.ts
-#EXTINF:-1 tvg-name="Dragon Ball Z" group-title="General" tvg-chno="" ,Dragon Ball Z [SD]
-http://p2premium.club:80/live/Ney123/Ney123/475229.ts
-#EXTINF:-1 tvg-name="PE| AMERICA HD" group-title="General" tvg-chno="" ,PE| AMERICA HD [SD]
-http://p2premium.club:80/live/Ney123/Ney123/306666.ts
-#EXTINF:-1 tvg-name="PE| LATINA HD" group-title="General" tvg-chno="" ,PE| LATINA HD [SD]
-http://p2premium.club:80/live/Ney123/Ney123/306668.ts
-#EXTINF:-1 tvg-name="PE| AMERICA HD OP 02" group-title="General" tvg-chno="" ,PE| AMERICA HD OP 02 [SD]
-http://p2premium.club:80/live/Ney123/Ney123/306667.ts
-#EXTINF:-1 tvg-name="PE| LATINA HD OP 02" group-title="General" tvg-chno="" ,PE| LATINA HD OP 02 [SD]
-http://p2premium.club:80/live/Ney123/Ney123/306669.ts
-#EXTINF:-1 tvg-name="PE| ATV HD" group-title="General" tvg-chno="" ,PE| ATV HD [SD]
-http://p2premium.club:80/live/Ney123/Ney123/306670.ts
-#EXTINF:-1 tvg-name="PE| ATV HD OP 02" group-title="General" tvg-chno="" ,PE| ATV HD OP 02 [SD]
-http://p2premium.club:80/live/Ney123/Ney123/306671.ts
-#EXTINF:-1 tvg-name="PE| PANAMERICA HD OP 02" group-title="General" tvg-chno="" ,PE| PANAMERICA HD OP 02 [SD]
-http://p2premium.club:80/live/Ney123/Ney123/306673.ts
-#EXTINF:-1 tvg-name="PE| PANAMERICANA HD" group-title="General" tvg-chno="" ,PE| PANAMERICANA HD [SD]
-http://p2premium.club:80/live/Ney123/Ney123/306674.ts
-#EXTINF:-1 tvg-name="PE| WILLAX HD" group-title="General" tvg-chno="" ,PE| WILLAX HD [SD]
-http://p2premium.club:80/live/Ney123/Ney123/306676.ts
-#EXTINF:-1 tvg-name="PE| WILLAX  SD" group-title="General" tvg-chno="" ,PE| WILLAX  SD [SD]
-http://p2premium.club:80/live/Ney123/Ney123/306677.ts
-#EXTINF:-1 tvg-name="PE| C4N4L N SD" group-title="General" tvg-chno="" ,PE| C4N4L N SD [SD]
-http://p2premium.club:80/live/Ney123/Ney123/306679.ts
-#EXTINF:-1 tvg-name="PE| R.P.P HD" group-title="General" tvg-chno="" ,PE| R.P.P HD [SD]
-http://p2premium.club:80/live/Ney123/Ney123/306680.ts
-#EXTINF:-1 tvg-name="PE| R.P.P SD" group-title="General" tvg-chno="" ,PE| R.P.P SD [SD]
-http://p2premium.club:80/live/Ney123/Ney123/306681.ts
-#EXTINF:-1 tvg-name="PE| GLOBAL TV HD" group-title="General" tvg-chno="" ,PE| GLOBAL TV HD [SD]
-http://p2premium.club:80/live/Ney123/Ney123/306682.ts
-#EXTINF:-1 tvg-name="PE| GLOBAL TV HD OP 02" group-title="General" tvg-chno="" ,PE| GLOBAL TV HD OP 02 [SD]
-http://p2premium.club:80/live/Ney123/Ney123/306683.ts
-#EXTINF:-1 tvg-name="PE| EXITOSA HD" group-title="General" tvg-chno="" ,PE| EXITOSA HD [SD]
-http://p2premium.club:80/live/Ney123/Ney123/306684.ts
-#EXTINF:-1 tvg-name="PE| EXITOSA SD" group-title="General" tvg-chno="" ,PE| EXITOSA SD [SD]
-http://p2premium.club:80/live/Ney123/Ney123/306685.ts
-#EXTINF:-1 tvg-name="PE| PERU NOTICIAS HD" group-title="Noticias" tvg-chno="" ,PE| PERU NOTICIAS HD [SD]
-http://p2premium.club:80/live/Ney123/Ney123/306688.ts
-#EXTINF:-1 tvg-name="PE| PERU NOTICIAS SD" group-title="Noticias" tvg-chno="" ,PE| PERU NOTICIAS SD [SD]
-http://p2premium.club:80/live/Ney123/Ney123/306689.ts
-#EXTINF:-1 tvg-name="PE | CANAL DEL CONGRESO" group-title="General" tvg-chno="" ,PE | CANAL DEL CONGRESO [SD]
-http://p2premium.club:80/live/Ney123/Ney123/306695.ts
-#EXTINF:-1 tvg-name="PE| M0V1ST4R PLU5 HD" group-title="General" tvg-chno="" ,PE| M0V1ST4R PLU5 HD [SD]
-http://p2premium.club:80/live/Ney123/Ney123/306690.ts
-#EXTINF:-1 tvg-name="PE| M0V1ST4R PLU5 SD" group-title="General" tvg-chno="" ,PE| M0V1ST4R PLU5 SD [SD]
-http://p2premium.club:80/live/Ney123/Ney123/306691.ts
-#EXTINF:-1 tvg-name="PE | KARIBEÑA TV HD" group-title="General" tvg-chno="" ,PE | KARIBEÑA TV HD [SD]
-http://p2premium.club:80/live/Ney123/Ney123/306692.ts
-#EXTINF:-1 tvg-name="PE| TV PERU SD" group-title="General" tvg-chno="" ,PE| TV PERU SD [SD]
-http://p2premium.club:80/live/Ney123/Ney123/306687.ts
-#EXTINF:-1 tvg-name="PE| ATV HD" group-title="General" tvg-chno="" ,PE| ATV HD [SD]
-http://p2premium.club:80/live/Ney123/Ney123/306672.ts
-#EXTINF:-1 tvg-name="PE| TV PERU HD" group-title="General" tvg-chno="" ,PE| TV PERU HD [SD]
-http://p2premium.club:80/live/Ney123/Ney123/306686.ts
-#EXTINF:-1 tvg-name="PE | JUSTICIA TV HD" group-title="General" tvg-chno="" ,PE | JUSTICIA TV HD [SD]
-http://p2premium.club:80/live/Ney123/Ney123/306694.ts
-#EXTINF:-1 tvg-name="PE | RTS" group-title="General" tvg-chno="" ,PE | RTS [SD]
-http://p2premium.club:80/live/Ney123/Ney123/306693.ts
-#EXTINF:-1 tvg-name="PE| C4N4L N HD" group-title="General" tvg-chno="" ,PE| C4N4L N HD [SD]
-http://p2premium.club:80/live/Ney123/Ney123/306678.ts
-#EXTINF:-1 tvg-name="UR|•M∆R0Ñ∆S• HD" group-title="General" tvg-chno="" ,UR|•M∆R0Ñ∆S• HD [SD]
-http://p2premium.club:80/live/Ney123/Ney123/542835.ts
-#EXTINF:-1 tvg-name="UR | C.ANAL 4 ꜰʜᴅ" group-title="General" tvg-chno="" ,UR | C.ANAL 4 ꜰʜᴅ [SD]
-http://p2premium.club:80/live/Ney123/Ney123/52810.ts
-#EXTINF:-1 tvg-name="UR | CANAL 4 ʜᴅ" group-title="General" tvg-chno="" ,UR | CANAL 4 ʜᴅ [SD]
-http://p2premium.club:80/live/Ney123/Ney123/52811.ts
-#EXTINF:-1 tvg-name="UR | CANAL 10 ꜰʜᴅ" group-title="General" tvg-chno="" ,UR | CANAL 10 ꜰʜᴅ [SD]
-http://p2premium.club:80/live/Ney123/Ney123/52815.ts
-#EXTINF:-1 tvg-name="UR | C.ANAL 4  ꜱᴅ" group-title="General" tvg-chno="" ,UR | C.ANAL 4  ꜱᴅ [SD]
-http://p2premium.club:80/live/Ney123/Ney123/52812.ts
-#EXTINF:-1 tvg-name="UR | CANAL 10 ʜᴅ" group-title="General" tvg-chno="" ,UR | CANAL 10 ʜᴅ [SD]
-http://p2premium.club:80/live/Ney123/Ney123/52816.ts
-#EXTINF:-1 tvg-name="UR | CANAL 10 ꜱᴅ" group-title="General" tvg-chno="" ,UR | CANAL 10 ꜱᴅ [SD]
-http://p2premium.club:80/live/Ney123/Ney123/52817.ts
-#EXTINF:-1 tvg-name="UR | CANAL TELE 12 ꜰʜᴅ" group-title="General" tvg-chno="" ,UR | CANAL TELE 12 ꜰʜᴅ [SD]
-http://p2premium.club:80/live/Ney123/Ney123/52818.ts
-#EXTINF:-1 tvg-name="UR l 'DSP0RTS⚽[ᴜʀᴜɢᴜᴀʏ]*MÜNDl∆L ʜᴅ¹" group-title="General" tvg-chno="" ,UR l 'DSP0RTS⚽[ᴜʀᴜɢᴜᴀʏ]*MÜNDl∆L ʜᴅ¹ [SD]
-http://p2premium.club:80/live/Ney123/Ney123/52825.ts
-#EXTINF:-1 tvg-name="UR | CANAL TELE 12 ʜᴅ" group-title="General" tvg-chno="" ,UR | CANAL TELE 12 ʜᴅ [SD]
-http://p2premium.club:80/live/Ney123/Ney123/52819.ts
-#EXTINF:-1 tvg-name="UR | CANAL TELE 12 ꜱᴅ" group-title="General" tvg-chno="" ,UR | CANAL TELE 12 ꜱᴅ [SD]
-http://p2premium.club:80/live/Ney123/Ney123/52820.ts
-#EXTINF:-1 tvg-name="l⚽> ᴾᴾⱽ ➋MUNDl∆L ʜᴅ [ꜰᴜᴛʙøʟ] ⚽" group-title="General" tvg-chno="" ,l⚽> ᴾᴾⱽ ➋MUNDl∆L ʜᴅ [ꜰᴜᴛʙøʟ] ⚽ [SD]
-http://p2premium.club:80/live/Ney123/Ney123/52834.ts
-#EXTINF:-1 tvg-name="l⚽>D$P0RTS ʜᴅ ᴘʀᴇᴍɪᴜᴍ ꜰᴜᴛʙøʟ[ᴜʀᴜɢᴜᴀʏ⚽]" group-title="General" tvg-chno="" ,l⚽>D$P0RTS ʜᴅ ᴘʀᴇᴍɪᴜᴍ ꜰᴜᴛʙøʟ[ᴜʀᴜɢᴜᴀʏ⚽] [SD]
-http://p2premium.club:80/live/Ney123/Ney123/52836.ts
-#EXTINF:-1 tvg-name="l⚽>ᴾᴾⱽ ➊ MUNDlAL ꜰʜᴅ [ꜰᴜᴛʙøʟ]⚽" group-title="General" tvg-chno="" ,l⚽>ᴾᴾⱽ ➊ MUNDlAL ꜰʜᴅ [ꜰᴜᴛʙøʟ]⚽ [SD]
-http://p2premium.club:80/live/Ney123/Ney123/52835.ts
-#EXTINF:-1 tvg-name="⚽>D$P0RTS ʜᴅ ² ᴘʀᴇᴍɪᴜᴍ ꜰᴜᴛʙøʟ[ᴜʀᴜɢᴜᴀʏ⚽]" group-title="General" tvg-chno="" ,⚽>D$P0RTS ʜᴅ ² ᴘʀᴇᴍɪᴜᴍ ꜰᴜᴛʙøʟ[ᴜʀᴜɢᴜᴀʏ⚽] [SD]
-http://p2premium.club:80/live/Ney123/Ney123/52832.ts
-#EXTINF:-1 tvg-name="UR |VTV HD" group-title="General" tvg-chno="" ,UR |VTV HD [SD]
-http://p2premium.club:80/live/Ney123/Ney123/52833.ts
-#EXTINF:-1 tvg-name="UR | A+V HD" group-title="General" tvg-chno="" ,UR | A+V HD [SD]
-http://p2premium.club:80/live/Ney123/Ney123/52826.ts
-#EXTINF:-1 tvg-name="UR l ➊ VTV  ᴘʟᴜs ʜᴅ" group-title="General" tvg-chno="" ,UR l ➊ VTV  ᴘʟᴜs ʜᴅ [SD]
-http://p2premium.club:80/live/Ney123/Ney123/358427.ts
-#EXTINF:-1 tvg-name="UR | TV CIUDAD ʜᴅ" group-title="General" tvg-chno="" ,UR | TV CIUDAD ʜᴅ [SD]
-http://p2premium.club:80/live/Ney123/Ney123/52838.ts
-#EXTINF:-1 tvg-name="UR l⚽VTV ꜰᴜᴛʙøʟ ꜰʜᴅ⚽" group-title="General" tvg-chno="" ,UR l⚽VTV ꜰᴜᴛʙøʟ ꜰʜᴅ⚽ [SD]
-http://p2premium.club:80/live/Ney123/Ney123/347109.ts
-#EXTINF:-1 tvg-name="UR l ᵀᴺᵁ C∆N∆L 5• ꜱᴅ" group-title="General" tvg-chno="" ,UR l ᵀᴺᵁ C∆N∆L 5• ꜱᴅ [SD]
-http://p2premium.club:80/live/Ney123/Ney123/307573.ts
-#EXTINF:-1 tvg-name="UR l ᵀᴺᵁ C∆N∆L 5 ʜᴅ (I)" group-title="General" tvg-chno="" ,UR l ᵀᴺᵁ C∆N∆L 5 ʜᴅ (I) [SD]
-http://p2premium.club:80/live/Ney123/Ney123/135976.ts
-#EXTINF:-1 tvg-name="LCDLF ALL-STAR" group-title="General" tvg-chno="" ,LCDLF ALL-STAR [SD]
-http://p2premium.club:80/live/Ney123/Ney123/531323.ts
-#EXTINF:-1 tvg-name="GRAN HERMANO 24/7" group-title="General" tvg-chno="" ,GRAN HERMANO 24/7 [SD]
-http://p2premium.club:80/live/Ney123/Ney123/454926.ts
-#EXTINF:-1 tvg-name="LCDLF 2026 COLOMBIA OPC.4" group-title="Internacional" tvg-chno="" ,LCDLF 2026 COLOMBIA OPC.4 [SD]
-http://p2premium.club:80/live/Ney123/Ney123/442701.ts
-#EXTINF:-1 tvg-name="GRAN HERMANO CAM 1" group-title="General" tvg-chno="" ,GRAN HERMANO CAM 1 [SD]
-http://p2premium.club:80/live/Ney123/Ney123/454927.ts
-#EXTINF:-1 tvg-name="LCDLF 2026 COLOMBIA OPC.1" group-title="Internacional" tvg-chno="" ,LCDLF 2026 COLOMBIA OPC.1 [SD]
-http://p2premium.club:80/live/Ney123/Ney123/440467.ts
-#EXTINF:-1 tvg-name="GRAN HERMANO CAM 2 [0ndeman]" group-title="General" tvg-chno="" ,GRAN HERMANO CAM 2 [0ndeman] [SD]
-http://p2premium.club:80/live/Ney123/Ney123/454928.ts
-#EXTINF:-1 tvg-name="LCDLF 2026 COLOMBIA OPC.2" group-title="Internacional" tvg-chno="" ,LCDLF 2026 COLOMBIA OPC.2 [SD]
-http://p2premium.club:80/live/Ney123/Ney123/440468.ts
-#EXTINF:-1 tvg-name="GRAN HERMANO CAM 3 [0ndemand]" group-title="General" tvg-chno="" ,GRAN HERMANO CAM 3 [0ndemand] [SD]
-http://p2premium.club:80/live/Ney123/Ney123/454929.ts
-#EXTINF:-1 tvg-name="LCDLF 2026 COLOMBIA OPC.3" group-title="Internacional" tvg-chno="" ,LCDLF 2026 COLOMBIA OPC.3 [SD]
-http://p2premium.club:80/live/Ney123/Ney123/440469.ts
-#EXTINF:-1 tvg-name="GRAN HERMANO MULTICAMARA 0ndemand" group-title="General" tvg-chno="" ,GRAN HERMANO MULTICAMARA 0ndemand [SD]
-http://p2premium.club:80/live/Ney123/Ney123/454930.ts
-#EXTINF:-1 tvg-name="✓⚡*GR∆N HE®M∆N0 ∆RGĘNTlN∆ ☀️⭐" group-title="General" tvg-chno="" ,✓⚡*GR∆N HE®M∆N0 ∆RGĘNTlN∆ ☀️⭐ [SD]
-http://p2premium.club:80/live/Ney123/Ney123/453157.ts
-#EXTINF:-1 tvg-name="PY | TELEFUTURO HD **" group-title="General" tvg-chno="" ,PY | TELEFUTURO HD ** [SD]
-http://p2premium.club:80/live/Ney123/Ney123/154284.ts
-#EXTINF:-1 tvg-name="PY | TELEFUTURO SD*" group-title="General" tvg-chno="" ,PY | TELEFUTURO SD* [SD]
-http://p2premium.club:80/live/Ney123/Ney123/154285.ts
-#EXTINF:-1 tvg-name="PY | C9N NOTICIAS SD*" group-title="Noticias" tvg-chno="" ,PY | C9N NOTICIAS SD* [SD]
-http://p2premium.club:80/live/Ney123/Ney123/154287.ts
-#EXTINF:-1 tvg-name="PY | C9N NOTICIAS HD*" group-title="Noticias" tvg-chno="" ,PY | C9N NOTICIAS HD* [SD]
-http://p2premium.club:80/live/Ney123/Ney123/154286.ts
-#EXTINF:-1 tvg-name="PY | NOTICIAS PY HD*" group-title="Noticias" tvg-chno="" ,PY | NOTICIAS PY HD* [SD]
-http://p2premium.club:80/live/Ney123/Ney123/154296.ts
-#EXTINF:-1 tvg-name="PY | NOTICIAS PY SD*" group-title="Noticias" tvg-chno="" ,PY | NOTICIAS PY SD* [SD]
-http://p2premium.club:80/live/Ney123/Ney123/154297.ts
-#EXTINF:-1 tvg-name="PY | SNT HD" group-title="General" tvg-chno="" ,PY | SNT HD [SD]
-http://p2premium.club:80/live/Ney123/Ney123/154289.ts
-#EXTINF:-1 tvg-name="PY | RPC HD*" group-title="General" tvg-chno="" ,PY | RPC HD* [SD]
-http://p2premium.club:80/live/Ney123/Ney123/154290.ts
-#EXTINF:-1 tvg-name="PY | UNICANAL HD*" group-title="General" tvg-chno="" ,PY | UNICANAL HD* [SD]
-http://p2premium.club:80/live/Ney123/Ney123/154302.ts
-#EXTINF:-1 tvg-name="PY | GEN SD*" group-title="General" tvg-chno="" ,PY | GEN SD* [SD]
-http://p2premium.club:80/live/Ney123/Ney123/154295.ts
-#EXTINF:-1 tvg-name="PY | GEN TV HD*" group-title="General" tvg-chno="" ,PY | GEN TV HD* [SD]
-http://p2premium.club:80/live/Ney123/Ney123/154294.ts
-#EXTINF:-1 tvg-name="PY | LA TELE HD*" group-title="General" tvg-chno="" ,PY | LA TELE HD* [SD]
-http://p2premium.club:80/live/Ney123/Ney123/154292.ts
-#EXTINF:-1 tvg-name="PY | FARRA PLAY HD*" group-title="General" tvg-chno="" ,PY | FARRA PLAY HD* [SD]
-http://p2premium.club:80/live/Ney123/Ney123/154303.ts
-#EXTINF:-1 tvg-name="PY | MI TV HD*" group-title="General" tvg-chno="" ,PY | MI TV HD* [SD]
-http://p2premium.club:80/live/Ney123/Ney123/154304.ts
-#EXTINF:-1 tvg-name="PY | SUR TV HD" group-title="General" tvg-chno="" ,PY | SUR TV HD [SD]
-http://p2premium.club:80/live/Ney123/Ney123/154293.ts
-#EXTINF:-1 tvg-name="PY | paravision" group-title="General" tvg-chno="" ,PY | paravision [SD]
-http://p2premium.club:80/live/Ney123/Ney123/154291.ts
-#EXTINF:-1 tvg-name="EVENTO 01" group-title="General" tvg-chno="" ,EVENTO 01 [SD]
-http://p2premium.club:80/live/Ney123/Ney123/154298.ts
-#EXTINF:-1 tvg-name="Evento 02." group-title="General" tvg-chno="" ,Evento 02. [SD]
-http://p2premium.club:80/live/Ney123/Ney123/154299.ts
-#EXTINF:-1 tvg-name="Evento 03" group-title="General" tvg-chno="" ,Evento 03 [SD]
-http://p2premium.club:80/live/Ney123/Ney123/154300.ts
-#EXTINF:-1 tvg-name="Evento 04" group-title="General" tvg-chno="" ,Evento 04 [SD]
-http://p2premium.club:80/live/Ney123/Ney123/154301.ts
-#EXTINF:-1 tvg-name="CO | CARACOL FHD" group-title="General" tvg-chno="" ,CO | CARACOL FHD [SD]
-http://p2premium.club:80/live/Ney123/Ney123/69253.ts
-#EXTINF:-1 tvg-name="CO | CARACOL HD 01" group-title="General" tvg-chno="" ,CO | CARACOL HD 01 [SD]
-http://p2premium.club:80/live/Ney123/Ney123/69250.ts
-#EXTINF:-1 tvg-name="CO | CARACOL HD 02" group-title="General" tvg-chno="" ,CO | CARACOL HD 02 [SD]
-http://p2premium.club:80/live/Ney123/Ney123/69251.ts
-#EXTINF:-1 tvg-name="CO | CARACOL MUNDIAL 2026" group-title="General" tvg-chno="" ,CO | CARACOL MUNDIAL 2026 [SD]
-http://p2premium.club:80/live/Ney123/Ney123/69252.ts
-#EXTINF:-1 tvg-name="CO | CARACOL 4K" group-title="General" tvg-chno="" ,CO | CARACOL 4K [SD]
-http://p2premium.club:80/live/Ney123/Ney123/400089.ts
-#EXTINF:-1 tvg-name="CO | Caracol Internacional HD" group-title="Internacional" tvg-chno="" ,CO | Caracol Internacional HD [SD]
-http://p2premium.club:80/live/Ney123/Ney123/69257.ts
-#EXTINF:-1 tvg-name="CO | Caracol Internacional" group-title="Internacional" tvg-chno="" ,CO | Caracol Internacional [SD]
-http://p2premium.club:80/live/Ney123/Ney123/69255.ts
-#EXTINF:-1 tvg-name="CO | RCN HD" group-title="General" tvg-chno="" ,CO | RCN HD [SD]
-http://p2premium.club:80/live/Ney123/Ney123/69266.ts
-#EXTINF:-1 tvg-name="CO | RCN HD 02" group-title="General" tvg-chno="" ,CO | RCN HD 02 [SD]
-http://p2premium.club:80/live/Ney123/Ney123/69268.ts
-#EXTINF:-1 tvg-name="EC | COTEL TV" group-title="General" tvg-chno="" ,EC | COTEL TV [HD]
-http://p2premium.club:80/live/Ney123/Ney123/372093.ts
-#EXTINF:-1 tvg-name="UR l 'C∆N∆L L∆ RED ʜᴅ" group-title="General" tvg-chno="" ,UR l 'C∆N∆L L∆ RED ʜᴅ [HD]
-http://p2premium.club:80/live/Ney123/Ney123/437206.ts
-#EXTINF:-1 tvg-name="CO | RCN HD 03" group-title="General" tvg-chno="" ,CO | RCN HD 03 [SD]
-http://p2premium.club:80/live/Ney123/Ney123/69270.ts
-#EXTINF:-1 tvg-name="CO | RCN HD 05" group-title="General" tvg-chno="" ,CO | RCN HD 05 [SD]
-http://p2premium.club:80/live/Ney123/Ney123/541557.ts
-#EXTINF:-1 tvg-name="CO | RCN Novelas HD" group-title="General" tvg-chno="" ,CO | RCN Novelas HD [SD]
-http://p2premium.club:80/live/Ney123/Ney123/69271.ts
-#EXTINF:-1 tvg-name="CO | RCN HD 04" group-title="General" tvg-chno="" ,CO | RCN HD 04 [SD]
-http://p2premium.club:80/live/Ney123/Ney123/541558.ts
-#EXTINF:-1 tvg-name="CO | TV AGRO" group-title="General" tvg-chno="" ,CO | TV AGRO [SD]
-http://p2premium.club:80/live/Ney123/Ney123/69288.ts
-#EXTINF:-1 tvg-name="CO | Pasiones SD" group-title="General" tvg-chno="" ,CO | Pasiones SD [SD]
-http://p2premium.club:80/live/Ney123/Ney123/69265.ts
-#EXTINF:-1 tvg-name="CO | Cable Noticias HD" group-title="Noticias" tvg-chno="" ,CO | Cable Noticias HD [SD]
-http://p2premium.club:80/live/Ney123/Ney123/69241.ts
-#EXTINF:-1 tvg-name="CO | CTV BARRANQUILLA" group-title="General" tvg-chno="" ,CO | CTV BARRANQUILLA [SD]
-http://p2premium.club:80/live/Ney123/Ney123/69245.ts
-#EXTINF:-1 tvg-name="CO | Cablenoticias" group-title="Noticias" tvg-chno="" ,CO | Cablenoticias [SD]
-http://p2premium.club:80/live/Ney123/Ney123/69242.ts
-#EXTINF:-1 tvg-name="CO | Canal Uno HD" group-title="General" tvg-chno="" ,CO | Canal Uno HD [SD]
-http://p2premium.club:80/live/Ney123/Ney123/69248.ts
-#EXTINF:-1 tvg-name="CO | CITY TV SD" group-title="General" tvg-chno="" ,CO | CITY TV SD [SD]
-http://p2premium.club:80/live/Ney123/Ney123/69259.ts
-#EXTINF:-1 tvg-name="CO | Telecaribe HD" group-title="General" tvg-chno="" ,CO | Telecaribe HD [SD]
-http://p2premium.club:80/live/Ney123/Ney123/69280.ts
-#EXTINF:-1 tvg-name="CO | NTN24" group-title="General" tvg-chno="" ,CO | NTN24 [SD]
-http://p2premium.club:80/live/Ney123/Ney123/69263.ts
-#EXTINF:-1 tvg-name="CO | Señal Colombia HD" group-title="Internacional" tvg-chno="" ,CO | Señal Colombia HD [SD]
-http://p2premium.club:80/live/Ney123/Ney123/69272.ts
-#EXTINF:-1 tvg-name="CO | Pasiones HD" group-title="General" tvg-chno="" ,CO | Pasiones HD [SD]
-http://p2premium.club:80/live/Ney123/Ney123/69264.ts
-#EXTINF:-1 tvg-name="CO | TeleAntioquia" group-title="General" tvg-chno="" ,CO | TeleAntioquia [SD]
-http://p2premium.club:80/live/Ney123/Ney123/69275.ts
-#EXTINF:-1 tvg-name="CO | TeleAntioquia HD" group-title="General" tvg-chno="" ,CO | TeleAntioquia HD [SD]
-http://p2premium.club:80/live/Ney123/Ney123/69276.ts
-#EXTINF:-1 tvg-name="CO | Telemedellin FHD" group-title="General" tvg-chno="" ,CO | Telemedellin FHD [SD]
-http://p2premium.club:80/live/Ney123/Ney123/69283.ts
-#EXTINF:-1 tvg-name="CO | Telemedellin HD" group-title="General" tvg-chno="" ,CO | Telemedellin HD [SD]
-http://p2premium.club:80/live/Ney123/Ney123/69284.ts
-#EXTINF:-1 tvg-name="CO | Telecafé HD" group-title="General" tvg-chno="" ,CO | Telecafé HD [SD]
-http://p2premium.club:80/live/Ney123/Ney123/69278.ts
-#EXTINF:-1 tvg-name="CO | Telecafé" group-title="General" tvg-chno="" ,CO | Telecafé [SD]
-http://p2premium.club:80/live/Ney123/Ney123/69277.ts
-#EXTINF:-1 tvg-name="CO | Telepacifico" group-title="General" tvg-chno="" ,CO | Telepacifico [SD]
-http://p2premium.club:80/live/Ney123/Ney123/69285.ts
-#EXTINF:-1 tvg-name="CO | TeleCaribe" group-title="General" tvg-chno="" ,CO | TeleCaribe [SD]
-http://p2premium.club:80/live/Ney123/Ney123/69279.ts
-#EXTINF:-1 tvg-name="CO | Canal Capital HD" group-title="General" tvg-chno="" ,CO | Canal Capital HD [SD]
-http://p2premium.club:80/live/Ney123/Ney123/69244.ts
-#EXTINF:-1 tvg-name="CO | El Tiempo HD" group-title="General" tvg-chno="" ,CO | El Tiempo HD [SD]
-http://p2premium.club:80/live/Ney123/Ney123/69261.ts
-#EXTINF:-1 tvg-name="CO | City TV HD" group-title="General" tvg-chno="" ,CO | City TV HD [SD]
-http://p2premium.club:80/live/Ney123/Ney123/69260.ts
-#EXTINF:-1 tvg-name="CO | Señal Colombia SD" group-title="Internacional" tvg-chno="" ,CO | Señal Colombia SD [SD]
-http://p2premium.club:80/live/Ney123/Ney123/69273.ts
-#EXTINF:-1 tvg-name="CL | CANAL 13  HD" group-title="General" tvg-chno="" ,CL | CANAL 13  HD [SD]
-http://p2premium.club:80/live/Ney123/Ney123/209.ts
-#EXTINF:-1 tvg-name="CO | La kalle" group-title="General" tvg-chno="" ,CO | La kalle [SD]
-http://p2premium.club:80/live/Ney123/Ney123/69287.ts
-#EXTINF:-1 tvg-name="CL | CANAL 13 SD" group-title="General" tvg-chno="" ,CL | CANAL 13 SD [SD]
-http://p2premium.club:80/live/Ney123/Ney123/55270.ts
-#EXTINF:-1 tvg-name="CL | CANAL 13 HD OP 02" group-title="General" tvg-chno="" ,CL | CANAL 13 HD OP 02 [SD]
-http://p2premium.club:80/live/Ney123/Ney123/55271.ts
-#EXTINF:-1 tvg-name="CL | CHILEVISION HD" group-title="General" tvg-chno="" ,CL | CHILEVISION HD [SD]
-http://p2premium.club:80/live/Ney123/Ney123/55272.ts
-#EXTINF:-1 tvg-name="CL | CHILEVISION SD" group-title="General" tvg-chno="" ,CL | CHILEVISION SD [SD]
-http://p2premium.club:80/live/Ney123/Ney123/55274.ts
-#EXTINF:-1 tvg-name="CL | MEGA HD OP 2" group-title="General" tvg-chno="" ,CL | MEGA HD OP 2 [SD]
-http://p2premium.club:80/live/Ney123/Ney123/55277.ts
-#EXTINF:-1 tvg-name="CL | MEGA HD" group-title="General" tvg-chno="" ,CL | MEGA HD [SD]
-http://p2premium.club:80/live/Ney123/Ney123/55275.ts
-#EXTINF:-1 tvg-name="CL | MEGA SD" group-title="General" tvg-chno="" ,CL | MEGA SD [SD]
-http://p2premium.club:80/live/Ney123/Ney123/55276.ts
-#EXTINF:-1 tvg-name="CL | TVN  HD OP 2" group-title="General" tvg-chno="" ,CL | TVN  HD OP 2 [SD]
-http://p2premium.club:80/live/Ney123/Ney123/55279.ts
-#EXTINF:-1 tvg-name="CL |  ETC TV" group-title="General" tvg-chno="" ,CL |  ETC TV [SD]
-http://p2premium.club:80/live/Ney123/Ney123/55280.ts
-#EXTINF:-1 tvg-name="CL | TVN. HD" group-title="General" tvg-chno="" ,CL | TVN. HD [SD]
-http://p2premium.club:80/live/Ney123/Ney123/55278.ts
-#EXTINF:-1 tvg-name="CL | TELETRAK HD" group-title="General" tvg-chno="" ,CL | TELETRAK HD [SD]
-http://p2premium.club:80/live/Ney123/Ney123/151590.ts
-#EXTINF:-1 tvg-name="CL | LA RED HD" group-title="General" tvg-chno="" ,CL | LA RED HD [SD]
-http://p2premium.club:80/live/Ney123/Ney123/55281.ts
-#EXTINF:-1 tvg-name="CL | TV CHILE" group-title="General" tvg-chno="" ,CL | TV CHILE [SD]
-http://p2premium.club:80/live/Ney123/Ney123/55282.ts
-#EXTINF:-1 tvg-name="BOL : RED UNO LA PAZ HD." group-title="General" tvg-chno="" ,BOL : RED UNO LA PAZ HD. [SD]
-http://p2premium.club:80/live/Ney123/Ney123/262709.ts
-#EXTINF:-1 tvg-name="BOL : RED UNO SANTA CRUZ HD." group-title="General" tvg-chno="" ,BOL : RED UNO SANTA CRUZ HD. [SD]
-http://p2premium.club:80/live/Ney123/Ney123/262707.ts
-#EXTINF:-1 tvg-name="BOL : RED UNO COCHABANBA HD." group-title="Deportes" tvg-chno="" ,BOL : RED UNO COCHABANBA HD. [SD]
-http://p2premium.club:80/live/Ney123/Ney123/262711.ts
-#EXTINF:-1 tvg-name="BOL : UNITEL LA PAZ HD." group-title="General" tvg-chno="" ,BOL : UNITEL LA PAZ HD. [SD]
-http://p2premium.club:80/live/Ney123/Ney123/262715.ts
-#EXTINF:-1 tvg-name="BOL : UNITEL SANTA CRUZ HD." group-title="General" tvg-chno="" ,BOL : UNITEL SANTA CRUZ HD. [SD]
-http://p2premium.club:80/live/Ney123/Ney123/262713.ts
-#EXTINF:-1 tvg-name="BOL : UNITEL COCHABANBA HD." group-title="Deportes" tvg-chno="" ,BOL : UNITEL COCHABANBA HD. [SD]
-http://p2premium.club:80/live/Ney123/Ney123/262717.ts
-#EXTINF:-1 tvg-name="BOL : ATB LA PAZ HD." group-title="General" tvg-chno="" ,BOL : ATB LA PAZ HD. [SD]
-http://p2premium.club:80/live/Ney123/Ney123/262721.ts
-#EXTINF:-1 tvg-name="BOL : ATB SATA CRUZ HD." group-title="General" tvg-chno="" ,BOL : ATB SATA CRUZ HD. [SD]
-http://p2premium.club:80/live/Ney123/Ney123/262719.ts
-#EXTINF:-1 tvg-name="BOL : ATB COCHABANBA HD." group-title="Deportes" tvg-chno="" ,BOL : ATB COCHABANBA HD. [SD]
-http://p2premium.club:80/live/Ney123/Ney123/262723.ts
-#EXTINF:-1 tvg-name="BOL : RED PAT SANTA CRUZ HD" group-title="General" tvg-chno="" ,BOL : RED PAT SANTA CRUZ HD [SD]
-http://p2premium.club:80/live/Ney123/Ney123/262725.ts
-#EXTINF:-1 tvg-name="BOL : RED PAT LA PAZ HD" group-title="General" tvg-chno="" ,BOL : RED PAT LA PAZ HD [SD]
-http://p2premium.club:80/live/Ney123/Ney123/262728.ts
-#EXTINF:-1 tvg-name="BOL : BOLIVISION HD" group-title="General" tvg-chno="" ,BOL : BOLIVISION HD [SD]
-http://p2premium.club:80/live/Ney123/Ney123/262729.ts
-#EXTINF:-1 tvg-name="BOL : BOLIVIA TV 7.2 HD" group-title="General" tvg-chno="" ,BOL : BOLIVIA TV 7.2 HD [SD]
-http://p2premium.club:80/live/Ney123/Ney123/262737.ts
-#EXTINF:-1 tvg-name="BOL : BOLIVIA TV 7.1 HD" group-title="General" tvg-chno="" ,BOL : BOLIVIA TV 7.1 HD [SD]
-http://p2premium.club:80/live/Ney123/Ney123/262736.ts
-#EXTINF:-1 tvg-name="BOL : RED GIGAVISION HD" group-title="General" tvg-chno="" ,BOL : RED GIGAVISION HD [SD]
-http://p2premium.club:80/live/Ney123/Ney123/262731.ts
-#EXTINF:-1 tvg-name="BOL : RTP HD" group-title="General" tvg-chno="" ,BOL : RTP HD [SD]
-http://p2premium.club:80/live/Ney123/Ney123/262733.ts
-#EXTINF:-1 tvg-name="ABYA YALA" group-title="General" tvg-chno="" ,ABYA YALA [SD]
-http://p2premium.club:80/live/Ney123/Ney123/295550.ts
-#EXTINF:-1 tvg-name="Of tv" group-title="General" tvg-chno="" ,Of tv [SD]
-http://p2premium.club:80/live/Ney123/Ney123/295551.ts
-#EXTINF:-1 tvg-name="ADN 40" group-title="General" tvg-chno="" ,ADN 40 [SD]
-http://p2premium.club:80/live/Ney123/Ney123/362401.ts
-#EXTINF:-1 tvg-name="MX | CANAL ONCE FHD" group-title="General" tvg-chno="" ,MX | CANAL ONCE FHD [SD]
-http://p2premium.club:80/live/Ney123/Ney123/321065.ts
-#EXTINF:-1 tvg-name="MX | MILENIO TV HD" group-title="General" tvg-chno="" ,MX | MILENIO TV HD [SD]
-http://p2premium.club:80/live/Ney123/Ney123/321073.ts
-#EXTINF:-1 tvg-name="AZ CINEMA" group-title="Peliculas" tvg-chno="" ,AZ CINEMA [SD]
-http://p2premium.club:80/live/Ney123/Ney123/362402.ts
-#EXTINF:-1 tvg-name="Az click" group-title="General" tvg-chno="" ,Az click [SD]
-http://p2premium.club:80/live/Ney123/Ney123/362403.ts
-#EXTINF:-1 tvg-name="AZ MUNDO" group-title="Internacional" tvg-chno="" ,AZ MUNDO [SD]
-http://p2premium.club:80/live/Ney123/Ney123/362405.ts
-#EXTINF:-1 tvg-name="AZTECA 7 FHD" group-title="General" tvg-chno="" ,AZTECA 7 FHD [SD]
-http://p2premium.club:80/live/Ney123/Ney123/362406.ts
-#EXTINF:-1 tvg-name="AZTECA UNO FHD" group-title="General" tvg-chno="" ,AZTECA UNO FHD [SD]
-http://p2premium.club:80/live/Ney123/Ney123/362408.ts
-#EXTINF:-1 tvg-name="AZTECA 7 SD" group-title="General" tvg-chno="" ,AZTECA 7 SD [SD]
-http://p2premium.club:80/live/Ney123/Ney123/362407.ts
-#EXTINF:-1 tvg-name="AZTECA UNO SD" group-title="General" tvg-chno="" ,AZTECA UNO SD [SD]
-http://p2premium.club:80/live/Ney123/Ney123/362409.ts
-#EXTINF:-1 tvg-name="BITME" group-title="General" tvg-chno="" ,BITME [SD]
-http://p2premium.club:80/live/Ney123/Ney123/362410.ts
-#EXTINF:-1 tvg-name="CANAL 10 Cancún" group-title="General" tvg-chno="" ,CANAL 10 Cancún [SD]
-http://p2premium.club:80/live/Ney123/Ney123/362411.ts
-#EXTINF:-1 tvg-name="CANAL 28 Nueva Leon" group-title="General" tvg-chno="" ,CANAL 28 Nueva Leon [SD]
-http://p2premium.club:80/live/Ney123/Ney123/362412.ts
-#EXTINF:-1 tvg-name="¢@NAL 5 FHD" group-title="General" tvg-chno="" ,¢@NAL 5 FHD [SD]
-http://p2premium.club:80/live/Ney123/Ney123/362413.ts
-#EXTINF:-1 tvg-name="CANAL 5 SD" group-title="General" tvg-chno="" ,CANAL 5 SD [SD]
-http://p2premium.club:80/live/Ney123/Ney123/362414.ts
-#EXTINF:-1 tvg-name="FORO TV SD" group-title="General" tvg-chno="" ,FORO TV SD [SD]
-http://p2premium.club:80/live/Ney123/Ney123/362416.ts
-#EXTINF:-1 tvg-name="Az click" group-title="General" tvg-chno="" ,Az click [SD]
-http://p2premium.club:80/live/Ney123/Ney123/362418.ts
-#EXTINF:-1 tvg-name="FORO TV FHD" group-title="General" tvg-chno="" ,FORO TV FHD [SD]
-http://p2premium.club:80/live/Ney123/Ney123/362415.ts
-#EXTINF:-1 tvg-name="LAS ESTRELLAS SD" group-title="General" tvg-chno="" ,LAS ESTRELLAS SD [SD]
-http://p2premium.club:80/live/Ney123/Ney123/362420.ts
-#EXTINF:-1 tvg-name="LAS ESTRELLAS FHD" group-title="General" tvg-chno="" ,LAS ESTRELLAS FHD [SD]
-http://p2premium.club:80/live/Ney123/Ney123/362419.ts
-#EXTINF:-1 tvg-name="MEXIQUENSE TV" group-title="General" tvg-chno="" ,MEXIQUENSE TV [SD]
-http://p2premium.club:80/live/Ney123/Ney123/362421.ts
-#EXTINF:-1 tvg-name="NU9VE TV FHD" group-title="General" tvg-chno="" ,NU9VE TV FHD [SD]
-http://p2premium.club:80/live/Ney123/Ney123/362423.ts
-#EXTINF:-1 tvg-name="MILENIO" group-title="General" tvg-chno="" ,MILENIO [SD]
-http://p2premium.club:80/live/Ney123/Ney123/362422.ts
-#EXTINF:-1 tvg-name="NU9VE TV SD" group-title="General" tvg-chno="" ,NU9VE TV SD [SD]
-http://p2premium.club:80/live/Ney123/Ney123/362424.ts
-#EXTINF:-1 tvg-name="TELEFORMULA" group-title="General" tvg-chno="" ,TELEFORMULA [SD]
-http://p2premium.club:80/live/Ney123/Ney123/362425.ts
-#EXTINF:-1 tvg-name="AZ CORAZON" group-title="General" tvg-chno="" ,AZ CORAZON [SD]
-http://p2premium.club:80/live/Ney123/Ney123/362404.ts
-#EXTINF:-1 tvg-name="MX: Unicable" group-title="General" tvg-chno="" ,MX: Unicable [SD]
-http://p2premium.club:80/live/Ney123/Ney123/315007.ts
-#EXTINF:-1 tvg-name="IMAGEN TV FHD" group-title="General" tvg-chno="" ,IMAGEN TV FHD [SD]
-http://p2premium.club:80/live/Ney123/Ney123/362417.ts
-#EXTINF:-1 tvg-name="MX | AZ CLIC!" group-title="General" tvg-chno="" ,MX | AZ CLIC! [SD]
-http://p2premium.club:80/live/Ney123/Ney123/321044.ts
-#EXTINF:-1 tvg-name="MX | AZ MUNDO HD" group-title="Internacional" tvg-chno="" ,MX | AZ MUNDO HD [SD]
-http://p2premium.club:80/live/Ney123/Ney123/321047.ts
-#EXTINF:-1 tvg-name="MX | FORO TV FHD" group-title="General" tvg-chno="" ,MX | FORO TV FHD [SD]
-http://p2premium.club:80/live/Ney123/Ney123/321067.ts
-#EXTINF:-1 tvg-name="MX | AZ CORAZÓN SD" group-title="General" tvg-chno="" ,MX | AZ CORAZÓN SD [SD]
-http://p2premium.club:80/live/Ney123/Ney123/321045.ts
-#EXTINF:-1 tvg-name="MX | CANAL DE LAS ESTRELLAS HD" group-title="General" tvg-chno="" ,MX | CANAL DE LAS ESTRELLAS HD [SD]
-http://p2premium.club:80/live/Ney123/Ney123/321062.ts
-#EXTINF:-1 tvg-name="MX | ADN 40" group-title="General" tvg-chno="" ,MX | ADN 40 [SD]
-http://p2premium.club:80/live/Ney123/Ney123/321041.ts
-#EXTINF:-1 tvg-name="MX | AZ CINEMA" group-title="Peliculas" tvg-chno="" ,MX | AZ CINEMA [SD]
-http://p2premium.club:80/live/Ney123/Ney123/321046.ts
-#EXTINF:-1 tvg-name="MX || A+ 7.2 HD®" group-title="General" tvg-chno="" ,MX || A+ 7.2 HD® [SD]
-http://p2premium.club:80/live/Ney123/Ney123/404305.ts
-#EXTINF:-1 tvg-name="MX || ADN 40 HD®" group-title="General" tvg-chno="" ,MX || ADN 40 HD® [SD]
-http://p2premium.club:80/live/Ney123/Ney123/404307.ts
-#EXTINF:-1 tvg-name="MX || A+ HD®" group-title="General" tvg-chno="" ,MX || A+ HD® [SD]
-http://p2premium.club:80/live/Ney123/Ney123/404306.ts
-#EXTINF:-1 tvg-name="MX || ADN40 FHD/HD®" group-title="General" tvg-chno="" ,MX || ADN40 FHD/HD® [SD]
-http://p2premium.club:80/live/Ney123/Ney123/404309.ts
-#EXTINF:-1 tvg-name="MX || ADN 40 HD®" group-title="General" tvg-chno="" ,MX || ADN 40 HD® [SD]
-http://p2premium.club:80/live/Ney123/Ney123/404308.ts
-#EXTINF:-1 tvg-name="MX || ITV Deportes HD®" group-title="Deportes" tvg-chno="" ,MX || ITV Deportes HD® [SD]
-http://p2premium.club:80/live/Ney123/Ney123/404310.ts
-#EXTINF:-1 tvg-name="MX || Alcarria TV HD®" group-title="General" tvg-chno="" ,MX || Alcarria TV HD® [SD]
-http://p2premium.club:80/live/Ney123/Ney123/404312.ts
-#EXTINF:-1 tvg-name="MX || TELESISTEMA Canal 9 HD®" group-title="General" tvg-chno="" ,MX || TELESISTEMA Canal 9 HD® [SD]
-http://p2premium.club:80/live/Ney123/Ney123/404311.ts
-#EXTINF:-1 tvg-name="MX || AYM SPORTS HD®" group-title="Deportes" tvg-chno="" ,MX || AYM SPORTS HD® [SD]
-http://p2premium.club:80/live/Ney123/Ney123/404313.ts
-#EXTINF:-1 tvg-name="MX || Az Cinema HD®" group-title="Peliculas" tvg-chno="" ,MX || Az Cinema HD® [SD]
-http://p2premium.club:80/live/Ney123/Ney123/404315.ts
-#EXTINF:-1 tvg-name="MX || Aym Sports FHD/HD®" group-title="Deportes" tvg-chno="" ,MX || Aym Sports FHD/HD® [SD]
-http://p2premium.club:80/live/Ney123/Ney123/404314.ts
-#EXTINF:-1 tvg-name="MX || Az Clic HD®" group-title="General" tvg-chno="" ,MX || Az Clic HD® [SD]
-http://p2premium.club:80/live/Ney123/Ney123/404316.ts
-#EXTINF:-1 tvg-name="MX || Az Corazón FHD/HD®" group-title="General" tvg-chno="" ,MX || Az Corazón FHD/HD® [SD]
-http://p2premium.club:80/live/Ney123/Ney123/404318.ts
-#EXTINF:-1 tvg-name="MX || Az Corazón HD®" group-title="General" tvg-chno="" ,MX || Az Corazón HD® [SD]
-http://p2premium.club:80/live/Ney123/Ney123/404317.ts
-#EXTINF:-1 tvg-name="MX || Az Mundo FHD/HD®" group-title="Internacional" tvg-chno="" ,MX || Az Mundo FHD/HD® [SD]
-http://p2premium.club:80/live/Ney123/Ney123/404320.ts
-#EXTINF:-1 tvg-name="MX | AZ MUNDO HD" group-title="Internacional" tvg-chno="" ,MX | AZ MUNDO HD [SD]
-http://p2premium.club:80/live/Ney123/Ney123/404319.ts
-#EXTINF:-1 tvg-name="MX || Azteca 7 HD®" group-title="General" tvg-chno="" ,MX || Azteca 7 HD® [SD]
-http://p2premium.club:80/live/Ney123/Ney123/404321.ts
-#EXTINF:-1 tvg-name="MX || AZTECA CORAZÓN HD®" group-title="General" tvg-chno="" ,MX || AZTECA CORAZÓN HD® [SD]
-http://p2premium.club:80/live/Ney123/Ney123/404323.ts
-#EXTINF:-1 tvg-name="MX || AZTECA CLIC HD®" group-title="General" tvg-chno="" ,MX || AZTECA CLIC HD® [SD]
-http://p2premium.club:80/live/Ney123/Ney123/404322.ts
-#EXTINF:-1 tvg-name="MX || AZTECA MUNDO HD®" group-title="Internacional" tvg-chno="" ,MX || AZTECA MUNDO HD® [SD]
-http://p2premium.club:80/live/Ney123/Ney123/404324.ts
-#EXTINF:-1 tvg-name="MX || Azteca Uno HD®" group-title="General" tvg-chno="" ,MX || Azteca Uno HD® [SD]
-http://p2premium.club:80/live/Ney123/Ney123/404325.ts
-#EXTINF:-1 tvg-name="MX || Azteca Uno FHD/HD®" group-title="General" tvg-chno="" ,MX || Azteca Uno FHD/HD® [SD]
-http://p2premium.club:80/live/Ney123/Ney123/404326.ts
-#EXTINF:-1 tvg-name="MX || Bandamax HD®" group-title="General" tvg-chno="" ,MX || Bandamax HD® [SD]
-http://p2premium.club:80/live/Ney123/Ney123/404327.ts
-#EXTINF:-1 tvg-name="MX || TVP Obregón - HD®" group-title="General" tvg-chno="" ,MX || TVP Obregón - HD® [SD]
-http://p2premium.club:80/live/Ney123/Ney123/404329.ts
-#EXTINF:-1 tvg-name="MX || Canal 10 Cancún HD®" group-title="General" tvg-chno="" ,MX || Canal 10 Cancún HD® [SD]
-http://p2premium.club:80/live/Ney123/Ney123/404330.ts
-#EXTINF:-1 tvg-name="MX || BITME MX HD®" group-title="General" tvg-chno="" ,MX || BITME MX HD® [SD]
-http://p2premium.club:80/live/Ney123/Ney123/404328.ts
-#EXTINF:-1 tvg-name="MX || ULTRA MEXICO HD®" group-title="Internacional" tvg-chno="" ,MX || ULTRA MEXICO HD® [SD]
-http://p2premium.club:80/live/Ney123/Ney123/404332.ts
-#EXTINF:-1 tvg-name="MX || ADN 40 HD®" group-title="General" tvg-chno="" ,MX || ADN 40 HD® [SD]
-http://p2premium.club:80/live/Ney123/Ney123/404333.ts
-#EXTINF:-1 tvg-name="MX || CANAL 11 MX FHD/HD®" group-title="General" tvg-chno="" ,MX || CANAL 11 MX FHD/HD® [SD]
-http://p2premium.club:80/live/Ney123/Ney123/404331.ts
-#EXTINF:-1 tvg-name="MX || CANAL 4 Televisa Myt FHD/HD®" group-title="General" tvg-chno="" ,MX || CANAL 4 Televisa Myt FHD/HD® [SD]
-http://p2premium.club:80/live/Ney123/Ney123/404335.ts
-#EXTINF:-1 tvg-name="MX || Canal 4 HD®" group-title="General" tvg-chno="" ,MX || Canal 4 HD® [SD]
-http://p2premium.club:80/live/Ney123/Ney123/404334.ts
-#EXTINF:-1 tvg-name="MX || CANAL 44 CHIHUAHUA HD®" group-title="General" tvg-chno="" ,MX || CANAL 44 CHIHUAHUA HD® [SD]
-http://p2premium.club:80/live/Ney123/Ney123/404336.ts
-#EXTINF:-1 tvg-name="MX || ¢A@NAL 5 HD" group-title="General" tvg-chno="" ,MX || ¢A@NAL 5 HD [SD]
-http://p2premium.club:80/live/Ney123/Ney123/404338.ts
-#EXTINF:-1 tvg-name="MX || Canal 8 HD®" group-title="General" tvg-chno="" ,MX || Canal 8 HD® [SD]
-http://p2premium.club:80/live/Ney123/Ney123/404339.ts
-#EXTINF:-1 tvg-name="MX || Canal 5 HD®" group-title="General" tvg-chno="" ,MX || Canal 5 HD® [SD]
-http://p2premium.club:80/live/Ney123/Ney123/404337.ts
-#EXTINF:-1 tvg-name="MX || Super Canal MVS HD®" group-title="General" tvg-chno="" ,MX || Super Canal MVS HD® [SD]
-http://p2premium.club:80/live/Ney123/Ney123/404342.ts
-#EXTINF:-1 tvg-name="MX || CANAL 8 FHD/HD®" group-title="General" tvg-chno="" ,MX || CANAL 8 FHD/HD® [SD]
-http://p2premium.club:80/live/Ney123/Ney123/404340.ts
-#EXTINF:-1 tvg-name="MX || CANAL SIPSE TV (Merida) HD®" group-title="General" tvg-chno="" ,MX || CANAL SIPSE TV (Merida) HD® [SD]
-http://p2premium.club:80/live/Ney123/Ney123/404341.ts
-#EXTINF:-1 tvg-name="MX || Canal Judicial HD®" group-title="General" tvg-chno="" ,MX || Canal Judicial HD® [SD]
-http://p2premium.club:80/live/Ney123/Ney123/404344.ts
-#EXTINF:-1 tvg-name="MX || Canal DIEZ Cancún HD®" group-title="General" tvg-chno="" ,MX || Canal DIEZ Cancún HD® [SD]
-http://p2premium.club:80/live/Ney123/Ney123/404343.ts
-#EXTINF:-1 tvg-name="MX || CANAL 28 FHD/HD®" group-title="General" tvg-chno="" ,MX || CANAL 28 FHD/HD® [SD]
-http://p2premium.club:80/live/Ney123/Ney123/404345.ts
-#EXTINF:-1 tvg-name="MX || Canal Once HD®" group-title="General" tvg-chno="" ,MX || Canal Once HD® [SD]
-http://p2premium.club:80/live/Ney123/Ney123/404346.ts
-#EXTINF:-1 tvg-name="MX || MyTime Movie Network MX HD®" group-title="Peliculas" tvg-chno="" ,MX || MyTime Movie Network MX HD® [SD]
-http://p2premium.club:80/live/Ney123/Ney123/404348.ts
-#EXTINF:-1 tvg-name="MX || Canal U (Unicable) HD®" group-title="General" tvg-chno="" ,MX || Canal U (Unicable) HD® [SD]
-http://p2premium.club:80/live/Ney123/Ney123/404347.ts
-#EXTINF:-1 tvg-name="MX || Telemundo Internacional HD®" group-title="Noticias" tvg-chno="" ,MX || Telemundo Internacional HD® [SD]
-http://p2premium.club:80/live/Ney123/Ney123/404350.ts
-#EXTINF:-1 tvg-name="MX || CURIOSITY HD®" group-title="General" tvg-chno="" ,MX || CURIOSITY HD® [SD]
-http://p2premium.club:80/live/Ney123/Ney123/404351.ts
-#EXTINF:-1 tvg-name="MX || Multimedios Monterrey HD®" group-title="General" tvg-chno="" ,MX || Multimedios Monterrey HD® [SD]
-http://p2premium.club:80/live/Ney123/Ney123/404349.ts
-#EXTINF:-1 tvg-name="MX || Canal Rakuten Viki Drama HD®" group-title="General" tvg-chno="" ,MX || Canal Rakuten Viki Drama HD® [SD]
-http://p2premium.club:80/live/Ney123/Ney123/404352.ts
-#EXTINF:-1 tvg-name="MX || CINE ESTRELLA HD®" group-title="Peliculas" tvg-chno="" ,MX || CINE ESTRELLA HD® [SD]
-http://p2premium.club:80/live/Ney123/Ney123/404354.ts
-#EXTINF:-1 tvg-name="MX || CANAL 14 Noticias HD®" group-title="Noticias" tvg-chno="" ,MX || CANAL 14 Noticias HD® [SD]
-http://p2premium.club:80/live/Ney123/Ney123/404353.ts
-#EXTINF:-1 tvg-name="MX || ESTRELLATV HD®" group-title="General" tvg-chno="" ,MX || ESTRELLATV HD® [SD]
-http://p2premium.club:80/live/Ney123/Ney123/404356.ts
-#EXTINF:-1 tvg-name="MX || ESTRELLA NEWS HD®" group-title="Noticias" tvg-chno="" ,MX || ESTRELLA NEWS HD® [SD]
-http://p2premium.club:80/live/Ney123/Ney123/404355.ts
-#EXTINF:-1 tvg-name="MX || EWTN HD®" group-title="General" tvg-chno="" ,MX || EWTN HD® [SD]
-http://p2premium.club:80/live/Ney123/Ney123/404357.ts
-#EXTINF:-1 tvg-name="MX || Canal Judicial HD®" group-title="General" tvg-chno="" ,MX || Canal Judicial HD® [SD]
-http://p2premium.club:80/live/Ney123/Ney123/404358.ts
-#EXTINF:-1 tvg-name="MX || CANAL SIPSE TVCUN HD®" group-title="General" tvg-chno="" ,MX || CANAL SIPSE TVCUN HD® [SD]
-http://p2premium.club:80/live/Ney123/Ney123/404360.ts
-#EXTINF:-1 tvg-name="MX || FORO TV MX FHD/HD®" group-title="General" tvg-chno="" ,MX || FORO TV MX FHD/HD® [SD]
-http://p2premium.club:80/live/Ney123/Ney123/404359.ts
-#EXTINF:-1 tvg-name="MX || VISIÓN TV HD®" group-title="General" tvg-chno="" ,MX || VISIÓN TV HD® [SD]
-http://p2premium.club:80/live/Ney123/Ney123/404361.ts
-#EXTINF:-1 tvg-name="MX || GOLDEN MX SUB FHD/HD®" group-title="Deportes" tvg-chno="" ,MX || GOLDEN MX SUB FHD/HD® [SD]
-http://p2premium.club:80/live/Ney123/Ney123/404364.ts
-#EXTINF:-1 tvg-name="MX || GOLDEN EDGE MX FHD/HD®" group-title="Deportes" tvg-chno="" ,MX || GOLDEN EDGE MX FHD/HD® [SD]
-http://p2premium.club:80/live/Ney123/Ney123/404363.ts
-#EXTINF:-1 tvg-name="MX || GOLDEN EDGE HD®" group-title="Deportes" tvg-chno="" ,MX || GOLDEN EDGE HD® [SD]
-http://p2premium.club:80/live/Ney123/Ney123/404362.ts
-#EXTINF:-1 tvg-name="MX || IMAGEN TV MX FHD/HD®" group-title="General" tvg-chno="" ,MX || IMAGEN TV MX FHD/HD® [SD]
-http://p2premium.club:80/live/Ney123/Ney123/404365.ts
-#EXTINF:-1 tvg-name="MX || a más + TV HD®" group-title="General" tvg-chno="" ,MX || a más + TV HD® [SD]
-http://p2premium.club:80/live/Ney123/Ney123/404366.ts
-#EXTINF:-1 tvg-name="MX || Las Estrellas HD®" group-title="General" tvg-chno="" ,MX || Las Estrellas HD® [SD]
-http://p2premium.club:80/live/Ney123/Ney123/404367.ts
-#EXTINF:-1 tvg-name="MX || Las Estrellas FHD/HD®" group-title="General" tvg-chno="" ,MX || Las Estrellas FHD/HD® [SD]
-http://p2premium.club:80/live/Ney123/Ney123/404368.ts
-#EXTINF:-1 tvg-name="MX || Telemundo 51 Fl. HD®" group-title="Noticias" tvg-chno="" ,MX || Telemundo 51 Fl. HD® [SD]
-http://p2premium.club:80/live/Ney123/Ney123/404369.ts
-#EXTINF:-1 tvg-name="MX || MEXIQUENSE MX HD®" group-title="General" tvg-chno="" ,MX || MEXIQUENSE MX HD® [SD]
-http://p2premium.club:80/live/Ney123/Ney123/404370.ts
-#EXTINF:-1 tvg-name="MX || Multimedios Laguna HD®" group-title="General" tvg-chno="" ,MX || Multimedios Laguna HD® [SD]
-http://p2premium.club:80/live/Ney123/Ney123/404373.ts
-#EXTINF:-1 tvg-name="MX || MEXIQUENSE FHD/HD®" group-title="General" tvg-chno="" ,MX || MEXIQUENSE FHD/HD® [SD]
-http://p2premium.club:80/live/Ney123/Ney123/404371.ts
-#EXTINF:-1 tvg-name="MX || MilenioTV FHD/HD®" group-title="General" tvg-chno="" ,MX || MilenioTV FHD/HD® [SD]
-http://p2premium.club:80/live/Ney123/Ney123/404372.ts
-#EXTINF:-1 tvg-name="MX || MULTIMEDIOS FHD®" group-title="General" tvg-chno="" ,MX || MULTIMEDIOS FHD® [SD]
-http://p2premium.club:80/live/Ney123/Ney123/404375.ts
-#EXTINF:-1 tvg-name="MX || MULTIMEDIOS PLUS MX HD®" group-title="General" tvg-chno="" ,MX || MULTIMEDIOS PLUS MX HD® [SD]
-http://p2premium.club:80/live/Ney123/Ney123/404374.ts
-#EXTINF:-1 tvg-name="MX || ULTRA CINE HD®" group-title="Peliculas" tvg-chno="" ,MX || ULTRA CINE HD® [SD]
-http://p2premium.club:80/live/Ney123/Ney123/404376.ts
-#EXTINF:-1 tvg-name="MX || California Medios HD®" group-title="General" tvg-chno="" ,MX || California Medios HD® [SD]
-http://p2premium.club:80/live/Ney123/Ney123/404377.ts
-#EXTINF:-1 tvg-name="MX || Canal 4 NRT HD®" group-title="General" tvg-chno="" ,MX || Canal 4 NRT HD® [SD]
-http://p2premium.club:80/live/Ney123/Ney123/404378.ts
-#EXTINF:-1 tvg-name="MX || TELEFORMULA MX FHD/HD®" group-title="General" tvg-chno="" ,MX || TELEFORMULA MX FHD/HD® [SD]
-http://p2premium.club:80/live/Ney123/Ney123/404379.ts
-#EXTINF:-1 tvg-name="MX || TELEVISA MEXICALI HD®" group-title="General" tvg-chno="" ,MX || TELEVISA MEXICALI HD® [SD]
-http://p2premium.club:80/live/Ney123/Ney123/404382.ts
-#EXTINF:-1 tvg-name="MX || TELEFORMULA HD®" group-title="General" tvg-chno="" ,MX || TELEFORMULA HD® [SD]
-http://p2premium.club:80/live/Ney123/Ney123/404380.ts
-#EXTINF:-1 tvg-name="MX || TeleMax HD®" group-title="General" tvg-chno="" ,MX || TeleMax HD® [SD]
-http://p2premium.club:80/live/Ney123/Ney123/404381.ts
-#EXTINF:-1 tvg-name="MX || Televisa Monterrey HD®" group-title="General" tvg-chno="" ,MX || Televisa Monterrey HD® [SD]
-http://p2premium.club:80/live/Ney123/Ney123/404383.ts
-#EXTINF:-1 tvg-name="MX || C4 en Alerta HD®" group-title="General" tvg-chno="" ,MX || C4 en Alerta HD® [SD]
-http://p2premium.club:80/live/Ney123/Ney123/404384.ts
-#EXTINF:-1 tvg-name="MX || ULTRA TV Puebla HD®" group-title="General" tvg-chno="" ,MX || ULTRA TV Puebla HD® [SD]
-http://p2premium.club:80/live/Ney123/Ney123/404385.ts
-#EXTINF:-1 tvg-name="MX || UMTV HD®" group-title="Musica" tvg-chno="" ,MX || UMTV HD® [SD]
-http://p2premium.club:80/live/Ney123/Ney123/404388.ts
-#EXTINF:-1 tvg-name="MX || UMTV (Montemorelos) HD®" group-title="Musica" tvg-chno="" ,MX || UMTV (Montemorelos) HD® [SD]
-http://p2premium.club:80/live/Ney123/Ney123/404386.ts
-#EXTINF:-1 tvg-name="MX || Nuevo León Canal 28 HD®" group-title="General" tvg-chno="" ,MX || Nuevo León Canal 28 HD® [SD]
-http://p2premium.club:80/live/Ney123/Ney123/404387.ts
-#EXTINF:-1 tvg-name="MX || TELEMUNDO NOTICIAS FHD/HD®" group-title="Noticias" tvg-chno="" ,MX || TELEMUNDO NOTICIAS FHD/HD® [SD]
-http://p2premium.club:80/live/Ney123/Ney123/404389.ts
-#EXTINF:-1 tvg-name="MX || UNICABLE HD" group-title="General" tvg-chno="" ,MX || UNICABLE HD [SD]
-http://p2premium.club:80/live/Ney123/Ney123/404391.ts
-#EXTINF:-1 tvg-name="MX || UnoTV HD®" group-title="General" tvg-chno="" ,MX || UnoTV HD® [SD]
-http://p2premium.club:80/live/Ney123/Ney123/404390.ts
-#EXTINF:-1 tvg-name="MX || Azteca UNO Internacional (HD)®" group-title="Internacional" tvg-chno="" ,MX || Azteca UNO Internacional (HD)® [SD]
-http://p2premium.club:80/live/Ney123/Ney123/404394.ts
-#EXTINF:-1 tvg-name="MX || Canal 10 NOTICIAS (HD)®" group-title="Noticias" tvg-chno="" ,MX || Canal 10 NOTICIAS (HD)® [SD]
-http://p2premium.club:80/live/Ney123/Ney123/404393.ts
-#EXTINF:-1 tvg-name="MX || MIL SABORES HD" group-title="General" tvg-chno="" ,MX || MIL SABORES HD [SD]
-http://p2premium.club:80/live/Ney123/Ney123/404392.ts
-#EXTINF:-1 tvg-name="MX || Canal 28 (HD)®" group-title="General" tvg-chno="" ,MX || Canal 28 (HD)® [SD]
-http://p2premium.club:80/live/Ney123/Ney123/404397.ts
-#EXTINF:-1 tvg-name="MX || Televisa Monterey (HD)®" group-title="General" tvg-chno="" ,MX || Televisa Monterey (HD)® [SD]
-http://p2premium.club:80/live/Ney123/Ney123/404395.ts
-#EXTINF:-1 tvg-name="MX || Canal 10 TV (HD)®" group-title="General" tvg-chno="" ,MX || Canal 10 TV (HD)® [SD]
-http://p2premium.club:80/live/Ney123/Ney123/404396.ts
-#EXTINF:-1 tvg-name="MX || El Sonorense TV (HD)®" group-title="General" tvg-chno="" ,MX || El Sonorense TV (HD)® [SD]
-http://p2premium.club:80/live/Ney123/Ney123/404400.ts
-#EXTINF:-1 tvg-name="MX || Cana PSN (HD)®" group-title="General" tvg-chno="" ,MX || Cana PSN (HD)® [SD]
-http://p2premium.club:80/live/Ney123/Ney123/404398.ts
-#EXTINF:-1 tvg-name="MX ||  TVP Culiacán - (HD)®" group-title="General" tvg-chno="" ,MX ||  TVP Culiacán - (HD)® [SD]
-http://p2premium.club:80/live/Ney123/Ney123/404399.ts
-#EXTINF:-1 tvg-name="MX || Tlaxcala Television (HD)®" group-title="General" tvg-chno="" ,MX || Tlaxcala Television (HD)® [SD]
-http://p2premium.club:80/live/Ney123/Ney123/404401.ts
-#EXTINF:-1 tvg-name="MX || Televisión UNISON Sonora (HD)®" group-title="General" tvg-chno="" ,MX || Televisión UNISON Sonora (HD)® [SD]
-http://p2premium.club:80/live/Ney123/Ney123/404402.ts
-#EXTINF:-1 tvg-name="MX || Nueve San Luís Potosí (HD)®" group-title="General" tvg-chno="" ,MX || Nueve San Luís Potosí (HD)® [SD]
-http://p2premium.club:80/live/Ney123/Ney123/404403.ts
-#EXTINF:-1 tvg-name="MX || Canal 6 Tecpán (HD)®" group-title="General" tvg-chno="" ,MX || Canal 6 Tecpán (HD)® [SD]
-http://p2premium.club:80/live/Ney123/Ney123/404405.ts
-#EXTINF:-1 tvg-name="MX || RCG (HD)®" group-title="General" tvg-chno="" ,MX || RCG (HD)® [SD]
-http://p2premium.club:80/live/Ney123/Ney123/404404.ts
-#EXTINF:-1 tvg-name="MX || Las Estrellas - 2 horas HD®" group-title="General" tvg-chno="" ,MX || Las Estrellas - 2 horas HD® [SD]
-http://p2premium.club:80/live/Ney123/Ney123/404406.ts
-#EXTINF:-1 tvg-name="MX || Las Estrellas Opc. 2 HD®" group-title="General" tvg-chno="" ,MX || Las Estrellas Opc. 2 HD® [SD]
-http://p2premium.club:80/live/Ney123/Ney123/404407.ts
-#EXTINF:-1 tvg-name="MX || Televisa Ciudad Puebla(FHD)®" group-title="General" tvg-chno="" ,MX || Televisa Ciudad Puebla(FHD)® [SD]
-http://p2premium.club:80/live/Ney123/Ney123/404408.ts
-#EXTINF:-1 tvg-name="MX || SUN CHANNEL HD®" group-title="General" tvg-chno="" ,MX || SUN CHANNEL HD® [SD]
-http://p2premium.club:80/live/Ney123/Ney123/404409.ts
-#EXTINF:-1 tvg-name="MX || NU9VE HD®" group-title="General" tvg-chno="" ,MX || NU9VE HD® [SD]
-http://p2premium.club:80/live/Ney123/Ney123/404410.ts
-#EXTINF:-1 tvg-name="MX || CANAL TODO NOVELAS Mᴇxɪᴄᴏ ʜᴅ®" group-title="General" tvg-chno="" ,MX || CANAL TODO NOVELAS Mᴇxɪᴄᴏ ʜᴅ® [SD]
-http://p2premium.club:80/live/Ney123/Ney123/404411.ts
-#EXTINF:-1 tvg-name="MX || TVMÁS XALAPA SDT®" group-title="General" tvg-chno="" ,MX || TVMÁS XALAPA SDT® [SD]
-http://p2premium.club:80/live/Ney123/Ney123/404413.ts
-#EXTINF:-1 tvg-name="MX || ULTRA CLASICO HD®" group-title="General" tvg-chno="" ,MX || ULTRA CLASICO HD® [SD]
-http://p2premium.club:80/live/Ney123/Ney123/404412.ts
-#EXTINF:-1 tvg-name="MX || RTQ (Querétaro) TV SDT®" group-title="General" tvg-chno="" ,MX || RTQ (Querétaro) TV SDT® [SD]
-http://p2premium.club:80/live/Ney123/Ney123/404414.ts
-#EXTINF:-1 tvg-name="MX || TLR TV FHD/HD®" group-title="General" tvg-chno="" ,MX || TLR TV FHD/HD® [SD]
-http://p2premium.club:80/live/Ney123/Ney123/404416.ts
-#EXTINF:-1 tvg-name="MX || Canal Sony One Novelas MX (FHD)®" group-title="General" tvg-chno="" ,MX || Canal Sony One Novelas MX (FHD)® [SD]
-http://p2premium.club:80/live/Ney123/Ney123/404415.ts
-#EXTINF:-1 tvg-name="MX || ULTRA MACHO (HD)®" group-title="General" tvg-chno="" ,MX || ULTRA MACHO (HD)® [SD]
-http://p2premium.club:80/live/Ney123/Ney123/404417.ts
-#EXTINF:-1 tvg-name="MX || Canal 6 PLUS (FHD)®" group-title="General" tvg-chno="" ,MX || Canal 6 PLUS (FHD)® [SD]
-http://p2premium.club:80/live/Ney123/Ney123/404421.ts
-#EXTINF:-1 tvg-name="MX || Canal 6 CDMX (FHD)®" group-title="General" tvg-chno="" ,MX || Canal 6 CDMX (FHD)® [SD]
-http://p2premium.club:80/live/Ney123/Ney123/404418.ts
-#EXTINF:-1 tvg-name="MX || TVT (Tabasqueña) HD®" group-title="General" tvg-chno="" ,MX || TVT (Tabasqueña) HD® [SD]
-http://p2premium.club:80/live/Ney123/Ney123/404420.ts
-#EXTINF:-1 tvg-name="MX || CANAL TV Cuatro 4.1 HD®" group-title="General" tvg-chno="" ,MX || CANAL TV Cuatro 4.1 HD® [SD]
-http://p2premium.club:80/live/Ney123/Ney123/404423.ts
-#EXTINF:-1 tvg-name="MX || Mexico FRANCE 24 HD®" group-title="Internacional" tvg-chno="" ,MX || Mexico FRANCE 24 HD® [SD]
-http://p2premium.club:80/live/Ney123/Ney123/404422.ts
-#EXTINF:-1 tvg-name="MX || CANAL TV Cuatro 4.2 FHD/HD®" group-title="General" tvg-chno="" ,MX || CANAL TV Cuatro 4.2 FHD/HD® [SD]
-http://p2premium.club:80/live/Ney123/Ney123/404424.ts
-#EXTINF:-1 tvg-name="MX || Canal 8NTV HD®" group-title="General" tvg-chno="" ,MX || Canal 8NTV HD® [SD]
-http://p2premium.club:80/live/Ney123/Ney123/404427.ts
-#EXTINF:-1 tvg-name="MX || CANAL Novelas VIKI Rakuten HD®" group-title="General" tvg-chno="" ,MX || CANAL Novelas VIKI Rakuten HD® [SD]
-http://p2premium.club:80/live/Ney123/Ney123/404425.ts
-#EXTINF:-1 tvg-name="MX || Canal La Voz Grupera HD®" group-title="General" tvg-chno="" ,MX || Canal La Voz Grupera HD® [SD]
-http://p2premium.club:80/live/Ney123/Ney123/404426.ts
-#EXTINF:-1 tvg-name="MX || Canal Yuma Channel 72 FHD/HD®" group-title="General" tvg-chno="" ,MX || Canal Yuma Channel 72 FHD/HD® [SD]
-http://p2premium.club:80/live/Ney123/Ney123/404430.ts
-#EXTINF:-1 tvg-name="MX || Canal ILCE  HD®" group-title="General" tvg-chno="" ,MX || Canal ILCE  HD® [SD]
-http://p2premium.club:80/live/Ney123/Ney123/404428.ts
-#EXTINF:-1 tvg-name="MX || Canal TV Mar La Paz (FHD/HD)®" group-title="General" tvg-chno="" ,MX || Canal TV Mar La Paz (FHD/HD)® [SD]
-http://p2premium.club:80/live/Ney123/Ney123/404429.ts
-#EXTINF:-1 tvg-name="MX || Novelas y Series FHD/HD®" group-title="Series" tvg-chno="" ,MX || Novelas y Series FHD/HD® [SD]
-http://p2premium.club:80/live/Ney123/Ney123/404431.ts
-#EXTINF:-1 tvg-name="MX || Canal 24 Heraldo CDM HD®" group-title="General" tvg-chno="" ,MX || Canal 24 Heraldo CDM HD® [SD]
-http://p2premium.club:80/live/Ney123/Ney123/404433.ts
-#EXTINF:-1 tvg-name="MX || RAKUTEN VIKI Channel FHD/HD®" group-title="General" tvg-chno="" ,MX || RAKUTEN VIKI Channel FHD/HD® [SD]
-http://p2premium.club:80/live/Ney123/Ney123/404432.ts
-#EXTINF:-1 tvg-name="MX | DISTRTO COMEDY 0P 1" group-title="General" tvg-chno="" ,MX | DISTRTO COMEDY 0P 1 [SD]
-http://p2premium.club:80/live/Ney123/Ney123/366260.ts
-#EXTINF:-1 tvg-name="MX || Canal Capital21 CDMX HD®" group-title="General" tvg-chno="" ,MX || Canal Capital21 CDMX HD® [SD]
-http://p2premium.club:80/live/Ney123/Ney123/404434.ts
-#EXTINF:-1 tvg-name="Distrito comedy" group-title="General" tvg-chno="" ,Distrito comedy [SD]
-http://p2premium.club:80/live/Ney123/Ney123/404304.ts
-#EXTINF:-1 tvg-name="MX || Las Estrellas FHD/HD®" group-title="General" tvg-chno="" ,MX || Las Estrellas FHD/HD® [SD]
-http://p2premium.club:80/live/Ney123/Ney123/450294.ts
-#EXTINF:-1 tvg-name="PlayList Exportada por la aplicación Reproductor Simple IPTV - Descarga en PlayStore!" group-title="General" tvg-chno="" ,PlayList Exportada por la aplicación Reproductor Simple IPTV - Descarga en PlayStore! [SD]
-http://p2premium.club:80/live/Ney123/Ney123/450293.ts
-#EXTINF:-1 tvg-name="MX || BĘlN Sp0rts Xtra Ñ Mx HD®" group-title="General" tvg-chno="" ,MX || BĘlN Sp0rts Xtra Ñ Mx HD® [SD]
-http://p2premium.club:80/live/Ney123/Ney123/404419.ts
-#EXTINF:-1 tvg-name="MX || a más + TV HD®" group-title="General" tvg-chno="" ,MX || a más + TV HD® [SD]
-http://p2premium.club:80/live/Ney123/Ney123/450296.ts
-#EXTINF:-1 tvg-name="MX || MEXIQUENSE MX HD®" group-title="General" tvg-chno="" ,MX || MEXIQUENSE MX HD® [SD]
-http://p2premium.club:80/live/Ney123/Ney123/450297.ts
-#EXTINF:-1 tvg-name="MX || GOLDEN EDGE HD®" group-title="Deportes" tvg-chno="" ,MX || GOLDEN EDGE HD® [SD]
-http://p2premium.club:80/live/Ney123/Ney123/450295.ts
-#EXTINF:-1 tvg-name="MX || A+ 7.2 HD®" group-title="General" tvg-chno="" ,MX || A+ 7.2 HD® [SD]
-http://p2premium.club:80/live/Ney123/Ney123/450298.ts
-#EXTINF:-1 tvg-name="MX || AYM SPORTS HD®" group-title="Deportes" tvg-chno="" ,MX || AYM SPORTS HD® [SD]
-http://p2premium.club:80/live/Ney123/Ney123/450299.ts
-#EXTINF:-1 tvg-name="MX || Corazón Fast HD®" group-title="General" tvg-chno="" ,MX || Corazón Fast HD® [SD]
-http://p2premium.club:80/live/Ney123/Ney123/450300.ts
-#EXTINF:-1 tvg-name="MX || ADN40 FHD/HD®" group-title="General" tvg-chno="" ,MX || ADN40 FHD/HD® [SD]
-http://p2premium.club:80/live/Ney123/Ney123/450302.ts
-#EXTINF:-1 tvg-name="MX || Aym Sports FHD/HD®" group-title="Deportes" tvg-chno="" ,MX || Aym Sports FHD/HD® [SD]
-http://p2premium.club:80/live/Ney123/Ney123/450303.ts
-#EXTINF:-1 tvg-name="MX || A+ HD®" group-title="General" tvg-chno="" ,MX || A+ HD® [SD]
-http://p2premium.club:80/live/Ney123/Ney123/450301.ts
-#EXTINF:-1 tvg-name="MX || Az Corazón FHD/HD®" group-title="General" tvg-chno="" ,MX || Az Corazón FHD/HD® [SD]
-http://p2premium.club:80/live/Ney123/Ney123/450304.ts
-#EXTINF:-1 tvg-name="MX || Az Mundo FHD/HD®" group-title="Internacional" tvg-chno="" ,MX || Az Mundo FHD/HD® [SD]
-http://p2premium.club:80/live/Ney123/Ney123/450305.ts
-#EXTINF:-1 tvg-name="MX || CANAL 4 Televisa Myt FHD/HD®" group-title="General" tvg-chno="" ,MX || CANAL 4 Televisa Myt FHD/HD® [SD]
-http://p2premium.club:80/live/Ney123/Ney123/450306.ts
-#EXTINF:-1 tvg-name="MX || CANAL Unisón FHD/HD®" group-title="General" tvg-chno="" ,MX || CANAL Unisón FHD/HD® [SD]
-http://p2premium.club:80/live/Ney123/Ney123/450309.ts
-#EXTINF:-1 tvg-name="MX || CANAL 8 FHD/HD®" group-title="General" tvg-chno="" ,MX || CANAL 8 FHD/HD® [SD]
-http://p2premium.club:80/live/Ney123/Ney123/450308.ts
-#EXTINF:-1 tvg-name="MX || CANAL 5 FHD®" group-title="General" tvg-chno="" ,MX || CANAL 5 FHD® [SD]
-http://p2premium.club:80/live/Ney123/Ney123/450307.ts
-#EXTINF:-1 tvg-name="MX || CANAL 11 MX FHD/HD®" group-title="General" tvg-chno="" ,MX || CANAL 11 MX FHD/HD® [SD]
-http://p2premium.club:80/live/Ney123/Ney123/450310.ts
-#EXTINF:-1 tvg-name="MX || FORO TV MX FHD/HD®" group-title="General" tvg-chno="" ,MX || FORO TV MX FHD/HD® [SD]
-http://p2premium.club:80/live/Ney123/Ney123/450312.ts
-#EXTINF:-1 tvg-name="MX || TELEFORMULA MX FHD/HD®" group-title="General" tvg-chno="" ,MX || TELEFORMULA MX FHD/HD® [SD]
-http://p2premium.club:80/live/Ney123/Ney123/450311.ts
-#EXTINF:-1 tvg-name="MX || GOLDEN MX SUB FHD/HD®" group-title="Deportes" tvg-chno="" ,MX || GOLDEN MX SUB FHD/HD® [SD]
-http://p2premium.club:80/live/Ney123/Ney123/450313.ts
-#EXTINF:-1 tvg-name="MX || GOLDEN EDGE MX FHD/HD®" group-title="Deportes" tvg-chno="" ,MX || GOLDEN EDGE MX FHD/HD® [SD]
-http://p2premium.club:80/live/Ney123/Ney123/450314.ts
-#EXTINF:-1 tvg-name="MX || IMAGEN TV MX FHD/HD®" group-title="General" tvg-chno="" ,MX || IMAGEN TV MX FHD/HD® [SD]
-http://p2premium.club:80/live/Ney123/Ney123/450315.ts
-#EXTINF:-1 tvg-name="MX || MEXIQUENSE FHD/HD®" group-title="General" tvg-chno="" ,MX || MEXIQUENSE FHD/HD® [SD]
-http://p2premium.club:80/live/Ney123/Ney123/450316.ts
-#EXTINF:-1 tvg-name="MX || MULTIMEDIOS FHD®" group-title="General" tvg-chno="" ,MX || MULTIMEDIOS FHD® [SD]
-http://p2premium.club:80/live/Ney123/Ney123/450317.ts
-#EXTINF:-1 tvg-name="MX || Azteca Uno FHD/HD®" group-title="General" tvg-chno="" ,MX || Azteca Uno FHD/HD® [SD]
-http://p2premium.club:80/live/Ney123/Ney123/450319.ts
-#EXTINF:-1 tvg-name="MX || ULTRA TV Puebla HD®" group-title="General" tvg-chno="" ,MX || ULTRA TV Puebla HD® [SD]
-http://p2premium.club:80/live/Ney123/Ney123/450318.ts
-#EXTINF:-1 tvg-name="MX || TLR TV FHD/HD®" group-title="General" tvg-chno="" ,MX || TLR TV FHD/HD® [SD]
-http://p2premium.club:80/live/Ney123/Ney123/450320.ts
-#EXTINF:-1 tvg-name="MX || Az Cinema HD®" group-title="Peliculas" tvg-chno="" ,MX || Az Cinema HD® [SD]
-http://p2premium.club:80/live/Ney123/Ney123/450321.ts
-#EXTINF:-1 tvg-name="MX || Az Clic HD®" group-title="General" tvg-chno="" ,MX || Az Clic HD® [SD]
-http://p2premium.club:80/live/Ney123/Ney123/450322.ts
-#EXTINF:-1 tvg-name="MX || Az Corazón HD®" group-title="General" tvg-chno="" ,MX || Az Corazón HD® [SD]
-http://p2premium.club:80/live/Ney123/Ney123/450323.ts
-#EXTINF:-1 tvg-name="MX || Azteca 7 HD®" group-title="General" tvg-chno="" ,MX || Azteca 7 HD® [SD]
-http://p2premium.club:80/live/Ney123/Ney123/450326.ts
-#EXTINF:-1 tvg-name="MX || Azteca Uno HD®" group-title="General" tvg-chno="" ,MX || Azteca Uno HD® [SD]
-http://p2premium.club:80/live/Ney123/Ney123/450325.ts
-#EXTINF:-1 tvg-name="MX | AZ MUNDO HD" group-title="Internacional" tvg-chno="" ,MX | AZ MUNDO HD [SD]
-http://p2premium.club:80/live/Ney123/Ney123/450324.ts
-#EXTINF:-1 tvg-name="MX || TVP Obregón - HD®" group-title="General" tvg-chno="" ,MX || TVP Obregón - HD® [SD]
-http://p2premium.club:80/live/Ney123/Ney123/450327.ts
-#EXTINF:-1 tvg-name="MX || CANAL 26 VA+ HD®" group-title="General" tvg-chno="" ,MX || CANAL 26 VA+ HD® [SD]
-http://p2premium.club:80/live/Ney123/Ney123/450328.ts
-#EXTINF:-1 tvg-name="MX || Canal 4 HD®" group-title="General" tvg-chno="" ,MX || Canal 4 HD® [SD]
-http://p2premium.club:80/live/Ney123/Ney123/450329.ts
-#EXTINF:-1 tvg-name="MX || Canal Judicial HD®" group-title="General" tvg-chno="" ,MX || Canal Judicial HD® [SD]
-http://p2premium.club:80/live/Ney123/Ney123/450332.ts
-#EXTINF:-1 tvg-name="MX || Canal 5 HD®" group-title="General" tvg-chno="" ,MX || Canal 5 HD® [SD]
-http://p2premium.club:80/live/Ney123/Ney123/450330.ts
-#EXTINF:-1 tvg-name="MX || Canal 8 HD®" group-title="General" tvg-chno="" ,MX || Canal 8 HD® [SD]
-http://p2premium.club:80/live/Ney123/Ney123/450331.ts
-#EXTINF:-1 tvg-name="MX || C4 en Alerta HD®" group-title="General" tvg-chno="" ,MX || C4 en Alerta HD® [SD]
-http://p2premium.club:80/live/Ney123/Ney123/450335.ts
-#EXTINF:-1 tvg-name="MX || MULTIMEDIOS PLUS MX HD®" group-title="General" tvg-chno="" ,MX || MULTIMEDIOS PLUS MX HD® [SD]
-http://p2premium.club:80/live/Ney123/Ney123/450334.ts
-#EXTINF:-1 tvg-name="MX || Canal Once HD®" group-title="General" tvg-chno="" ,MX || Canal Once HD® [SD]
-http://p2premium.club:80/live/Ney123/Ney123/450333.ts
-#EXTINF:-1 tvg-name="MX || Canal U (Unicable) HD®" group-title="General" tvg-chno="" ,MX || Canal U (Unicable) HD® [SD]
-http://p2premium.club:80/live/Ney123/Ney123/450337.ts
-#EXTINF:-1 tvg-name="MX || Televisa Monterrey HD®" group-title="General" tvg-chno="" ,MX || Televisa Monterrey HD® [SD]
-http://p2premium.club:80/live/Ney123/Ney123/450336.ts
-#EXTINF:-1 tvg-name="MX || ADN 40 HD®" group-title="General" tvg-chno="" ,MX || ADN 40 HD® [SD]
-http://p2premium.club:80/live/Ney123/Ney123/450338.ts
-#EXTINF:-1 tvg-name="MX || ADN 40 HD®" group-title="General" tvg-chno="" ,MX || ADN 40 HD® [SD]
-http://p2premium.club:80/live/Ney123/Ney123/450341.ts
-#EXTINF:-1 tvg-name="MX || Bandamax HD®" group-title="General" tvg-chno="" ,MX || Bandamax HD® [SD]
-http://p2premium.club:80/live/Ney123/Ney123/450339.ts
-#EXTINF:-1 tvg-name="MX || Las Estrellas HD®" group-title="General" tvg-chno="" ,MX || Las Estrellas HD® [SD]
-http://p2premium.club:80/live/Ney123/Ney123/450340.ts
-#EXTINF:-1 tvg-name="MX || Alcarria TV HD®" group-title="General" tvg-chno="" ,MX || Alcarria TV HD® [SD]
-http://p2premium.club:80/live/Ney123/Ney123/450342.ts
-#EXTINF:-1 tvg-name="MX || Canal DIEZ Cancún HD®" group-title="General" tvg-chno="" ,MX || Canal DIEZ Cancún HD® [SD]
-http://p2premium.club:80/live/Ney123/Ney123/450343.ts
-#EXTINF:-1 tvg-name="MX || Canal 10 Cancún HD®" group-title="General" tvg-chno="" ,MX || Canal 10 Cancún HD® [SD]
-http://p2premium.club:80/live/Ney123/Ney123/450344.ts
-#EXTINF:-1 tvg-name="MX || CANAL 44 CHIHUAHUA HD®" group-title="General" tvg-chno="" ,MX || CANAL 44 CHIHUAHUA HD® [SD]
-http://p2premium.club:80/live/Ney123/Ney123/450346.ts
-#EXTINF:-1 tvg-name="MX || EWTN HD®" group-title="General" tvg-chno="" ,MX || EWTN HD® [SD]
-http://p2premium.club:80/live/Ney123/Ney123/450345.ts
-#EXTINF:-1 tvg-name="MX || Multimedios Monterrey HD®" group-title="General" tvg-chno="" ,MX || Multimedios Monterrey HD® [SD]
-http://p2premium.club:80/live/Ney123/Ney123/450347.ts
-#EXTINF:-1 tvg-name="MX || Multimedios Laguna HD®" group-title="General" tvg-chno="" ,MX || Multimedios Laguna HD® [SD]
-http://p2premium.club:80/live/Ney123/Ney123/450349.ts
-#EXTINF:-1 tvg-name="MX || California Medios HD®" group-title="General" tvg-chno="" ,MX || California Medios HD® [SD]
-http://p2premium.club:80/live/Ney123/Ney123/450350.ts
-#EXTINF:-1 tvg-name="MX || MilenioTV FHD/HD®" group-title="General" tvg-chno="" ,MX || MilenioTV FHD/HD® [SD]
-http://p2premium.club:80/live/Ney123/Ney123/450348.ts
-#EXTINF:-1 tvg-name="MX || TeleMax HD®" group-title="General" tvg-chno="" ,MX || TeleMax HD® [SD]
-http://p2premium.club:80/live/Ney123/Ney123/450352.ts
-#EXTINF:-1 tvg-name="MX || UnoTV HD®" group-title="General" tvg-chno="" ,MX || UnoTV HD® [SD]
-http://p2premium.club:80/live/Ney123/Ney123/450353.ts
-#EXTINF:-1 tvg-name="MX || TELEFORMULA HD®" group-title="General" tvg-chno="" ,MX || TELEFORMULA HD® [SD]
-http://p2premium.club:80/live/Ney123/Ney123/450351.ts
-#EXTINF:-1 tvg-name="MX || TELESISTEMA Canal 9 HD®" group-title="General" tvg-chno="" ,MX || TELESISTEMA Canal 9 HD® [SD]
-http://p2premium.club:80/live/Ney123/Ney123/450355.ts
-#EXTINF:-1 tvg-name="MX || Telediario HD®" group-title="General" tvg-chno="" ,MX || Telediario HD® [SD]
-http://p2premium.club:80/live/Ney123/Ney123/450356.ts
-#EXTINF:-1 tvg-name="MX || ULTRA MEXICO HD®" group-title="Internacional" tvg-chno="" ,MX || ULTRA MEXICO HD® [SD]
-http://p2premium.club:80/live/Ney123/Ney123/450354.ts
-#EXTINF:-1 tvg-name="MX || AZTECA CLIC HD®" group-title="General" tvg-chno="" ,MX || AZTECA CLIC HD® [SD]
-http://p2premium.club:80/live/Ney123/Ney123/450357.ts
-#EXTINF:-1 tvg-name="MX || AZTECA CORAZÓN HD®" group-title="General" tvg-chno="" ,MX || AZTECA CORAZÓN HD® [SD]
-http://p2premium.club:80/live/Ney123/Ney123/450358.ts
-#EXTINF:-1 tvg-name="MX || AZTECA MUNDO HD®" group-title="Internacional" tvg-chno="" ,MX || AZTECA MUNDO HD® [SD]
-http://p2premium.club:80/live/Ney123/Ney123/450359.ts
-#EXTINF:-1 tvg-name="MX || CURIOSITY HD®" group-title="General" tvg-chno="" ,MX || CURIOSITY HD® [SD]
-http://p2premium.club:80/live/Ney123/Ney123/450360.ts
-#EXTINF:-1 tvg-name="MX || Canal Rakuten Viki Drama HD®" group-title="General" tvg-chno="" ,MX || Canal Rakuten Viki Drama HD® [SD]
-http://p2premium.club:80/live/Ney123/Ney123/450362.ts
-#EXTINF:-1 tvg-name="MX || Telemundo Internacional HD®" group-title="Noticias" tvg-chno="" ,MX || Telemundo Internacional HD® [SD]
-http://p2premium.club:80/live/Ney123/Ney123/450361.ts
-#EXTINF:-1 tvg-name="MX || CANAL SIPSE TVCUN HD®" group-title="General" tvg-chno="" ,MX || CANAL SIPSE TVCUN HD® [SD]
-http://p2premium.club:80/live/Ney123/Ney123/450363.ts
-#EXTINF:-1 tvg-name="MX || VISIÓN TV HD®" group-title="General" tvg-chno="" ,MX || VISIÓN TV HD® [SD]
-http://p2premium.club:80/live/Ney123/Ney123/450364.ts
-#EXTINF:-1 tvg-name="MX || ULTRA CINE HD®" group-title="Peliculas" tvg-chno="" ,MX || ULTRA CINE HD® [SD]
-http://p2premium.club:80/live/Ney123/Ney123/450365.ts
-#EXTINF:-1 tvg-name="MX || CANAL 14 Noticias HD®" group-title="Noticias" tvg-chno="" ,MX || CANAL 14 Noticias HD® [SD]
-http://p2premium.club:80/live/Ney123/Ney123/450366.ts
-#EXTINF:-1 tvg-name="MX || ITV Deportes HD®" group-title="Deportes" tvg-chno="" ,MX || ITV Deportes HD® [SD]
-http://p2premium.club:80/live/Ney123/Ney123/450367.ts
-#EXTINF:-1 tvg-name="MX || TELEVISA MEXICALI HD®" group-title="General" tvg-chno="" ,MX || TELEVISA MEXICALI HD® [SD]
-http://p2premium.club:80/live/Ney123/Ney123/450369.ts
-#EXTINF:-1 tvg-name="MX || CANAL SIPSE TV (Merida) HD®" group-title="General" tvg-chno="" ,MX || CANAL SIPSE TV (Merida) HD® [SD]
-http://p2premium.club:80/live/Ney123/Ney123/450370.ts
+#EXTM3U x-tvg-url="" x-lista="Listas General 3" x-actualizado="2026-07-01 11:43"
+#EXTINF:-1 tvg-name="D$P0RT$>PERU HD" group-title="General" tvg-chno="" ,D$P0RT$>PERU HD [SD]
+http://goldtv.lat:80/live/Sebita2022/Manya2022/540026.ts
+#EXTINF:-1 tvg-name=">D$P0RT$  ECU HD" group-title="General" tvg-chno="" ,>D$P0RT$  ECU HD [SD]
+http://goldtv.lat:80/live/Sebita2022/Manya2022/540035.ts
+#EXTINF:-1 tvg-name="D$P0RT$  COL  HD" group-title="General" tvg-chno="" ,D$P0RT$  COL  HD [SD]
+http://goldtv.lat:80/live/Sebita2022/Manya2022/540041.ts
+#EXTINF:-1 tvg-name="*D$P0RT$  ∆RG" group-title="General" tvg-chno="" ,*D$P0RT$  ∆RG [SD]
+http://goldtv.lat:80/live/Sebita2022/Manya2022/540038.ts
+#EXTINF:-1 tvg-name="*>TYC ∆RGENTlN∆ SD" group-title="General" tvg-chno="" ,*>TYC ∆RGENTlN∆ SD [SD]
+http://goldtv.lat:80/live/Sebita2022/Manya2022/541533.ts
+#EXTINF:-1 tvg-name="TELEAMAZONAS ECUADOR HD" group-title="General" tvg-chno="" ,TELEAMAZONAS ECUADOR HD [SD]
+http://goldtv.lat:80/live/Sebita2022/Manya2022/541541.ts
+#EXTINF:-1 tvg-name="CARACOL TV COL" group-title="General" tvg-chno="" ,CARACOL TV COL [SD]
+http://goldtv.lat:80/live/Sebita2022/Manya2022/541535.ts
+#EXTINF:-1 tvg-name="GEN TV PARAGUAY" group-title="General" tvg-chno="" ,GEN TV PARAGUAY [SD]
+http://goldtv.lat:80/live/Sebita2022/Manya2022/543715.ts
+#EXTINF:-1 tvg-name="TELEFE ARG" group-title="General" tvg-chno="" ,TELEFE ARG [SD]
+http://goldtv.lat:80/live/Sebita2022/Manya2022/541534.ts
+#EXTINF:-1 tvg-name="CHILEVISION" group-title="General" tvg-chno="" ,CHILEVISION [SD]
+http://goldtv.lat:80/live/Sebita2022/Manya2022/541537.ts
+#EXTINF:-1 tvg-name="#>TËLEMÜND0 HD" group-title="General" tvg-chno="" ,#>TËLEMÜND0 HD [SD]
+http://goldtv.lat:80/live/Sebita2022/Manya2022/541538.ts
+#EXTINF:-1 tvg-name="WIN $PORT$ + COL HD" group-title="General" tvg-chno="" ,WIN $PORT$ + COL HD [SD]
+http://goldtv.lat:80/live/Sebita2022/Manya2022/541536.ts
+#EXTINF:-1 tvg-name="TUDN HD MEXICO" group-title="Internacional" tvg-chno="" ,TUDN HD MEXICO [SD]
+http://goldtv.lat:80/live/Sebita2022/Manya2022/541540.ts
+#EXTINF:-1 tvg-name="DI$N3Y SOLO EVENTOS" group-title="General" tvg-chno="" ,DI$N3Y SOLO EVENTOS [SD]
+http://goldtv.lat:80/live/Sebita2022/Manya2022/541539.ts
+#EXTINF:-1 tvg-name="*>F0X °MUNDl∆L>2026" group-title="General" tvg-chno="" ,*>F0X °MUNDl∆L>2026 [SD]
+http://goldtv.lat:80/live/Sebita2022/Manya2022/541542.ts
+#EXTINF:-1 tvg-name="AZTECA 7 MEXICO HD" group-title="Internacional" tvg-chno="" ,AZTECA 7 MEXICO HD [SD]
+http://goldtv.lat:80/live/Sebita2022/Manya2022/541543.ts
+#EXTINF:-1 tvg-name="#>°D∆ZŃ_>MÜNDl∆L¹ HD" group-title="General" tvg-chno="" ,#>°D∆ZŃ_>MÜNDl∆L¹ HD [SD]
+http://goldtv.lat:80/live/Sebita2022/Manya2022/541547.ts
+#EXTINF:-1 tvg-name="•>°D∆ZŃ_MÜNDl∆L> FHD 0R∆NGĒ" group-title="General" tvg-chno="" ,•>°D∆ZŃ_MÜNDl∆L> FHD 0R∆NGĒ [SD]
+http://goldtv.lat:80/live/Sebita2022/Manya2022/541548.ts
+#EXTINF:-1 tvg-name="VIX PREMIUM DEPORTES" group-title="Deportes" tvg-chno="" ,VIX PREMIUM DEPORTES [SD]
+http://goldtv.lat:80/live/Sebita2022/Manya2022/541549.ts
+#EXTINF:-1 tvg-name="*R.©.N C0L0MBl∆ HD" group-title="General" tvg-chno="" ,*R.©.N C0L0MBl∆ HD [SD]
+http://goldtv.lat:80/live/Sebita2022/Manya2022/541553.ts
+#EXTINF:-1 tvg-name="EVENTO E$PN" group-title="General" tvg-chno="" ,EVENTO E$PN [SD]
+http://goldtv.lat:80/live/Sebita2022/Manya2022/444055.ts
+#EXTINF:-1 tvg-name="EVENTO E$PN 2   FORMULA 1" group-title="General" tvg-chno="" ,EVENTO E$PN 2   FORMULA 1 [SD]
+http://goldtv.lat:80/live/Sebita2022/Manya2022/444067.ts
+#EXTINF:-1 tvg-name="EVENTO E$PN 3" group-title="General" tvg-chno="" ,EVENTO E$PN 3 [SD]
+http://goldtv.lat:80/live/Sebita2022/Manya2022/444058.ts
+#EXTINF:-1 tvg-name="EVENTO E$PN 4" group-title="General" tvg-chno="" ,EVENTO E$PN 4 [SD]
+http://goldtv.lat:80/live/Sebita2022/Manya2022/444064.ts
+#EXTINF:-1 tvg-name="EVENTO 6 D$PORTS" group-title="General" tvg-chno="" ,EVENTO 6 D$PORTS [SD]
+http://goldtv.lat:80/live/Sebita2022/Manya2022/444070.ts
+#EXTINF:-1 tvg-name="EVENTO E$PN 5" group-title="General" tvg-chno="" ,EVENTO E$PN 5 [SD]
+http://goldtv.lat:80/live/Sebita2022/Manya2022/444061.ts
+#EXTINF:-1 tvg-name="EVENTO 7" group-title="General" tvg-chno="" ,EVENTO 7 [SD]
+http://goldtv.lat:80/live/Sebita2022/Manya2022/444079.ts
+#EXTINF:-1 tvg-name="EVENTO 8 I" group-title="General" tvg-chno="" ,EVENTO 8 I [SD]
+http://goldtv.lat:80/live/Sebita2022/Manya2022/444073.ts
+#EXTINF:-1 tvg-name="EVENTO 9" group-title="General" tvg-chno="" ,EVENTO 9 [SD]
+http://goldtv.lat:80/live/Sebita2022/Manya2022/444297.ts
+#EXTINF:-1 tvg-name="EVENTO 10" group-title="General" tvg-chno="" ,EVENTO 10 [SD]
+http://goldtv.lat:80/live/Sebita2022/Manya2022/444300.ts
+#EXTINF:-1 tvg-name="D∆ZN_LlG∆ | OP 1" group-title="General" tvg-chno="" ,D∆ZN_LlG∆ | OP 1 [SD]
+http://goldtv.lat:80/live/Sebita2022/Manya2022/406691.ts
+#EXTINF:-1 tvg-name="EVENTO 12" group-title="General" tvg-chno="" ,EVENTO 12 [SD]
+http://goldtv.lat:80/live/Sebita2022/Manya2022/444521.ts
+#EXTINF:-1 tvg-name="EVENTO  11" group-title="General" tvg-chno="" ,EVENTO  11 [SD]
+http://goldtv.lat:80/live/Sebita2022/Manya2022/444524.ts
+#EXTINF:-1 tvg-name="D∆ZN_LlG∆ | OP 3" group-title="General" tvg-chno="" ,D∆ZN_LlG∆ | OP 3 [SD]
+http://goldtv.lat:80/live/Sebita2022/Manya2022/406693.ts
+#EXTINF:-1 tvg-name="D∆ZN_LlG∆ | OP 2" group-title="General" tvg-chno="" ,D∆ZN_LlG∆ | OP 2 [SD]
+http://goldtv.lat:80/live/Sebita2022/Manya2022/406692.ts
+#EXTINF:-1 tvg-name="D∆ZN_LlG∆ | OP 4" group-title="General" tvg-chno="" ,D∆ZN_LlG∆ | OP 4 [SD]
+http://goldtv.lat:80/live/Sebita2022/Manya2022/406694.ts
+#EXTINF:-1 tvg-name="D∆ZN_LlG∆ 2 OP 2" group-title="General" tvg-chno="" ,D∆ZN_LlG∆ 2 OP 2 [SD]
+http://goldtv.lat:80/live/Sebita2022/Manya2022/406696.ts
+#EXTINF:-1 tvg-name="D∆ZN_LlG∆ 2 | OP 1" group-title="General" tvg-chno="" ,D∆ZN_LlG∆ 2 | OP 1 [SD]
+http://goldtv.lat:80/live/Sebita2022/Manya2022/406695.ts
+#EXTINF:-1 tvg-name="D∆ZN_LlG∆ 2 | OP 3" group-title="General" tvg-chno="" ,D∆ZN_LlG∆ 2 | OP 3 [SD]
+http://goldtv.lat:80/live/Sebita2022/Manya2022/406697.ts
+#EXTINF:-1 tvg-name="D∆ZN_LlG∆ 3" group-title="General" tvg-chno="" ,D∆ZN_LlG∆ 3 [SD]
+http://goldtv.lat:80/live/Sebita2022/Manya2022/406698.ts
+#EXTINF:-1 tvg-name="D∆ZN_LlG∆ 4" group-title="General" tvg-chno="" ,D∆ZN_LlG∆ 4 [SD]
+http://goldtv.lat:80/live/Sebita2022/Manya2022/406699.ts
+#EXTINF:-1 tvg-name="D∆ZN_LlG∆ 5" group-title="General" tvg-chno="" ,D∆ZN_LlG∆ 5 [SD]
+http://goldtv.lat:80/live/Sebita2022/Manya2022/406700.ts
+#EXTINF:-1 tvg-name="L∆  LlG∆_TV SD" group-title="General" tvg-chno="" ,L∆  LlG∆_TV SD [SD]
+http://goldtv.lat:80/live/Sebita2022/Manya2022/406839.ts
+#EXTINF:-1 tvg-name="L∆  LlG∆_TV TV FHD |Mas+|" group-title="General" tvg-chno="" ,L∆  LlG∆_TV TV FHD |Mas+| [SD]
+http://goldtv.lat:80/live/Sebita2022/Manya2022/406871.ts
+#EXTINF:-1 tvg-name="L∆  LlG∆_TV FHD |opc-3|" group-title="General" tvg-chno="" ,L∆  LlG∆_TV FHD |opc-3| [SD]
+http://goldtv.lat:80/live/Sebita2022/Manya2022/406872.ts
+#EXTINF:-1 tvg-name="L∆  LlG∆_TV HD |Orange|" group-title="General" tvg-chno="" ,L∆  LlG∆_TV HD |Orange| [SD]
+http://goldtv.lat:80/live/Sebita2022/Manya2022/406841.ts
+#EXTINF:-1 tvg-name="L∆  LlG∆_TV FHD |opc-2|" group-title="General" tvg-chno="" ,L∆  LlG∆_TV FHD |opc-2| [SD]
+http://goldtv.lat:80/live/Sebita2022/Manya2022/406873.ts
+#EXTINF:-1 tvg-name="L∆  LlG∆_TV FHD Orange" group-title="General" tvg-chno="" ,L∆  LlG∆_TV FHD Orange [SD]
+http://goldtv.lat:80/live/Sebita2022/Manya2022/406874.ts
+#EXTINF:-1 tvg-name="L∆  LlG∆_TV 2 FHD |Mas+|" group-title="General" tvg-chno="" ,L∆  LlG∆_TV 2 FHD |Mas+| [SD]
+http://goldtv.lat:80/live/Sebita2022/Manya2022/406877.ts
+#EXTINF:-1 tvg-name="L∆ LlG∆_TV 2 HDR |Orange|" group-title="General" tvg-chno="" ,L∆ LlG∆_TV 2 HDR |Orange| [SD]
+http://goldtv.lat:80/live/Sebita2022/Manya2022/406832.ts
+#EXTINF:-1 tvg-name="L∆  LlG∆_TV FHD Multi_Audio 2" group-title="General" tvg-chno="" ,L∆  LlG∆_TV FHD Multi_Audio 2 [SD]
+http://goldtv.lat:80/live/Sebita2022/Manya2022/406838.ts
+#EXTINF:-1 tvg-name="L∆  LlG∆_TV 2 FHD |opc-3|" group-title="General" tvg-chno="" ,L∆  LlG∆_TV 2 FHD |opc-3| [SD]
+http://goldtv.lat:80/live/Sebita2022/Manya2022/406865.ts
+#EXTINF:-1 tvg-name="L∆  LlG∆_TV 2 FHD |opc-2|" group-title="General" tvg-chno="" ,L∆  LlG∆_TV 2 FHD |opc-2| [SD]
+http://goldtv.lat:80/live/Sebita2022/Manya2022/406866.ts
+#EXTINF:-1 tvg-name="L∆  LlG∆_TV 2 FHD |opc-1|" group-title="General" tvg-chno="" ,L∆  LlG∆_TV 2 FHD |opc-1| [SD]
+http://goldtv.lat:80/live/Sebita2022/Manya2022/406868.ts
+#EXTINF:-1 tvg-name="L∆  LlG∆_TV 2 FHD Orange" group-title="General" tvg-chno="" ,L∆  LlG∆_TV 2 FHD Orange [SD]
+http://goldtv.lat:80/live/Sebita2022/Manya2022/406867.ts
+#EXTINF:-1 tvg-name="L∆  LlG∆_TV 2 Multi_audio" group-title="General" tvg-chno="" ,L∆  LlG∆_TV 2 Multi_audio [SD]
+http://goldtv.lat:80/live/Sebita2022/Manya2022/406833.ts
+#EXTINF:-1 tvg-name="L∆  LlG∆_TV 2 FHD MultiAudio" group-title="General" tvg-chno="" ,L∆  LlG∆_TV 2 FHD MultiAudio [SD]
+http://goldtv.lat:80/live/Sebita2022/Manya2022/406869.ts
+#EXTINF:-1 tvg-name="L∆  LlG∆_TV FHD| 0" group-title="General" tvg-chno="" ,L∆  LlG∆_TV FHD| 0 [SD]
+http://goldtv.lat:80/live/Sebita2022/Manya2022/406870.ts
+#EXTINF:-1 tvg-name="L∆  LlG∆_TV 3 FHD Orange" group-title="General" tvg-chno="" ,L∆  LlG∆_TV 3 FHD Orange [SD]
+http://goldtv.lat:80/live/Sebita2022/Manya2022/406862.ts
+#EXTINF:-1 tvg-name="L∆  LlG∆_TV 3 FHD |opc-2|(Solo Eventos)" group-title="General" tvg-chno="" ,L∆  LlG∆_TV 3 FHD |opc-2|(Solo Eventos) [SD]
+http://goldtv.lat:80/live/Sebita2022/Manya2022/406861.ts
+#EXTINF:-1 tvg-name="L∆  LlG∆_TV 3 FHD |opc-3|" group-title="General" tvg-chno="" ,L∆  LlG∆_TV 3 FHD |opc-3| [SD]
+http://goldtv.lat:80/live/Sebita2022/Manya2022/406860.ts
+#EXTINF:-1 tvg-name="L∆  LlG∆_TV 3 FHD" group-title="General" tvg-chno="" ,L∆  LlG∆_TV 3 FHD [SD]
+http://goldtv.lat:80/live/Sebita2022/Manya2022/406863.ts
+#EXTINF:-1 tvg-name="L∆  LlG∆_TV 4 FHD" group-title="General" tvg-chno="" ,L∆  LlG∆_TV 4 FHD [SD]
+http://goldtv.lat:80/live/Sebita2022/Manya2022/406856.ts
+#EXTINF:-1 tvg-name="L∆  LlG∆_TV 3 FHD Multi_∆udio(Solo Eventos)" group-title="General" tvg-chno="" ,L∆  LlG∆_TV 3 FHD Multi_∆udio(Solo Eventos) [SD]
+http://goldtv.lat:80/live/Sebita2022/Manya2022/406864.ts
+#EXTINF:-1 tvg-name="L∆  LlG∆_TV 4 FHD Orange" group-title="General" tvg-chno="" ,L∆  LlG∆_TV 4 FHD Orange [SD]
+http://goldtv.lat:80/live/Sebita2022/Manya2022/406859.ts
+#EXTINF:-1 tvg-name="L∆  LlG∆_TV 4 FHD |opc-2|(Solo_Eventos)" group-title="General" tvg-chno="" ,L∆  LlG∆_TV 4 FHD |opc-2|(Solo_Eventos) [SD]
+http://goldtv.lat:80/live/Sebita2022/Manya2022/406858.ts
+#EXTINF:-1 tvg-name="L∆  LlG∆_TV 4 FHD |opc-3|(Solo_Eventos)" group-title="General" tvg-chno="" ,L∆  LlG∆_TV 4 FHD |opc-3|(Solo_Eventos) [SD]
+http://goldtv.lat:80/live/Sebita2022/Manya2022/406857.ts
+#EXTINF:-1 tvg-name="L∆  LlG∆_TV 5 FHD |opc-3|(Solo Eventos)" group-title="General" tvg-chno="" ,L∆  LlG∆_TV 5 FHD |opc-3|(Solo Eventos) [SD]
+http://goldtv.lat:80/live/Sebita2022/Manya2022/406853.ts
+#EXTINF:-1 tvg-name="L∆  LlG∆_TV 5 FHD" group-title="General" tvg-chno="" ,L∆  LlG∆_TV 5 FHD [SD]
+http://goldtv.lat:80/live/Sebita2022/Manya2022/406855.ts
+#EXTINF:-1 tvg-name="L∆  LlG∆_TV 5 FHD |opc-2|(Solo Eventos)" group-title="General" tvg-chno="" ,L∆  LlG∆_TV 5 FHD |opc-2|(Solo Eventos) [SD]
+http://goldtv.lat:80/live/Sebita2022/Manya2022/406854.ts

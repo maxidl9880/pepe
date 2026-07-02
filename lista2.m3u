@@ -1,4 +1,4 @@
-#EXTM3U x-tvg-url="" x-lista="Listas General 2" x-actualizado="2026-07-02 19:27"
+#EXTM3U x-tvg-url="" x-lista="Listas General 2" x-actualizado="2026-07-02 19:52"
 #EXTINF:-1 tvg-name="D$P0RT$>PERU HD" group-title="General" tvg-chno="" ,D$P0RT$>PERU HD [SD]
 http://goldtv.lat:80/live/Sebita2022/Manya2022/540026.ts
 #EXTINF:-1 tvg-name=">D$P0RT$  ECU HD" group-title="General" tvg-chno="" ,>D$P0RT$  ECU HD [SD]
@@ -375,10 +375,10 @@ http://goldtv.lat:80/live/Sebita2022/Manya2022/306890.ts
 http://goldtv.lat:80/live/Sebita2022/Manya2022/306889.ts
 #EXTINF:-1 tvg-name="PE| ¦ L&GA 1 MAX HD OP 3" group-title="General" tvg-chno="" ,PE| ¦ L&GA 1 MAX HD OP 3 [SD]
 http://goldtv.lat:80/live/Sebita2022/Manya2022/306892.ts
-#EXTINF:-1 tvg-name="PE| ¦ L&GA 1 MAX HD OP 2" group-title="General" tvg-chno="" ,PE| ¦ L&GA 1 MAX HD OP 2 [SD]
-http://goldtv.lat:80/live/Sebita2022/Manya2022/306891.ts
 #EXTINF:-1 tvg-name="PE| ¦ L1  HD" group-title="General" tvg-chno="" ,PE| ¦ L1  HD [SD]
 http://goldtv.lat:80/live/Sebita2022/Manya2022/306893.ts
+#EXTINF:-1 tvg-name="PE| ¦ L&GA 1 MAX HD OP 2" group-title="General" tvg-chno="" ,PE| ¦ L&GA 1 MAX HD OP 2 [SD]
+http://goldtv.lat:80/live/Sebita2022/Manya2022/306891.ts
 #EXTINF:-1 tvg-name="PE| ¦ a 1 SD" group-title="General" tvg-chno="" ,PE| ¦ a 1 SD [SD]
 http://goldtv.lat:80/live/Sebita2022/Manya2022/306894.ts
 #EXTINF:-1 tvg-name="PE| D$PORTS 1 SD" group-title="General" tvg-chno="" ,PE| D$PORTS 1 SD [SD]

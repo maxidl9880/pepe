@@ -1,4 +1,4 @@
-#EXTM3U x-tvg-url="" x-lista="Listas General 4" x-actualizado="2026-07-01 22:20"
+#EXTM3U x-tvg-url="" x-lista="Listas General 4" x-actualizado="2026-07-02 09:22"
 #EXTINF:-1 tvg-name="D$P0RT$>PERU HD" group-title="General" tvg-chno="" ,D$P0RT$>PERU HD [SD]
 http://goldtv.lat:80/live/Sebita2022/Manya2022/540026.ts
 #EXTINF:-1 tvg-name=">D$P0RT$  ECU HD" group-title="General" tvg-chno="" ,>D$P0RT$  ECU HD [SD]
@@ -31,7 +31,7 @@ http://goldtv.lat:80/live/Sebita2022/Manya2022/541539.ts
 http://goldtv.lat:80/live/Sebita2022/Manya2022/541542.ts
 #EXTINF:-1 tvg-name="AZTECA 7 MEXICO HD" group-title="Internacional" tvg-chno="" ,AZTECA 7 MEXICO HD [SD]
 http://goldtv.lat:80/live/Sebita2022/Manya2022/541543.ts
-#EXTINF:-1 tvg-name="#>°D∆ZŃ_>MÜNDl∆L¹ HD" group-title="General" tvg-chno="" ,#>°D∆ZŃ_>MÜNDl∆L¹ HD [SD]
+#EXTINF:-1 tvg-name="#>°D∆ZŃ_>MÜNDl∆L¹ HD" group-title="Deportes" tvg-chno="" ,#>°D∆ZŃ_>MÜNDl∆L¹ HD [SD]
 http://goldtv.lat:80/live/Sebita2022/Manya2022/541547.ts
 #EXTINF:-1 tvg-name="•>°D∆ZŃ_MÜNDl∆L> FHD 0R∆NGĒ" group-title="General" tvg-chno="" ,•>°D∆ZŃ_MÜNDl∆L> FHD 0R∆NGĒ [SD]
 http://goldtv.lat:80/live/Sebita2022/Manya2022/541548.ts

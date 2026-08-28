@@ -1,1001 +1,1001 @@
-#EXTM3U x-tvg-url="" x-lista="Listas General 3" x-actualizado="2026-08-25 17:12"
-#EXTINF:-1 tvg-name="CL | MEGA HD" group-title="General" tvg-chno="" x-quality="SD" ,CL | MEGA HD
-http://redworld.pro:8880/@hastaseptiembre@/5wGDR8VD2CJQ/28244
-#EXTINF:-1 tvg-name="CL | MEGA SD" group-title="General" tvg-chno="" x-quality="SD" ,CL | MEGA SD
-http://redworld.pro:8880/@hastaseptiembre@/5wGDR8VD2CJQ/28251
-#EXTINF:-1 tvg-name="CL | CHILEVISION HD" group-title="General" tvg-chno="" x-quality="SD" ,CL | CHILEVISION HD
-http://redworld.pro:8880/@hastaseptiembre@/5wGDR8VD2CJQ/58287
-#EXTINF:-1 tvg-name="F0X $PORTS 1 (CHI)" group-title="General" tvg-chno="" x-quality="SD" ,F0X $PORTS 1 (CHI)
-http://redworld.pro:8880/@hastaseptiembre@/5wGDR8VD2CJQ/120545
-#EXTINF:-1 tvg-name="F0X $PORTS 3 (CHI)" group-title="General" tvg-chno="" x-quality="SD" ,F0X $PORTS 3 (CHI)
-http://redworld.pro:8880/@hastaseptiembre@/5wGDR8VD2CJQ/120547
-#EXTINF:-1 tvg-name="F0X $PORTS 2 (CHI)" group-title="General" tvg-chno="" x-quality="SD" ,F0X $PORTS 2 (CHI)
-http://redworld.pro:8880/@hastaseptiembre@/5wGDR8VD2CJQ/120546
-#EXTINF:-1 tvg-name="D GAMES + (CHI)" group-title="Videojuegos" tvg-chno="" x-quality="SD" ,D GAMES + (CHI)
-http://redworld.pro:8880/@hastaseptiembre@/5wGDR8VD2CJQ/120548
-#EXTINF:-1 tvg-name="D GAMES 2 (CHI)" group-title="Videojuegos" tvg-chno="" x-quality="SD" ,D GAMES 2 (CHI)
-http://redworld.pro:8880/@hastaseptiembre@/5wGDR8VD2CJQ/120550
-#EXTINF:-1 tvg-name="Latino | A3S" group-title="Internacional" tvg-chno="" x-quality="SD" ,Latino | A3S
-http://redworld.pro:8880/@hastaseptiembre@/5wGDR8VD2CJQ/135427
-#EXTINF:-1 tvg-name="Latino | Canal 5" group-title="Internacional" tvg-chno="" x-quality="SD" ,Latino | Canal 5
-http://redworld.pro:8880/@hastaseptiembre@/5wGDR8VD2CJQ/135430
-#EXTINF:-1 tvg-name="Latino | Canal De Las Estrellas" group-title="Internacional" tvg-chno="" x-quality="SD" ,Latino | Canal De Las Estrellas
-http://redworld.pro:8880/@hastaseptiembre@/5wGDR8VD2CJQ/135431
-#EXTINF:-1 tvg-name="Latino | AZ CORAZON" group-title="Internacional" tvg-chno="" x-quality="SD" ,Latino | AZ CORAZON
-http://redworld.pro:8880/@hastaseptiembre@/5wGDR8VD2CJQ/135429
-#EXTINF:-1 tvg-name="Latino | TLNovelas" group-title="Internacional" tvg-chno="" x-quality="SD" ,Latino | TLNovelas
-http://redworld.pro:8880/@hastaseptiembre@/5wGDR8VD2CJQ/135436
-#EXTINF:-1 tvg-name="Latino | Pasiones" group-title="Internacional" tvg-chno="" x-quality="SD" ,Latino | Pasiones
-http://redworld.pro:8880/@hastaseptiembre@/5wGDR8VD2CJQ/135435
-#EXTINF:-1 tvg-name="Latino | Glitz" group-title="Internacional" tvg-chno="" x-quality="SD" ,Latino | Glitz
-http://redworld.pro:8880/@hastaseptiembre@/5wGDR8VD2CJQ/135432
-#EXTINF:-1 tvg-name="EC | GOL TV HD" group-title="Deportes" tvg-chno="" x-quality="SD" ,EC | GOL TV HD
-http://redworld.pro:8880/@hastaseptiembre@/5wGDR8VD2CJQ/104112
-#EXTINF:-1 tvg-name="TL Novelas Univision" group-title="Noticias" tvg-chno="" x-quality="SD" ,TL Novelas Univision
-http://redworld.pro:8880/@hastaseptiembre@/5wGDR8VD2CJQ/135439
-#EXTINF:-1 tvg-name="RADIO CORAZÓN" group-title="Musica" tvg-chno="" x-quality="SD" ,RADIO CORAZÓN
-http://redworld.pro:8880/@hastaseptiembre@/5wGDR8VD2CJQ/166702
-#EXTINF:-1 tvg-name="RADIO PUNTO 7 (TEMUCO)" group-title="Musica" tvg-chno="" x-quality="SD" ,RADIO PUNTO 7 (TEMUCO)
-http://redworld.pro:8880/@hastaseptiembre@/5wGDR8VD2CJQ/166703
-#EXTINF:-1 tvg-name="RADIO BIO BIO (SANTIAGO)" group-title="Musica" tvg-chno="" x-quality="SD" ,RADIO BIO BIO (SANTIAGO)
-http://redworld.pro:8880/@hastaseptiembre@/5wGDR8VD2CJQ/166704
-#EXTINF:-1 tvg-name="RADIO BIO BIO ( VALPARAISO)" group-title="Musica" tvg-chno="" x-quality="SD" ,RADIO BIO BIO ( VALPARAISO)
-http://redworld.pro:8880/@hastaseptiembre@/5wGDR8VD2CJQ/166706
-#EXTINF:-1 tvg-name="RADIO BIO BIO (TEMUCO)" group-title="Musica" tvg-chno="" x-quality="SD" ,RADIO BIO BIO (TEMUCO)
-http://redworld.pro:8880/@hastaseptiembre@/5wGDR8VD2CJQ/166709
-#EXTINF:-1 tvg-name="RADIO BIO BIO (LOS ANGELES)" group-title="Musica" tvg-chno="" x-quality="SD" ,RADIO BIO BIO (LOS ANGELES)
-http://redworld.pro:8880/@hastaseptiembre@/5wGDR8VD2CJQ/166708
-#EXTINF:-1 tvg-name="RADIO BIO BIO (CONCEPCION)" group-title="Musica" tvg-chno="" x-quality="SD" ,RADIO BIO BIO (CONCEPCION)
-http://redworld.pro:8880/@hastaseptiembre@/5wGDR8VD2CJQ/166707
-#EXTINF:-1 tvg-name="RADIO BIO BIO (OSORNO)" group-title="Musica" tvg-chno="" x-quality="SD" ,RADIO BIO BIO (OSORNO)
-http://redworld.pro:8880/@hastaseptiembre@/5wGDR8VD2CJQ/166710
-#EXTINF:-1 tvg-name="RADIO BIO BIO (PUERTO MONTT)" group-title="Musica" tvg-chno="" x-quality="SD" ,RADIO BIO BIO (PUERTO MONTT)
-http://redworld.pro:8880/@hastaseptiembre@/5wGDR8VD2CJQ/166712
-#EXTINF:-1 tvg-name="RADIO BIO BIO (VALDIVIA)" group-title="Musica" tvg-chno="" x-quality="SD" ,RADIO BIO BIO (VALDIVIA)
-http://redworld.pro:8880/@hastaseptiembre@/5wGDR8VD2CJQ/166711
-#EXTINF:-1 tvg-name="RADIO COOPERATIVA" group-title="Musica" tvg-chno="" x-quality="SD" ,RADIO COOPERATIVA
-http://redworld.pro:8880/@hastaseptiembre@/5wGDR8VD2CJQ/166715
-#EXTINF:-1 tvg-name="RADIO PUDAHUEL" group-title="Musica" tvg-chno="" x-quality="SD" ,RADIO PUDAHUEL
-http://redworld.pro:8880/@hastaseptiembre@/5wGDR8VD2CJQ/166713
-#EXTINF:-1 tvg-name="RADIO ARAUCANA (TEMUCO)" group-title="Musica" tvg-chno="" x-quality="SD" ,RADIO ARAUCANA (TEMUCO)
-http://redworld.pro:8880/@hastaseptiembre@/5wGDR8VD2CJQ/166714
-#EXTINF:-1 tvg-name="RADIO ADN" group-title="Musica" tvg-chno="" x-quality="SD" ,RADIO ADN
-http://redworld.pro:8880/@hastaseptiembre@/5wGDR8VD2CJQ/166716
-#EXTINF:-1 tvg-name="RADIO ROCK AND POP" group-title="Musica" tvg-chno="" x-quality="SD" ,RADIO ROCK AND POP
-http://redworld.pro:8880/@hastaseptiembre@/5wGDR8VD2CJQ/166717
-#EXTINF:-1 tvg-name="PUNTO 7 (VALPARAISO)" group-title="General" tvg-chno="" x-quality="SD" ,PUNTO 7 (VALPARAISO)
-http://redworld.pro:8880/@hastaseptiembre@/5wGDR8VD2CJQ/166718
-#EXTINF:-1 tvg-name="RADIO FMDOS" group-title="Musica" tvg-chno="" x-quality="SD" ,RADIO FMDOS
-http://redworld.pro:8880/@hastaseptiembre@/5wGDR8VD2CJQ/166719
-#EXTINF:-1 tvg-name="RADIO POSITIVA" group-title="Musica" tvg-chno="" x-quality="SD" ,RADIO POSITIVA
-http://redworld.pro:8880/@hastaseptiembre@/5wGDR8VD2CJQ/166721
-#EXTINF:-1 tvg-name="RADIO IMAGINA" group-title="Musica" tvg-chno="" x-quality="SD" ,RADIO IMAGINA
-http://redworld.pro:8880/@hastaseptiembre@/5wGDR8VD2CJQ/166722
-#EXTINF:-1 tvg-name="RADIO LA RETRO 80S" group-title="Musica" tvg-chno="" x-quality="SD" ,RADIO LA RETRO 80S
-http://redworld.pro:8880/@hastaseptiembre@/5wGDR8VD2CJQ/166723
-#EXTINF:-1 tvg-name="RADIO ACTIVA" group-title="Musica" tvg-chno="" x-quality="SD" ,RADIO ACTIVA
-http://redworld.pro:8880/@hastaseptiembre@/5wGDR8VD2CJQ/166724
-#EXTINF:-1 tvg-name="RADIO FUTURO" group-title="Musica" tvg-chno="" x-quality="SD" ,RADIO FUTURO
-http://redworld.pro:8880/@hastaseptiembre@/5wGDR8VD2CJQ/166725
-#EXTINF:-1 tvg-name="RADIO LAS COLINAS (CARAHUE)" group-title="Musica" tvg-chno="" x-quality="SD" ,RADIO LAS COLINAS (CARAHUE)
-http://redworld.pro:8880/@hastaseptiembre@/5wGDR8VD2CJQ/166726
-#EXTINF:-1 tvg-name="RADIO ANGEL(CARAHUE)" group-title="Musica" tvg-chno="" x-quality="SD" ,RADIO ANGEL(CARAHUE)
-http://redworld.pro:8880/@hastaseptiembre@/5wGDR8VD2CJQ/166727
-#EXTINF:-1 tvg-name="RADIO 24/7" group-title="Musica" tvg-chno="" x-quality="SD" ,RADIO 24/7
-http://redworld.pro:8880/@hastaseptiembre@/5wGDR8VD2CJQ/166730
-#EXTINF:-1 tvg-name="RADIO CAROLINA" group-title="Musica" tvg-chno="" x-quality="SD" ,RADIO CAROLINA
-http://redworld.pro:8880/@hastaseptiembre@/5wGDR8VD2CJQ/166728
-#EXTINF:-1 tvg-name="RADIO DECADA DE LOS 90S" group-title="Musica" tvg-chno="" x-quality="SD" ,RADIO DECADA DE LOS 90S
-http://redworld.pro:8880/@hastaseptiembre@/5wGDR8VD2CJQ/166729
-#EXTINF:-1 tvg-name="RADIO LATINA BACHATA" group-title="Musica" tvg-chno="" x-quality="SD" ,RADIO LATINA BACHATA
-http://redworld.pro:8880/@hastaseptiembre@/5wGDR8VD2CJQ/166731
-#EXTINF:-1 tvg-name="RADIO URBANO" group-title="Musica" tvg-chno="" x-quality="SD" ,RADIO URBANO
-http://redworld.pro:8880/@hastaseptiembre@/5wGDR8VD2CJQ/166732
-#EXTINF:-1 tvg-name="RADIO DISNEY" group-title="Peliculas" tvg-chno="" x-quality="SD" ,RADIO DISNEY
-http://redworld.pro:8880/@hastaseptiembre@/5wGDR8VD2CJQ/166733
-#EXTINF:-1 tvg-name="RADIO PRENDETE" group-title="Musica" tvg-chno="" x-quality="SD" ,RADIO PRENDETE
-http://redworld.pro:8880/@hastaseptiembre@/5wGDR8VD2CJQ/166735
-#EXTINF:-1 tvg-name="RADIO FAVORITA RANCHERA" group-title="Musica" tvg-chno="" x-quality="SD" ,RADIO FAVORITA RANCHERA
-http://redworld.pro:8880/@hastaseptiembre@/5wGDR8VD2CJQ/166736
-#EXTINF:-1 tvg-name="RADIO ESTACIÓN RANCHERA" group-title="Musica" tvg-chno="" x-quality="SD" ,RADIO ESTACIÓN RANCHERA
-http://redworld.pro:8880/@hastaseptiembre@/5wGDR8VD2CJQ/166734
-#EXTINF:-1 tvg-name="RADIO TROPIKAL RANCHERAS" group-title="Musica" tvg-chno="" x-quality="SD" ,RADIO TROPIKAL RANCHERAS
-http://redworld.pro:8880/@hastaseptiembre@/5wGDR8VD2CJQ/166737
-#EXTINF:-1 tvg-name="RADIO SABOR A CUMBIA" group-title="Musica" tvg-chno="" x-quality="SD" ,RADIO SABOR A CUMBIA
-http://redworld.pro:8880/@hastaseptiembre@/5wGDR8VD2CJQ/166738
-#EXTINF:-1 tvg-name="RADIO LA CUMBIA" group-title="Musica" tvg-chno="" x-quality="SD" ,RADIO LA CUMBIA
-http://redworld.pro:8880/@hastaseptiembre@/5wGDR8VD2CJQ/166739
-#EXTINF:-1 tvg-name="RADIO PLAY FM" group-title="Musica" tvg-chno="" x-quality="SD" ,RADIO PLAY FM
-http://redworld.pro:8880/@hastaseptiembre@/5wGDR8VD2CJQ/166750
-#EXTINF:-1 tvg-name="RADIO BUENISIMA (PADRE LAS CASAS)" group-title="Musica" tvg-chno="" x-quality="SD" ,RADIO BUENISIMA (PADRE LAS CASAS)
-http://redworld.pro:8880/@hastaseptiembre@/5wGDR8VD2CJQ/166752
-#EXTINF:-1 tvg-name="RADIO SONAR FM" group-title="Musica" tvg-chno="" x-quality="SD" ,RADIO SONAR FM
-http://redworld.pro:8880/@hastaseptiembre@/5wGDR8VD2CJQ/166751
-#EXTINF:-1 tvg-name="RADIO CONCIERTO" group-title="Musica" tvg-chno="" x-quality="SD" ,RADIO CONCIERTO
-http://redworld.pro:8880/@hastaseptiembre@/5wGDR8VD2CJQ/166753
-#EXTINF:-1 tvg-name="RADIO PUNTO 7 (VALDIVIA)" group-title="Musica" tvg-chno="" x-quality="SD" ,RADIO PUNTO 7 (VALDIVIA)
-http://redworld.pro:8880/@hastaseptiembre@/5wGDR8VD2CJQ/166756
-#EXTINF:-1 tvg-name="RADIO PUNTO 7 (PUERTO MONTT)" group-title="Musica" tvg-chno="" x-quality="SD" ,RADIO PUNTO 7 (PUERTO MONTT)
-http://redworld.pro:8880/@hastaseptiembre@/5wGDR8VD2CJQ/166757
-#EXTINF:-1 tvg-name="RADIO TROPICAL STEREO" group-title="Musica" tvg-chno="" x-quality="SD" ,RADIO TROPICAL STEREO
-http://redworld.pro:8880/@hastaseptiembre@/5wGDR8VD2CJQ/166759
-#EXTINF:-1 tvg-name="RADIO PICARONA" group-title="Musica" tvg-chno="" x-quality="SD" ,RADIO PICARONA
-http://redworld.pro:8880/@hastaseptiembre@/5wGDR8VD2CJQ/166758
-#EXTINF:-1 tvg-name="RADIO SUPERSOL" group-title="Musica" tvg-chno="" x-quality="SD" ,RADIO SUPERSOL
-http://redworld.pro:8880/@hastaseptiembre@/5wGDR8VD2CJQ/166760
-#EXTINF:-1 tvg-name="RADIO VICTORIA FM" group-title="Musica" tvg-chno="" x-quality="SD" ,RADIO VICTORIA FM
-http://redworld.pro:8880/@hastaseptiembre@/5wGDR8VD2CJQ/166763
-#EXTINF:-1 tvg-name="ROCK & POP ( ARGENTINA )" group-title="Internacional" tvg-chno="" x-quality="SD" ,ROCK & POP ( ARGENTINA )
-http://redworld.pro:8880/@hastaseptiembre@/5wGDR8VD2CJQ/166764
-#EXTINF:-1 tvg-name="RADIO FM DE LOS RECUERDOS" group-title="Musica" tvg-chno="" x-quality="SD" ,RADIO FM DE LOS RECUERDOS
-http://redworld.pro:8880/@hastaseptiembre@/5wGDR8VD2CJQ/166761
-#EXTINF:-1 tvg-name="RADIO PLANETA CUMBIA LATINA (ARGENTINA)" group-title="Musica" tvg-chno="" x-quality="SD" ,RADIO PLANETA CUMBIA LATINA (ARGENTINA)
-http://redworld.pro:8880/@hastaseptiembre@/5wGDR8VD2CJQ/166767
-#EXTINF:-1 tvg-name="RADIO RINCON GAUCHO (ARGENTINA)" group-title="Musica" tvg-chno="" x-quality="SD" ,RADIO RINCON GAUCHO (ARGENTINA)
-http://redworld.pro:8880/@hastaseptiembre@/5wGDR8VD2CJQ/166769
-#EXTINF:-1 tvg-name="RADIO 40 PRINCIPALES (ARGENTINA)" group-title="Musica" tvg-chno="" x-quality="SD" ,RADIO 40 PRINCIPALES (ARGENTINA)
-http://redworld.pro:8880/@hastaseptiembre@/5wGDR8VD2CJQ/166766
-#EXTINF:-1 tvg-name="RADIO CVC LA VOZ (ARGENTINA)" group-title="Musica" tvg-chno="" x-quality="SD" ,RADIO CVC LA VOZ (ARGENTINA)
-http://redworld.pro:8880/@hastaseptiembre@/5wGDR8VD2CJQ/166771
-#EXTINF:-1 tvg-name="RADIO BELGRANO AM650 (ARGENTINA)" group-title="Musica" tvg-chno="" x-quality="SD" ,RADIO BELGRANO AM650 (ARGENTINA)
-http://redworld.pro:8880/@hastaseptiembre@/5wGDR8VD2CJQ/166773
-#EXTINF:-1 tvg-name="RADIO ROCA FM CLASICOS (ARGENTINA)" group-title="Musica" tvg-chno="" x-quality="SD" ,RADIO ROCA FM CLASICOS (ARGENTINA)
-http://redworld.pro:8880/@hastaseptiembre@/5wGDR8VD2CJQ/166770
-#EXTINF:-1 tvg-name="RADIO SOLO VINILO (ARGENTINA)" group-title="Musica" tvg-chno="" x-quality="SD" ,RADIO SOLO VINILO (ARGENTINA)
-http://redworld.pro:8880/@hastaseptiembre@/5wGDR8VD2CJQ/166774
-#EXTINF:-1 tvg-name="RADIO LIGHT FM 97.3 (ARGENTINA)" group-title="Musica" tvg-chno="" x-quality="SD" ,RADIO LIGHT FM 97.3 (ARGENTINA)
-http://redworld.pro:8880/@hastaseptiembre@/5wGDR8VD2CJQ/166776
-#EXTINF:-1 tvg-name="RADIO LA POPULAR (ARGENTINA)" group-title="Musica" tvg-chno="" x-quality="SD" ,RADIO LA POPULAR (ARGENTINA)
-http://redworld.pro:8880/@hastaseptiembre@/5wGDR8VD2CJQ/166777
-#EXTINF:-1 tvg-name="RADIO SOLO ROCK NACIONAL (ARGENTINA)" group-title="Musica" tvg-chno="" x-quality="SD" ,RADIO SOLO ROCK NACIONAL (ARGENTINA)
-http://redworld.pro:8880/@hastaseptiembre@/5wGDR8VD2CJQ/166779
-#EXTINF:-1 tvg-name="RADIO RPP LIMA (PERU)" group-title="Musica" tvg-chno="" x-quality="SD" ,RADIO RPP LIMA (PERU)
-http://redworld.pro:8880/@hastaseptiembre@/5wGDR8VD2CJQ/166784
-#EXTINF:-1 tvg-name="RADIO OXIGENO (PERU)" group-title="Musica" tvg-chno="" x-quality="SD" ,RADIO OXIGENO (PERU)
-http://redworld.pro:8880/@hastaseptiembre@/5wGDR8VD2CJQ/166785
-#EXTINF:-1 tvg-name="RADIO EXITOSA (PERU)" group-title="Musica" tvg-chno="" x-quality="SD" ,RADIO EXITOSA (PERU)
-http://redworld.pro:8880/@hastaseptiembre@/5wGDR8VD2CJQ/166786
-#EXTINF:-1 tvg-name="RADIO OASIS (PERU)" group-title="Musica" tvg-chno="" x-quality="SD" ,RADIO OASIS (PERU)
-http://redworld.pro:8880/@hastaseptiembre@/5wGDR8VD2CJQ/166788
-#EXTINF:-1 tvg-name="RADIO LA INOLVIDABLE (PERU)" group-title="Musica" tvg-chno="" x-quality="SD" ,RADIO LA INOLVIDABLE (PERU)
-http://redworld.pro:8880/@hastaseptiembre@/5wGDR8VD2CJQ/166787
-#EXTINF:-1 tvg-name="RADIO RITMO ROMANTICO (PERU)" group-title="Musica" tvg-chno="" x-quality="SD" ,RADIO RITMO ROMANTICO (PERU)
-http://redworld.pro:8880/@hastaseptiembre@/5wGDR8VD2CJQ/166790
-#EXTINF:-1 tvg-name="RADIO LA KALLE (PERU)" group-title="Musica" tvg-chno="" x-quality="SD" ,RADIO LA KALLE (PERU)
-http://redworld.pro:8880/@hastaseptiembre@/5wGDR8VD2CJQ/166791
-#EXTINF:-1 tvg-name="RADIO PANAMERICANA (PERU)" group-title="Musica" tvg-chno="" x-quality="SD" ,RADIO PANAMERICANA (PERU)
-http://redworld.pro:8880/@hastaseptiembre@/5wGDR8VD2CJQ/166789
-#EXTINF:-1 tvg-name="RADIO NUEVA Q (PERU)" group-title="Musica" tvg-chno="" x-quality="SD" ,RADIO NUEVA Q (PERU)
-http://redworld.pro:8880/@hastaseptiembre@/5wGDR8VD2CJQ/166793
-#EXTINF:-1 tvg-name="RADIO RADIOMAR (PERU)" group-title="Musica" tvg-chno="" x-quality="SD" ,RADIO RADIOMAR (PERU)
-http://redworld.pro:8880/@hastaseptiembre@/5wGDR8VD2CJQ/166792
-#EXTINF:-1 tvg-name="RADIO MODA TE MUEVE (PERU)" group-title="Musica" tvg-chno="" x-quality="SD" ,RADIO MODA TE MUEVE (PERU)
-http://redworld.pro:8880/@hastaseptiembre@/5wGDR8VD2CJQ/166794
-#EXTINF:-1 tvg-name="RADIO Z ROCK & POP (PERU)" group-title="Musica" tvg-chno="" x-quality="SD" ,RADIO Z ROCK & POP (PERU)
-http://redworld.pro:8880/@hastaseptiembre@/5wGDR8VD2CJQ/166796
-#EXTINF:-1 tvg-name="RADIO MAGICA (PERU)" group-title="Musica" tvg-chno="" x-quality="SD" ,RADIO MAGICA (PERU)
-http://redworld.pro:8880/@hastaseptiembre@/5wGDR8VD2CJQ/166798
-#EXTINF:-1 tvg-name="RADIO ONDA CERO (PERU)" group-title="Musica" tvg-chno="" x-quality="SD" ,RADIO ONDA CERO (PERU)
-http://redworld.pro:8880/@hastaseptiembre@/5wGDR8VD2CJQ/166797
-#EXTINF:-1 tvg-name="RADIO CUMBIA MIX (PERU)" group-title="Musica" tvg-chno="" x-quality="SD" ,RADIO CUMBIA MIX (PERU)
-http://redworld.pro:8880/@hastaseptiembre@/5wGDR8VD2CJQ/166799
-#EXTINF:-1 tvg-name="RADIO TOP LATINO (PERU)" group-title="Musica" tvg-chno="" x-quality="SD" ,RADIO TOP LATINO (PERU)
-http://redworld.pro:8880/@hastaseptiembre@/5wGDR8VD2CJQ/166800
-#EXTINF:-1 tvg-name="RADIO UNIVERSO" group-title="Musica" tvg-chno="" x-quality="SD" ,RADIO UNIVERSO
-http://redworld.pro:8880/@hastaseptiembre@/5wGDR8VD2CJQ/166882
-#EXTINF:-1 tvg-name="D3PÖRT3S | [$ŠPN-3]" group-title="General" tvg-chno="" x-quality="SD" ,D3PÖRT3S | [$ŠPN-3]
-http://redworld.pro:8880/@hastaseptiembre@/5wGDR8VD2CJQ/167725
-#EXTINF:-1 tvg-name="RADIO ROCKIN 80S" group-title="Musica" tvg-chno="" x-quality="SD" ,RADIO ROCKIN 80S
-http://redworld.pro:8880/@hastaseptiembre@/5wGDR8VD2CJQ/166883
-#EXTINF:-1 tvg-name="RADIO CUMBRE" group-title="Musica" tvg-chno="" x-quality="SD" ,RADIO CUMBRE
-http://redworld.pro:8880/@hastaseptiembre@/5wGDR8VD2CJQ/166884
-#EXTINF:-1 tvg-name="DEPORTES | * $.Š.P.N U" group-title="Deportes" tvg-chno="" x-quality="SD" ,DEPORTES | * $.Š.P.N U
-http://redworld.pro:8880/@hastaseptiembre@/5wGDR8VD2CJQ/167729
-#EXTINF:-1 tvg-name="D3PØRT3S | $ŠPN-4" group-title="General" tvg-chno="" x-quality="SD" ,D3PØRT3S | $ŠPN-4
-http://redworld.pro:8880/@hastaseptiembre@/5wGDR8VD2CJQ/167726
-#EXTINF:-1 tvg-name="DEPORTES | $ŠPN PR3MIUM" group-title="Deportes" tvg-chno="" x-quality="SD" ,DEPORTES | $ŠPN PR3MIUM
-http://redworld.pro:8880/@hastaseptiembre@/5wGDR8VD2CJQ/167727
-#EXTINF:-1 tvg-name="DEPORTES | D GAMES 2" group-title="Deportes" tvg-chno="" x-quality="SD" ,DEPORTES | D GAMES 2
-http://redworld.pro:8880/@hastaseptiembre@/5wGDR8VD2CJQ/167733
-#EXTINF:-1 tvg-name="DEPORTES | D GAMES 1" group-title="Deportes" tvg-chno="" x-quality="SD" ,DEPORTES | D GAMES 1
-http://redworld.pro:8880/@hastaseptiembre@/5wGDR8VD2CJQ/167731
-#EXTINF:-1 tvg-name="DEPORTES | D GAMES +" group-title="Deportes" tvg-chno="" x-quality="SD" ,DEPORTES | D GAMES +
-http://redworld.pro:8880/@hastaseptiembre@/5wGDR8VD2CJQ/167732
-#EXTINF:-1 tvg-name="DEPORTES | F0X $PORTS 1" group-title="Deportes" tvg-chno="" x-quality="SD" ,DEPORTES | F0X $PORTS 1
-http://redworld.pro:8880/@hastaseptiembre@/5wGDR8VD2CJQ/167734
-#EXTINF:-1 tvg-name="DEPORTES | F0X $PORTS 3" group-title="Deportes" tvg-chno="" x-quality="SD" ,DEPORTES | F0X $PORTS 3
-http://redworld.pro:8880/@hastaseptiembre@/5wGDR8VD2CJQ/167736
-#EXTINF:-1 tvg-name="DEPORTES | F0X $PORTS 2" group-title="Deportes" tvg-chno="" x-quality="SD" ,DEPORTES | F0X $PORTS 2
-http://redworld.pro:8880/@hastaseptiembre@/5wGDR8VD2CJQ/167735
-#EXTINF:-1 tvg-name="DEPORTES | F0X $PORTS PREMIUM" group-title="Deportes" tvg-chno="" x-quality="SD" ,DEPORTES | F0X $PORTS PREMIUM
-http://redworld.pro:8880/@hastaseptiembre@/5wGDR8VD2CJQ/167737
-#EXTINF:-1 tvg-name="DEPORTES | WIN SPORTS" group-title="Deportes" tvg-chno="" x-quality="SD" ,DEPORTES | WIN SPORTS
-http://redworld.pro:8880/@hastaseptiembre@/5wGDR8VD2CJQ/167739
-#EXTINF:-1 tvg-name="DEPORTES | WIN SPORTS" group-title="Deportes" tvg-chno="" x-quality="SD" ,DEPORTES | WIN SPORTS
-http://redworld.pro:8880/@hastaseptiembre@/5wGDR8VD2CJQ/167738
-#EXTINF:-1 tvg-name="DEPORTES | F1" group-title="Deportes" tvg-chno="" x-quality="SD" ,DEPORTES | F1
-http://redworld.pro:8880/@hastaseptiembre@/5wGDR8VD2CJQ/167742
-#EXTINF:-1 tvg-name="DEPORTES | GOLF CHANNEL" group-title="Deportes" tvg-chno="" x-quality="SD" ,DEPORTES | GOLF CHANNEL
-http://redworld.pro:8880/@hastaseptiembre@/5wGDR8VD2CJQ/167746
-#EXTINF:-1 tvg-name="DEPORTES | TENNIS CHANEL" group-title="Deportes" tvg-chno="" x-quality="SD" ,DEPORTES | TENNIS CHANEL
-http://redworld.pro:8880/@hastaseptiembre@/5wGDR8VD2CJQ/167748
-#EXTINF:-1 tvg-name="Deportes | AFIZZIONADOS" group-title="Deportes" tvg-chno="" x-quality="SD" ,Deportes | AFIZZIONADOS
-http://redworld.pro:8880/@hastaseptiembre@/5wGDR8VD2CJQ/167762
-#EXTINF:-1 tvg-name="DEPORTES | TUDN" group-title="Deportes" tvg-chno="" x-quality="SD" ,DEPORTES | TUDN
-http://redworld.pro:8880/@hastaseptiembre@/5wGDR8VD2CJQ/167770
-#EXTINF:-1 tvg-name="DEPORTES | TUDN XTRA" group-title="Deportes" tvg-chno="" x-quality="SD" ,DEPORTES | TUDN XTRA
-http://redworld.pro:8880/@hastaseptiembre@/5wGDR8VD2CJQ/167771
-#EXTINF:-1 tvg-name="DEPORTES | TVG" group-title="Deportes" tvg-chno="" x-quality="SD" ,DEPORTES | TVG
-http://redworld.pro:8880/@hastaseptiembre@/5wGDR8VD2CJQ/167772
-#EXTINF:-1 tvg-name="DEPORTES | TVG 2" group-title="Deportes" tvg-chno="" x-quality="SD" ,DEPORTES | TVG 2
-http://redworld.pro:8880/@hastaseptiembre@/5wGDR8VD2CJQ/167773
-#EXTINF:-1 tvg-name="DEPORTES | TVC Deportes" group-title="Deportes" tvg-chno="" x-quality="SD" ,DEPORTES | TVC Deportes
-http://redworld.pro:8880/@hastaseptiembre@/5wGDR8VD2CJQ/167775
-#EXTINF:-1 tvg-name="D GAMES 1 (CHI)" group-title="Videojuegos" tvg-chno="" x-quality="SD" ,D GAMES 1 (CHI)
-http://redworld.pro:8880/@hastaseptiembre@/5wGDR8VD2CJQ/167962
-#EXTINF:-1 tvg-name="*Ə$P*N 2 (CHI)" group-title="General" tvg-chno="" x-quality="SD" ,*Ə$P*N 2 (CHI)
-http://redworld.pro:8880/@hastaseptiembre@/5wGDR8VD2CJQ/167964
-#EXTINF:-1 tvg-name="*Ə$*PN 3 (CHI)" group-title="General" tvg-chno="" x-quality="SD" ,*Ə$*PN 3 (CHI)
-http://redworld.pro:8880/@hastaseptiembre@/5wGDR8VD2CJQ/167965
-#EXTINF:-1 tvg-name="DEPORTES | $ŠPN  NEWS" group-title="Deportes" tvg-chno="" x-quality="SD" ,DEPORTES | $ŠPN  NEWS
-http://redworld.pro:8880/@hastaseptiembre@/5wGDR8VD2CJQ/167730
-#EXTINF:-1 tvg-name="D3PORTES | *Ê$P*N D3PORTES" group-title="General" tvg-chno="" x-quality="SD" ,D3PORTES | *Ê$P*N D3PORTES
-http://redworld.pro:8880/@hastaseptiembre@/5wGDR8VD2CJQ/167728
-#EXTINF:-1 tvg-name="DEPORTES | SPORTV" group-title="Deportes" tvg-chno="" x-quality="SD" ,DEPORTES | SPORTV
-http://redworld.pro:8880/@hastaseptiembre@/5wGDR8VD2CJQ/167774
-#EXTINF:-1 tvg-name="RADIO MÁXIMA EXPERIENCIA" group-title="Musica" tvg-chno="" x-quality="SD" ,RADIO MÁXIMA EXPERIENCIA
-http://redworld.pro:8880/@hastaseptiembre@/5wGDR8VD2CJQ/173041
-#EXTINF:-1 tvg-name="TVU Concepción" group-title="General" tvg-chno="" x-quality="SD" ,TVU Concepción
-http://redworld.pro:8880/@hastaseptiembre@/5wGDR8VD2CJQ/252149
-#EXTINF:-1 tvg-name="CANAL 9 Bio Bio" group-title="General" tvg-chno="" x-quality="SD" ,CANAL 9 Bio Bio
-http://redworld.pro:8880/@hastaseptiembre@/5wGDR8VD2CJQ/252150
-#EXTINF:-1 tvg-name="ANTOFAGASTA TV" group-title="General" tvg-chno="" x-quality="SD" ,ANTOFAGASTA TV
-http://redworld.pro:8880/@hastaseptiembre@/5wGDR8VD2CJQ/252153
-#EXTINF:-1 tvg-name="CANAL 2 San antonio" group-title="General" tvg-chno="" x-quality="SD" ,CANAL 2 San antonio
-http://redworld.pro:8880/@hastaseptiembre@/5wGDR8VD2CJQ/252151
-#EXTINF:-1 tvg-name="ADN TV" group-title="General" tvg-chno="" x-quality="SD" ,ADN TV
-http://redworld.pro:8880/@hastaseptiembre@/5wGDR8VD2CJQ/252152
-#EXTINF:-1 tvg-name="VClassicTV Tropical" group-title="General" tvg-chno="" x-quality="SD" ,VClassicTV Tropical
-http://redworld.pro:8880/@hastaseptiembre@/5wGDR8VD2CJQ/257513
-#EXTINF:-1 tvg-name="Radio recuerdos retro" group-title="Musica" tvg-chno="" x-quality="SD" ,Radio recuerdos retro
-http://redworld.pro:8880/@hastaseptiembre@/5wGDR8VD2CJQ/257923
-#EXTINF:-1 tvg-name="CL | CHILEVISION SD" group-title="General" tvg-chno="" x-quality="SD" ,CL | CHILEVISION SD
-http://redworld.pro:8880/@hastaseptiembre@/5wGDR8VD2CJQ/272240
-#EXTINF:-1 tvg-name="CL | *TV*N HD" group-title="General" tvg-chno="" x-quality="SD" ,CL | *TV*N HD
-http://redworld.pro:8880/@hastaseptiembre@/5wGDR8VD2CJQ/272251
-#EXTINF:-1 tvg-name="CL | CANAL 13 SD" group-title="General" tvg-chno="" x-quality="SD" ,CL | CANAL 13 SD
-http://redworld.pro:8880/@hastaseptiembre@/5wGDR8VD2CJQ/272242
-#EXTINF:-1 tvg-name="CL | *TV*N SD" group-title="General" tvg-chno="" x-quality="SD" ,CL | *TV*N SD
-http://redworld.pro:8880/@hastaseptiembre@/5wGDR8VD2CJQ/272252
-#EXTINF:-1 tvg-name="CL | LA RED HD" group-title="General" tvg-chno="" x-quality="SD" ,CL | LA RED HD
-http://redworld.pro:8880/@hastaseptiembre@/5wGDR8VD2CJQ/272254
-#EXTINF:-1 tvg-name="CL | REC TV" group-title="General" tvg-chno="" x-quality="SD" ,CL | REC TV
-http://redworld.pro:8880/@hastaseptiembre@/5wGDR8VD2CJQ/273682
-#EXTINF:-1 tvg-name="CL | 24 HORAS HD" group-title="General" tvg-chno="" x-quality="SD" ,CL | 24 HORAS HD
-http://redworld.pro:8880/@hastaseptiembre@/5wGDR8VD2CJQ/272253
-#EXTINF:-1 tvg-name="CL | TV +" group-title="General" tvg-chno="" x-quality="SD" ,CL | TV +
-http://redworld.pro:8880/@hastaseptiembre@/5wGDR8VD2CJQ/273685
-#EXTINF:-1 tvg-name="CL |  ETC TV" group-title="General" tvg-chno="" x-quality="SD" ,CL |  ETC TV
-http://redworld.pro:8880/@hastaseptiembre@/5wGDR8VD2CJQ/273684
-#EXTINF:-1 tvg-name="CDO 2" group-title="General" tvg-chno="" x-quality="SD" ,CDO 2
-http://redworld.pro:8880/@hastaseptiembre@/5wGDR8VD2CJQ/273686
-#EXTINF:-1 tvg-name="CL | TELETRAK HD" group-title="General" tvg-chno="" x-quality="SD" ,CL | TELETRAK HD
-http://redworld.pro:8880/@hastaseptiembre@/5wGDR8VD2CJQ/300287
-#EXTINF:-1 tvg-name="CL | UCV HD" group-title="General" tvg-chno="" x-quality="SD" ,CL | UCV HD
-http://redworld.pro:8880/@hastaseptiembre@/5wGDR8VD2CJQ/273733
-#EXTINF:-1 tvg-name="CL | 13 TELESERIES" group-title="Series" tvg-chno="" x-quality="SD" ,CL | 13 TELESERIES
-http://redworld.pro:8880/@hastaseptiembre@/5wGDR8VD2CJQ/300290
-#EXTINF:-1 tvg-name="Latino | RCN Novelas" group-title="Internacional" tvg-chno="" x-quality="SD" ,Latino | RCN Novelas
-http://redworld.pro:8880/@hastaseptiembre@/5wGDR8VD2CJQ/308075
-#EXTINF:-1 tvg-name="CL | 13 CULTURA" group-title="General" tvg-chno="" x-quality="SD" ,CL | 13 CULTURA
-http://redworld.pro:8880/@hastaseptiembre@/5wGDR8VD2CJQ/300291
-#EXTINF:-1 tvg-name="UMAG TV CL" group-title="General" tvg-chno="" x-quality="SD" ,UMAG TV CL
-http://redworld.pro:8880/@hastaseptiembre@/5wGDR8VD2CJQ/308131
-#EXTINF:-1 tvg-name="Pingüino tv CL" group-title="General" tvg-chno="" x-quality="SD" ,Pingüino tv CL
-http://redworld.pro:8880/@hastaseptiembre@/5wGDR8VD2CJQ/308135
-#EXTINF:-1 tvg-name="UMAG TV 2 CL" group-title="General" tvg-chno="" x-quality="SD" ,UMAG TV 2 CL
-http://redworld.pro:8880/@hastaseptiembre@/5wGDR8VD2CJQ/308132
-#EXTINF:-1 tvg-name="ITV PATAGONIA" group-title="General" tvg-chno="" x-quality="SD" ,ITV PATAGONIA
-http://redworld.pro:8880/@hastaseptiembre@/5wGDR8VD2CJQ/308133
-#EXTINF:-1 tvg-name="Santa Maria TV" group-title="General" tvg-chno="" x-quality="SD" ,Santa Maria TV
-http://redworld.pro:8880/@hastaseptiembre@/5wGDR8VD2CJQ/308409
-#EXTINF:-1 tvg-name="CO | Cable Noticias HD" group-title="Noticias" tvg-chno="" x-quality="SD" ,CO | Cable Noticias HD
-http://redworld.pro:8880/@hastaseptiembre@/5wGDR8VD2CJQ/318369
-#EXTINF:-1 tvg-name="CO | Canal Capital" group-title="General" tvg-chno="" x-quality="SD" ,CO | Canal Capital
-http://redworld.pro:8880/@hastaseptiembre@/5wGDR8VD2CJQ/318370
-#EXTINF:-1 tvg-name="CO | Canal Uno HD" group-title="General" tvg-chno="" x-quality="SD" ,CO | Canal Uno HD
-http://redworld.pro:8880/@hastaseptiembre@/5wGDR8VD2CJQ/318371
-#EXTINF:-1 tvg-name="CO | CARACOL HD" group-title="General" tvg-chno="" x-quality="SD" ,CO | CARACOL HD
-http://redworld.pro:8880/@hastaseptiembre@/5wGDR8VD2CJQ/318372
-#EXTINF:-1 tvg-name="CO | CARACOL OP2" group-title="General" tvg-chno="" x-quality="SD" ,CO | CARACOL OP2
-http://redworld.pro:8880/@hastaseptiembre@/5wGDR8VD2CJQ/318373
-#EXTINF:-1 tvg-name="CO | Caracol Internacional" group-title="Internacional" tvg-chno="" x-quality="SD" ,CO | Caracol Internacional
-http://redworld.pro:8880/@hastaseptiembre@/5wGDR8VD2CJQ/318375
-#EXTINF:-1 tvg-name="CO | Caracol Internacional HD" group-title="Internacional" tvg-chno="" x-quality="SD" ,CO | Caracol Internacional HD
-http://redworld.pro:8880/@hastaseptiembre@/5wGDR8VD2CJQ/318376
-#EXTINF:-1 tvg-name="CO | CARACOL" group-title="General" tvg-chno="" x-quality="SD" ,CO | CARACOL
-http://redworld.pro:8880/@hastaseptiembre@/5wGDR8VD2CJQ/318374
-#EXTINF:-1 tvg-name="CO | Caracol Noticias" group-title="Noticias" tvg-chno="" x-quality="SD" ,CO | Caracol Noticias
-http://redworld.pro:8880/@hastaseptiembre@/5wGDR8VD2CJQ/318377
-#EXTINF:-1 tvg-name="CO | City TV HD" group-title="General" tvg-chno="" x-quality="SD" ,CO | City TV HD
-http://redworld.pro:8880/@hastaseptiembre@/5wGDR8VD2CJQ/318378
-#EXTINF:-1 tvg-name="CO | El Tiempo" group-title="General" tvg-chno="" x-quality="SD" ,CO | El Tiempo
-http://redworld.pro:8880/@hastaseptiembre@/5wGDR8VD2CJQ/318379
-#EXTINF:-1 tvg-name="CO | Pasiones HD" group-title="General" tvg-chno="" x-quality="SD" ,CO | Pasiones HD
-http://redworld.pro:8880/@hastaseptiembre@/5wGDR8VD2CJQ/318381
-#EXTINF:-1 tvg-name="CO | RCN SD" group-title="General" tvg-chno="" x-quality="SD" ,CO | RCN SD
-http://redworld.pro:8880/@hastaseptiembre@/5wGDR8VD2CJQ/318383
-#EXTINF:-1 tvg-name="CO | NTN24" group-title="General" tvg-chno="" x-quality="SD" ,CO | NTN24
-http://redworld.pro:8880/@hastaseptiembre@/5wGDR8VD2CJQ/318380
-#EXTINF:-1 tvg-name="CO | RCN Novelas HD" group-title="General" tvg-chno="" x-quality="SD" ,CO | RCN Novelas HD
-http://redworld.pro:8880/@hastaseptiembre@/5wGDR8VD2CJQ/318386
-#EXTINF:-1 tvg-name="CO | Señal Colombia" group-title="Internacional" tvg-chno="" x-quality="SD" ,CO | Señal Colombia
-http://redworld.pro:8880/@hastaseptiembre@/5wGDR8VD2CJQ/318387
-#EXTINF:-1 tvg-name="CO | RCN HD" group-title="General" tvg-chno="" x-quality="SD" ,CO | RCN HD
-http://redworld.pro:8880/@hastaseptiembre@/5wGDR8VD2CJQ/318384
-#EXTINF:-1 tvg-name="CO | Señal Colombia HD" group-title="Internacional" tvg-chno="" x-quality="SD" ,CO | Señal Colombia HD
-http://redworld.pro:8880/@hastaseptiembre@/5wGDR8VD2CJQ/318388
-#EXTINF:-1 tvg-name="CO | TeleAntioquia HD" group-title="General" tvg-chno="" x-quality="SD" ,CO | TeleAntioquia HD
-http://redworld.pro:8880/@hastaseptiembre@/5wGDR8VD2CJQ/318390
-#EXTINF:-1 tvg-name="CO | TeleAntioquia" group-title="General" tvg-chno="" x-quality="SD" ,CO | TeleAntioquia
-http://redworld.pro:8880/@hastaseptiembre@/5wGDR8VD2CJQ/318389
-#EXTINF:-1 tvg-name="CO | Telecafé" group-title="General" tvg-chno="" x-quality="SD" ,CO | Telecafé
-http://redworld.pro:8880/@hastaseptiembre@/5wGDR8VD2CJQ/318391
-#EXTINF:-1 tvg-name="CO | Telecafé HD" group-title="General" tvg-chno="" x-quality="SD" ,CO | Telecafé HD
-http://redworld.pro:8880/@hastaseptiembre@/5wGDR8VD2CJQ/318392
-#EXTINF:-1 tvg-name="CO | TeleCaribe" group-title="General" tvg-chno="" x-quality="SD" ,CO | TeleCaribe
-http://redworld.pro:8880/@hastaseptiembre@/5wGDR8VD2CJQ/318393
-#EXTINF:-1 tvg-name="CO | Telecaribe HD" group-title="General" tvg-chno="" x-quality="SD" ,CO | Telecaribe HD
-http://redworld.pro:8880/@hastaseptiembre@/5wGDR8VD2CJQ/318394
-#EXTINF:-1 tvg-name="CO | Telemedellin HD" group-title="General" tvg-chno="" x-quality="SD" ,CO | Telemedellin HD
-http://redworld.pro:8880/@hastaseptiembre@/5wGDR8VD2CJQ/318396
-#EXTINF:-1 tvg-name="CO | Telemedellin" group-title="General" tvg-chno="" x-quality="SD" ,CO | Telemedellin
-http://redworld.pro:8880/@hastaseptiembre@/5wGDR8VD2CJQ/318395
-#EXTINF:-1 tvg-name="CO | La kalle" group-title="General" tvg-chno="" x-quality="SD" ,CO | La kalle
-http://redworld.pro:8880/@hastaseptiembre@/5wGDR8VD2CJQ/318398
-#EXTINF:-1 tvg-name="CO | Telepacifico" group-title="General" tvg-chno="" x-quality="SD" ,CO | Telepacifico
-http://redworld.pro:8880/@hastaseptiembre@/5wGDR8VD2CJQ/318397
-#EXTINF:-1 tvg-name="CO | TV AGRO" group-title="General" tvg-chno="" x-quality="SD" ,CO | TV AGRO
-http://redworld.pro:8880/@hastaseptiembre@/5wGDR8VD2CJQ/318399
-#EXTINF:-1 tvg-name="Discovery Channel SD" group-title="General" tvg-chno="" x-quality="SD" ,Discovery Channel SD
-http://redworld.pro:8880/@hastaseptiembre@/5wGDR8VD2CJQ/318604
-#EXTINF:-1 tvg-name="Discovery Channel HD" group-title="General" tvg-chno="" x-quality="SD" ,Discovery Channel HD
-http://redworld.pro:8880/@hastaseptiembre@/5wGDR8VD2CJQ/318603
-#EXTINF:-1 tvg-name="Discovery Home & Health HD" group-title="General" tvg-chno="" x-quality="SD" ,Discovery Home & Health HD
-http://redworld.pro:8880/@hastaseptiembre@/5wGDR8VD2CJQ/318605
-#EXTINF:-1 tvg-name="Discovery Home & Health SD" group-title="General" tvg-chno="" x-quality="SD" ,Discovery Home & Health SD
-http://redworld.pro:8880/@hastaseptiembre@/5wGDR8VD2CJQ/318606
-#EXTINF:-1 tvg-name="Discovery Investigation HD" group-title="General" tvg-chno="" x-quality="SD" ,Discovery Investigation HD
-http://redworld.pro:8880/@hastaseptiembre@/5wGDR8VD2CJQ/318607
-#EXTINF:-1 tvg-name="DISCOVERY Science" group-title="General" tvg-chno="" x-quality="SD" ,DISCOVERY Science
-http://redworld.pro:8880/@hastaseptiembre@/5wGDR8VD2CJQ/318608
-#EXTINF:-1 tvg-name="DISCOVERY Theater HD" group-title="General" tvg-chno="" x-quality="SD" ,DISCOVERY Theater HD
-http://redworld.pro:8880/@hastaseptiembre@/5wGDR8VD2CJQ/318609
-#EXTINF:-1 tvg-name="DISCOVERY Theater" group-title="General" tvg-chno="" x-quality="SD" ,DISCOVERY Theater
-http://redworld.pro:8880/@hastaseptiembre@/5wGDR8VD2CJQ/318610
-#EXTINF:-1 tvg-name="DISCOVERY Turbo HD" group-title="General" tvg-chno="" x-quality="SD" ,DISCOVERY Turbo HD
-http://redworld.pro:8880/@hastaseptiembre@/5wGDR8VD2CJQ/318611
-#EXTINF:-1 tvg-name="DISCOVERY World SD" group-title="Internacional" tvg-chno="" x-quality="SD" ,DISCOVERY World SD
-http://redworld.pro:8880/@hastaseptiembre@/5wGDR8VD2CJQ/318612
-#EXTINF:-1 tvg-name="DISCOVERY World HD" group-title="Internacional" tvg-chno="" x-quality="SD" ,DISCOVERY World HD
-http://redworld.pro:8880/@hastaseptiembre@/5wGDR8VD2CJQ/318613
-#EXTINF:-1 tvg-name="Discovery Familia FHD" group-title="General" tvg-chno="" x-quality="SD" ,Discovery Familia FHD
-http://redworld.pro:8880/@hastaseptiembre@/5wGDR8VD2CJQ/318614
-#EXTINF:-1 tvg-name="Discovery Familia HD" group-title="General" tvg-chno="" x-quality="SD" ,Discovery Familia HD
-http://redworld.pro:8880/@hastaseptiembre@/5wGDR8VD2CJQ/318615
-#EXTINF:-1 tvg-name="EL GOURMET" group-title="General" tvg-chno="" x-quality="SD" ,EL GOURMET
-http://redworld.pro:8880/@hastaseptiembre@/5wGDR8VD2CJQ/318616
-#EXTINF:-1 tvg-name="HISTORY HD" group-title="General" tvg-chno="" x-quality="SD" ,HISTORY HD
-http://redworld.pro:8880/@hastaseptiembre@/5wGDR8VD2CJQ/318617
-#EXTINF:-1 tvg-name="History 2" group-title="General" tvg-chno="" x-quality="SD" ,History 2
-http://redworld.pro:8880/@hastaseptiembre@/5wGDR8VD2CJQ/318618
-#EXTINF:-1 tvg-name="History 2 HD" group-title="General" tvg-chno="" x-quality="SD" ,History 2 HD
-http://redworld.pro:8880/@hastaseptiembre@/5wGDR8VD2CJQ/318619
-#EXTINF:-1 tvg-name="NATIONAL GEOGRAPHIC FHD" group-title="General" tvg-chno="" x-quality="SD" ,NATIONAL GEOGRAPHIC FHD
-http://redworld.pro:8880/@hastaseptiembre@/5wGDR8VD2CJQ/318620
-#EXTINF:-1 tvg-name="NAT Geo HD" group-title="General" tvg-chno="" x-quality="SD" ,NAT Geo HD
-http://redworld.pro:8880/@hastaseptiembre@/5wGDR8VD2CJQ/318621
-#EXTINF:-1 tvg-name="NATGEO WILD HD" group-title="General" tvg-chno="" x-quality="SD" ,NATGEO WILD HD
-http://redworld.pro:8880/@hastaseptiembre@/5wGDR8VD2CJQ/318623
-#EXTINF:-1 tvg-name="ANIMAL Planet HD." group-title="General" tvg-chno="" x-quality="SD" ,ANIMAL Planet HD.
-http://redworld.pro:8880/@hastaseptiembre@/5wGDR8VD2CJQ/318624
-#EXTINF:-1 tvg-name="E! Entretainment FHD" group-title="General" tvg-chno="" x-quality="SD" ,E! Entretainment FHD
-http://redworld.pro:8880/@hastaseptiembre@/5wGDR8VD2CJQ/318626
-#EXTINF:-1 tvg-name="CANAL COCINA HD." group-title="General" tvg-chno="" x-quality="SD" ,CANAL COCINA HD.
-http://redworld.pro:8880/@hastaseptiembre@/5wGDR8VD2CJQ/318628
-#EXTINF:-1 tvg-name="E! Entretainment HD" group-title="General" tvg-chno="" x-quality="SD" ,E! Entretainment HD
-http://redworld.pro:8880/@hastaseptiembre@/5wGDR8VD2CJQ/318627
-#EXTINF:-1 tvg-name="TLC FHD" group-title="General" tvg-chno="" x-quality="SD" ,TLC FHD
-http://redworld.pro:8880/@hastaseptiembre@/5wGDR8VD2CJQ/318629
-#EXTINF:-1 tvg-name="HGTV FHD" group-title="General" tvg-chno="" x-quality="SD" ,HGTV FHD
-http://redworld.pro:8880/@hastaseptiembre@/5wGDR8VD2CJQ/318631
-#EXTINF:-1 tvg-name="TLC HD" group-title="General" tvg-chno="" x-quality="SD" ,TLC HD
-http://redworld.pro:8880/@hastaseptiembre@/5wGDR8VD2CJQ/318630
-#EXTINF:-1 tvg-name="LIFETIME HD" group-title="General" tvg-chno="" x-quality="SD" ,LIFETIME HD
-http://redworld.pro:8880/@hastaseptiembre@/5wGDR8VD2CJQ/318632
-#EXTINF:-1 tvg-name="KIDS | BABY TV" group-title="Infantil" tvg-chno="" x-quality="SD" ,KIDS | BABY TV
-http://redworld.pro:8880/@hastaseptiembre@/5wGDR8VD2CJQ/321969
-#EXTINF:-1 tvg-name="KIDS | BABY FIRST" group-title="Infantil" tvg-chno="" x-quality="SD" ,KIDS | BABY FIRST
-http://redworld.pro:8880/@hastaseptiembre@/5wGDR8VD2CJQ/321968
-#EXTINF:-1 tvg-name="KIDS | CARTOONITO" group-title="Infantil" tvg-chno="" x-quality="SD" ,KIDS | CARTOONITO
-http://redworld.pro:8880/@hastaseptiembre@/5wGDR8VD2CJQ/321975
-#EXTINF:-1 tvg-name="KIDS | CARTOON NETWORK | OPC2" group-title="Infantil" tvg-chno="" x-quality="SD" ,KIDS | CARTOON NETWORK | OPC2
-http://redworld.pro:8880/@hastaseptiembre@/5wGDR8VD2CJQ/321973
-#EXTINF:-1 tvg-name="KIDS | CARTOON NETWORK" group-title="Infantil" tvg-chno="" x-quality="SD" ,KIDS | CARTOON NETWORK
-http://redworld.pro:8880/@hastaseptiembre@/5wGDR8VD2CJQ/321974
-#EXTINF:-1 tvg-name="KIDS | DISNEY CHANNEL" group-title="Peliculas" tvg-chno="" x-quality="SD" ,KIDS | DISNEY CHANNEL
-http://redworld.pro:8880/@hastaseptiembre@/5wGDR8VD2CJQ/321978
-#EXTINF:-1 tvg-name="KIDS | DISNEY JUNIOR" group-title="Peliculas" tvg-chno="" x-quality="SD" ,KIDS | DISNEY JUNIOR
-http://redworld.pro:8880/@hastaseptiembre@/5wGDR8VD2CJQ/321981
-#EXTINF:-1 tvg-name="KIDS | DISCOVERY KIDS" group-title="Infantil" tvg-chno="" x-quality="SD" ,KIDS | DISCOVERY KIDS
-http://redworld.pro:8880/@hastaseptiembre@/5wGDR8VD2CJQ/321976
-#EXTINF:-1 tvg-name="KIDS | NICKELODEON" group-title="Infantil" tvg-chno="" x-quality="SD" ,KIDS | NICKELODEON
-http://redworld.pro:8880/@hastaseptiembre@/5wGDR8VD2CJQ/321984
-#EXTINF:-1 tvg-name="KIDS | NICK" group-title="Infantil" tvg-chno="" x-quality="SD" ,KIDS | NICK
-http://redworld.pro:8880/@hastaseptiembre@/5wGDR8VD2CJQ/321982
-#EXTINF:-1 tvg-name="KIDS | NICKTOONS" group-title="Infantil" tvg-chno="" x-quality="SD" ,KIDS | NICKTOONS
-http://redworld.pro:8880/@hastaseptiembre@/5wGDR8VD2CJQ/321985
-#EXTINF:-1 tvg-name="CHI | TVN 3" group-title="General" tvg-chno="" x-quality="SD" ,CHI | TVN 3
-http://redworld.pro:8880/@hastaseptiembre@/5wGDR8VD2CJQ/323865
-#EXTINF:-1 tvg-name="13 REALITIES" group-title="General" tvg-chno="" x-quality="SD" ,13 REALITIES
-http://redworld.pro:8880/@hastaseptiembre@/5wGDR8VD2CJQ/326710
-#EXTINF:-1 tvg-name="Radio JPS 107.5 FM (Parral)" group-title="Musica" tvg-chno="" x-quality="SD" ,Radio JPS 107.5 FM (Parral)
-http://redworld.pro:8880/@hastaseptiembre@/5wGDR8VD2CJQ/327355
-#EXTINF:-1 tvg-name="CL | NTV HD" group-title="General" tvg-chno="" x-quality="SD" ,CL | NTV HD
-http://redworld.pro:8880/@hastaseptiembre@/5wGDR8VD2CJQ/327356
-#EXTINF:-1 tvg-name="AR | $ŠPN-1" group-title="General" tvg-chno="" x-quality="SD" ,AR | $ŠPN-1
-http://redworld.pro:8880/@hastaseptiembre@/5wGDR8VD2CJQ/327914
-#EXTINF:-1 tvg-name="AR | [$ŠPN 2]" group-title="General" tvg-chno="" x-quality="SD" ,AR | [$ŠPN 2]
-http://redworld.pro:8880/@hastaseptiembre@/5wGDR8VD2CJQ/327915
-#EXTINF:-1 tvg-name="AR | ($ŠPN -3)" group-title="General" tvg-chno="" x-quality="SD" ,AR | ($ŠPN -3)
-http://redworld.pro:8880/@hastaseptiembre@/5wGDR8VD2CJQ/327916
-#EXTINF:-1 tvg-name="AR | TYC SPORTS" group-title="Deportes" tvg-chno="" x-quality="SD" ,AR | TYC SPORTS
-http://redworld.pro:8880/@hastaseptiembre@/5wGDR8VD2CJQ/327918
-#EXTINF:-1 tvg-name="AR | [$ŠPN) PREMIUM" group-title="General" tvg-chno="" x-quality="SD" ,AR | [$ŠPN) PREMIUM
-http://redworld.pro:8880/@hastaseptiembre@/5wGDR8VD2CJQ/327917
-#EXTINF:-1 tvg-name="AR | FUT SPORTS" group-title="Deportes" tvg-chno="" x-quality="SD" ,AR | FUT SPORTS
-http://redworld.pro:8880/@hastaseptiembre@/5wGDR8VD2CJQ/327919
-#EXTINF:-1 tvg-name="AR | F0X $PORTS 2" group-title="General" tvg-chno="" x-quality="SD" ,AR | F0X $PORTS 2
-http://redworld.pro:8880/@hastaseptiembre@/5wGDR8VD2CJQ/328109
-#EXTINF:-1 tvg-name="AR | F0X $PORTS 1" group-title="General" tvg-chno="" x-quality="SD" ,AR | F0X $PORTS 1
-http://redworld.pro:8880/@hastaseptiembre@/5wGDR8VD2CJQ/328108
-#EXTINF:-1 tvg-name="*Ə*$P*N 1 (CHI)" group-title="General" tvg-chno="" x-quality="SD" ,*Ə*$P*N 1 (CHI)
-http://redworld.pro:8880/@hastaseptiembre@/5wGDR8VD2CJQ/338193
-#EXTINF:-1 tvg-name="AR | F0X $PORTS PREMIUM" group-title="General" tvg-chno="" x-quality="SD" ,AR | F0X $PORTS PREMIUM
-http://redworld.pro:8880/@hastaseptiembre@/5wGDR8VD2CJQ/328111
-#EXTINF:-1 tvg-name="AR | F0X $PORTS 3" group-title="General" tvg-chno="" x-quality="SD" ,AR | F0X $PORTS 3
-http://redworld.pro:8880/@hastaseptiembre@/5wGDR8VD2CJQ/328110
-#EXTINF:-1 tvg-name="RTS" group-title="General" tvg-chno="" x-quality="SD" ,RTS
-http://redworld.pro:8880/@hastaseptiembre@/5wGDR8VD2CJQ/347668
-#EXTINF:-1 tvg-name="TVC HD" group-title="General" tvg-chno="" x-quality="SD" ,TVC HD
-http://redworld.pro:8880/@hastaseptiembre@/5wGDR8VD2CJQ/347666
-#EXTINF:-1 tvg-name="TC TELEVISION" group-title="General" tvg-chno="" x-quality="SD" ,TC TELEVISION
-http://redworld.pro:8880/@hastaseptiembre@/5wGDR8VD2CJQ/347667
-#EXTINF:-1 tvg-name="ECUADOR | ECUAVISA" group-title="General" tvg-chno="" x-quality="SD" ,ECUADOR | ECUAVISA
-http://redworld.pro:8880/@hastaseptiembre@/5wGDR8VD2CJQ/347669
-#EXTINF:-1 tvg-name="EC | ECUAVISA HD (GYE)" group-title="General" tvg-chno="" x-quality="SD" ,EC | ECUAVISA HD (GYE)
-http://redworld.pro:8880/@hastaseptiembre@/5wGDR8VD2CJQ/347673
-#EXTINF:-1 tvg-name="ECUADOR | TELEAMAZONAS HD" group-title="Peliculas" tvg-chno="" x-quality="SD" ,ECUADOR | TELEAMAZONAS HD
-http://redworld.pro:8880/@hastaseptiembre@/5wGDR8VD2CJQ/347670
-#EXTINF:-1 tvg-name="GAMAVISION HD" group-title="General" tvg-chno="" x-quality="SD" ,GAMAVISION HD
-http://redworld.pro:8880/@hastaseptiembre@/5wGDR8VD2CJQ/347675
-#EXTINF:-1 tvg-name="ECUADOR TV" group-title="General" tvg-chno="" x-quality="SD" ,ECUADOR TV
-http://redworld.pro:8880/@hastaseptiembre@/5wGDR8VD2CJQ/347680
-#EXTINF:-1 tvg-name="EC | TC TELEVISION HD" group-title="General" tvg-chno="" x-quality="SD" ,EC | TC TELEVISION HD
-http://redworld.pro:8880/@hastaseptiembre@/5wGDR8VD2CJQ/347679
-#EXTINF:-1 tvg-name="EC | RTS SD Ⓓ" group-title="General" tvg-chno="" x-quality="SD" ,EC | RTS SD Ⓓ
-http://redworld.pro:8880/@hastaseptiembre@/5wGDR8VD2CJQ/347682
-#EXTINF:-1 tvg-name="TELEAMAZONAS SD" group-title="Peliculas" tvg-chno="" x-quality="SD" ,TELEAMAZONAS SD
-http://redworld.pro:8880/@hastaseptiembre@/5wGDR8VD2CJQ/347687
-#EXTINF:-1 tvg-name="TVC SD" group-title="General" tvg-chno="" x-quality="SD" ,TVC SD
-http://redworld.pro:8880/@hastaseptiembre@/5wGDR8VD2CJQ/347681
-#EXTINF:-1 tvg-name="RADIO PACHANGA DANCE" group-title="Musica" tvg-chno="" x-quality="SD" ,RADIO PACHANGA DANCE
-http://redworld.pro:8880/@hastaseptiembre@/5wGDR8VD2CJQ/348689
-#EXTINF:-1 tvg-name="RADIO CARAMELO" group-title="Musica" tvg-chno="" x-quality="SD" ,RADIO CARAMELO
-http://redworld.pro:8880/@hastaseptiembre@/5wGDR8VD2CJQ/348690
-#EXTINF:-1 tvg-name="Radio lado oscuro TV / Cl" group-title="Musica" tvg-chno="" x-quality="SD" ,Radio lado oscuro TV / Cl
-http://redworld.pro:8880/@hastaseptiembre@/5wGDR8VD2CJQ/348343
-#EXTINF:-1 tvg-name="RADIO SONICA" group-title="Musica" tvg-chno="" x-quality="SD" ,RADIO SONICA
-http://redworld.pro:8880/@hastaseptiembre@/5wGDR8VD2CJQ/348691
-#EXTINF:-1 tvg-name="RADIO LA CARIÑOSA" group-title="Musica" tvg-chno="" x-quality="SD" ,RADIO LA CARIÑOSA
-http://redworld.pro:8880/@hastaseptiembre@/5wGDR8VD2CJQ/348693
-#EXTINF:-1 tvg-name="RADIO PUNTO 7 (CONCEPCION)" group-title="Musica" tvg-chno="" x-quality="SD" ,RADIO PUNTO 7 (CONCEPCION)
-http://redworld.pro:8880/@hastaseptiembre@/5wGDR8VD2CJQ/348692
-#EXTINF:-1 tvg-name="RADIO BLU" group-title="Musica" tvg-chno="" x-quality="SD" ,RADIO BLU
-http://redworld.pro:8880/@hastaseptiembre@/5wGDR8VD2CJQ/348695
-#EXTINF:-1 tvg-name="RADIO ISIDORA (CHILLAN)" group-title="Musica" tvg-chno="" x-quality="SD" ,RADIO ISIDORA (CHILLAN)
-http://redworld.pro:8880/@hastaseptiembre@/5wGDR8VD2CJQ/348694
-#EXTINF:-1 tvg-name="RADIO CARACOL" group-title="Musica" tvg-chno="" x-quality="SD" ,RADIO CARACOL
-http://redworld.pro:8880/@hastaseptiembre@/5wGDR8VD2CJQ/348696
-#EXTINF:-1 tvg-name="RADIO W" group-title="Musica" tvg-chno="" x-quality="SD" ,RADIO W
-http://redworld.pro:8880/@hastaseptiembre@/5wGDR8VD2CJQ/348697
-#EXTINF:-1 tvg-name="RADIO OLIMPIA STEREO MEDELLIN" group-title="Musica" tvg-chno="" x-quality="SD" ,RADIO OLIMPIA STEREO MEDELLIN
-http://redworld.pro:8880/@hastaseptiembre@/5wGDR8VD2CJQ/348698
-#EXTINF:-1 tvg-name="RADIO BESAME" group-title="Musica" tvg-chno="" x-quality="SD" ,RADIO BESAME
-http://redworld.pro:8880/@hastaseptiembre@/5wGDR8VD2CJQ/348699
-#EXTINF:-1 tvg-name="RADIO TROPICANA BOGOTA" group-title="Musica" tvg-chno="" x-quality="SD" ,RADIO TROPICANA BOGOTA
-http://redworld.pro:8880/@hastaseptiembre@/5wGDR8VD2CJQ/348700
-#EXTINF:-1 tvg-name="RADIO LOS 40 (COLOMBIA)" group-title="Musica" tvg-chno="" x-quality="SD" ,RADIO LOS 40 (COLOMBIA)
-http://redworld.pro:8880/@hastaseptiembre@/5wGDR8VD2CJQ/348702
-#EXTINF:-1 tvg-name="RADIO CANDELA ESTEREO" group-title="Musica" tvg-chno="" x-quality="SD" ,RADIO CANDELA ESTEREO
-http://redworld.pro:8880/@hastaseptiembre@/5wGDR8VD2CJQ/348701
-#EXTINF:-1 tvg-name="RADIO ACKTIVA BOGOTA" group-title="Musica" tvg-chno="" x-quality="SD" ,RADIO ACKTIVA BOGOTA
-http://redworld.pro:8880/@hastaseptiembre@/5wGDR8VD2CJQ/348703
-#EXTINF:-1 tvg-name="RADIO CONEXION56" group-title="Musica" tvg-chno="" x-quality="SD" ,RADIO CONEXION56
-http://redworld.pro:8880/@hastaseptiembre@/5wGDR8VD2CJQ/348705
-#EXTINF:-1 tvg-name="RADIO VIBRA FM" group-title="Musica" tvg-chno="" x-quality="SD" ,RADIO VIBRA FM
-http://redworld.pro:8880/@hastaseptiembre@/5wGDR8VD2CJQ/348704
-#EXTINF:-1 tvg-name="RADIO LA REINA 98.6FM" group-title="Musica" tvg-chno="" x-quality="SD" ,RADIO LA REINA 98.6FM
-http://redworld.pro:8880/@hastaseptiembre@/5wGDR8VD2CJQ/348706
-#EXTINF:-1 tvg-name="RADIO LA RANCHERA (MONTEREY)" group-title="Musica" tvg-chno="" x-quality="SD" ,RADIO LA RANCHERA (MONTEREY)
-http://redworld.pro:8880/@hastaseptiembre@/5wGDR8VD2CJQ/348707
-#EXTINF:-1 tvg-name="RADIO CUMBIAS INMORTALES" group-title="Musica" tvg-chno="" x-quality="SD" ,RADIO CUMBIAS INMORTALES
-http://redworld.pro:8880/@hastaseptiembre@/5wGDR8VD2CJQ/348708
-#EXTINF:-1 tvg-name="RADIO CUMBIA MIX" group-title="Musica" tvg-chno="" x-quality="SD" ,RADIO CUMBIA MIX
-http://redworld.pro:8880/@hastaseptiembre@/5wGDR8VD2CJQ/348710
-#EXTINF:-1 tvg-name="RADIO LA GRUPERA" group-title="Musica" tvg-chno="" x-quality="SD" ,RADIO LA GRUPERA
-http://redworld.pro:8880/@hastaseptiembre@/5wGDR8VD2CJQ/348709
-#EXTINF:-1 tvg-name="RADIO CUMBIA SONIDERA" group-title="Musica" tvg-chno="" x-quality="SD" ,RADIO CUMBIA SONIDERA
-http://redworld.pro:8880/@hastaseptiembre@/5wGDR8VD2CJQ/348711
-#EXTINF:-1 tvg-name="RADIO LA RANCHERA 106.1 FM" group-title="Musica" tvg-chno="" x-quality="SD" ,RADIO LA RANCHERA 106.1 FM
-http://redworld.pro:8880/@hastaseptiembre@/5wGDR8VD2CJQ/348712
-#EXTINF:-1 tvg-name="RADIO GALLITO 760AM" group-title="Musica" tvg-chno="" x-quality="SD" ,RADIO GALLITO 760AM
-http://redworld.pro:8880/@hastaseptiembre@/5wGDR8VD2CJQ/348714
-#EXTINF:-1 tvg-name="RADIO QUE VIVA MEXICO" group-title="Musica" tvg-chno="" x-quality="SD" ,RADIO QUE VIVA MEXICO
-http://redworld.pro:8880/@hastaseptiembre@/5wGDR8VD2CJQ/348713
-#EXTINF:-1 tvg-name="RADIO CUMBIA MEXICO" group-title="Musica" tvg-chno="" x-quality="SD" ,RADIO CUMBIA MEXICO
-http://redworld.pro:8880/@hastaseptiembre@/5wGDR8VD2CJQ/348717
-#EXTINF:-1 tvg-name="RADIO LA INVASORA 99.7FM" group-title="Musica" tvg-chno="" x-quality="SD" ,RADIO LA INVASORA 99.7FM
-http://redworld.pro:8880/@hastaseptiembre@/5wGDR8VD2CJQ/348716
-#EXTINF:-1 tvg-name="RADIO LATINA EN VIVO 104.5" group-title="Musica" tvg-chno="" x-quality="SD" ,RADIO LATINA EN VIVO 104.5
-http://redworld.pro:8880/@hastaseptiembre@/5wGDR8VD2CJQ/348715
-#EXTINF:-1 tvg-name="RADIO LA RANCHERITA" group-title="Musica" tvg-chno="" x-quality="SD" ,RADIO LA RANCHERITA
-http://redworld.pro:8880/@hastaseptiembre@/5wGDR8VD2CJQ/348718
-#EXTINF:-1 tvg-name="Love Planet HD" group-title="General" tvg-chno="" x-quality="SD" ,Love Planet HD
-http://redworld.pro:8880/@hastaseptiembre@/5wGDR8VD2CJQ/348755
-#EXTINF:-1 tvg-name="Love Nature SD (D)" group-title="General" tvg-chno="" x-quality="SD" ,Love Nature SD (D)
-http://redworld.pro:8880/@hastaseptiembre@/5wGDR8VD2CJQ/348756
-#EXTINF:-1 tvg-name="SOBERANÍA" group-title="General" tvg-chno="" x-quality="SD" ,SOBERANÍA
-http://redworld.pro:8880/@hastaseptiembre@/5wGDR8VD2CJQ/348827
-#EXTINF:-1 tvg-name="Garage Tv SD (D)" group-title="General" tvg-chno="" x-quality="SD" ,Garage Tv SD (D)
-http://redworld.pro:8880/@hastaseptiembre@/5wGDR8VD2CJQ/350261
-#EXTINF:-1 tvg-name="Boxing Tv SD (D)" group-title="Deportes" tvg-chno="" x-quality="SD" ,Boxing Tv SD (D)
-http://redworld.pro:8880/@hastaseptiembre@/5wGDR8VD2CJQ/350259
-#EXTINF:-1 tvg-name="Deportes 13 Tv SD (D)" group-title="Deportes" tvg-chno="" x-quality="SD" ,Deportes 13 Tv SD (D)
-http://redworld.pro:8880/@hastaseptiembre@/5wGDR8VD2CJQ/350262
-#EXTINF:-1 tvg-name="RT en Español SD (D)" group-title="General" tvg-chno="" x-quality="SD" ,RT en Español SD (D)
-http://redworld.pro:8880/@hastaseptiembre@/5wGDR8VD2CJQ/350267
-#EXTINF:-1 tvg-name="Canela Deportes SD (D)" group-title="Deportes" tvg-chno="" x-quality="SD" ,Canela Deportes SD (D)
-http://redworld.pro:8880/@hastaseptiembre@/5wGDR8VD2CJQ/350264
-#EXTINF:-1 tvg-name="ECUADOR | PURUWA" group-title="General" tvg-chno="" x-quality="SD" ,ECUADOR | PURUWA
-http://redworld.pro:8880/@hastaseptiembre@/5wGDR8VD2CJQ/350269
-#EXTINF:-1 tvg-name="Just For Laughs Bromas HD (D)" group-title="General" tvg-chno="" x-quality="SD" ,Just For Laughs Bromas HD (D)
-http://redworld.pro:8880/@hastaseptiembre@/5wGDR8VD2CJQ/350367
-#EXTINF:-1 tvg-name="Inti ecuador SD (D)" group-title="General" tvg-chno="" x-quality="SD" ,Inti ecuador SD (D)
-http://redworld.pro:8880/@hastaseptiembre@/5wGDR8VD2CJQ/350368
-#EXTINF:-1 tvg-name="Oxigeno Venezuela SD (D)" group-title="General" tvg-chno="" x-quality="SD" ,Oxigeno Venezuela SD (D)
-http://redworld.pro:8880/@hastaseptiembre@/5wGDR8VD2CJQ/350387
-#EXTINF:-1 tvg-name="Mi Gente Tv Colombia HD (D)" group-title="Internacional" tvg-chno="" x-quality="SD" ,Mi Gente Tv Colombia HD (D)
-http://redworld.pro:8880/@hastaseptiembre@/5wGDR8VD2CJQ/350378
-#EXTINF:-1 tvg-name="Megavision 21 FHD (El Salvador)" group-title="General" tvg-chno="" x-quality="SD" ,Megavision 21 FHD (El Salvador)
-http://redworld.pro:8880/@hastaseptiembre@/5wGDR8VD2CJQ/354322
-#EXTINF:-1 tvg-name="Canal 36 FHD (Costa Rica)" group-title="General" tvg-chno="" x-quality="SD" ,Canal 36 FHD (Costa Rica)
-http://redworld.pro:8880/@hastaseptiembre@/5wGDR8VD2CJQ/354333
-#EXTINF:-1 tvg-name="Megavision 19 HD (El Salvador)" group-title="General" tvg-chno="" x-quality="SD" ,Megavision 19 HD (El Salvador)
-http://redworld.pro:8880/@hastaseptiembre@/5wGDR8VD2CJQ/354323
-#EXTINF:-1 tvg-name="Telesur HD (Costa Rica)" group-title="General" tvg-chno="" x-quality="SD" ,Telesur HD (Costa Rica)
-http://redworld.pro:8880/@hastaseptiembre@/5wGDR8VD2CJQ/354334
-#EXTINF:-1 tvg-name="ABC HD (Paraguay)" group-title="General" tvg-chno="" x-quality="SD" ,ABC HD (Paraguay)
-http://redworld.pro:8880/@hastaseptiembre@/5wGDR8VD2CJQ/354337
-#EXTINF:-1 tvg-name="PR | WAPA HD" group-title="General" tvg-chno="" x-quality="SD" ,PR | WAPA HD
-http://redworld.pro:8880/@hastaseptiembre@/5wGDR8VD2CJQ/354744
-#EXTINF:-1 tvg-name="PR  | Mega Tv" group-title="General" tvg-chno="" x-quality="SD" ,PR  | Mega Tv
-http://redworld.pro:8880/@hastaseptiembre@/5wGDR8VD2CJQ/354745
-#EXTINF:-1 tvg-name="PR II PUNTO 2 HD (PP)" group-title="General" tvg-chno="" x-quality="SD" ,PR II PUNTO 2 HD (PP)
-http://redworld.pro:8880/@hastaseptiembre@/5wGDR8VD2CJQ/354748
-#EXTINF:-1 tvg-name="PR | TELEMUNDO" group-title="Noticias" tvg-chno="" x-quality="SD" ,PR | TELEMUNDO
-http://redworld.pro:8880/@hastaseptiembre@/5wGDR8VD2CJQ/354747
-#EXTINF:-1 tvg-name="PR  | Wapa 2" group-title="General" tvg-chno="" x-quality="SD" ,PR  | Wapa 2
-http://redworld.pro:8880/@hastaseptiembre@/5wGDR8VD2CJQ/354746
-#EXTINF:-1 tvg-name="PR II TELEORO SD (PP)" group-title="General" tvg-chno="" x-quality="SD" ,PR II TELEORO SD (PP)
-http://redworld.pro:8880/@hastaseptiembre@/5wGDR8VD2CJQ/354750
-#EXTINF:-1 tvg-name="CL | MEGA 2 HD" group-title="General" tvg-chno="" x-quality="SD" ,CL | MEGA 2 HD
-http://redworld.pro:8880/@hastaseptiembre@/5wGDR8VD2CJQ/357059
-#EXTINF:-1 tvg-name="PR II NOTIUNO SD (PP)" group-title="General" tvg-chno="" x-quality="SD" ,PR II NOTIUNO SD (PP)
-http://redworld.pro:8880/@hastaseptiembre@/5wGDR8VD2CJQ/354749
-#EXTINF:-1 tvg-name="Canal 11." group-title="General" tvg-chno="" x-quality="SD" ,Canal 11.
-http://redworld.pro:8880/@hastaseptiembre@/5wGDR8VD2CJQ/357692
-#EXTINF:-1 tvg-name="CANAL 2 HD" group-title="General" tvg-chno="" x-quality="SD" ,CANAL 2 HD
-http://redworld.pro:8880/@hastaseptiembre@/5wGDR8VD2CJQ/357693
-#EXTINF:-1 tvg-name="CANAL 10" group-title="General" tvg-chno="" x-quality="SD" ,CANAL 10
-http://redworld.pro:8880/@hastaseptiembre@/5wGDR8VD2CJQ/357691
-#EXTINF:-1 tvg-name="CANAL 6" group-title="General" tvg-chno="" x-quality="SD" ,CANAL 6
-http://redworld.pro:8880/@hastaseptiembre@/5wGDR8VD2CJQ/357695
-#EXTINF:-1 tvg-name="CANAL 8 TN8 HD" group-title="General" tvg-chno="" x-quality="SD" ,CANAL 8 TN8 HD
-http://redworld.pro:8880/@hastaseptiembre@/5wGDR8VD2CJQ/357694
-#EXTINF:-1 tvg-name="CANAL 14 VOS TV HD" group-title="General" tvg-chno="" x-quality="SD" ,CANAL 14 VOS TV HD
-http://redworld.pro:8880/@hastaseptiembre@/5wGDR8VD2CJQ/357696
-#EXTINF:-1 tvg-name="CANAL 10 HD" group-title="General" tvg-chno="" x-quality="SD" ,CANAL 10 HD
-http://redworld.pro:8880/@hastaseptiembre@/5wGDR8VD2CJQ/357698
-#EXTINF:-1 tvg-name="CANAL 12 HD" group-title="General" tvg-chno="" x-quality="SD" ,CANAL 12 HD
-http://redworld.pro:8880/@hastaseptiembre@/5wGDR8VD2CJQ/357697
-#EXTINF:-1 tvg-name="Radio Magallanes" group-title="Musica" tvg-chno="" x-quality="SD" ,Radio Magallanes
-http://redworld.pro:8880/@hastaseptiembre@/5wGDR8VD2CJQ/359888
-#EXTINF:-1 tvg-name="Canal Gen Tv  - C.A B.A" group-title="General" tvg-chno="" x-quality="SD" ,Canal Gen Tv  - C.A B.A
-http://redworld.pro:8880/@hastaseptiembre@/5wGDR8VD2CJQ/359917
-#EXTINF:-1 tvg-name="Canal Atv - C.A.B.A" group-title="General" tvg-chno="" x-quality="SD" ,Canal Atv - C.A.B.A
-http://redworld.pro:8880/@hastaseptiembre@/5wGDR8VD2CJQ/359918
-#EXTINF:-1 tvg-name="Canal Net Tv - C.A.B.A" group-title="General" tvg-chno="" x-quality="SD" ,Canal Net Tv - C.A.B.A
-http://redworld.pro:8880/@hastaseptiembre@/5wGDR8VD2CJQ/359919
-#EXTINF:-1 tvg-name="Canal Quantica Tv - Buenos Aires" group-title="General" tvg-chno="" x-quality="SD" ,Canal Quantica Tv - Buenos Aires
-http://redworld.pro:8880/@hastaseptiembre@/5wGDR8VD2CJQ/359923
-#EXTINF:-1 tvg-name="Canal Neo Tv  - Buenos Aires" group-title="General" tvg-chno="" x-quality="SD" ,Canal Neo Tv  - Buenos Aires
-http://redworld.pro:8880/@hastaseptiembre@/5wGDR8VD2CJQ/359922
-#EXTINF:-1 tvg-name="Canal Urbana Teve - C.A.B.A" group-title="General" tvg-chno="" x-quality="SD" ,Canal Urbana Teve - C.A.B.A
-http://redworld.pro:8880/@hastaseptiembre@/5wGDR8VD2CJQ/359920
-#EXTINF:-1 tvg-name="Canal Solidaria Tv - Buenos Aires" group-title="General" tvg-chno="" x-quality="SD" ,Canal Solidaria Tv - Buenos Aires
-http://redworld.pro:8880/@hastaseptiembre@/5wGDR8VD2CJQ/359924
-#EXTINF:-1 tvg-name="Canal Cinco Tv - Buenos Aires" group-title="General" tvg-chno="" x-quality="SD" ,Canal Cinco Tv - Buenos Aires
-http://redworld.pro:8880/@hastaseptiembre@/5wGDR8VD2CJQ/359925
-#EXTINF:-1 tvg-name="Canal UNLP - Buenos Aires" group-title="General" tvg-chno="" x-quality="SD" ,Canal UNLP - Buenos Aires
-http://redworld.pro:8880/@hastaseptiembre@/5wGDR8VD2CJQ/359927
-#EXTINF:-1 tvg-name="Canal Telemix - Buenos Aires" group-title="General" tvg-chno="" x-quality="SD" ,Canal Telemix - Buenos Aires
-http://redworld.pro:8880/@hastaseptiembre@/5wGDR8VD2CJQ/359930
-#EXTINF:-1 tvg-name="Canal 8 Mar del Plata - Buenos Aires" group-title="General" tvg-chno="" x-quality="SD" ,Canal 8 Mar del Plata - Buenos Aires
-http://redworld.pro:8880/@hastaseptiembre@/5wGDR8VD2CJQ/359928
-#EXTINF:-1 tvg-name="Canal 3 Pinamar- Buenos Aires" group-title="General" tvg-chno="" x-quality="SD" ,Canal 3 Pinamar- Buenos Aires
-http://redworld.pro:8880/@hastaseptiembre@/5wGDR8VD2CJQ/359931
-#EXTINF:-1 tvg-name="Canal Telecreativa - Buenos Aires" group-title="General" tvg-chno="" x-quality="SD" ,Canal Telecreativa - Buenos Aires
-http://redworld.pro:8880/@hastaseptiembre@/5wGDR8VD2CJQ/359934
-#EXTINF:-1 tvg-name="Canal SpTv - Buenos Aires" group-title="General" tvg-chno="" x-quality="SD" ,Canal SpTv - Buenos Aires
-http://redworld.pro:8880/@hastaseptiembre@/5wGDR8VD2CJQ/359933
-#EXTINF:-1 tvg-name="Canal 11 de la Costa - Buenos Aires" group-title="General" tvg-chno="" x-quality="SD" ,Canal 11 de la Costa - Buenos Aires
-http://redworld.pro:8880/@hastaseptiembre@/5wGDR8VD2CJQ/359935
-#EXTINF:-1 tvg-name="Canal Chaco Tv - Chaco" group-title="General" tvg-chno="" x-quality="SD" ,Canal Chaco Tv - Chaco
-http://redworld.pro:8880/@hastaseptiembre@/5wGDR8VD2CJQ/359936
-#EXTINF:-1 tvg-name="Canal 10 Cordoba - Cordoba" group-title="General" tvg-chno="" x-quality="SD" ,Canal 10 Cordoba - Cordoba
-http://redworld.pro:8880/@hastaseptiembre@/5wGDR8VD2CJQ/359940
-#EXTINF:-1 tvg-name="Canal Azm Tv - Chubut" group-title="General" tvg-chno="" x-quality="SD" ,Canal Azm Tv - Chubut
-http://redworld.pro:8880/@hastaseptiembre@/5wGDR8VD2CJQ/359938
-#EXTINF:-1 tvg-name="Canal U - Cordoba" group-title="General" tvg-chno="" x-quality="SD" ,Canal U - Cordoba
-http://redworld.pro:8880/@hastaseptiembre@/5wGDR8VD2CJQ/359941
-#EXTINF:-1 tvg-name="Canal unitv - Cordoba" group-title="General" tvg-chno="" x-quality="SD" ,Canal unitv - Cordoba
-http://redworld.pro:8880/@hastaseptiembre@/5wGDR8VD2CJQ/359942
-#EXTINF:-1 tvg-name="Canal Quatro Tv - Cordoba" group-title="General" tvg-chno="" x-quality="SD" ,Canal Quatro Tv - Cordoba
-http://redworld.pro:8880/@hastaseptiembre@/5wGDR8VD2CJQ/359943
-#EXTINF:-1 tvg-name="Canal Tru Tv - Cordoba" group-title="General" tvg-chno="" x-quality="SD" ,Canal Tru Tv - Cordoba
-http://redworld.pro:8880/@hastaseptiembre@/5wGDR8VD2CJQ/359946
-#EXTINF:-1 tvg-name="Canal 9 Río cuarto Tv - Cordoba" group-title="General" tvg-chno="" x-quality="SD" ,Canal 9 Río cuarto Tv - Cordoba
-http://redworld.pro:8880/@hastaseptiembre@/5wGDR8VD2CJQ/359944
-#EXTINF:-1 tvg-name="Canal C20 - Cordoba" group-title="General" tvg-chno="" x-quality="SD" ,Canal C20 - Cordoba
-http://redworld.pro:8880/@hastaseptiembre@/5wGDR8VD2CJQ/359945
-#EXTINF:-1 tvg-name="Canal ACV HD - Corrientes" group-title="General" tvg-chno="" x-quality="SD" ,Canal ACV HD - Corrientes
-http://redworld.pro:8880/@hastaseptiembre@/5wGDR8VD2CJQ/360493
-#EXTINF:-1 tvg-name="Canal 9 Litoral - Entre Rios" group-title="General" tvg-chno="" x-quality="SD" ,Canal 9 Litoral - Entre Rios
-http://redworld.pro:8880/@hastaseptiembre@/5wGDR8VD2CJQ/360495
-#EXTINF:-1 tvg-name="Canal CorrientesTV - Corrientes" group-title="General" tvg-chno="" x-quality="SD" ,Canal CorrientesTV - Corrientes
-http://redworld.pro:8880/@hastaseptiembre@/5wGDR8VD2CJQ/360492
-#EXTINF:-1 tvg-name="Canal 3 - Formosa" group-title="General" tvg-chno="" x-quality="SD" ,Canal 3 - Formosa
-http://redworld.pro:8880/@hastaseptiembre@/5wGDR8VD2CJQ/360497
-#EXTINF:-1 tvg-name="Canal 7 - Jujui" group-title="General" tvg-chno="" x-quality="SD" ,Canal 7 - Jujui
-http://redworld.pro:8880/@hastaseptiembre@/5wGDR8VD2CJQ/360498
-#EXTINF:-1 tvg-name="Canal Lapacho Tv - Formosa" group-title="General" tvg-chno="" x-quality="SD" ,Canal Lapacho Tv - Formosa
-http://redworld.pro:8880/@hastaseptiembre@/5wGDR8VD2CJQ/360496
-#EXTINF:-1 tvg-name="Canal Televisión Publica Panpeana - La Pampa" group-title="General" tvg-chno="" x-quality="SD" ,Canal Televisión Publica Panpeana - La Pampa
-http://redworld.pro:8880/@hastaseptiembre@/5wGDR8VD2CJQ/360501
-#EXTINF:-1 tvg-name="Canal 9 Televida - Mendoza" group-title="General" tvg-chno="" x-quality="SD" ,Canal 9 Televida - Mendoza
-http://redworld.pro:8880/@hastaseptiembre@/5wGDR8VD2CJQ/361263
-#EXTINF:-1 tvg-name="Canal 13 - Jujui" group-title="General" tvg-chno="" x-quality="SD" ,Canal 13 - Jujui
-http://redworld.pro:8880/@hastaseptiembre@/5wGDR8VD2CJQ/360499
-#EXTINF:-1 tvg-name="Canal Coope Tv - Mendoza" group-title="General" tvg-chno="" x-quality="SD" ,Canal Coope Tv - Mendoza
-http://redworld.pro:8880/@hastaseptiembre@/5wGDR8VD2CJQ/361265
-#EXTINF:-1 tvg-name="Canal 8 - Mendoza" group-title="General" tvg-chno="" x-quality="SD" ,Canal 8 - Mendoza
-http://redworld.pro:8880/@hastaseptiembre@/5wGDR8VD2CJQ/361266
-#EXTINF:-1 tvg-name="Canal Señal U - Mendoza" group-title="General" tvg-chno="" x-quality="SD" ,Canal Señal U - Mendoza
-http://redworld.pro:8880/@hastaseptiembre@/5wGDR8VD2CJQ/361264
-#EXTINF:-1 tvg-name="Canal 4 - Misiones" group-title="General" tvg-chno="" x-quality="SD" ,Canal 4 - Misiones
-http://redworld.pro:8880/@hastaseptiembre@/5wGDR8VD2CJQ/361270
-#EXTINF:-1 tvg-name="Canal 6 Digital - Misiones" group-title="General" tvg-chno="" x-quality="SD" ,Canal 6 Digital - Misiones
-http://redworld.pro:8880/@hastaseptiembre@/5wGDR8VD2CJQ/361271
-#EXTINF:-1 tvg-name="Canal Tum - Misiones" group-title="General" tvg-chno="" x-quality="SD" ,Canal Tum - Misiones
-http://redworld.pro:8880/@hastaseptiembre@/5wGDR8VD2CJQ/361269
-#EXTINF:-1 tvg-name="Canal 21 Tv - Misiones" group-title="General" tvg-chno="" x-quality="SD" ,Canal 21 Tv - Misiones
-http://redworld.pro:8880/@hastaseptiembre@/5wGDR8VD2CJQ/361273
-#EXTINF:-1 tvg-name="Canal Misiones 4 - Misiones" group-title="General" tvg-chno="" x-quality="SD" ,Canal Misiones 4 - Misiones
-http://redworld.pro:8880/@hastaseptiembre@/5wGDR8VD2CJQ/361272
-#EXTINF:-1 tvg-name="Canal RTN - Neuquen" group-title="General" tvg-chno="" x-quality="SD" ,Canal RTN - Neuquen
-http://redworld.pro:8880/@hastaseptiembre@/5wGDR8VD2CJQ/361274
-#EXTINF:-1 tvg-name="Canal 10 - Neuquen" group-title="General" tvg-chno="" x-quality="SD" ,Canal 10 - Neuquen
-http://redworld.pro:8880/@hastaseptiembre@/5wGDR8VD2CJQ/361276
-#EXTINF:-1 tvg-name="Canal 7 - Neuquen" group-title="General" tvg-chno="" x-quality="SD" ,Canal 7 - Neuquen
-http://redworld.pro:8880/@hastaseptiembre@/5wGDR8VD2CJQ/361275
-#EXTINF:-1 tvg-name="TELE2WEB HD" group-title="General" tvg-chno="" x-quality="SD" ,TELE2WEB HD
-http://redworld.pro:8880/@hastaseptiembre@/5wGDR8VD2CJQ/362391
-#EXTINF:-1 tvg-name="POLAR COMUNICACIONES TV" group-title="General" tvg-chno="" x-quality="SD" ,POLAR COMUNICACIONES TV
-http://redworld.pro:8880/@hastaseptiembre@/5wGDR8VD2CJQ/363717
-#EXTINF:-1 tvg-name="GARAGE TV HD" group-title="General" tvg-chno="" x-quality="SD" ,GARAGE TV HD
-http://redworld.pro:8880/@hastaseptiembre@/5wGDR8VD2CJQ/362420
-#EXTINF:-1 tvg-name="RCN MÁS+" group-title="General" tvg-chno="" x-quality="SD" ,RCN MÁS+
-http://redworld.pro:8880/@hastaseptiembre@/5wGDR8VD2CJQ/363718
-#EXTINF:-1 tvg-name="Milodon TV CL" group-title="General" tvg-chno="" x-quality="SD" ,Milodon TV CL
-http://redworld.pro:8880/@hastaseptiembre@/5wGDR8VD2CJQ/374130
-#EXTINF:-1 tvg-name="Videos de Paisajes 4K" group-title="General" tvg-chno="" x-quality="SD" ,Videos de Paisajes 4K
-http://redworld.pro:8880/@hastaseptiembre@/5wGDR8VD2CJQ/364245
-#EXTINF:-1 tvg-name="PR | Wapa America" group-title="General" tvg-chno="" x-quality="SD" ,PR | Wapa America
-http://redworld.pro:8880/@hastaseptiembre@/5wGDR8VD2CJQ/374750
-#EXTINF:-1 tvg-name="PR | TeleOnce" group-title="General" tvg-chno="" x-quality="SD" ,PR | TeleOnce
-http://redworld.pro:8880/@hastaseptiembre@/5wGDR8VD2CJQ/374752
-#EXTINF:-1 tvg-name="PR | WIPR" group-title="General" tvg-chno="" x-quality="SD" ,PR | WIPR
-http://redworld.pro:8880/@hastaseptiembre@/5wGDR8VD2CJQ/374751
-#EXTINF:-1 tvg-name="Retro Magico | AR" group-title="General" tvg-chno="" x-quality="SD" ,Retro Magico | AR
-http://redworld.pro:8880/@hastaseptiembre@/5wGDR8VD2CJQ/376575
-#EXTINF:-1 tvg-name="Retro Music Television | CZ" group-title="Musica" tvg-chno="" x-quality="SD" ,Retro Music Television | CZ
-http://redworld.pro:8880/@hastaseptiembre@/5wGDR8VD2CJQ/376576
-#EXTINF:-1 tvg-name="The Retro Channel | PR" group-title="General" tvg-chno="" x-quality="SD" ,The Retro Channel | PR
-http://redworld.pro:8880/@hastaseptiembre@/5wGDR8VD2CJQ/376577
-#EXTINF:-1 tvg-name="Retro Play TV | CL" group-title="General" tvg-chno="" x-quality="SD" ,Retro Play TV | CL
-http://redworld.pro:8880/@hastaseptiembre@/5wGDR8VD2CJQ/376580
-#EXTINF:-1 tvg-name="Chilevisual Retro | CL" group-title="General" tvg-chno="" x-quality="SD" ,Chilevisual Retro | CL
-http://redworld.pro:8880/@hastaseptiembre@/5wGDR8VD2CJQ/376583
-#EXTINF:-1 tvg-name="Recuerdos Retro Radio TV |CL" group-title="Musica" tvg-chno="" x-quality="SD" ,Recuerdos Retro Radio TV |CL
-http://redworld.pro:8880/@hastaseptiembre@/5wGDR8VD2CJQ/376388
-#EXTINF:-1 tvg-name="Retro Plus TV" group-title="General" tvg-chno="" x-quality="SD" ,Retro Plus TV
-http://redworld.pro:8880/@hastaseptiembre@/5wGDR8VD2CJQ/376438
-#EXTINF:-1 tvg-name="INet TV" group-title="General" tvg-chno="" x-quality="SD" ,INet TV
-http://redworld.pro:8880/@hastaseptiembre@/5wGDR8VD2CJQ/379639
-#EXTINF:-1 tvg-name="AR | FUT SPORTS OP2" group-title="Deportes" tvg-chno="" x-quality="SD" ,AR | FUT SPORTS OP2
-http://redworld.pro:8880/@hastaseptiembre@/5wGDR8VD2CJQ/327920
-#EXTINF:-1 tvg-name="AR | $ŠPN PR3MIUM Opc 2" group-title="General" tvg-chno="" x-quality="SD" ,AR | $ŠPN PR3MIUM Opc 2
-http://redworld.pro:8880/@hastaseptiembre@/5wGDR8VD2CJQ/377719
-#EXTINF:-1 tvg-name="TeleAngol" group-title="Deportes" tvg-chno="" x-quality="SD" ,TeleAngol
-http://redworld.pro:8880/@hastaseptiembre@/5wGDR8VD2CJQ/379642
-#EXTINF:-1 tvg-name="Patagonia TV" group-title="General" tvg-chno="" x-quality="SD" ,Patagonia TV
-http://redworld.pro:8880/@hastaseptiembre@/5wGDR8VD2CJQ/379641
-#EXTINF:-1 tvg-name="ISB" group-title="General" tvg-chno="" x-quality="SD" ,ISB
-http://redworld.pro:8880/@hastaseptiembre@/5wGDR8VD2CJQ/379640
-#EXTINF:-1 tvg-name="Canal 2 Quellón" group-title="General" tvg-chno="" x-quality="SD" ,Canal 2 Quellón
-http://redworld.pro:8880/@hastaseptiembre@/5wGDR8VD2CJQ/379643
-#EXTINF:-1 tvg-name="Polar TV" group-title="General" tvg-chno="" x-quality="SD" ,Polar TV
-http://redworld.pro:8880/@hastaseptiembre@/5wGDR8VD2CJQ/379646
-#EXTINF:-1 tvg-name="UATV" group-title="General" tvg-chno="" x-quality="SD" ,UATV
-http://redworld.pro:8880/@hastaseptiembre@/5wGDR8VD2CJQ/379644
-#EXTINF:-1 tvg-name="TVR" group-title="General" tvg-chno="" x-quality="SD" ,TVR
-http://redworld.pro:8880/@hastaseptiembre@/5wGDR8VD2CJQ/379647
-#EXTINF:-1 tvg-name="Huasco TV" group-title="General" tvg-chno="" x-quality="SD" ,Huasco TV
-http://redworld.pro:8880/@hastaseptiembre@/5wGDR8VD2CJQ/379649
-#EXTINF:-1 tvg-name="Iquique TV" group-title="General" tvg-chno="" x-quality="SD" ,Iquique TV
-http://redworld.pro:8880/@hastaseptiembre@/5wGDR8VD2CJQ/379648
-#EXTINF:-1 tvg-name="El Centro TV" group-title="General" tvg-chno="" x-quality="SD" ,El Centro TV
-http://redworld.pro:8880/@hastaseptiembre@/5wGDR8VD2CJQ/379650
-#EXTINF:-1 tvg-name="Holvoet TV" group-title="General" tvg-chno="" x-quality="SD" ,Holvoet TV
-http://redworld.pro:8880/@hastaseptiembre@/5wGDR8VD2CJQ/379651
-#EXTINF:-1 tvg-name="CANAL 21 TV" group-title="General" tvg-chno="" x-quality="SD" ,CANAL 21 TV
-http://redworld.pro:8880/@hastaseptiembre@/5wGDR8VD2CJQ/379652
-#EXTINF:-1 tvg-name="Tevex" group-title="General" tvg-chno="" x-quality="SD" ,Tevex
-http://redworld.pro:8880/@hastaseptiembre@/5wGDR8VD2CJQ/379653
-#EXTINF:-1 tvg-name="Teletrak" group-title="General" tvg-chno="" x-quality="SD" ,Teletrak
-http://redworld.pro:8880/@hastaseptiembre@/5wGDR8VD2CJQ/379654
-#EXTINF:-1 tvg-name="UESTV" group-title="General" tvg-chno="" x-quality="SD" ,UESTV
-http://redworld.pro:8880/@hastaseptiembre@/5wGDR8VD2CJQ/379655
-#EXTINF:-1 tvg-name="STGO TV" group-title="General" tvg-chno="" x-quality="SD" ,STGO TV
-http://redworld.pro:8880/@hastaseptiembre@/5wGDR8VD2CJQ/379656
-#EXTINF:-1 tvg-name="+ Listas en M3U.CL ✪ | CL" group-title="General" tvg-chno="" x-quality="SD" ,+ Listas en M3U.CL ✪ | CL
-http://redworld.pro:8880/@hastaseptiembre@/5wGDR8VD2CJQ/382415
-#EXTINF:-1 tvg-name="Portalfoxmix TV" group-title="General" tvg-chno="" x-quality="SD" ,Portalfoxmix TV
-http://redworld.pro:8880/@hastaseptiembre@/5wGDR8VD2CJQ/379658
-#EXTINF:-1 tvg-name="+ Listas en M3U.CL ✪ | CL" group-title="General" tvg-chno="" x-quality="SD" ,+ Listas en M3U.CL ✪ | CL
-http://redworld.pro:8880/@hastaseptiembre@/5wGDR8VD2CJQ/382416
-#EXTINF:-1 tvg-name="TV Grande Natal HDTV ✪ | BR" group-title="General" tvg-chno="" x-quality="SD" ,TV Grande Natal HDTV ✪ | BR
-http://redworld.pro:8880/@hastaseptiembre@/5wGDR8VD2CJQ/382418
-#EXTINF:-1 tvg-name="Teleweb TV ✪ | BR" group-title="General" tvg-chno="" x-quality="SD" ,Teleweb TV ✪ | BR
-http://redworld.pro:8880/@hastaseptiembre@/5wGDR8VD2CJQ/382417
-#EXTINF:-1 tvg-name="Agro Brasil TV | BR" group-title="General" tvg-chno="" x-quality="SD" ,Agro Brasil TV | BR
-http://redworld.pro:8880/@hastaseptiembre@/5wGDR8VD2CJQ/382420
-#EXTINF:-1 tvg-name="ArarunaTV | BR" group-title="General" tvg-chno="" x-quality="SD" ,ArarunaTV | BR
-http://redworld.pro:8880/@hastaseptiembre@/5wGDR8VD2CJQ/382421
-#EXTINF:-1 tvg-name="Vintage TV * | BR" group-title="General" tvg-chno="" x-quality="SD" ,Vintage TV * | BR
-http://redworld.pro:8880/@hastaseptiembre@/5wGDR8VD2CJQ/382419
-#EXTINF:-1 tvg-name="Band | BR" group-title="General" tvg-chno="" x-quality="SD" ,Band | BR
-http://redworld.pro:8880/@hastaseptiembre@/5wGDR8VD2CJQ/382422
-#EXTINF:-1 tvg-name="Classique TV | BR" group-title="General" tvg-chno="" x-quality="SD" ,Classique TV | BR
-http://redworld.pro:8880/@hastaseptiembre@/5wGDR8VD2CJQ/382423
-#EXTINF:-1 tvg-name="NTV Patos de Minas | BR" group-title="General" tvg-chno="" x-quality="SD" ,NTV Patos de Minas | BR
-http://redworld.pro:8880/@hastaseptiembre@/5wGDR8VD2CJQ/382424
-#EXTINF:-1 tvg-name="TV A Plateia | BR" group-title="General" tvg-chno="" x-quality="SD" ,TV A Plateia | BR
-http://redworld.pro:8880/@hastaseptiembre@/5wGDR8VD2CJQ/382426
-#EXTINF:-1 tvg-name="TV Água Boa | BR" group-title="General" tvg-chno="" x-quality="SD" ,TV Água Boa | BR
-http://redworld.pro:8880/@hastaseptiembre@/5wGDR8VD2CJQ/382427
-#EXTINF:-1 tvg-name="Record News Espirito Santo | BR" group-title="Noticias" tvg-chno="" x-quality="SD" ,Record News Espirito Santo | BR
-http://redworld.pro:8880/@hastaseptiembre@/5wGDR8VD2CJQ/382425
-#EXTINF:-1 tvg-name="TV Destak | BR" group-title="General" tvg-chno="" x-quality="SD" ,TV Destak | BR
-http://redworld.pro:8880/@hastaseptiembre@/5wGDR8VD2CJQ/382429
-#EXTINF:-1 tvg-name="TV Difusora | BR" group-title="General" tvg-chno="" x-quality="SD" ,TV Difusora | BR
-http://redworld.pro:8880/@hastaseptiembre@/5wGDR8VD2CJQ/382430
-#EXTINF:-1 tvg-name="TV Curuça | BR" group-title="General" tvg-chno="" x-quality="SD" ,TV Curuça | BR
-http://redworld.pro:8880/@hastaseptiembre@/5wGDR8VD2CJQ/382428
-#EXTINF:-1 tvg-name="TV Mais | BR" group-title="General" tvg-chno="" x-quality="SD" ,TV Mais | BR
-http://redworld.pro:8880/@hastaseptiembre@/5wGDR8VD2CJQ/382433
-#EXTINF:-1 tvg-name="TV Digital Birigui | BR" group-title="General" tvg-chno="" x-quality="SD" ,TV Digital Birigui | BR
-http://redworld.pro:8880/@hastaseptiembre@/5wGDR8VD2CJQ/382432
-#EXTINF:-1 tvg-name="TV Difusora Leste | BR" group-title="General" tvg-chno="" x-quality="SD" ,TV Difusora Leste | BR
-http://redworld.pro:8880/@hastaseptiembre@/5wGDR8VD2CJQ/382431
-#EXTINF:-1 tvg-name="TV Maná Brasil | BR" group-title="General" tvg-chno="" x-quality="SD" ,TV Maná Brasil | BR
-http://redworld.pro:8880/@hastaseptiembre@/5wGDR8VD2CJQ/382434
-#EXTINF:-1 tvg-name="TV Rio Preto | BR" group-title="General" tvg-chno="" x-quality="SD" ,TV Rio Preto | BR
-http://redworld.pro:8880/@hastaseptiembre@/5wGDR8VD2CJQ/382436
-#EXTINF:-1 tvg-name="TV Mundial | BR" group-title="General" tvg-chno="" x-quality="SD" ,TV Mundial | BR
-http://redworld.pro:8880/@hastaseptiembre@/5wGDR8VD2CJQ/382435
-#EXTINF:-1 tvg-name="TV Sim Colatina | BR" group-title="General" tvg-chno="" x-quality="SD" ,TV Sim Colatina | BR
-http://redworld.pro:8880/@hastaseptiembre@/5wGDR8VD2CJQ/382438
-#EXTINF:-1 tvg-name="TV Sim Cachoeiro | BR" group-title="General" tvg-chno="" x-quality="SD" ,TV Sim Cachoeiro | BR
-http://redworld.pro:8880/@hastaseptiembre@/5wGDR8VD2CJQ/382437
-#EXTINF:-1 tvg-name="TV Sim Linhares | BR" group-title="General" tvg-chno="" x-quality="SD" ,TV Sim Linhares | BR
-http://redworld.pro:8880/@hastaseptiembre@/5wGDR8VD2CJQ/382439
-#EXTINF:-1 tvg-name="TV Sim Vitória | BR" group-title="General" tvg-chno="" x-quality="SD" ,TV Sim Vitória | BR
-http://redworld.pro:8880/@hastaseptiembre@/5wGDR8VD2CJQ/382440
-#EXTINF:-1 tvg-name="TV Sul | BR" group-title="General" tvg-chno="" x-quality="SD" ,TV Sul | BR
-http://redworld.pro:8880/@hastaseptiembre@/5wGDR8VD2CJQ/382441
-#EXTINF:-1 tvg-name="TV Ti Vejo | BR" group-title="General" tvg-chno="" x-quality="SD" ,TV Ti Vejo | BR
-http://redworld.pro:8880/@hastaseptiembre@/5wGDR8VD2CJQ/382442
-#EXTINF:-1 tvg-name="TV Vicosa | BR" group-title="General" tvg-chno="" x-quality="SD" ,TV Vicosa | BR
-http://redworld.pro:8880/@hastaseptiembre@/5wGDR8VD2CJQ/382443
-#EXTINF:-1 tvg-name="Via Morena | BR" group-title="General" tvg-chno="" x-quality="SD" ,Via Morena | BR
-http://redworld.pro:8880/@hastaseptiembre@/5wGDR8VD2CJQ/382445
-#EXTINF:-1 tvg-name="TVE | BR" group-title="General" tvg-chno="" x-quality="SD" ,TVE | BR
-http://redworld.pro:8880/@hastaseptiembre@/5wGDR8VD2CJQ/382444
-#EXTINF:-1 tvg-name="All Sports | BR" group-title="Deportes" tvg-chno="" x-quality="SD" ,All Sports | BR
-http://redworld.pro:8880/@hastaseptiembre@/5wGDR8VD2CJQ/382446
-#EXTINF:-1 tvg-name="Geekdot | BR" group-title="General" tvg-chno="" x-quality="SD" ,Geekdot | BR
-http://redworld.pro:8880/@hastaseptiembre@/5wGDR8VD2CJQ/382448
-#EXTINF:-1 tvg-name="Canal 29 | BR" group-title="General" tvg-chno="" x-quality="SD" ,Canal 29 | BR
-http://redworld.pro:8880/@hastaseptiembre@/5wGDR8VD2CJQ/382447
-#EXTINF:-1 tvg-name="Gospel Cartoon | BR" group-title="Infantil" tvg-chno="" x-quality="SD" ,Gospel Cartoon | BR
-http://redworld.pro:8880/@hastaseptiembre@/5wGDR8VD2CJQ/382449
-#EXTINF:-1 tvg-name="Kuriakos Kids | BR" group-title="Infantil" tvg-chno="" x-quality="SD" ,Kuriakos Kids | BR
-http://redworld.pro:8880/@hastaseptiembre@/5wGDR8VD2CJQ/382451
-#EXTINF:-1 tvg-name="ISTV | BR" group-title="General" tvg-chno="" x-quality="SD" ,ISTV | BR
-http://redworld.pro:8880/@hastaseptiembre@/5wGDR8VD2CJQ/382450
-#EXTINF:-1 tvg-name="Retro Cartoon | BR" group-title="Infantil" tvg-chno="" x-quality="SD" ,Retro Cartoon | BR
-http://redworld.pro:8880/@hastaseptiembre@/5wGDR8VD2CJQ/382452
-#EXTINF:-1 tvg-name="TV J.SID | BR" group-title="General" tvg-chno="" x-quality="SD" ,TV J.SID | BR
-http://redworld.pro:8880/@hastaseptiembre@/5wGDR8VD2CJQ/382454
-#EXTINF:-1 tvg-name="TV Aracati | BR" group-title="General" tvg-chno="" x-quality="SD" ,TV Aracati | BR
-http://redworld.pro:8880/@hastaseptiembre@/5wGDR8VD2CJQ/382453
-#EXTINF:-1 tvg-name="TV Japi | BR" group-title="General" tvg-chno="" x-quality="SD" ,TV Japi | BR
-http://redworld.pro:8880/@hastaseptiembre@/5wGDR8VD2CJQ/382455
-#EXTINF:-1 tvg-name="Mundo de la Musica TV | CL" group-title="Musica" tvg-chno="" x-quality="SD" ,Mundo de la Musica TV | CL
-http://redworld.pro:8880/@hastaseptiembre@/5wGDR8VD2CJQ/382457
-#EXTINF:-1 tvg-name="Kpop TV | BR" group-title="General" tvg-chno="" x-quality="SD" ,Kpop TV | BR
-http://redworld.pro:8880/@hastaseptiembre@/5wGDR8VD2CJQ/382456
-#EXTINF:-1 tvg-name="Nuevo Tiempo | BR" group-title="General" tvg-chno="" x-quality="SD" ,Nuevo Tiempo | BR
-http://redworld.pro:8880/@hastaseptiembre@/5wGDR8VD2CJQ/382460
-#EXTINF:-1 tvg-name="Gospel Movies Television | BR" group-title="Peliculas" tvg-chno="" x-quality="SD" ,Gospel Movies Television | BR
-http://redworld.pro:8880/@hastaseptiembre@/5wGDR8VD2CJQ/382459
-#EXTINF:-1 tvg-name="Top TV | BR" group-title="General" tvg-chno="" x-quality="SD" ,Top TV | BR
-http://redworld.pro:8880/@hastaseptiembre@/5wGDR8VD2CJQ/382458
-#EXTINF:-1 tvg-name="Rede Vida | BR" group-title="General" tvg-chno="" x-quality="SD" ,Rede Vida | BR
-http://redworld.pro:8880/@hastaseptiembre@/5wGDR8VD2CJQ/382461
-#EXTINF:-1 tvg-name="TV Aparecida | BR" group-title="General" tvg-chno="" x-quality="SD" ,TV Aparecida | BR
-http://redworld.pro:8880/@hastaseptiembre@/5wGDR8VD2CJQ/382462
-#EXTINF:-1 tvg-name="TV Apostolos | BR" group-title="General" tvg-chno="" x-quality="SD" ,TV Apostolos | BR
-http://redworld.pro:8880/@hastaseptiembre@/5wGDR8VD2CJQ/382463
-#EXTINF:-1 tvg-name="TV Evangelizar | BR" group-title="General" tvg-chno="" x-quality="SD" ,TV Evangelizar | BR
-http://redworld.pro:8880/@hastaseptiembre@/5wGDR8VD2CJQ/382464
-#EXTINF:-1 tvg-name="TV Universal | BR" group-title="Peliculas" tvg-chno="" x-quality="SD" ,TV Universal | BR
-http://redworld.pro:8880/@hastaseptiembre@/5wGDR8VD2CJQ/382466
-#EXTINF:-1 tvg-name="TV Rede Gospel | BR" group-title="General" tvg-chno="" x-quality="SD" ,TV Rede Gospel | BR
-http://redworld.pro:8880/@hastaseptiembre@/5wGDR8VD2CJQ/382465
-#EXTINF:-1 tvg-name="Spectrum Channel | CL" group-title="General" tvg-chno="" x-quality="SD" ,Spectrum Channel | CL
-http://redworld.pro:8880/@hastaseptiembre@/5wGDR8VD2CJQ/382467
-#EXTINF:-1 tvg-name="Logos TV (ES) (Opt-2)" group-title="General" tvg-chno="" x-quality="SD" ,Logos TV (ES) (Opt-2)
-http://redworld.pro:8880/@hastaseptiembre@/5wGDR8VD2CJQ/383993
-#EXTINF:-1 tvg-name="CDM (PR)" group-title="General" tvg-chno="" x-quality="SD" ,CDM (PR)
-http://redworld.pro:8880/@hastaseptiembre@/5wGDR8VD2CJQ/383992
-#EXTINF:-1 tvg-name="Red ADVenir (BO)" group-title="General" tvg-chno="" x-quality="SD" ,Red ADVenir (BO)
-http://redworld.pro:8880/@hastaseptiembre@/5wGDR8VD2CJQ/383994
-#EXTINF:-1 tvg-name="Solidaria TV (ES)" group-title="General" tvg-chno="" x-quality="SD" ,Solidaria TV (ES)
-http://redworld.pro:8880/@hastaseptiembre@/5wGDR8VD2CJQ/383995
-#EXTINF:-1 tvg-name="CBN Español (US)" group-title="General" tvg-chno="" x-quality="SD" ,CBN Español (US)
-http://redworld.pro:8880/@hastaseptiembre@/5wGDR8VD2CJQ/383998
-#EXTINF:-1 tvg-name="SOLIDARIA TV ARGENTINA" group-title="Internacional" tvg-chno="" x-quality="SD" ,SOLIDARIA TV ARGENTINA
-http://redworld.pro:8880/@hastaseptiembre@/5wGDR8VD2CJQ/384001
-#EXTINF:-1 tvg-name="EWTN" group-title="General" tvg-chno="" x-quality="SD" ,EWTN
-http://redworld.pro:8880/@hastaseptiembre@/5wGDR8VD2CJQ/384002
-#EXTINF:-1 tvg-name="SOLIDARIA TV INTERNACIONAL" group-title="Internacional" tvg-chno="" x-quality="SD" ,SOLIDARIA TV INTERNACIONAL
-http://redworld.pro:8880/@hastaseptiembre@/5wGDR8VD2CJQ/384000
-#EXTINF:-1 tvg-name="SUBLIME GRACIA TV FORMOSA" group-title="General" tvg-chno="" x-quality="SD" ,SUBLIME GRACIA TV FORMOSA
-http://redworld.pro:8880/@hastaseptiembre@/5wGDR8VD2CJQ/384003
-#EXTINF:-1 tvg-name="GRACIA TV" group-title="General" tvg-chno="" x-quality="SD" ,GRACIA TV
-http://redworld.pro:8880/@hastaseptiembre@/5wGDR8VD2CJQ/384005
-#EXTINF:-1 tvg-name="RCC TV" group-title="General" tvg-chno="" x-quality="SD" ,RCC TV
-http://redworld.pro:8880/@hastaseptiembre@/5wGDR8VD2CJQ/384009
-#EXTINF:-1 tvg-name="TV ELOHIM" group-title="General" tvg-chno="" x-quality="SD" ,TV ELOHIM
-http://redworld.pro:8880/@hastaseptiembre@/5wGDR8VD2CJQ/384011
-#EXTINF:-1 tvg-name="3ABN Latino" group-title="Internacional" tvg-chno="" x-quality="SD" ,3ABN Latino
-http://redworld.pro:8880/@hastaseptiembre@/5wGDR8VD2CJQ/384012
-#EXTINF:-1 tvg-name="CDM International" group-title="General" tvg-chno="" x-quality="SD" ,CDM International
-http://redworld.pro:8880/@hastaseptiembre@/5wGDR8VD2CJQ/384014
-#EXTINF:-1 tvg-name="UR | CANAL 4 HD" group-title="General" tvg-chno="" x-quality="SD" ,UR | CANAL 4 HD
-http://redworld.pro:8880/@hastaseptiembre@/5wGDR8VD2CJQ/385083
-#EXTINF:-1 tvg-name="UR | CANAL 4 SD" group-title="General" tvg-chno="" x-quality="SD" ,UR | CANAL 4 SD
-http://redworld.pro:8880/@hastaseptiembre@/5wGDR8VD2CJQ/385085
-#EXTINF:-1 tvg-name="UR | CANAL 10 HD" group-title="General" tvg-chno="" x-quality="SD" ,UR | CANAL 10 HD
-http://redworld.pro:8880/@hastaseptiembre@/5wGDR8VD2CJQ/385086
-#EXTINF:-1 tvg-name="UR | CANAL 10 SD" group-title="General" tvg-chno="" x-quality="SD" ,UR | CANAL 10 SD
-http://redworld.pro:8880/@hastaseptiembre@/5wGDR8VD2CJQ/385088
-#EXTINF:-1 tvg-name="UR | CANAL 12 HD" group-title="General" tvg-chno="" x-quality="SD" ,UR | CANAL 12 HD
-http://redworld.pro:8880/@hastaseptiembre@/5wGDR8VD2CJQ/385089
-#EXTINF:-1 tvg-name="UR | CANAL 10 SAETA HD" group-title="General" tvg-chno="" x-quality="SD" ,UR | CANAL 10 SAETA HD
-http://redworld.pro:8880/@hastaseptiembre@/5wGDR8VD2CJQ/385087
-#EXTINF:-1 tvg-name="UR | CANAL 12 TELEDOCE HD" group-title="General" tvg-chno="" x-quality="SD" ,UR | CANAL 12 TELEDOCE HD
-http://redworld.pro:8880/@hastaseptiembre@/5wGDR8VD2CJQ/385090
-#EXTINF:-1 tvg-name="UR | A+V HD" group-title="General" tvg-chno="" x-quality="SD" ,UR | A+V HD
-http://redworld.pro:8880/@hastaseptiembre@/5wGDR8VD2CJQ/385093
-#EXTINF:-1 tvg-name="UR | CANAL LA RED HD" group-title="General" tvg-chno="" x-quality="SD" ,UR | CANAL LA RED HD
-http://redworld.pro:8880/@hastaseptiembre@/5wGDR8VD2CJQ/385092
-#EXTINF:-1 tvg-name="UR |VTV HD" group-title="General" tvg-chno="" x-quality="SD" ,UR |VTV HD
-http://redworld.pro:8880/@hastaseptiembre@/5wGDR8VD2CJQ/385095
-#EXTINF:-1 tvg-name="UR | VTV SD" group-title="General" tvg-chno="" x-quality="SD" ,UR | VTV SD
-http://redworld.pro:8880/@hastaseptiembre@/5wGDR8VD2CJQ/385096
-#EXTINF:-1 tvg-name="UR | TV CIUDAD HD" group-title="General" tvg-chno="" x-quality="SD" ,UR | TV CIUDAD HD
-http://redworld.pro:8880/@hastaseptiembre@/5wGDR8VD2CJQ/385098
-#EXTINF:-1 tvg-name="UR | VTV PLUS HD" group-title="General" tvg-chno="" x-quality="SD" ,UR | VTV PLUS HD
-http://redworld.pro:8880/@hastaseptiembre@/5wGDR8VD2CJQ/385100
-#EXTINF:-1 tvg-name="UR | VTV PLUS SD" group-title="General" tvg-chno="" x-quality="SD" ,UR | VTV PLUS SD
-http://redworld.pro:8880/@hastaseptiembre@/5wGDR8VD2CJQ/385101
-#EXTINF:-1 tvg-name="URU || TNU  CANAL 5 SD (I)" group-title="General" tvg-chno="" x-quality="SD" ,URU || TNU  CANAL 5 SD (I)
-http://redworld.pro:8880/@hastaseptiembre@/5wGDR8VD2CJQ/385099
-#EXTINF:-1 tvg-name="Canal 13 Nic" group-title="General" tvg-chno="" x-quality="SD" ,Canal 13 Nic
-http://redworld.pro:8880/@hastaseptiembre@/5wGDR8VD2CJQ/386356
-#EXTINF:-1 tvg-name="PT :FOX MOVIES FHD HEVC" group-title="Peliculas" tvg-chno="" x-quality="SD" ,PT :FOX MOVIES FHD HEVC
-http://redworld.pro:8880/@hastaseptiembre@/5wGDR8VD2CJQ/390811
-#EXTINF:-1 tvg-name="PT : TVI REALITY MOSAICO" group-title="General" tvg-chno="" x-quality="SD" ,PT : TVI REALITY MOSAICO
-http://redworld.pro:8880/@hastaseptiembre@/5wGDR8VD2CJQ/390812
-#EXTINF:-1 tvg-name="PT : TVI REALITY CAMARA 4" group-title="General" tvg-chno="" x-quality="SD" ,PT : TVI REALITY CAMARA 4
-http://redworld.pro:8880/@hastaseptiembre@/5wGDR8VD2CJQ/390813
-#EXTINF:-1 tvg-name="PT : TVI REALITY CAMARA 2" group-title="General" tvg-chno="" x-quality="SD" ,PT : TVI REALITY CAMARA 2
-http://redworld.pro:8880/@hastaseptiembre@/5wGDR8VD2CJQ/390815
-#EXTINF:-1 tvg-name="PT : TVI REALITY CAMARA 3" group-title="General" tvg-chno="" x-quality="SD" ,PT : TVI REALITY CAMARA 3
-http://redworld.pro:8880/@hastaseptiembre@/5wGDR8VD2CJQ/390814
-#EXTINF:-1 tvg-name="PT : TVI FICCAO ᶠᴴᴰ" group-title="General" tvg-chno="" x-quality="SD" ,PT : TVI FICCAO ᶠᴴᴰ
-http://redworld.pro:8880/@hastaseptiembre@/5wGDR8VD2CJQ/390816
-#EXTINF:-1 tvg-name="PT : TVCINE EDITION ᶠᴴᴰ" group-title="Peliculas" tvg-chno="" x-quality="SD" ,PT : TVCINE EDITION ᶠᴴᴰ
-http://redworld.pro:8880/@hastaseptiembre@/5wGDR8VD2CJQ/390817
-#EXTINF:-1 tvg-name="PT : TVCINE EDITION" group-title="Peliculas" tvg-chno="" x-quality="SD" ,PT : TVCINE EDITION
-http://redworld.pro:8880/@hastaseptiembre@/5wGDR8VD2CJQ/390818
-#EXTINF:-1 tvg-name="PT : TRAVEL CHANNEL ᴴᴰ" group-title="General" tvg-chno="" x-quality="SD" ,PT : TRAVEL CHANNEL ᴴᴰ
-http://redworld.pro:8880/@hastaseptiembre@/5wGDR8VD2CJQ/390821
-#EXTINF:-1 tvg-name="PT : TRAVEL CHENNEL FHD 265" group-title="General" tvg-chno="" x-quality="SD" ,PT : TRAVEL CHENNEL FHD 265
-http://redworld.pro:8880/@hastaseptiembre@/5wGDR8VD2CJQ/390820
-#EXTINF:-1 tvg-name="PT : TV RECORDᶠᴴᴰ" group-title="General" tvg-chno="" x-quality="SD" ,PT : TV RECORDᶠᴴᴰ
-http://redworld.pro:8880/@hastaseptiembre@/5wGDR8VD2CJQ/390819
-#EXTINF:-1 tvg-name="PT : TRAVEL CHANNEL" group-title="General" tvg-chno="" x-quality="SD" ,PT : TRAVEL CHANNEL
-http://redworld.pro:8880/@hastaseptiembre@/5wGDR8VD2CJQ/390822
-#EXTINF:-1 tvg-name="PT : TRACE URBAN ᶠᴴᴰ" group-title="General" tvg-chno="" x-quality="SD" ,PT : TRACE URBAN ᶠᴴᴰ
-http://redworld.pro:8880/@hastaseptiembre@/5wGDR8VD2CJQ/390823
-#EXTINF:-1 tvg-name="PT : TRACE TOCA" group-title="General" tvg-chno="" x-quality="SD" ,PT : TRACE TOCA
-http://redworld.pro:8880/@hastaseptiembre@/5wGDR8VD2CJQ/390824
-#EXTINF:-1 tvg-name="PT : TPA" group-title="General" tvg-chno="" x-quality="SD" ,PT : TPA
-http://redworld.pro:8880/@hastaseptiembre@/5wGDR8VD2CJQ/390825
-#EXTINF:-1 tvg-name="PT : TOROS TV" group-title="General" tvg-chno="" x-quality="SD" ,PT : TOROS TV
-http://redworld.pro:8880/@hastaseptiembre@/5wGDR8VD2CJQ/390826
-#EXTINF:-1 tvg-name="PT : TLC LOW" group-title="General" tvg-chno="" x-quality="SD" ,PT : TLC LOW
-http://redworld.pro:8880/@hastaseptiembre@/5wGDR8VD2CJQ/390827
-#EXTINF:-1 tvg-name="PT : TLC" group-title="General" tvg-chno="" x-quality="SD" ,PT : TLC
-http://redworld.pro:8880/@hastaseptiembre@/5wGDR8VD2CJQ/390828
-#EXTINF:-1 tvg-name="PT : SIC RADICAL" group-title="General" tvg-chno="" x-quality="SD" ,PT : SIC RADICAL
-http://redworld.pro:8880/@hastaseptiembre@/5wGDR8VD2CJQ/390829
-#EXTINF:-1 tvg-name="PT : SIC K ᶠᴴᴰ" group-title="General" tvg-chno="" x-quality="SD" ,PT : SIC K ᶠᴴᴰ
-http://redworld.pro:8880/@hastaseptiembre@/5wGDR8VD2CJQ/390830
-#EXTINF:-1 tvg-name="PT : SIC HD" group-title="General" tvg-chno="" x-quality="SD" ,PT : SIC HD
-http://redworld.pro:8880/@hastaseptiembre@/5wGDR8VD2CJQ/390832
-#EXTINF:-1 tvg-name="PT : SIC CARAS   ᶠᴴᴰ" group-title="General" tvg-chno="" x-quality="SD" ,PT : SIC CARAS   ᶠᴴᴰ
-http://redworld.pro:8880/@hastaseptiembre@/5wGDR8VD2CJQ/390833
-#EXTINF:-1 tvg-name="PT : SIC K" group-title="General" tvg-chno="" x-quality="SD" ,PT : SIC K
-http://redworld.pro:8880/@hastaseptiembre@/5wGDR8VD2CJQ/390831
-#EXTINF:-1 tvg-name="PT : RTP MEMORIA" group-title="General" tvg-chno="" x-quality="SD" ,PT : RTP MEMORIA
-http://redworld.pro:8880/@hastaseptiembre@/5wGDR8VD2CJQ/390836
-#EXTINF:-1 tvg-name="PT : RTP MEMORIA LOW" group-title="General" tvg-chno="" x-quality="SD" ,PT : RTP MEMORIA LOW
-http://redworld.pro:8880/@hastaseptiembre@/5wGDR8VD2CJQ/390835
-#EXTINF:-1 tvg-name="PT : SIC CARAS" group-title="General" tvg-chno="" x-quality="SD" ,PT : SIC CARAS
-http://redworld.pro:8880/@hastaseptiembre@/5wGDR8VD2CJQ/390834
+#EXTM3U x-tvg-url="" x-lista="Listas General 3" x-actualizado="2026-08-28 16:34"
+#EXTINF:-1 tvg-name="Happy Family (2010)" group-title="General" tvg-chno="" x-quality="SD" ,Happy Family (2010)
+http://goldtv.lat:80/movie/Sebita2022/Manya2022/475561.mkv
+#EXTINF:-1 tvg-name="Dragon Ball Z: Goku es un Super Saiyajin (1991)" group-title="General" tvg-chno="" x-quality="SD" ,Dragon Ball Z: Goku es un Super Saiyajin (1991)
+http://goldtv.lat:80/movie/Sebita2022/Manya2022/475560.mkv
+#EXTINF:-1 tvg-name="1982" group-title="General" tvg-chno="" x-quality="SD" ,1982
+http://goldtv.lat:80/movie/Sebita2022/Manya2022/475559.mkv
+#EXTINF:-1 tvg-name="Toy Story 2 1999" group-title="General" tvg-chno="" x-quality="SD" ,Toy Story 2 1999
+http://goldtv.lat:80/movie/Sebita2022/Manya2022/475558.mkv
+#EXTINF:-1 tvg-name="Moana: Un mar de aventuras (2016)" group-title="General" tvg-chno="" x-quality="SD" ,Moana: Un mar de aventuras (2016)
+http://goldtv.lat:80/movie/Sebita2022/Manya2022/475555.mkv
+#EXTINF:-1 tvg-name="How to Train Your Dragon: Legends (2010)" group-title="General" tvg-chno="" x-quality="SD" ,How to Train Your Dragon: Legends (2010)
+http://goldtv.lat:80/movie/Sebita2022/Manya2022/475557.mkv
+#EXTINF:-1 tvg-name="The Cat in the Hat (1971)" group-title="General" tvg-chno="" x-quality="SD" ,The Cat in the Hat (1971)
+http://goldtv.lat:80/movie/Sebita2022/Manya2022/475556.mkv
+#EXTINF:-1 tvg-name="Tinker Bell y el Secreto de las Hadas (2012)" group-title="General" tvg-chno="" x-quality="SD" ,Tinker Bell y el Secreto de las Hadas (2012)
+http://goldtv.lat:80/movie/Sebita2022/Manya2022/475552.mkv
+#EXTINF:-1 tvg-name="Colmillo Blanco (2018)" group-title="General" tvg-chno="" x-quality="SD" ,Colmillo Blanco (2018)
+http://goldtv.lat:80/movie/Sebita2022/Manya2022/475554.mkv
+#EXTINF:-1 tvg-name="La Granja (2006)" group-title="General" tvg-chno="" x-quality="SD" ,La Granja (2006)
+http://goldtv.lat:80/movie/Sebita2022/Manya2022/475553.mkv
+#EXTINF:-1 tvg-name="Como perros y gatos 2: La venganza de Kitty Galore (2010)" group-title="General" tvg-chno="" x-quality="SD" ,Como perros y gatos 2: La venganza de Kitty Galore (2010)
+http://goldtv.lat:80/movie/Sebita2022/Manya2022/475551.mkv
+#EXTINF:-1 tvg-name="Sueños S.A. (2020)" group-title="General" tvg-chno="" x-quality="SD" ,Sueños S.A. (2020)
+http://goldtv.lat:80/movie/Sebita2022/Manya2022/475550.mkv
+#EXTINF:-1 tvg-name="Galletas de Animalitos (2018)" group-title="General" tvg-chno="" x-quality="SD" ,Galletas de Animalitos (2018)
+http://goldtv.lat:80/movie/Sebita2022/Manya2022/475549.mkv
+#EXTINF:-1 tvg-name="El Grinch (2018)" group-title="General" tvg-chno="" x-quality="SD" ,El Grinch (2018)
+http://goldtv.lat:80/movie/Sebita2022/Manya2022/475548.mkv
+#EXTINF:-1 tvg-name="Barbie: Súper Princesa (2015)" group-title="General" tvg-chno="" x-quality="SD" ,Barbie: Súper Princesa (2015)
+http://goldtv.lat:80/movie/Sebita2022/Manya2022/475546.mkv
+#EXTINF:-1 tvg-name="Como el Grinch robó la Navidad (1966)" group-title="General" tvg-chno="" x-quality="SD" ,Como el Grinch robó la Navidad (1966)
+http://goldtv.lat:80/movie/Sebita2022/Manya2022/475547.mkv
+#EXTINF:-1 tvg-name="BOLT (2019)" group-title="General" tvg-chno="" x-quality="SD" ,BOLT (2019)
+http://goldtv.lat:80/movie/Sebita2022/Manya2022/475545.mkv
+#EXTINF:-1 tvg-name="El malvado zorro feroz (2017)" group-title="General" tvg-chno="" x-quality="SD" ,El malvado zorro feroz (2017)
+http://goldtv.lat:80/movie/Sebita2022/Manya2022/475544.mkv
+#EXTINF:-1 tvg-name="Ovejas y Lobos 2: Un gran cerdo (2019)" group-title="General" tvg-chno="" x-quality="SD" ,Ovejas y Lobos 2: Un gran cerdo (2019)
+http://goldtv.lat:80/movie/Sebita2022/Manya2022/475543.mkv
+#EXTINF:-1 tvg-name="Elliot: El reno más pequeño (2018)" group-title="General" tvg-chno="" x-quality="SD" ,Elliot: El reno más pequeño (2018)
+http://goldtv.lat:80/movie/Sebita2022/Manya2022/475541.mkv
+#EXTINF:-1 tvg-name="Un Cuento Americano (1986)" group-title="General" tvg-chno="" x-quality="SD" ,Un Cuento Americano (1986)
+http://goldtv.lat:80/movie/Sebita2022/Manya2022/475542.mkv
+#EXTINF:-1 tvg-name="Coraline y la puerta secreta (2009)" group-title="General" tvg-chno="" x-quality="SD" ,Coraline y la puerta secreta (2009)
+http://goldtv.lat:80/movie/Sebita2022/Manya2022/475540.mkv
+#EXTINF:-1 tvg-name="Isla Calaca (2017)" group-title="General" tvg-chno="" x-quality="SD" ,Isla Calaca (2017)
+http://goldtv.lat:80/movie/Sebita2022/Manya2022/475539.mkv
+#EXTINF:-1 tvg-name="Story" group-title="General" tvg-chno="" x-quality="SD" ,Story
+http://goldtv.lat:80/movie/Sebita2022/Manya2022/475537.mkv
+#EXTINF:-1 tvg-name="Fantasia 2000 1999" group-title="General" tvg-chno="" x-quality="SD" ,Fantasia 2000 1999
+http://goldtv.lat:80/movie/Sebita2022/Manya2022/475538.mkv
+#EXTINF:-1 tvg-name="Wallace y Gromit: La Batalla de los Vegetales (2005)" group-title="General" tvg-chno="" x-quality="SD" ,Wallace y Gromit: La Batalla de los Vegetales (2005)
+http://goldtv.lat:80/movie/Sebita2022/Manya2022/475536.mkv
+#EXTINF:-1 tvg-name="Tangled 8 (2015)" group-title="General" tvg-chno="" x-quality="SD" ,Tangled 8 (2015)
+http://goldtv.lat:80/movie/Sebita2022/Manya2022/475535.mkv
+#EXTINF:-1 tvg-name="Santa Cláusula 3: Complot En El Polo Norte (2006)" group-title="General" tvg-chno="" x-quality="SD" ,Santa Cláusula 3: Complot En El Polo Norte (2006)
+http://goldtv.lat:80/movie/Sebita2022/Manya2022/475534.mkv
+#EXTINF:-1 tvg-name="Hormigaz (1998)" group-title="General" tvg-chno="" x-quality="SD" ,Hormigaz (1998)
+http://goldtv.lat:80/movie/Sebita2022/Manya2022/475533.mkv
+#EXTINF:-1 tvg-name="Dora y La Ciudad Perdida (2019)" group-title="General" tvg-chno="" x-quality="SD" ,Dora y La Ciudad Perdida (2019)
+http://goldtv.lat:80/movie/Sebita2022/Manya2022/475532.mkv
+#EXTINF:-1 tvg-name="Cheung Gong 7 hou: Oi dei kau (2010)" group-title="General" tvg-chno="" x-quality="SD" ,Cheung Gong 7 hou: Oi dei kau (2010)
+http://goldtv.lat:80/movie/Sebita2022/Manya2022/475531.mkv
+#EXTINF:-1 tvg-name="Garfield (2004)" group-title="General" tvg-chno="" x-quality="SD" ,Garfield (2004)
+http://goldtv.lat:80/movie/Sebita2022/Manya2022/475530.mkv
+#EXTINF:-1 tvg-name="Kun ta Fan zhuan xing qiu 2017" group-title="General" tvg-chno="" x-quality="SD" ,Kun ta Fan zhuan xing qiu 2017
+http://goldtv.lat:80/movie/Sebita2022/Manya2022/475528.mkv
+#EXTINF:-1 tvg-name="Reyes de las olas 2 (2017)" group-title="General" tvg-chno="" x-quality="SD" ,Reyes de las olas 2 (2017)
+http://goldtv.lat:80/movie/Sebita2022/Manya2022/475529.mkv
+#EXTINF:-1 tvg-name="Tinker Bell: Hadas al Rescate (2010)" group-title="General" tvg-chno="" x-quality="SD" ,Tinker Bell: Hadas al Rescate (2010)
+http://goldtv.lat:80/movie/Sebita2022/Manya2022/475527.mkv
+#EXTINF:-1 tvg-name="Dragon Ball: El camino hacia el poder (1996)" group-title="General" tvg-chno="" x-quality="SD" ,Dragon Ball: El camino hacia el poder (1996)
+http://goldtv.lat:80/movie/Sebita2022/Manya2022/475525.mkv
+#EXTINF:-1 tvg-name="La telaraña de Charlotte (2006)" group-title="General" tvg-chno="" x-quality="SD" ,La telaraña de Charlotte (2006)
+http://goldtv.lat:80/movie/Sebita2022/Manya2022/475526.mkv
+#EXTINF:-1 tvg-name="En el nombre de la ley (2016)" group-title="General" tvg-chno="" x-quality="SD" ,En el nombre de la ley (2016)
+http://goldtv.lat:80/movie/Sebita2022/Manya2022/475524.mkv
+#EXTINF:-1 tvg-name="El Príncipe Encantador (2018)" group-title="General" tvg-chno="" x-quality="SD" ,El Príncipe Encantador (2018)
+http://goldtv.lat:80/movie/Sebita2022/Manya2022/475522.mkv
+#EXTINF:-1 tvg-name="El Zorro y el Sabueso (1981)" group-title="General" tvg-chno="" x-quality="SD" ,El Zorro y el Sabueso (1981)
+http://goldtv.lat:80/movie/Sebita2022/Manya2022/475521.mkv
+#EXTINF:-1 tvg-name="Frankenweenie (2012)" group-title="General" tvg-chno="" x-quality="SD" ,Frankenweenie (2012)
+http://goldtv.lat:80/movie/Sebita2022/Manya2022/475520.mkv
+#EXTINF:-1 tvg-name="El diario de un chico en apuros 3 2012" group-title="General" tvg-chno="" x-quality="SD" ,El diario de un chico en apuros 3 2012
+http://goldtv.lat:80/movie/Sebita2022/Manya2022/475519.mkv
+#EXTINF:-1 tvg-name="Jumanji (1995)" group-title="General" tvg-chno="" x-quality="SD" ,Jumanji (1995)
+http://goldtv.lat:80/movie/Sebita2022/Manya2022/475518.mkv
+#EXTINF:-1 tvg-name="Herbie: A toda marcha (2005)" group-title="General" tvg-chno="" x-quality="SD" ,Herbie: A toda marcha (2005)
+http://goldtv.lat:80/movie/Sebita2022/Manya2022/475517.mkv
+#EXTINF:-1 tvg-name="Olé, el viaje de Ferdinand (2017)" group-title="General" tvg-chno="" x-quality="SD" ,Olé, el viaje de Ferdinand (2017)
+http://goldtv.lat:80/movie/Sebita2022/Manya2022/475515.mkv
+#EXTINF:-1 tvg-name="La Increíble Historia de la Pera Gigante (2017)" group-title="General" tvg-chno="" x-quality="SD" ,La Increíble Historia de la Pera Gigante (2017)
+http://goldtv.lat:80/movie/Sebita2022/Manya2022/475516.mkv
+#EXTINF:-1 tvg-name="Steven Universe: La Película (2019)" group-title="General" tvg-chno="" x-quality="SD" ,Steven Universe: La Película (2019)
+http://goldtv.lat:80/movie/Sebita2022/Manya2022/475514.mp4
+#EXTINF:-1 tvg-name="Las aventuras de Sharkboy y Lavagirl (2005)" group-title="General" tvg-chno="" x-quality="SD" ,Las aventuras de Sharkboy y Lavagirl (2005)
+http://goldtv.lat:80/movie/Sebita2022/Manya2022/475512.mkv
+#EXTINF:-1 tvg-name="Pajaritos a volar (2019)" group-title="General" tvg-chno="" x-quality="SD" ,Pajaritos a volar (2019)
+http://goldtv.lat:80/movie/Sebita2022/Manya2022/475511.mkv
+#EXTINF:-1 tvg-name="Ga'Hoole: La leyenda de los guardianes (2010)" group-title="General" tvg-chno="" x-quality="SD" ,Ga'Hoole: La leyenda de los guardianes (2010)
+http://goldtv.lat:80/movie/Sebita2022/Manya2022/475513.mkv
+#EXTINF:-1 tvg-name="Enchantimals: Secrets of Snowy Valley (2020)" group-title="General" tvg-chno="" x-quality="SD" ,Enchantimals: Secrets of Snowy Valley (2020)
+http://goldtv.lat:80/movie/Sebita2022/Manya2022/475508.mkv
+#EXTINF:-1 tvg-name="Locos por las nueces 2 (2017)" group-title="General" tvg-chno="" x-quality="SD" ,Locos por las nueces 2 (2017)
+http://goldtv.lat:80/movie/Sebita2022/Manya2022/475509.mkv
+#EXTINF:-1 tvg-name="Bichos: Una Aventura en Miniatura (1998)" group-title="General" tvg-chno="" x-quality="SD" ,Bichos: Una Aventura en Miniatura (1998)
+http://goldtv.lat:80/movie/Sebita2022/Manya2022/475510.mkv
+#EXTINF:-1 tvg-name="La Historia sin Fin III (1994)" group-title="General" tvg-chno="" x-quality="SD" ,La Historia sin Fin III (1994)
+http://goldtv.lat:80/movie/Sebita2022/Manya2022/475507.mkv
+#EXTINF:-1 tvg-name="La Mujer Maravilla: Linaje (2019)" group-title="General" tvg-chno="" x-quality="SD" ,La Mujer Maravilla: Linaje (2019)
+http://goldtv.lat:80/movie/Sebita2022/Manya2022/475506.mkv
+#EXTINF:-1 tvg-name="Los jóvenes titanes en acción vs. Los jóvenes titanes (2019)" group-title="General" tvg-chno="" x-quality="SD" ,Los jóvenes titanes en acción vs. Los jóvenes titanes (2019)
+http://goldtv.lat:80/movie/Sebita2022/Manya2022/475505.mkv
+#EXTINF:-1 tvg-name="Gnome Alone (2015)" group-title="General" tvg-chno="" x-quality="SD" ,Gnome Alone (2015)
+http://goldtv.lat:80/movie/Sebita2022/Manya2022/475504.mkv
+#EXTINF:-1 tvg-name="Thor: Historias de Asgard (2011)" group-title="General" tvg-chno="" x-quality="SD" ,Thor: Historias de Asgard (2011)
+http://goldtv.lat:80/movie/Sebita2022/Manya2022/475502.mkv
+#EXTINF:-1 tvg-name="El rey león II: El reino de Simba (1998)" group-title="General" tvg-chno="" x-quality="SD" ,El rey león II: El reino de Simba (1998)
+http://goldtv.lat:80/movie/Sebita2022/Manya2022/475503.mkv
+#EXTINF:-1 tvg-name="2018 (2018)" group-title="General" tvg-chno="" x-quality="SD" ,2018 (2018)
+http://goldtv.lat:80/movie/Sebita2022/Manya2022/475499.mkv
+#EXTINF:-1 tvg-name="Un viernes de locos (2003)" group-title="General" tvg-chno="" x-quality="SD" ,Un viernes de locos (2003)
+http://goldtv.lat:80/movie/Sebita2022/Manya2022/475501.mkv
+#EXTINF:-1 tvg-name="The Missing Link (2018)" group-title="General" tvg-chno="" x-quality="SD" ,The Missing Link (2018)
+http://goldtv.lat:80/movie/Sebita2022/Manya2022/475500.mkv
+#EXTINF:-1 tvg-name="Rodencia y el diente de la princesa (2012)" group-title="General" tvg-chno="" x-quality="SD" ,Rodencia y el diente de la princesa (2012)
+http://goldtv.lat:80/movie/Sebita2022/Manya2022/475498.mkv
+#EXTINF:-1 tvg-name="Dragon Ball Z: El Hombre más Fuerte de este Mundo (1990)" group-title="Internacional" tvg-chno="" x-quality="SD" ,Dragon Ball Z: El Hombre más Fuerte de este Mundo (1990)
+http://goldtv.lat:80/movie/Sebita2022/Manya2022/475497.mkv
+#EXTINF:-1 tvg-name="Tabaluga (2018)" group-title="General" tvg-chno="" x-quality="SD" ,Tabaluga (2018)
+http://goldtv.lat:80/movie/Sebita2022/Manya2022/475496.mkv
+#EXTINF:-1 tvg-name="Atlantis: El Regreso de Milo (2003)" group-title="General" tvg-chno="" x-quality="SD" ,Atlantis: El Regreso de Milo (2003)
+http://goldtv.lat:80/movie/Sebita2022/Manya2022/475494.mkv
+#EXTINF:-1 tvg-name="Emoji: La Película (2017)" group-title="General" tvg-chno="" x-quality="SD" ,Emoji: La Película (2017)
+http://goldtv.lat:80/movie/Sebita2022/Manya2022/475495.mkv
+#EXTINF:-1 tvg-name="The Gruffalo (2004)" group-title="General" tvg-chno="" x-quality="SD" ,The Gruffalo (2004)
+http://goldtv.lat:80/movie/Sebita2022/Manya2022/475493.mkv
+#EXTINF:-1 tvg-name="El fondo de la red (2019)" group-title="General" tvg-chno="" x-quality="SD" ,El fondo de la red (2019)
+http://goldtv.lat:80/movie/Sebita2022/Manya2022/475490.mkv
+#EXTINF:-1 tvg-name="Mascota Jurásica (2019)" group-title="General" tvg-chno="" x-quality="SD" ,Mascota Jurásica (2019)
+http://goldtv.lat:80/movie/Sebita2022/Manya2022/475492.mkv
+#EXTINF:-1 tvg-name="Die Konferenz der Tiere (1969)" group-title="General" tvg-chno="" x-quality="SD" ,Die Konferenz der Tiere (1969)
+http://goldtv.lat:80/movie/Sebita2022/Manya2022/475491.mkv
+#EXTINF:-1 tvg-name="Dinosaurios (2012)" group-title="General" tvg-chno="" x-quality="SD" ,Dinosaurios (2012)
+http://goldtv.lat:80/movie/Sebita2022/Manya2022/475489.mkv
+#EXTINF:-1 tvg-name="Navidades con los StoryBots (2017)" group-title="General" tvg-chno="" x-quality="SD" ,Navidades con los StoryBots (2017)
+http://goldtv.lat:80/movie/Sebita2022/Manya2022/475487.mkv
+#EXTINF:-1 tvg-name="El rey leon 2019" group-title="General" tvg-chno="" x-quality="SD" ,El rey leon 2019
+http://goldtv.lat:80/movie/Sebita2022/Manya2022/475488.mkv
+#EXTINF:-1 tvg-name="Justicia del Ártico: Escuadrón del trueno (2019)" group-title="General" tvg-chno="" x-quality="SD" ,Justicia del Ártico: Escuadrón del trueno (2019)
+http://goldtv.lat:80/movie/Sebita2022/Manya2022/475486.mkv
+#EXTINF:-1 tvg-name="Lórax: En Busca De La Trúfula Perdida (2012)" group-title="General" tvg-chno="" x-quality="SD" ,Lórax: En Busca De La Trúfula Perdida (2012)
+http://goldtv.lat:80/movie/Sebita2022/Manya2022/475484.mkv
+#EXTINF:-1 tvg-name="Monster High: El Gran Arrecife Monstruoso (2016)" group-title="General" tvg-chno="" x-quality="SD" ,Monster High: El Gran Arrecife Monstruoso (2016)
+http://goldtv.lat:80/movie/Sebita2022/Manya2022/475485.mkv
+#EXTINF:-1 tvg-name="La tercera película de Bugs Bunny: Los mil y un cuentos de Bugs (1982)" group-title="General" tvg-chno="" x-quality="SD" ,La tercera película de Bugs Bunny: Los mil y un cuentos de Bugs (1982)
+http://goldtv.lat:80/movie/Sebita2022/Manya2022/475482.mkv
+#EXTINF:-1 tvg-name="Tom y Jerry: Rumbo a Marte (2005)" group-title="General" tvg-chno="" x-quality="SD" ,Tom y Jerry: Rumbo a Marte (2005)
+http://goldtv.lat:80/movie/Sebita2022/Manya2022/475481.mkv
+#EXTINF:-1 tvg-name="La Liga de la Justicia vs los cinco fatales (2019)" group-title="General" tvg-chno="" x-quality="SD" ,La Liga de la Justicia vs los cinco fatales (2019)
+http://goldtv.lat:80/movie/Sebita2022/Manya2022/475483.mkv
+#EXTINF:-1 tvg-name="Charlie and the Chocolate Factory: Sweet Sounds (2005)" group-title="General" tvg-chno="" x-quality="SD" ,Charlie and the Chocolate Factory: Sweet Sounds (2005)
+http://goldtv.lat:80/movie/Sebita2022/Manya2022/475478.mkv
+#EXTINF:-1 tvg-name="Arthur y los Minimoys (2006)" group-title="General" tvg-chno="" x-quality="SD" ,Arthur y los Minimoys (2006)
+http://goldtv.lat:80/movie/Sebita2022/Manya2022/475479.mkv
+#EXTINF:-1 tvg-name="Boonie Bears a Mystical Winter 2015" group-title="General" tvg-chno="" x-quality="SD" ,Boonie Bears a Mystical Winter 2015
+http://goldtv.lat:80/movie/Sebita2022/Manya2022/475480.mkv
+#EXTINF:-1 tvg-name="Capitán Sharky (2018)" group-title="General" tvg-chno="" x-quality="SD" ,Capitán Sharky (2018)
+http://goldtv.lat:80/movie/Sebita2022/Manya2022/475477.mkv
+#EXTINF:-1 tvg-name="The BFG 1989" group-title="General" tvg-chno="" x-quality="SD" ,The BFG 1989
+http://goldtv.lat:80/movie/Sebita2022/Manya2022/475476.mkv
+#EXTINF:-1 tvg-name="Cuentos Espantosos La pelicula (2017)" group-title="Peliculas" tvg-chno="" x-quality="SD" ,Cuentos Espantosos La pelicula (2017)
+http://goldtv.lat:80/movie/Sebita2022/Manya2022/475475.mkv
+#EXTINF:-1 tvg-name="Ballerina (2006)" group-title="General" tvg-chno="" x-quality="SD" ,Ballerina (2006)
+http://goldtv.lat:80/movie/Sebita2022/Manya2022/475472.mkv
+#EXTINF:-1 tvg-name="El Príncipe de Egipto (1998)" group-title="General" tvg-chno="" x-quality="SD" ,El Príncipe de Egipto (1998)
+http://goldtv.lat:80/movie/Sebita2022/Manya2022/475473.mkv
+#EXTINF:-1 tvg-name="Los Pitufos 2 (2013)" group-title="General" tvg-chno="" x-quality="SD" ,Los Pitufos 2 (2013)
+http://goldtv.lat:80/movie/Sebita2022/Manya2022/475474.mkv
+#EXTINF:-1 tvg-name="Las aventuras del Capitán Calzoncillos: La película (2017)" group-title="General" tvg-chno="" x-quality="SD" ,Las aventuras del Capitán Calzoncillos: La película (2017)
+http://goldtv.lat:80/movie/Sebita2022/Manya2022/475470.mkv
+#EXTINF:-1 tvg-name="Los Picapiedra en Viva Rock Vegas (2000)" group-title="General" tvg-chno="" x-quality="SD" ,Los Picapiedra en Viva Rock Vegas (2000)
+http://goldtv.lat:80/movie/Sebita2022/Manya2022/475471.mkv
+#EXTINF:-1 tvg-name="El cadáver de la novia (2005)" group-title="General" tvg-chno="" x-quality="SD" ,El cadáver de la novia (2005)
+http://goldtv.lat:80/movie/Sebita2022/Manya2022/475469.mkv
+#EXTINF:-1 tvg-name="Los Locos Addams (2019)" group-title="General" tvg-chno="" x-quality="SD" ,Los Locos Addams (2019)
+http://goldtv.lat:80/movie/Sebita2022/Manya2022/475468.mp4
+#EXTINF:-1 tvg-name="Jimmy Neutrón: El niño genio (2001)" group-title="General" tvg-chno="" x-quality="SD" ,Jimmy Neutrón: El niño genio (2001)
+http://goldtv.lat:80/movie/Sebita2022/Manya2022/475467.mkv
+#EXTINF:-1 tvg-name="La era de hielo 3 (2009)" group-title="General" tvg-chno="" x-quality="SD" ,La era de hielo 3 (2009)
+http://goldtv.lat:80/movie/Sebita2022/Manya2022/475465.mkv
+#EXTINF:-1 tvg-name="Super Monsters Save Halloween (2018)" group-title="General" tvg-chno="" x-quality="SD" ,Super Monsters Save Halloween (2018)
+http://goldtv.lat:80/movie/Sebita2022/Manya2022/475464.mkv
+#EXTINF:-1 tvg-name="Una ciguena en apuros 2017" group-title="General" tvg-chno="" x-quality="SD" ,Una ciguena en apuros 2017
+http://goldtv.lat:80/movie/Sebita2022/Manya2022/475466.mkv
+#EXTINF:-1 tvg-name="Una Estrella en el Paraíso (2015)" group-title="General" tvg-chno="" x-quality="SD" ,Una Estrella en el Paraíso (2015)
+http://goldtv.lat:80/movie/Sebita2022/Manya2022/475463.mkv
+#EXTINF:-1 tvg-name="Flubber (1997)" group-title="General" tvg-chno="" x-quality="SD" ,Flubber (1997)
+http://goldtv.lat:80/movie/Sebita2022/Manya2022/475462.mkv
+#EXTINF:-1 tvg-name="The Princess and the Magic Frog (1965)" group-title="General" tvg-chno="" x-quality="SD" ,The Princess and the Magic Frog (1965)
+http://goldtv.lat:80/movie/Sebita2022/Manya2022/475461.mkv
+#EXTINF:-1 tvg-name="The Last Unicorn" group-title="General" tvg-chno="" x-quality="SD" ,The Last Unicorn
+http://goldtv.lat:80/movie/Sebita2022/Manya2022/475459.mkv
+#EXTINF:-1 tvg-name="Enchanted (2020)" group-title="General" tvg-chno="" x-quality="SD" ,Enchanted (2020)
+http://goldtv.lat:80/movie/Sebita2022/Manya2022/475458.mkv
+#EXTINF:-1 tvg-name="Camp Rock: Campamento del Rock (2008)" group-title="General" tvg-chno="" x-quality="SD" ,Camp Rock: Campamento del Rock (2008)
+http://goldtv.lat:80/movie/Sebita2022/Manya2022/475460.mp4
+#EXTINF:-1 tvg-name="Fatal Fury: La Película (1994)" group-title="General" tvg-chno="" x-quality="SD" ,Fatal Fury: La Película (1994)
+http://goldtv.lat:80/movie/Sebita2022/Manya2022/475457.mkv
+#EXTINF:-1 tvg-name="La ratoncita valiente (1982)" group-title="General" tvg-chno="" x-quality="SD" ,La ratoncita valiente (1982)
+http://goldtv.lat:80/movie/Sebita2022/Manya2022/475455.mkv
+#EXTINF:-1 tvg-name="Heroes Unidos 2020" group-title="General" tvg-chno="" x-quality="SD" ,Heroes Unidos 2020
+http://goldtv.lat:80/movie/Sebita2022/Manya2022/475456.mkv
+#EXTINF:-1 tvg-name="Hotel Transylvania (2012)" group-title="General" tvg-chno="" x-quality="SD" ,Hotel Transylvania (2012)
+http://goldtv.lat:80/movie/Sebita2022/Manya2022/475453.mkv
+#EXTINF:-1 tvg-name="Un monstruo en París (2011)" group-title="General" tvg-chno="" x-quality="SD" ,Un monstruo en París (2011)
+http://goldtv.lat:80/movie/Sebita2022/Manya2022/475454.mkv
+#EXTINF:-1 tvg-name="El rey leon 1994" group-title="General" tvg-chno="" x-quality="SD" ,El rey leon 1994
+http://goldtv.lat:80/movie/Sebita2022/Manya2022/475452.mkv
+#EXTINF:-1 tvg-name="Wallace y Gromit: La Batalla de los Vegetales (2005)" group-title="General" tvg-chno="" x-quality="SD" ,Wallace y Gromit: La Batalla de los Vegetales (2005)
+http://goldtv.lat:80/movie/Sebita2022/Manya2022/475451.mkv
+#EXTINF:-1 tvg-name="Dumbo (2019)" group-title="General" tvg-chno="" x-quality="SD" ,Dumbo (2019)
+http://goldtv.lat:80/movie/Sebita2022/Manya2022/475450.mkv
+#EXTINF:-1 tvg-name="Los Comecalcetines (2016)" group-title="General" tvg-chno="" x-quality="SD" ,Los Comecalcetines (2016)
+http://goldtv.lat:80/movie/Sebita2022/Manya2022/475449.mkv
+#EXTINF:-1 tvg-name="Los Pitufos 2011" group-title="General" tvg-chno="" x-quality="SD" ,Los Pitufos 2011
+http://goldtv.lat:80/movie/Sebita2022/Manya2022/475447.mkv
+#EXTINF:-1 tvg-name="La Gran Aventura LEGO 2 (2019)" group-title="General" tvg-chno="" x-quality="SD" ,La Gran Aventura LEGO 2 (2019)
+http://goldtv.lat:80/movie/Sebita2022/Manya2022/475448.mkv
+#EXTINF:-1 tvg-name="Power Rangers: La película (1995)" group-title="General" tvg-chno="" x-quality="SD" ,Power Rangers: La película (1995)
+http://goldtv.lat:80/movie/Sebita2022/Manya2022/475446.mkv
+#EXTINF:-1 tvg-name="La Navidad de los Picapiedras (1977)" group-title="General" tvg-chno="" x-quality="SD" ,La Navidad de los Picapiedras (1977)
+http://goldtv.lat:80/movie/Sebita2022/Manya2022/475444.mkv
+#EXTINF:-1 tvg-name="nos hemos encogido 1997" group-title="General" tvg-chno="" x-quality="SD" ,nos hemos encogido 1997
+http://goldtv.lat:80/movie/Sebita2022/Manya2022/475445.mkv
+#EXTINF:-1 tvg-name="Zootopia (2016)" group-title="General" tvg-chno="" x-quality="SD" ,Zootopia (2016)
+http://goldtv.lat:80/movie/Sebita2022/Manya2022/475443.mkv
+#EXTINF:-1 tvg-name="Santa Paws: En Busca de Santa Can (2010)" group-title="General" tvg-chno="" x-quality="SD" ,Santa Paws: En Busca de Santa Can (2010)
+http://goldtv.lat:80/movie/Sebita2022/Manya2022/475442.mkv
+#EXTINF:-1 tvg-name="Super papá oso (2019)" group-title="General" tvg-chno="" x-quality="SD" ,Super papá oso (2019)
+http://goldtv.lat:80/movie/Sebita2022/Manya2022/475440.mkv
+#EXTINF:-1 tvg-name="Buscando a Dory (2016)" group-title="General" tvg-chno="" x-quality="SD" ,Buscando a Dory (2016)
+http://goldtv.lat:80/movie/Sebita2022/Manya2022/475441.mkv
+#EXTINF:-1 tvg-name="Enredados Por Siempre (2012)" group-title="General" tvg-chno="" x-quality="SD" ,Enredados Por Siempre (2012)
+http://goldtv.lat:80/movie/Sebita2022/Manya2022/475438.mkv
+#EXTINF:-1 tvg-name="El deseo de Navidad de Ángela (2020)" group-title="General" tvg-chno="" x-quality="SD" ,El deseo de Navidad de Ángela (2020)
+http://goldtv.lat:80/movie/Sebita2022/Manya2022/475437.mkv
+#EXTINF:-1 tvg-name="los quiero 2020" group-title="General" tvg-chno="" x-quality="SD" ,los quiero 2020
+http://goldtv.lat:80/movie/Sebita2022/Manya2022/475439.mkv
+#EXTINF:-1 tvg-name="Binky Nelson desenfrenado (2015)" group-title="General" tvg-chno="" x-quality="SD" ,Binky Nelson desenfrenado (2015)
+http://goldtv.lat:80/movie/Sebita2022/Manya2022/475436.mkv
+#EXTINF:-1 tvg-name="Tierra de Osos 2 (2006)" group-title="General" tvg-chno="" x-quality="SD" ,Tierra de Osos 2 (2006)
+http://goldtv.lat:80/movie/Sebita2022/Manya2022/475435.mkv
+#EXTINF:-1 tvg-name="¡Feliz Halloween, Scooby Doo! (2020)" group-title="General" tvg-chno="" x-quality="SD" ,¡Feliz Halloween, Scooby Doo! (2020)
+http://goldtv.lat:80/movie/Sebita2022/Manya2022/475434.mkv
+#EXTINF:-1 tvg-name="Alvin y las Ardillas: Aventura sobre ruedas (2015)" group-title="General" tvg-chno="" x-quality="SD" ,Alvin y las Ardillas: Aventura sobre ruedas (2015)
+http://goldtv.lat:80/movie/Sebita2022/Manya2022/475433.mkv
+#EXTINF:-1 tvg-name="La bella y la bestia: Una Navidad encantada (1997)" group-title="General" tvg-chno="" x-quality="SD" ,La bella y la bestia: Una Navidad encantada (1997)
+http://goldtv.lat:80/movie/Sebita2022/Manya2022/475432.mkv
+#EXTINF:-1 tvg-name="Dragon Ball Z: ¡Devuélvanme a mi Gohan! (1989)" group-title="General" tvg-chno="" x-quality="SD" ,Dragon Ball Z: ¡Devuélvanme a mi Gohan! (1989)
+http://goldtv.lat:80/movie/Sebita2022/Manya2022/475431.mkv
+#EXTINF:-1 tvg-name="El Super Agente Picapiedra (1966)" group-title="General" tvg-chno="" x-quality="SD" ,El Super Agente Picapiedra (1966)
+http://goldtv.lat:80/movie/Sebita2022/Manya2022/475430.mkv
+#EXTINF:-1 tvg-name="Wreck (2020)" group-title="General" tvg-chno="" x-quality="SD" ,Wreck (2020)
+http://goldtv.lat:80/movie/Sebita2022/Manya2022/475429.mkv
+#EXTINF:-1 tvg-name="Blinky Bill the Movie (2015)" group-title="Peliculas" tvg-chno="" x-quality="SD" ,Blinky Bill the Movie (2015)
+http://goldtv.lat:80/movie/Sebita2022/Manya2022/475428.mkv
+#EXTINF:-1 tvg-name="Ben 10: El Secreto del Omnitrix (2007)" group-title="General" tvg-chno="" x-quality="SD" ,Ben 10: El Secreto del Omnitrix (2007)
+http://goldtv.lat:80/movie/Sebita2022/Manya2022/475427.mkv
+#EXTINF:-1 tvg-name="Toy Story 4 2019" group-title="General" tvg-chno="" x-quality="SD" ,Toy Story 4 2019
+http://goldtv.lat:80/movie/Sebita2022/Manya2022/475426.mkv
+#EXTINF:-1 tvg-name="un heroe muy especial 2018" group-title="General" tvg-chno="" x-quality="SD" ,un heroe muy especial 2018
+http://goldtv.lat:80/movie/Sebita2022/Manya2022/475425.mkv
+#EXTINF:-1 tvg-name="Agrande al Bebe 1992" group-title="General" tvg-chno="" x-quality="SD" ,Agrande al Bebe 1992
+http://goldtv.lat:80/movie/Sebita2022/Manya2022/475424.mkv
+#EXTINF:-1 tvg-name="Barbie y los delfines mágicos (2017)" group-title="General" tvg-chno="" x-quality="SD" ,Barbie y los delfines mágicos (2017)
+http://goldtv.lat:80/movie/Sebita2022/Manya2022/475423.mkv
+#EXTINF:-1 tvg-name="El extraño mundo de Jack (1993)" group-title="Internacional" tvg-chno="" x-quality="SD" ,El extraño mundo de Jack (1993)
+http://goldtv.lat:80/movie/Sebita2022/Manya2022/475422.mkv
+#EXTINF:-1 tvg-name="Babe 1975" group-title="General" tvg-chno="" x-quality="SD" ,Babe 1975
+http://goldtv.lat:80/movie/Sebita2022/Manya2022/475421.mkv
+#EXTINF:-1 tvg-name="El pergamino rojo (2020)" group-title="General" tvg-chno="" x-quality="SD" ,El pergamino rojo (2020)
+http://goldtv.lat:80/movie/Sebita2022/Manya2022/475420.mkv
+#EXTINF:-1 tvg-name="El cavernicola 2018" group-title="General" tvg-chno="" x-quality="SD" ,El cavernicola 2018
+http://goldtv.lat:80/movie/Sebita2022/Manya2022/475419.mkv
+#EXTINF:-1 tvg-name="Der 7bte Zwerg (2014)" group-title="General" tvg-chno="" x-quality="SD" ,Der 7bte Zwerg (2014)
+http://goldtv.lat:80/movie/Sebita2022/Manya2022/475418.mkv
+#EXTINF:-1 tvg-name="My Little Pony: Equestria Girls - La Leyenda de Everfree (2016)" group-title="General" tvg-chno="" x-quality="SD" ,My Little Pony: Equestria Girls - La Leyenda de Everfree (2016)
+http://goldtv.lat:80/movie/Sebita2022/Manya2022/475417.mkv
+#EXTINF:-1 tvg-name="Rugrats: La película (1998)" group-title="General" tvg-chno="" x-quality="SD" ,Rugrats: La película (1998)
+http://goldtv.lat:80/movie/Sebita2022/Manya2022/475416.mkv
+#EXTINF:-1 tvg-name="Astro Kid (2019)" group-title="General" tvg-chno="" x-quality="SD" ,Astro Kid (2019)
+http://goldtv.lat:80/movie/Sebita2022/Manya2022/475415.mkv
+#EXTINF:-1 tvg-name="Balto: La leyenda del perro esquimal (1995)" group-title="General" tvg-chno="" x-quality="SD" ,Balto: La leyenda del perro esquimal (1995)
+http://goldtv.lat:80/movie/Sebita2022/Manya2022/475413.mkv
+#EXTINF:-1 tvg-name="Monster house: La casa de los sustos (2006)" group-title="General" tvg-chno="" x-quality="SD" ,Monster house: La casa de los sustos (2006)
+http://goldtv.lat:80/movie/Sebita2022/Manya2022/475412.mkv
+#EXTINF:-1 tvg-name="The Hunchback of Notre Dame (1923)" group-title="General" tvg-chno="" x-quality="SD" ,The Hunchback of Notre Dame (1923)
+http://goldtv.lat:80/movie/Sebita2022/Manya2022/475414.mkv
+#EXTINF:-1 tvg-name="Reino de los Supermanes (2019)" group-title="General" tvg-chno="" x-quality="SD" ,Reino de los Supermanes (2019)
+http://goldtv.lat:80/movie/Sebita2022/Manya2022/475410.mkv
+#EXTINF:-1 tvg-name="Tadeo, el explorador perdido 2: El secreto del Rey Midas (2017)" group-title="General" tvg-chno="" x-quality="SD" ,Tadeo, el explorador perdido 2: El secreto del Rey Midas (2017)
+http://goldtv.lat:80/movie/Sebita2022/Manya2022/475411.mkv
+#EXTINF:-1 tvg-name="Minions: Competición (2015)" group-title="General" tvg-chno="" x-quality="SD" ,Minions: Competición (2015)
+http://goldtv.lat:80/movie/Sebita2022/Manya2022/475409.mkv
+#EXTINF:-1 tvg-name="Ana y Bruno 2017" group-title="General" tvg-chno="" x-quality="SD" ,Ana y Bruno 2017
+http://goldtv.lat:80/movie/Sebita2022/Manya2022/475408.mkv
+#EXTINF:-1 tvg-name="Vamos a la luna (2008)" group-title="General" tvg-chno="" x-quality="SD" ,Vamos a la luna (2008)
+http://goldtv.lat:80/movie/Sebita2022/Manya2022/475407.mkv
+#EXTINF:-1 tvg-name="El árbol de los deseos (2020)" group-title="General" tvg-chno="" x-quality="SD" ,El árbol de los deseos (2020)
+http://goldtv.lat:80/movie/Sebita2022/Manya2022/475406.mkv
+#EXTINF:-1 tvg-name="Marvel Rising: Guerreros secretos (2018)" group-title="General" tvg-chno="" x-quality="SD" ,Marvel Rising: Guerreros secretos (2018)
+http://goldtv.lat:80/movie/Sebita2022/Manya2022/475405.mkv
+#EXTINF:-1 tvg-name="El pequeño vampiro (2017)" group-title="General" tvg-chno="" x-quality="SD" ,El pequeño vampiro (2017)
+http://goldtv.lat:80/movie/Sebita2022/Manya2022/475403.mkv
+#EXTINF:-1 tvg-name="Animal Crossing: La Película (2006)" group-title="General" tvg-chno="" x-quality="SD" ,Animal Crossing: La Película (2006)
+http://goldtv.lat:80/movie/Sebita2022/Manya2022/475404.mkv
+#EXTINF:-1 tvg-name="Wolfwalkers: Espíritu de lobo (2020)" group-title="General" tvg-chno="" x-quality="SD" ,Wolfwalkers: Espíritu de lobo (2020)
+http://goldtv.lat:80/movie/Sebita2022/Manya2022/475401.mkv
+#EXTINF:-1 tvg-name="The Outback 2012" group-title="General" tvg-chno="" x-quality="SD" ,The Outback 2012
+http://goldtv.lat:80/movie/Sebita2022/Manya2022/475400.mkv
+#EXTINF:-1 tvg-name="Los tres osos y el regalo perfecto (2019)" group-title="General" tvg-chno="" x-quality="SD" ,Los tres osos y el regalo perfecto (2019)
+http://goldtv.lat:80/movie/Sebita2022/Manya2022/475402.mkv
+#EXTINF:-1 tvg-name="Lego Batman: la película (2017)" group-title="General" tvg-chno="" x-quality="SD" ,Lego Batman: la película (2017)
+http://goldtv.lat:80/movie/Sebita2022/Manya2022/475399.mkv
+#EXTINF:-1 tvg-name="Locos por las nueces (2014)" group-title="General" tvg-chno="" x-quality="SD" ,Locos por las nueces (2014)
+http://goldtv.lat:80/movie/Sebita2022/Manya2022/475398.mkv
+#EXTINF:-1 tvg-name="El camino hacia El Dorado (2000)" group-title="General" tvg-chno="" x-quality="SD" ,El camino hacia El Dorado (2000)
+http://goldtv.lat:80/movie/Sebita2022/Manya2022/475397.mkv
+#EXTINF:-1 tvg-name="la pelicula A traves de la 2da dimension 2011" group-title="Peliculas" tvg-chno="" x-quality="SD" ,la pelicula A traves de la 2da dimension 2011
+http://goldtv.lat:80/movie/Sebita2022/Manya2022/475396.mkv
+#EXTINF:-1 tvg-name="La Sirenita 3: Los comienzos de Ariel (2008)" group-title="General" tvg-chno="" x-quality="SD" ,La Sirenita 3: Los comienzos de Ariel (2008)
+http://goldtv.lat:80/movie/Sebita2022/Manya2022/475395.mkv
+#EXTINF:-1 tvg-name="Las locuras de Kronk (2005)" group-title="General" tvg-chno="" x-quality="SD" ,Las locuras de Kronk (2005)
+http://goldtv.lat:80/movie/Sebita2022/Manya2022/475394.mkv
+#EXTINF:-1 tvg-name="El Ritmo de la Selva: La película (2020)" group-title="General" tvg-chno="" x-quality="SD" ,El Ritmo de la Selva: La película (2020)
+http://goldtv.lat:80/movie/Sebita2022/Manya2022/475393.mkv
+#EXTINF:-1 tvg-name="Barbie: Fairytopia (2005)" group-title="General" tvg-chno="" x-quality="SD" ,Barbie: Fairytopia (2005)
+http://goldtv.lat:80/movie/Sebita2022/Manya2022/475391.mkv
+#EXTINF:-1 tvg-name="Barbie Campamento Pop 2015" group-title="General" tvg-chno="" x-quality="SD" ,Barbie Campamento Pop 2015
+http://goldtv.lat:80/movie/Sebita2022/Manya2022/475392.mkv
+#EXTINF:-1 tvg-name="The Neverending Story" group-title="General" tvg-chno="" x-quality="SD" ,The Neverending Story
+http://goldtv.lat:80/movie/Sebita2022/Manya2022/475388.mkv
+#EXTINF:-1 tvg-name="Astro Boy (2009)" group-title="General" tvg-chno="" x-quality="SD" ,Astro Boy (2009)
+http://goldtv.lat:80/movie/Sebita2022/Manya2022/475389.mkv
+#EXTINF:-1 tvg-name="Minusculo - El valle perdido de las hormigas (2013)" group-title="General" tvg-chno="" x-quality="SD" ,Minusculo - El valle perdido de las hormigas (2013)
+http://goldtv.lat:80/movie/Sebita2022/Manya2022/475390.mkv
+#EXTINF:-1 tvg-name="Scooby-Doo! Estrella del circo (2012)" group-title="General" tvg-chno="" x-quality="SD" ,Scooby-Doo! Estrella del circo (2012)
+http://goldtv.lat:80/movie/Sebita2022/Manya2022/475387.mkv
+#EXTINF:-1 tvg-name="Los Picapiedra (1994)" group-title="General" tvg-chno="" x-quality="SD" ,Los Picapiedra (1994)
+http://goldtv.lat:80/movie/Sebita2022/Manya2022/475386.mkv
+#EXTINF:-1 tvg-name="El Oso Yogui (2010)" group-title="General" tvg-chno="" x-quality="SD" ,El Oso Yogui (2010)
+http://goldtv.lat:80/movie/Sebita2022/Manya2022/475385.mkv
+#EXTINF:-1 tvg-name="Ben 10 Versus el Universo 2020" group-title="General" tvg-chno="" x-quality="SD" ,Ben 10 Versus el Universo 2020
+http://goldtv.lat:80/movie/Sebita2022/Manya2022/475383.mkv
+#EXTINF:-1 tvg-name="Garfield Gets Real (2008)" group-title="General" tvg-chno="" x-quality="SD" ,Garfield Gets Real (2008)
+http://goldtv.lat:80/movie/Sebita2022/Manya2022/475382.mkv
+#EXTINF:-1 tvg-name="Minions: Renovando el hogar (2010)" group-title="General" tvg-chno="" x-quality="SD" ,Minions: Renovando el hogar (2010)
+http://goldtv.lat:80/movie/Sebita2022/Manya2022/475384.mkv
+#EXTINF:-1 tvg-name="El Invencible Iron Man (2007)" group-title="General" tvg-chno="" x-quality="SD" ,El Invencible Iron Man (2007)
+http://goldtv.lat:80/movie/Sebita2022/Manya2022/475381.mkv
+#EXTINF:-1 tvg-name="La familia Pie Grande (2020)" group-title="General" tvg-chno="" x-quality="SD" ,La familia Pie Grande (2020)
+http://goldtv.lat:80/movie/Sebita2022/Manya2022/475380.mkv
+#EXTINF:-1 tvg-name="Brijes 3D (2010)" group-title="General" tvg-chno="" x-quality="SD" ,Brijes 3D (2010)
+http://goldtv.lat:80/movie/Sebita2022/Manya2022/475379.mkv
+#EXTINF:-1 tvg-name="El Reino Secreto (2013)" group-title="General" tvg-chno="" x-quality="SD" ,El Reino Secreto (2013)
+http://goldtv.lat:80/movie/Sebita2022/Manya2022/475377.mkv
+#EXTINF:-1 tvg-name="Vaya bichos 2017" group-title="General" tvg-chno="" x-quality="SD" ,Vaya bichos 2017
+http://goldtv.lat:80/movie/Sebita2022/Manya2022/475378.mkv
+#EXTINF:-1 tvg-name="El rey leon 1 12 2004" group-title="General" tvg-chno="" x-quality="SD" ,El rey leon 1 12 2004
+http://goldtv.lat:80/movie/Sebita2022/Manya2022/475376.mkv
+#EXTINF:-1 tvg-name="Los Croods 2: Una Nueva Era (2020)" group-title="General" tvg-chno="" x-quality="SD" ,Los Croods 2: Una Nueva Era (2020)
+http://goldtv.lat:80/movie/Sebita2022/Manya2022/475375.mkv
+#EXTINF:-1 tvg-name="Corgi: Un perro real (2019)" group-title="General" tvg-chno="" x-quality="SD" ,Corgi: Un perro real (2019)
+http://goldtv.lat:80/movie/Sebita2022/Manya2022/475374.mkv
+#EXTINF:-1 tvg-name="José: El Rey de los Sueños (2000)" group-title="General" tvg-chno="" x-quality="SD" ,José: El Rey de los Sueños (2000)
+http://goldtv.lat:80/movie/Sebita2022/Manya2022/475373.mkv
+#EXTINF:-1 tvg-name="Alvin and the Chipmunks: Batmunk (2012)" group-title="General" tvg-chno="" x-quality="SD" ,Alvin and the Chipmunks: Batmunk (2012)
+http://goldtv.lat:80/movie/Sebita2022/Manya2022/475372.mkv
+#EXTINF:-1 tvg-name="Cosmic Scrat-tastrophe 2015" group-title="General" tvg-chno="" x-quality="SD" ,Cosmic Scrat-tastrophe 2015
+http://goldtv.lat:80/movie/Sebita2022/Manya2022/475371.mkv
+#EXTINF:-1 tvg-name="Oye Arnold Una peli en la jungla 2017" group-title="General" tvg-chno="" x-quality="SD" ,Oye Arnold Una peli en la jungla 2017
+http://goldtv.lat:80/movie/Sebita2022/Manya2022/475370.mkv
+#EXTINF:-1 tvg-name="La Estrella de Belén (2017)" group-title="General" tvg-chno="" x-quality="SD" ,La Estrella de Belén (2017)
+http://goldtv.lat:80/movie/Sebita2022/Manya2022/475369.mkv
+#EXTINF:-1 tvg-name="Barbie Y Sus Hermanas En Una Historia De Ponis (2013)" group-title="General" tvg-chno="" x-quality="SD" ,Barbie Y Sus Hermanas En Una Historia De Ponis (2013)
+http://goldtv.lat:80/movie/Sebita2022/Manya2022/475368.mkv
+#EXTINF:-1 tvg-name="Día de muertos (2019)" group-title="General" tvg-chno="" x-quality="SD" ,Día de muertos (2019)
+http://goldtv.lat:80/movie/Sebita2022/Manya2022/475367.mkv
+#EXTINF:-1 tvg-name="Batman: Hush (2019)" group-title="General" tvg-chno="" x-quality="SD" ,Batman: Hush (2019)
+http://goldtv.lat:80/movie/Sebita2022/Manya2022/475366.mkv
+#EXTINF:-1 tvg-name="Frozen: Fiebre Congelada (2015)" group-title="General" tvg-chno="" x-quality="SD" ,Frozen: Fiebre Congelada (2015)
+http://goldtv.lat:80/movie/Sebita2022/Manya2022/475364.mkv
+#EXTINF:-1 tvg-name="Entrenando a Papá (2007)" group-title="General" tvg-chno="" x-quality="SD" ,Entrenando a Papá (2007)
+http://goldtv.lat:80/movie/Sebita2022/Manya2022/475365.mkv
+#EXTINF:-1 tvg-name="El fantástico Sr. Zorro (2009)" group-title="General" tvg-chno="" x-quality="SD" ,El fantástico Sr. Zorro (2009)
+http://goldtv.lat:80/movie/Sebita2022/Manya2022/475363.mkv
+#EXTINF:-1 tvg-name="The Jungle Book 2" group-title="General" tvg-chno="" x-quality="SD" ,The Jungle Book 2
+http://goldtv.lat:80/movie/Sebita2022/Manya2022/475362.mkv
+#EXTINF:-1 tvg-name="Diario de un chico travieso el largo recorrido 2017" group-title="General" tvg-chno="" x-quality="SD" ,Diario de un chico travieso el largo recorrido 2017
+http://goldtv.lat:80/movie/Sebita2022/Manya2022/475361.mkv
+#EXTINF:-1 tvg-name="La era de hielo 2 (2006)" group-title="General" tvg-chno="" x-quality="SD" ,La era de hielo 2 (2006)
+http://goldtv.lat:80/movie/Sebita2022/Manya2022/475360.mkv
+#EXTINF:-1 tvg-name="Happy Feet (1991)" group-title="General" tvg-chno="" x-quality="SD" ,Happy Feet (1991)
+http://goldtv.lat:80/movie/Sebita2022/Manya2022/475359.mkv
+#EXTINF:-1 tvg-name="Cuento de Navidad de Mickey (1983)" group-title="General" tvg-chno="" x-quality="SD" ,Cuento de Navidad de Mickey (1983)
+http://goldtv.lat:80/movie/Sebita2022/Manya2022/475357.mkv
+#EXTINF:-1 tvg-name="Dragon Ball: La princesa durmiente del castillo embrujado (1987)" group-title="General" tvg-chno="" x-quality="SD" ,Dragon Ball: La princesa durmiente del castillo embrujado (1987)
+http://goldtv.lat:80/movie/Sebita2022/Manya2022/475358.mkv
+#EXTINF:-1 tvg-name="La nueva Cenicienta: Si el zapato te queda (2016)" group-title="General" tvg-chno="" x-quality="SD" ,La nueva Cenicienta: Si el zapato te queda (2016)
+http://goldtv.lat:80/movie/Sebita2022/Manya2022/475355.mkv
+#EXTINF:-1 tvg-name="Home Alone (2013)" group-title="General" tvg-chno="" x-quality="SD" ,Home Alone (2013)
+http://goldtv.lat:80/movie/Sebita2022/Manya2022/475356.mkv
+#EXTINF:-1 tvg-name="El diario de un chico en apuros (2010)" group-title="General" tvg-chno="" x-quality="SD" ,El diario de un chico en apuros (2010)
+http://goldtv.lat:80/movie/Sebita2022/Manya2022/475354.mkv
+#EXTINF:-1 tvg-name="Annie: Una aventura real (1995)" group-title="General" tvg-chno="" x-quality="SD" ,Annie: Una aventura real (1995)
+http://goldtv.lat:80/movie/Sebita2022/Manya2022/475352.mkv
+#EXTINF:-1 tvg-name="Dragones: Equipo de rescate: Felices fiestas en Huttsgalor (2020)" group-title="General" tvg-chno="" x-quality="SD" ,Dragones: Equipo de rescate: Felices fiestas en Huttsgalor (2020)
+http://goldtv.lat:80/movie/Sebita2022/Manya2022/475353.mkv
+#EXTINF:-1 tvg-name="Coco, el pequeño dragón. Aventuras en la Jungla (2018)" group-title="General" tvg-chno="" x-quality="SD" ,Coco, el pequeño dragón. Aventuras en la Jungla (2018)
+http://goldtv.lat:80/movie/Sebita2022/Manya2022/475351.mkv
+#EXTINF:-1 tvg-name="La Sirenita 2: Regreso al Mar (2000)" group-title="General" tvg-chno="" x-quality="SD" ,La Sirenita 2: Regreso al Mar (2000)
+http://goldtv.lat:80/movie/Sebita2022/Manya2022/475349.mkv
+#EXTINF:-1 tvg-name="Frozen 2 (2019)" group-title="General" tvg-chno="" x-quality="SD" ,Frozen 2 (2019)
+http://goldtv.lat:80/movie/Sebita2022/Manya2022/475350.mkv
+#EXTINF:-1 tvg-name="La Gigante Aventura de Tom y Jerry (2013)" group-title="General" tvg-chno="" x-quality="SD" ,La Gigante Aventura de Tom y Jerry (2013)
+http://goldtv.lat:80/movie/Sebita2022/Manya2022/475348.mkv
+#EXTINF:-1 tvg-name="Escandalosos: La película (2020)" group-title="General" tvg-chno="" x-quality="SD" ,Escandalosos: La película (2020)
+http://goldtv.lat:80/movie/Sebita2022/Manya2022/475345.mkv
+#EXTINF:-1 tvg-name="Dragon Ball Z: La Batalla más Grande de este Mundo está por Comenzar (1990)" group-title="Internacional" tvg-chno="" x-quality="SD" ,Dragon Ball Z: La Batalla más Grande de este Mundo está por Comenzar (1990)
+http://goldtv.lat:80/movie/Sebita2022/Manya2022/475347.mkv
+#EXTINF:-1 tvg-name="George de la Selva 2 (2003)" group-title="General" tvg-chno="" x-quality="SD" ,George de la Selva 2 (2003)
+http://goldtv.lat:80/movie/Sebita2022/Manya2022/475346.mkv
+#EXTINF:-1 tvg-name="The Rescuers (2011)" group-title="General" tvg-chno="" x-quality="SD" ,The Rescuers (2011)
+http://goldtv.lat:80/movie/Sebita2022/Manya2022/475344.mkv
+#EXTINF:-1 tvg-name="Wings: Sky Force Heroes (2014)" group-title="General" tvg-chno="" x-quality="SD" ,Wings: Sky Force Heroes (2014)
+http://goldtv.lat:80/movie/Sebita2022/Manya2022/475343.mkv
+#EXTINF:-1 tvg-name="Camp Rock 2: El Concierto Final (2010)" group-title="Musica" tvg-chno="" x-quality="SD" ,Camp Rock 2: El Concierto Final (2010)
+http://goldtv.lat:80/movie/Sebita2022/Manya2022/475342.mkv
+#EXTINF:-1 tvg-name="Toy Story: Vida de lámpara (2020)" group-title="General" tvg-chno="" x-quality="SD" ,Toy Story: Vida de lámpara (2020)
+http://goldtv.lat:80/movie/Sebita2022/Manya2022/475340.mkv
+#EXTINF:-1 tvg-name="Operación Regalo (2011)" group-title="General" tvg-chno="" x-quality="SD" ,Operación Regalo (2011)
+http://goldtv.lat:80/movie/Sebita2022/Manya2022/475341.mkv
+#EXTINF:-1 tvg-name="Mickey y sus amigos juntos otra Navidad (2004)" group-title="General" tvg-chno="" x-quality="SD" ,Mickey y sus amigos juntos otra Navidad (2004)
+http://goldtv.lat:80/movie/Sebita2022/Manya2022/475339.mkv
+#EXTINF:-1 tvg-name="Barbie y sus hermanas en la busqueda de Perritos (2016)" group-title="General" tvg-chno="" x-quality="SD" ,Barbie y sus hermanas en la busqueda de Perritos (2016)
+http://goldtv.lat:80/movie/Sebita2022/Manya2022/475337.mkv
+#EXTINF:-1 tvg-name="Trolls 2: Gira Mundial (2020)" group-title="General" tvg-chno="" x-quality="SD" ,Trolls 2: Gira Mundial (2020)
+http://goldtv.lat:80/movie/Sebita2022/Manya2022/475338.mkv
+#EXTINF:-1 tvg-name="Buu York 2015" group-title="General" tvg-chno="" x-quality="SD" ,Buu York 2015
+http://goldtv.lat:80/movie/Sebita2022/Manya2022/475336.mkv
+#EXTINF:-1 tvg-name="Los Supersónicos: La película (1990)" group-title="General" tvg-chno="" x-quality="SD" ,Los Supersónicos: La película (1990)
+http://goldtv.lat:80/movie/Sebita2022/Manya2022/475334.mkv
+#EXTINF:-1 tvg-name="The Wild One 1953" group-title="General" tvg-chno="" x-quality="SD" ,The Wild One 1953
+http://goldtv.lat:80/movie/Sebita2022/Manya2022/475335.mkv
+#EXTINF:-1 tvg-name="Le Magasin des suicides (2012)" group-title="General" tvg-chno="" x-quality="SD" ,Le Magasin des suicides (2012)
+http://goldtv.lat:80/movie/Sebita2022/Manya2022/475333.mkv
+#EXTINF:-1 tvg-name="En busca del valle encantado (1988)" group-title="General" tvg-chno="" x-quality="SD" ,En busca del valle encantado (1988)
+http://goldtv.lat:80/movie/Sebita2022/Manya2022/475330.mkv
+#EXTINF:-1 tvg-name="Alicia a través del espejo (2016)" group-title="General" tvg-chno="" x-quality="SD" ,Alicia a través del espejo (2016)
+http://goldtv.lat:80/movie/Sebita2022/Manya2022/475331.mkv
+#EXTINF:-1 tvg-name="La película de Bugs Bunny y el Correcaminos (1979)" group-title="General" tvg-chno="" x-quality="SD" ,La película de Bugs Bunny y el Correcaminos (1979)
+http://goldtv.lat:80/movie/Sebita2022/Manya2022/475332.mkv
+#EXTINF:-1 tvg-name="La era de hielo 4 (2012)" group-title="General" tvg-chno="" x-quality="SD" ,La era de hielo 4 (2012)
+http://goldtv.lat:80/movie/Sebita2022/Manya2022/475329.mkv
+#EXTINF:-1 tvg-name="Bob el Constructor: Mega Maquinas (2017)" group-title="General" tvg-chno="" x-quality="SD" ,Bob el Constructor: Mega Maquinas (2017)
+http://goldtv.lat:80/movie/Sebita2022/Manya2022/475328.mkv
+#EXTINF:-1 tvg-name="La muerte y el regreso de Superman (2019)" group-title="General" tvg-chno="" x-quality="SD" ,La muerte y el regreso de Superman (2019)
+http://goldtv.lat:80/movie/Sebita2022/Manya2022/475327.mkv
+#EXTINF:-1 tvg-name="Duma (2005)" group-title="General" tvg-chno="" x-quality="SD" ,Duma (2005)
+http://goldtv.lat:80/movie/Sebita2022/Manya2022/475325.mkv
+#EXTINF:-1 tvg-name="El Capitán Calzoncillos y la Megavidad (2020)" group-title="General" tvg-chno="" x-quality="SD" ,El Capitán Calzoncillos y la Megavidad (2020)
+http://goldtv.lat:80/movie/Sebita2022/Manya2022/475326.mkv
+#EXTINF:-1 tvg-name="Zombies (2017)" group-title="General" tvg-chno="" x-quality="SD" ,Zombies (2017)
+http://goldtv.lat:80/movie/Sebita2022/Manya2022/475324.mkv
+#EXTINF:-1 tvg-name="Cars (2006)" group-title="General" tvg-chno="" x-quality="SD" ,Cars (2006)
+http://goldtv.lat:80/movie/Sebita2022/Manya2022/475323.mkv
+#EXTINF:-1 tvg-name="Zuruck nach Gaya 2004" group-title="General" tvg-chno="" x-quality="SD" ,Zuruck nach Gaya 2004
+http://goldtv.lat:80/movie/Sebita2022/Manya2022/475322.mkv
+#EXTINF:-1 tvg-name="Barbie en una aventura espacial (2016)" group-title="General" tvg-chno="" x-quality="SD" ,Barbie en una aventura espacial (2016)
+http://goldtv.lat:80/movie/Sebita2022/Manya2022/475321.mkv
+#EXTINF:-1 tvg-name="La Gallina Turuleca (2020)" group-title="General" tvg-chno="" x-quality="SD" ,La Gallina Turuleca (2020)
+http://goldtv.lat:80/movie/Sebita2022/Manya2022/475320.mkv
+#EXTINF:-1 tvg-name="Boonie Bears: El gran secreto (2016)" group-title="General" tvg-chno="" x-quality="SD" ,Boonie Bears: El gran secreto (2016)
+http://goldtv.lat:80/movie/Sebita2022/Manya2022/475319.mkv
+#EXTINF:-1 tvg-name="Dumbo (1941)" group-title="General" tvg-chno="" x-quality="SD" ,Dumbo (1941)
+http://goldtv.lat:80/movie/Sebita2022/Manya2022/475318.mkv
+#EXTINF:-1 tvg-name="Trueno y la casa mágica (2013)" group-title="General" tvg-chno="" x-quality="SD" ,Trueno y la casa mágica (2013)
+http://goldtv.lat:80/movie/Sebita2022/Manya2022/475317.mkv
+#EXTINF:-1 tvg-name="Fixies: Amigos secretos (2017)" group-title="General" tvg-chno="" x-quality="SD" ,Fixies: Amigos secretos (2017)
+http://goldtv.lat:80/movie/Sebita2022/Manya2022/475316.mkv
+#EXTINF:-1 tvg-name="Angry Birds 2: La Película (2019)" group-title="General" tvg-chno="" x-quality="SD" ,Angry Birds 2: La Película (2019)
+http://goldtv.lat:80/movie/Sebita2022/Manya2022/475315.mkv
+#EXTINF:-1 tvg-name="Tut tut Cory Bólidos: Halloween (2020)" group-title="General" tvg-chno="" x-quality="SD" ,Tut tut Cory Bólidos: Halloween (2020)
+http://goldtv.lat:80/movie/Sebita2022/Manya2022/475313.mkv
+#EXTINF:-1 tvg-name="Barbie: Escuadrón secreto (2016)" group-title="General" tvg-chno="" x-quality="SD" ,Barbie: Escuadrón secreto (2016)
+http://goldtv.lat:80/movie/Sebita2022/Manya2022/475314.mkv
+#EXTINF:-1 tvg-name="Garfield 2 (2006)" group-title="General" tvg-chno="" x-quality="SD" ,Garfield 2 (2006)
+http://goldtv.lat:80/movie/Sebita2022/Manya2022/475312.mkv
+#EXTINF:-1 tvg-name="Salvando al Reino de Oz (2017)" group-title="General" tvg-chno="" x-quality="SD" ,Salvando al Reino de Oz (2017)
+http://goldtv.lat:80/movie/Sebita2022/Manya2022/475311.mkv
+#EXTINF:-1 tvg-name="El camino de Xico (2020)" group-title="General" tvg-chno="" x-quality="SD" ,El camino de Xico (2020)
+http://goldtv.lat:80/movie/Sebita2022/Manya2022/475310.mkv
+#EXTINF:-1 tvg-name="Cómo Entrenar A Tu Dragón (2010)" group-title="General" tvg-chno="" x-quality="SD" ,Cómo Entrenar A Tu Dragón (2010)
+http://goldtv.lat:80/movie/Sebita2022/Manya2022/475309.mkv
+#EXTINF:-1 tvg-name="Hocus Pocus 3" group-title="General" tvg-chno="" x-quality="SD" ,Hocus Pocus 3
+http://goldtv.lat:80/movie/Sebita2022/Manya2022/475308.mkv
+#EXTINF:-1 tvg-name="Escuadrón letal (2025)" group-title="General" tvg-chno="" x-quality="SD" ,Escuadrón letal (2025)
+http://goldtv.lat:80/movie/Sebita2022/Manya2022/474956.mp4
+#EXTINF:-1 tvg-name="Tenemos que hablar (2016)" group-title="General" tvg-chno="" x-quality="SD" ,Tenemos que hablar (2016)
+http://goldtv.lat:80/movie/Sebita2022/Manya2022/474953.mp4
+#EXTINF:-1 tvg-name="BTS concierto en vivo" group-title="Musica" tvg-chno="" x-quality="SD" ,BTS concierto en vivo
+http://goldtv.lat:80/movie/Sebita2022/Manya2022/474952.mp4
+#EXTINF:-1 tvg-name="Nit de la Cremá 2026" group-title="General" tvg-chno="" x-quality="SD" ,Nit de la Cremá 2026
+http://goldtv.lat:80/movie/Sebita2022/Manya2022/474949.mp4
+#EXTINF:-1 tvg-name="Fukushima: A Nuclear Nightmare (2026)" group-title="General" tvg-chno="" x-quality="SD" ,Fukushima: A Nuclear Nightmare (2026)
+http://goldtv.lat:80/movie/Sebita2022/Manya2022/474948.mp4
+#EXTINF:-1 tvg-name="Bronco Billy (1980)" group-title="General" tvg-chno="" x-quality="SD" ,Bronco Billy (1980)
+http://goldtv.lat:80/movie/Sebita2022/Manya2022/474395.mp4
+#EXTINF:-1 tvg-name="Instinto Implacable (2026)" group-title="General" tvg-chno="" x-quality="SD" ,Instinto Implacable (2026)
+http://goldtv.lat:80/movie/Sebita2022/Manya2022/474947.mp4
+#EXTINF:-1 tvg-name="Dinamita Joe (1967)" group-title="General" tvg-chno="" x-quality="SD" ,Dinamita Joe (1967)
+http://goldtv.lat:80/movie/Sebita2022/Manya2022/474393.mkv
+#EXTINF:-1 tvg-name="Tormenta en Arizona (1956)" group-title="General" tvg-chno="" x-quality="SD" ,Tormenta en Arizona (1956)
+http://goldtv.lat:80/movie/Sebita2022/Manya2022/474394.mkv
+#EXTINF:-1 tvg-name="Nubes Rojas (2016)" group-title="General" tvg-chno="" x-quality="SD" ,Nubes Rojas (2016)
+http://goldtv.lat:80/movie/Sebita2022/Manya2022/474392.mkv
+#EXTINF:-1 tvg-name="Madron (1970)" group-title="General" tvg-chno="" x-quality="SD" ,Madron (1970)
+http://goldtv.lat:80/movie/Sebita2022/Manya2022/474389.mkv
+#EXTINF:-1 tvg-name="Furia al amanecer (1955)" group-title="General" tvg-chno="" x-quality="SD" ,Furia al amanecer (1955)
+http://goldtv.lat:80/movie/Sebita2022/Manya2022/474391.mkv
+#EXTINF:-1 tvg-name="Pacto de honor (1955)" group-title="General" tvg-chno="" x-quality="SD" ,Pacto de honor (1955)
+http://goldtv.lat:80/movie/Sebita2022/Manya2022/474390.mkv
+#EXTINF:-1 tvg-name="Dos hermanos y una mula (1972)" group-title="General" tvg-chno="" x-quality="SD" ,Dos hermanos y una mula (1972)
+http://goldtv.lat:80/movie/Sebita2022/Manya2022/474387.mkv
+#EXTINF:-1 tvg-name="Reverendo Colt (1970)" group-title="General" tvg-chno="" x-quality="SD" ,Reverendo Colt (1970)
+http://goldtv.lat:80/movie/Sebita2022/Manya2022/474388.mkv
+#EXTINF:-1 tvg-name="Una pistola para Ringo (1965)" group-title="General" tvg-chno="" x-quality="SD" ,Una pistola para Ringo (1965)
+http://goldtv.lat:80/movie/Sebita2022/Manya2022/474386.mkv
+#EXTINF:-1 tvg-name="Las 7 magníficas (1966)" group-title="General" tvg-chno="" x-quality="SD" ,Las 7 magníficas (1966)
+http://goldtv.lat:80/movie/Sebita2022/Manya2022/474383.mkv
+#EXTINF:-1 tvg-name="La muerte llega arrastrándose (1972)" group-title="General" tvg-chno="" x-quality="SD" ,La muerte llega arrastrándose (1972)
+http://goldtv.lat:80/movie/Sebita2022/Manya2022/474384.mkv
+#EXTINF:-1 tvg-name="El momento de matar (1968)" group-title="General" tvg-chno="" x-quality="SD" ,El momento de matar (1968)
+http://goldtv.lat:80/movie/Sebita2022/Manya2022/474385.mkv
+#EXTINF:-1 tvg-name="Una mujer llamada Apache (1976)" group-title="General" tvg-chno="" x-quality="SD" ,Una mujer llamada Apache (1976)
+http://goldtv.lat:80/movie/Sebita2022/Manya2022/474380.mkv
+#EXTINF:-1 tvg-name="El héroe del Oeste (1965)" group-title="General" tvg-chno="" x-quality="SD" ,El héroe del Oeste (1965)
+http://goldtv.lat:80/movie/Sebita2022/Manya2022/474382.mkv
+#EXTINF:-1 tvg-name="Más valientes que los hombres (1974)" group-title="General" tvg-chno="" x-quality="SD" ,Más valientes que los hombres (1974)
+http://goldtv.lat:80/movie/Sebita2022/Manya2022/474379.mkv
+#EXTINF:-1 tvg-name="Jardín del mal (1954)" group-title="General" tvg-chno="" x-quality="SD" ,Jardín del mal (1954)
+http://goldtv.lat:80/movie/Sebita2022/Manya2022/474378.mkv
+#EXTINF:-1 tvg-name="Le llamaban King (1971)" group-title="General" tvg-chno="" x-quality="SD" ,Le llamaban King (1971)
+http://goldtv.lat:80/movie/Sebita2022/Manya2022/474377.mkv
+#EXTINF:-1 tvg-name="La batalla de los rancheros (1952)" group-title="General" tvg-chno="" x-quality="SD" ,La batalla de los rancheros (1952)
+http://goldtv.lat:80/movie/Sebita2022/Manya2022/474376.mkv
+#EXTINF:-1 tvg-name="Hacha de guerra (1956)" group-title="General" tvg-chno="" x-quality="SD" ,Hacha de guerra (1956)
+http://goldtv.lat:80/movie/Sebita2022/Manya2022/474375.mkv
+#EXTINF:-1 tvg-name="Lo quiero muerto (1968)" group-title="General" tvg-chno="" x-quality="SD" ,Lo quiero muerto (1968)
+http://goldtv.lat:80/movie/Sebita2022/Manya2022/474374.mkv
+#EXTINF:-1 tvg-name="La ruta de Denver (1955)" group-title="General" tvg-chno="" x-quality="SD" ,La ruta de Denver (1955)
+http://goldtv.lat:80/movie/Sebita2022/Manya2022/474373.mkv
+#EXTINF:-1 tvg-name="El valle de la venganza (1951)" group-title="General" tvg-chno="" x-quality="SD" ,El valle de la venganza (1951)
+http://goldtv.lat:80/movie/Sebita2022/Manya2022/474372.mkv
+#EXTINF:-1 tvg-name="Mannaja (1977)" group-title="General" tvg-chno="" x-quality="SD" ,Mannaja (1977)
+http://goldtv.lat:80/movie/Sebita2022/Manya2022/474371.mkv
+#EXTINF:-1 tvg-name="Capitán Apache (1971)" group-title="General" tvg-chno="" x-quality="SD" ,Capitán Apache (1971)
+http://goldtv.lat:80/movie/Sebita2022/Manya2022/474370.mkv
+#EXTINF:-1 tvg-name="Vendetta (1977)" group-title="General" tvg-chno="" x-quality="SD" ,Vendetta (1977)
+http://goldtv.lat:80/movie/Sebita2022/Manya2022/474369.mkv
+#EXTINF:-1 tvg-name="Las pistolas no discuten (1964)" group-title="General" tvg-chno="" x-quality="SD" ,Las pistolas no discuten (1964)
+http://goldtv.lat:80/movie/Sebita2022/Manya2022/474367.mkv
+#EXTINF:-1 tvg-name="Stark, el pistolero (1968)" group-title="General" tvg-chno="" x-quality="SD" ,Stark, el pistolero (1968)
+http://goldtv.lat:80/movie/Sebita2022/Manya2022/474368.mkv
+#EXTINF:-1 tvg-name="Un Forastero en Paso Bravo (1968)" group-title="General" tvg-chno="" x-quality="SD" ,Un Forastero en Paso Bravo (1968)
+http://goldtv.lat:80/movie/Sebita2022/Manya2022/474365.mkv
+#EXTINF:-1 tvg-name="Arizona vuelve (1970)" group-title="General" tvg-chno="" x-quality="SD" ,Arizona vuelve (1970)
+http://goldtv.lat:80/movie/Sebita2022/Manya2022/474366.mkv
+#EXTINF:-1 tvg-name="La ley de Yuma (1971)" group-title="General" tvg-chno="" x-quality="SD" ,La ley de Yuma (1971)
+http://goldtv.lat:80/movie/Sebita2022/Manya2022/474364.mkv
+#EXTINF:-1 tvg-name="Quedó uno sólo, la muerte fue para todos (1971)" group-title="General" tvg-chno="" x-quality="SD" ,Quedó uno sólo, la muerte fue para todos (1971)
+http://goldtv.lat:80/movie/Sebita2022/Manya2022/474363.mkv
+#EXTINF:-1 tvg-name="Y Dios dijo a Caín (1970)" group-title="General" tvg-chno="" x-quality="SD" ,Y Dios dijo a Caín (1970)
+http://goldtv.lat:80/movie/Sebita2022/Manya2022/474362.mkv
+#EXTINF:-1 tvg-name="Fort Apache (1948)" group-title="General" tvg-chno="" x-quality="SD" ,Fort Apache (1948)
+http://goldtv.lat:80/movie/Sebita2022/Manya2022/474361.mkv
+#EXTINF:-1 tvg-name="Más allá de la ley (1968)" group-title="General" tvg-chno="" x-quality="SD" ,Más allá de la ley (1968)
+http://goldtv.lat:80/movie/Sebita2022/Manya2022/474359.mkv
+#EXTINF:-1 tvg-name="Cabalgar en solitario (1959)" group-title="General" tvg-chno="" x-quality="SD" ,Cabalgar en solitario (1959)
+http://goldtv.lat:80/movie/Sebita2022/Manya2022/474360.mkv
+#EXTINF:-1 tvg-name="Yo soy la revolución (1966)" group-title="General" tvg-chno="" x-quality="SD" ,Yo soy la revolución (1966)
+http://goldtv.lat:80/movie/Sebita2022/Manya2022/474356.mkv
+#EXTINF:-1 tvg-name="Cinco pistolas (1955)" group-title="General" tvg-chno="" x-quality="SD" ,Cinco pistolas (1955)
+http://goldtv.lat:80/movie/Sebita2022/Manya2022/474358.mkv
+#EXTINF:-1 tvg-name="Los compañeros (1970)" group-title="General" tvg-chno="" x-quality="SD" ,Los compañeros (1970)
+http://goldtv.lat:80/movie/Sebita2022/Manya2022/474357.mkv
+#EXTINF:-1 tvg-name="Doc, manos de plata (1965)" group-title="General" tvg-chno="" x-quality="SD" ,Doc, manos de plata (1965)
+http://goldtv.lat:80/movie/Sebita2022/Manya2022/474354.mkv
+#EXTINF:-1 tvg-name="Barro en los ojos (1971)" group-title="General" tvg-chno="" x-quality="SD" ,Barro en los ojos (1971)
+http://goldtv.lat:80/movie/Sebita2022/Manya2022/474353.mkv
+#EXTINF:-1 tvg-name="Así mueren los valientes (1955)" group-title="General" tvg-chno="" x-quality="SD" ,Así mueren los valientes (1955)
+http://goldtv.lat:80/movie/Sebita2022/Manya2022/474355.mkv
+#EXTINF:-1 tvg-name="Trampa para un forajido (1966)" group-title="General" tvg-chno="" x-quality="SD" ,Trampa para un forajido (1966)
+http://goldtv.lat:80/movie/Sebita2022/Manya2022/474352.mkv
+#EXTINF:-1 tvg-name="Un dólar de recompensa (1972)" group-title="General" tvg-chno="" x-quality="SD" ,Un dólar de recompensa (1972)
+http://goldtv.lat:80/movie/Sebita2022/Manya2022/474349.mkv
+#EXTINF:-1 tvg-name="La tribu de los Pawnee (1957)" group-title="General" tvg-chno="" x-quality="SD" ,La tribu de los Pawnee (1957)
+http://goldtv.lat:80/movie/Sebita2022/Manya2022/474351.mkv
+#EXTINF:-1 tvg-name="Quince horcas para un asesino (1968)" group-title="General" tvg-chno="" x-quality="SD" ,Quince horcas para un asesino (1968)
+http://goldtv.lat:80/movie/Sebita2022/Manya2022/474347.mkv
+#EXTINF:-1 tvg-name="A través del huracán (1966)" group-title="General" tvg-chno="" x-quality="SD" ,A través del huracán (1966)
+http://goldtv.lat:80/movie/Sebita2022/Manya2022/474348.mkv
+#EXTINF:-1 tvg-name="Desafío en Río Bravo (1964)" group-title="General" tvg-chno="" x-quality="SD" ,Desafío en Río Bravo (1964)
+http://goldtv.lat:80/movie/Sebita2022/Manya2022/474346.mkv
+#EXTINF:-1 tvg-name="Las malditas pistolas de Dallas (1964)" group-title="General" tvg-chno="" x-quality="SD" ,Las malditas pistolas de Dallas (1964)
+http://goldtv.lat:80/movie/Sebita2022/Manya2022/474345.mkv
+#EXTINF:-1 tvg-name="La noche salvaje" group-title="General" tvg-chno="" x-quality="SD" ,La noche salvaje
+http://goldtv.lat:80/movie/Sebita2022/Manya2022/474344.mkv
+#EXTINF:-1 tvg-name="Sangre en la pradera (1964)" group-title="General" tvg-chno="" x-quality="SD" ,Sangre en la pradera (1964)
+http://goldtv.lat:80/movie/Sebita2022/Manya2022/474343.mkv
+#EXTINF:-1 tvg-name="Río Lobo (1970)" group-title="General" tvg-chno="" x-quality="SD" ,Río Lobo (1970)
+http://goldtv.lat:80/movie/Sebita2022/Manya2022/474342.mkv
+#EXTINF:-1 tvg-name="Los indomables (1956)" group-title="General" tvg-chno="" x-quality="SD" ,Los indomables (1956)
+http://goldtv.lat:80/movie/Sebita2022/Manya2022/474340.mkv
+#EXTINF:-1 tvg-name="El séptimo de caballería (1965)" group-title="General" tvg-chno="" x-quality="SD" ,El séptimo de caballería (1965)
+http://goldtv.lat:80/movie/Sebita2022/Manya2022/474341.mkv
+#EXTINF:-1 tvg-name="Calibre 32 (1967)" group-title="General" tvg-chno="" x-quality="SD" ,Calibre 32 (1967)
+http://goldtv.lat:80/movie/Sebita2022/Manya2022/474337.mkv
+#EXTINF:-1 tvg-name="Huracán sobre México (1967)" group-title="General" tvg-chno="" x-quality="SD" ,Huracán sobre México (1967)
+http://goldtv.lat:80/movie/Sebita2022/Manya2022/474338.mkv
+#EXTINF:-1 tvg-name="La reina de Montana (1954)" group-title="General" tvg-chno="" x-quality="SD" ,La reina de Montana (1954)
+http://goldtv.lat:80/movie/Sebita2022/Manya2022/474339.mkv
+#EXTINF:-1 tvg-name="El pistolero de negro (1971)" group-title="General" tvg-chno="" x-quality="SD" ,El pistolero de negro (1971)
+http://goldtv.lat:80/movie/Sebita2022/Manya2022/474336.mkv
+#EXTINF:-1 tvg-name="Más muerto que vivo (1969)" group-title="General" tvg-chno="" x-quality="SD" ,Más muerto que vivo (1969)
+http://goldtv.lat:80/movie/Sebita2022/Manya2022/474335.mkv
+#EXTINF:-1 tvg-name="El último baluarte (1952)" group-title="General" tvg-chno="" x-quality="SD" ,El último baluarte (1952)
+http://goldtv.lat:80/movie/Sebita2022/Manya2022/474334.mkv
+#EXTINF:-1 tvg-name="Y dejaron de llamarle Camposanto (1971)" group-title="General" tvg-chno="" x-quality="SD" ,Y dejaron de llamarle Camposanto (1971)
+http://goldtv.lat:80/movie/Sebita2022/Manya2022/474332.mkv
+#EXTINF:-1 tvg-name="El último mohicano (1965)" group-title="General" tvg-chno="" x-quality="SD" ,El último mohicano (1965)
+http://goldtv.lat:80/movie/Sebita2022/Manya2022/474331.mkv
+#EXTINF:-1 tvg-name="Tepepa - Viva la revolución (1969)" group-title="General" tvg-chno="" x-quality="SD" ,Tepepa - Viva la revolución (1969)
+http://goldtv.lat:80/movie/Sebita2022/Manya2022/474333.mkv
+#EXTINF:-1 tvg-name="Puerta abierta al infierno (1970)" group-title="General" tvg-chno="" x-quality="SD" ,Puerta abierta al infierno (1970)
+http://goldtv.lat:80/movie/Sebita2022/Manya2022/474330.mkv
+#EXTINF:-1 tvg-name="Era de violencia (1952)" group-title="General" tvg-chno="" x-quality="SD" ,Era de violencia (1952)
+http://goldtv.lat:80/movie/Sebita2022/Manya2022/474329.mkv
+#EXTINF:-1 tvg-name="La leyenda del Llanero Solitario (1981)" group-title="General" tvg-chno="" x-quality="SD" ,La leyenda del Llanero Solitario (1981)
+http://goldtv.lat:80/movie/Sebita2022/Manya2022/474328.mkv
+#EXTINF:-1 tvg-name="Un dólar agujereado (1965)" group-title="General" tvg-chno="" x-quality="SD" ,Un dólar agujereado (1965)
+http://goldtv.lat:80/movie/Sebita2022/Manya2022/474327.mp4
+#EXTINF:-1 tvg-name="Y le Llamaban el Halcón (1972)" group-title="General" tvg-chno="" x-quality="SD" ,Y le Llamaban el Halcón (1972)
+http://goldtv.lat:80/movie/Sebita2022/Manya2022/474326.mkv
+#EXTINF:-1 tvg-name="Un dólar para Sartana (1971)" group-title="General" tvg-chno="" x-quality="SD" ,Un dólar para Sartana (1971)
+http://goldtv.lat:80/movie/Sebita2022/Manya2022/474325.mkv
+#EXTINF:-1 tvg-name="El clan de los ahorcados (1968)" group-title="General" tvg-chno="" x-quality="SD" ,El clan de los ahorcados (1968)
+http://goldtv.lat:80/movie/Sebita2022/Manya2022/474323.mkv
+#EXTINF:-1 tvg-name="El largo dia de la masacre (1968)" group-title="General" tvg-chno="" x-quality="SD" ,El largo dia de la masacre (1968)
+http://goldtv.lat:80/movie/Sebita2022/Manya2022/474322.mkv
+#EXTINF:-1 tvg-name="La diligencia (1939)" group-title="General" tvg-chno="" x-quality="SD" ,La diligencia (1939)
+http://goldtv.lat:80/movie/Sebita2022/Manya2022/474324.mkv
+#EXTINF:-1 tvg-name="Uno a uno sin piedad (1968)" group-title="General" tvg-chno="" x-quality="SD" ,Uno a uno sin piedad (1968)
+http://goldtv.lat:80/movie/Sebita2022/Manya2022/474321.mkv
+#EXTINF:-1 tvg-name="Cañones para Córdoba (1970)" group-title="General" tvg-chno="" x-quality="SD" ,Cañones para Córdoba (1970)
+http://goldtv.lat:80/movie/Sebita2022/Manya2022/474319.mkv
+#EXTINF:-1 tvg-name="Los profesionales del oro (1968)" group-title="General" tvg-chno="" x-quality="SD" ,Los profesionales del oro (1968)
+http://goldtv.lat:80/movie/Sebita2022/Manya2022/474320.mkv
+#EXTINF:-1 tvg-name="Rebelión en el fuerte (1954)" group-title="General" tvg-chno="" x-quality="SD" ,Rebelión en el fuerte (1954)
+http://goldtv.lat:80/movie/Sebita2022/Manya2022/474316.mkv
+#EXTINF:-1 tvg-name="Buon funerale, amigos!… paga Sartana (1970)" group-title="General" tvg-chno="" x-quality="SD" ,Buon funerale, amigos!… paga Sartana (1970)
+http://goldtv.lat:80/movie/Sebita2022/Manya2022/474318.mkv
+#EXTINF:-1 tvg-name="Cazador de recompensas (1966)" group-title="General" tvg-chno="" x-quality="SD" ,Cazador de recompensas (1966)
+http://goldtv.lat:80/movie/Sebita2022/Manya2022/474317.mkv
+#EXTINF:-1 tvg-name="Arizona Colt (1966)" group-title="General" tvg-chno="" x-quality="SD" ,Arizona Colt (1966)
+http://goldtv.lat:80/movie/Sebita2022/Manya2022/474314.mkv
+#EXTINF:-1 tvg-name="El hombre, el orgullo y la venganza (1967)" group-title="General" tvg-chno="" x-quality="SD" ,El hombre, el orgullo y la venganza (1967)
+http://goldtv.lat:80/movie/Sebita2022/Manya2022/474315.mkv
+#EXTINF:-1 tvg-name="El largo camino de la venganza (1972)" group-title="General" tvg-chno="" x-quality="SD" ,El largo camino de la venganza (1972)
+http://goldtv.lat:80/movie/Sebita2022/Manya2022/474313.mkv
+#EXTINF:-1 tvg-name="Oro maldito (1967)" group-title="General" tvg-chno="" x-quality="SD" ,Oro maldito (1967)
+http://goldtv.lat:80/movie/Sebita2022/Manya2022/474312.mkv
+#EXTINF:-1 tvg-name="Tierra de gigantes (1969)" group-title="General" tvg-chno="" x-quality="SD" ,Tierra de gigantes (1969)
+http://goldtv.lat:80/movie/Sebita2022/Manya2022/474311.mkv
+#EXTINF:-1 tvg-name="La mujer del látigo (1958)" group-title="General" tvg-chno="" x-quality="SD" ,La mujer del látigo (1958)
+http://goldtv.lat:80/movie/Sebita2022/Manya2022/474310.mkv
+#EXTINF:-1 tvg-name="La última aventura (1967)" group-title="General" tvg-chno="" x-quality="SD" ,La última aventura (1967)
+http://goldtv.lat:80/movie/Sebita2022/Manya2022/474308.mkv
+#EXTINF:-1 tvg-name="Senderos de violencia (1955)" group-title="General" tvg-chno="" x-quality="SD" ,Senderos de violencia (1955)
+http://goldtv.lat:80/movie/Sebita2022/Manya2022/474309.mkv
+#EXTINF:-1 tvg-name="El Puro se sienta, espera y dispara (1969)" group-title="General" tvg-chno="" x-quality="SD" ,El Puro se sienta, espera y dispara (1969)
+http://goldtv.lat:80/movie/Sebita2022/Manya2022/474307.mkv
+#EXTINF:-1 tvg-name="Grito de sangre Apache (1970)" group-title="General" tvg-chno="" x-quality="SD" ,Grito de sangre Apache (1970)
+http://goldtv.lat:80/movie/Sebita2022/Manya2022/474306.mkv
+#EXTINF:-1 tvg-name="Django - Si quieres vivir, dispara (1968)" group-title="General" tvg-chno="" x-quality="SD" ,Django - Si quieres vivir, dispara (1968)
+http://goldtv.lat:80/movie/Sebita2022/Manya2022/474305.mkv
+#EXTINF:-1 tvg-name="El valor de un cobarde (1969)" group-title="General" tvg-chno="" x-quality="SD" ,El valor de un cobarde (1969)
+http://goldtv.lat:80/movie/Sebita2022/Manya2022/474304.mkv
+#EXTINF:-1 tvg-name="Yankee (1966)" group-title="General" tvg-chno="" x-quality="SD" ,Yankee (1966)
+http://goldtv.lat:80/movie/Sebita2022/Manya2022/474302.mkv
+#EXTINF:-1 tvg-name="Como lobos sedientos (1967)" group-title="General" tvg-chno="" x-quality="SD" ,Como lobos sedientos (1967)
+http://goldtv.lat:80/movie/Sebita2022/Manya2022/474303.mkv
+#EXTINF:-1 tvg-name="Django il bastardo (1969)" group-title="General" tvg-chno="" x-quality="SD" ,Django il bastardo (1969)
+http://goldtv.lat:80/movie/Sebita2022/Manya2022/474301.mkv
+#EXTINF:-1 tvg-name="Mi nombre es Shangai Joe (1973)" group-title="General" tvg-chno="" x-quality="SD" ,Mi nombre es Shangai Joe (1973)
+http://goldtv.lat:80/movie/Sebita2022/Manya2022/474300.mkv
+#EXTINF:-1 tvg-name="Apocalipsis Joe (1970)" group-title="General" tvg-chno="" x-quality="SD" ,Apocalipsis Joe (1970)
+http://goldtv.lat:80/movie/Sebita2022/Manya2022/474299.mkv
+#EXTINF:-1 tvg-name="El Vengador Sin Piedad (1958)" group-title="General" tvg-chno="" x-quality="SD" ,El Vengador Sin Piedad (1958)
+http://goldtv.lat:80/movie/Sebita2022/Manya2022/474298.mkv
+#EXTINF:-1 tvg-name="La venganza de los cheyennes (1975)" group-title="General" tvg-chno="" x-quality="SD" ,La venganza de los cheyennes (1975)
+http://goldtv.lat:80/movie/Sebita2022/Manya2022/474297.mkv
+#EXTINF:-1 tvg-name="El ahorcado (1974)" group-title="General" tvg-chno="" x-quality="SD" ,El ahorcado (1974)
+http://goldtv.lat:80/movie/Sebita2022/Manya2022/474296.mkv
+#EXTINF:-1 tvg-name="Los hermanos Sisters (2018)" group-title="General" tvg-chno="" x-quality="SD" ,Los hermanos Sisters (2018)
+http://goldtv.lat:80/movie/Sebita2022/Manya2022/474295.mp4
+#EXTINF:-1 tvg-name="Los largos días de la venganza (1967)" group-title="General" tvg-chno="" x-quality="SD" ,Los largos días de la venganza (1967)
+http://goldtv.lat:80/movie/Sebita2022/Manya2022/474294.mkv
+#EXTINF:-1 tvg-name="El hombre de las pistolas de oro (1959)" group-title="General" tvg-chno="" x-quality="SD" ,El hombre de las pistolas de oro (1959)
+http://goldtv.lat:80/movie/Sebita2022/Manya2022/474293.mkv
+#EXTINF:-1 tvg-name="Los profesionales de la muerte (1967)" group-title="General" tvg-chno="" x-quality="SD" ,Los profesionales de la muerte (1967)
+http://goldtv.lat:80/movie/Sebita2022/Manya2022/474292.mkv
+#EXTINF:-1 tvg-name="La ruta del caribú (1950)" group-title="General" tvg-chno="" x-quality="SD" ,La ruta del caribú (1950)
+http://goldtv.lat:80/movie/Sebita2022/Manya2022/474291.mkv
+#EXTINF:-1 tvg-name="El regreso de los cuatro magníficos (1970)" group-title="General" tvg-chno="" x-quality="SD" ,El regreso de los cuatro magníficos (1970)
+http://goldtv.lat:80/movie/Sebita2022/Manya2022/474290.mkv
+#EXTINF:-1 tvg-name="California (1977)" group-title="General" tvg-chno="" x-quality="SD" ,California (1977)
+http://goldtv.lat:80/movie/Sebita2022/Manya2022/474289.mkv
+#EXTINF:-1 tvg-name="Una ciudad llamada Bastarda (1971)" group-title="General" tvg-chno="" x-quality="SD" ,Una ciudad llamada Bastarda (1971)
+http://goldtv.lat:80/movie/Sebita2022/Manya2022/474287.mkv
+#EXTINF:-1 tvg-name="Keoma (1976)" group-title="General" tvg-chno="" x-quality="SD" ,Keoma (1976)
+http://goldtv.lat:80/movie/Sebita2022/Manya2022/474288.mkv
+#EXTINF:-1 tvg-name="La legión invencible (1949)" group-title="General" tvg-chno="" x-quality="SD" ,La legión invencible (1949)
+http://goldtv.lat:80/movie/Sebita2022/Manya2022/474284.mkv
+#EXTINF:-1 tvg-name="Pluma blanca (1954)" group-title="General" tvg-chno="" x-quality="SD" ,Pluma blanca (1954)
+http://goldtv.lat:80/movie/Sebita2022/Manya2022/474285.mkv
+#EXTINF:-1 tvg-name="Los locos del oro negro (1975)" group-title="General" tvg-chno="" x-quality="SD" ,Los locos del oro negro (1975)
+http://goldtv.lat:80/movie/Sebita2022/Manya2022/474286.mkv
+#EXTINF:-1 tvg-name="Las águilas negras de Santa Fe (1965)" group-title="General" tvg-chno="" x-quality="SD" ,Las águilas negras de Santa Fe (1965)
+http://goldtv.lat:80/movie/Sebita2022/Manya2022/474282.mkv
+#EXTINF:-1 tvg-name="Dinero sangriento (1974)" group-title="General" tvg-chno="" x-quality="SD" ,Dinero sangriento (1974)
+http://goldtv.lat:80/movie/Sebita2022/Manya2022/474281.mkv
+#EXTINF:-1 tvg-name="Por la senda más dura (1975)" group-title="General" tvg-chno="" x-quality="SD" ,Por la senda más dura (1975)
+http://goldtv.lat:80/movie/Sebita2022/Manya2022/474280.mkv
+#EXTINF:-1 tvg-name="El ángel y el pistolero (1947)" group-title="General" tvg-chno="" x-quality="SD" ,El ángel y el pistolero (1947)
+http://goldtv.lat:80/movie/Sebita2022/Manya2022/474279.mkv
+#EXTINF:-1 tvg-name="El retorno de Ringo (1965)" group-title="General" tvg-chno="" x-quality="SD" ,El retorno de Ringo (1965)
+http://goldtv.lat:80/movie/Sebita2022/Manya2022/474278.mkv
+#EXTINF:-1 tvg-name="El hombre de Bitter Ridge (1955)" group-title="General" tvg-chno="" x-quality="SD" ,El hombre de Bitter Ridge (1955)
+http://goldtv.lat:80/movie/Sebita2022/Manya2022/474277.mkv
+#EXTINF:-1 tvg-name="El día de la ira (1967)" group-title="General" tvg-chno="" x-quality="SD" ,El día de la ira (1967)
+http://goldtv.lat:80/movie/Sebita2022/Manya2022/474276.mkv
+#EXTINF:-1 tvg-name="El regreso de Sabata (1971)" group-title="General" tvg-chno="" x-quality="SD" ,El regreso de Sabata (1971)
+http://goldtv.lat:80/movie/Sebita2022/Manya2022/474275.mkv
+#EXTINF:-1 tvg-name="Los despiadados (1967)" group-title="General" tvg-chno="" x-quality="SD" ,Los despiadados (1967)
+http://goldtv.lat:80/movie/Sebita2022/Manya2022/474274.mkv
+#EXTINF:-1 tvg-name="Lola Colt (1967)" group-title="General" tvg-chno="" x-quality="SD" ,Lola Colt (1967)
+http://goldtv.lat:80/movie/Sebita2022/Manya2022/474273.mkv
+#EXTINF:-1 tvg-name="Rita en el West (1968)" group-title="General" tvg-chno="" x-quality="SD" ,Rita en el West (1968)
+http://goldtv.lat:80/movie/Sebita2022/Manya2022/474272.mkv
+#EXTINF:-1 tvg-name="Un dólar agujereado (1965)" group-title="General" tvg-chno="" x-quality="SD" ,Un dólar agujereado (1965)
+http://goldtv.lat:80/movie/Sebita2022/Manya2022/474271.mkv
+#EXTINF:-1 tvg-name="El forajido (1943)" group-title="General" tvg-chno="" x-quality="SD" ,El forajido (1943)
+http://goldtv.lat:80/movie/Sebita2022/Manya2022/474269.mkv
+#EXTINF:-1 tvg-name="Gerónimo: Una leyenda (1993)" group-title="General" tvg-chno="" x-quality="SD" ,Gerónimo: Una leyenda (1993)
+http://goldtv.lat:80/movie/Sebita2022/Manya2022/474270.mkv
+#EXTINF:-1 tvg-name="Los rastreadores (1971)" group-title="General" tvg-chno="" x-quality="SD" ,Los rastreadores (1971)
+http://goldtv.lat:80/movie/Sebita2022/Manya2022/474268.mkv
+#EXTINF:-1 tvg-name="Dos veces Judas (1969)" group-title="General" tvg-chno="" x-quality="SD" ,Dos veces Judas (1969)
+http://goldtv.lat:80/movie/Sebita2022/Manya2022/474267.mkv
+#EXTINF:-1 tvg-name="Tiempo de masacre (1966)" group-title="General" tvg-chno="" x-quality="SD" ,Tiempo de masacre (1966)
+http://goldtv.lat:80/movie/Sebita2022/Manya2022/474266.mkv
+#EXTINF:-1 tvg-name="La muerte cumple condena (1966)" group-title="General" tvg-chno="" x-quality="SD" ,La muerte cumple condena (1966)
+http://goldtv.lat:80/movie/Sebita2022/Manya2022/474265.mkv
+#EXTINF:-1 tvg-name="Ramón el mexicano (1966)" group-title="General" tvg-chno="" x-quality="SD" ,Ramón el mexicano (1966)
+http://goldtv.lat:80/movie/Sebita2022/Manya2022/474262.mkv
+#EXTINF:-1 tvg-name="Wanted (1967)" group-title="General" tvg-chno="" x-quality="SD" ,Wanted (1967)
+http://goldtv.lat:80/movie/Sebita2022/Manya2022/474264.mkv
+#EXTINF:-1 tvg-name="La furia de Johnny Kid (1967)" group-title="General" tvg-chno="" x-quality="SD" ,La furia de Johnny Kid (1967)
+http://goldtv.lat:80/movie/Sebita2022/Manya2022/474263.mkv
+#EXTINF:-1 tvg-name="El juez de la soga (1973)" group-title="General" tvg-chno="" x-quality="SD" ,El juez de la soga (1973)
+http://goldtv.lat:80/movie/Sebita2022/Manya2022/474261.mkv
+#EXTINF:-1 tvg-name="Filón de plata (1954)" group-title="General" tvg-chno="" x-quality="SD" ,Filón de plata (1954)
+http://goldtv.lat:80/movie/Sebita2022/Manya2022/474260.mkv
+#EXTINF:-1 tvg-name="La flecha rota (1950)" group-title="General" tvg-chno="" x-quality="SD" ,La flecha rota (1950)
+http://goldtv.lat:80/movie/Sebita2022/Manya2022/474258.mkv
+#EXTINF:-1 tvg-name="Río Rojo (1948)" group-title="General" tvg-chno="" x-quality="SD" ,Río Rojo (1948)
+http://goldtv.lat:80/movie/Sebita2022/Manya2022/474259.mp4
+#EXTINF:-1 tvg-name="Un tren para Durango (1968)" group-title="General" tvg-chno="" x-quality="SD" ,Un tren para Durango (1968)
+http://goldtv.lat:80/movie/Sebita2022/Manya2022/474257.mkv
+#EXTINF:-1 tvg-name="Reza al muerto, mata al vivo (1971)" group-title="General" tvg-chno="" x-quality="SD" ,Reza al muerto, mata al vivo (1971)
+http://goldtv.lat:80/movie/Sebita2022/Manya2022/474255.mkv
+#EXTINF:-1 tvg-name="Sugar Colt (1967)" group-title="General" tvg-chno="" x-quality="SD" ,Sugar Colt (1967)
+http://goldtv.lat:80/movie/Sebita2022/Manya2022/474256.mkv
+#EXTINF:-1 tvg-name="Con el corazón en la garganta (1967)" group-title="General" tvg-chno="" x-quality="SD" ,Con el corazón en la garganta (1967)
+http://goldtv.lat:80/movie/Sebita2022/Manya2022/474254.mkv
+#EXTINF:-1 tvg-name="De hombre a hombre (1967)" group-title="General" tvg-chno="" x-quality="SD" ,De hombre a hombre (1967)
+http://goldtv.lat:80/movie/Sebita2022/Manya2022/474251.mkv
+#EXTINF:-1 tvg-name="La muerte busca un hombre (1970)" group-title="General" tvg-chno="" x-quality="SD" ,La muerte busca un hombre (1970)
+http://goldtv.lat:80/movie/Sebita2022/Manya2022/474252.mkv
+#EXTINF:-1 tvg-name="Tu cabeza por mil dólares (1968)" group-title="General" tvg-chno="" x-quality="SD" ,Tu cabeza por mil dólares (1968)
+http://goldtv.lat:80/movie/Sebita2022/Manya2022/474253.mkv
+#EXTINF:-1 tvg-name="Las campanas de Coronado (1950)" group-title="General" tvg-chno="" x-quality="SD" ,Las campanas de Coronado (1950)
+http://goldtv.lat:80/movie/Sebita2022/Manya2022/474250.mkv
+#EXTINF:-1 tvg-name="Diez horcas para un pistolero (1967)" group-title="General" tvg-chno="" x-quality="SD" ,Diez horcas para un pistolero (1967)
+http://goldtv.lat:80/movie/Sebita2022/Manya2022/474249.mkv
+#EXTINF:-1 tvg-name="Ocaso de un pistolero (1965)" group-title="General" tvg-chno="" x-quality="SD" ,Ocaso de un pistolero (1965)
+http://goldtv.lat:80/movie/Sebita2022/Manya2022/474248.mkv
+#EXTINF:-1 tvg-name="Pat Garrett & Billy the Kid (1973)" group-title="General" tvg-chno="" x-quality="SD" ,Pat Garrett & Billy the Kid (1973)
+http://goldtv.lat:80/movie/Sebita2022/Manya2022/474247.mkv
+#EXTINF:-1 tvg-name="Sentencia de muerte (1968)" group-title="General" tvg-chno="" x-quality="SD" ,Sentencia de muerte (1968)
+http://goldtv.lat:80/movie/Sebita2022/Manya2022/474246.mkv
+#EXTINF:-1 tvg-name="Gran duelo al amanecer (1972)" group-title="General" tvg-chno="" x-quality="SD" ,Gran duelo al amanecer (1972)
+http://goldtv.lat:80/movie/Sebita2022/Manya2022/474245.mkv
+#EXTINF:-1 tvg-name="Gentleman Jo (1967)" group-title="General" tvg-chno="" x-quality="SD" ,Gentleman Jo (1967)
+http://goldtv.lat:80/movie/Sebita2022/Manya2022/474243.mkv
+#EXTINF:-1 tvg-name="La primera ametralladora del Oeste (1971)" group-title="General" tvg-chno="" x-quality="SD" ,La primera ametralladora del Oeste (1971)
+http://goldtv.lat:80/movie/Sebita2022/Manya2022/474242.mkv
+#EXTINF:-1 tvg-name="Joe Kidd (1972)" group-title="General" tvg-chno="" x-quality="SD" ,Joe Kidd (1972)
+http://goldtv.lat:80/movie/Sebita2022/Manya2022/474241.mkv
+#EXTINF:-1 tvg-name="La muerte no cuenta los dólares (1967)" group-title="General" tvg-chno="" x-quality="SD" ,La muerte no cuenta los dólares (1967)
+http://goldtv.lat:80/movie/Sebita2022/Manya2022/474238.mkv
+#EXTINF:-1 tvg-name="La ingenua explosiva (1965)" group-title="General" tvg-chno="" x-quality="SD" ,La ingenua explosiva (1965)
+http://goldtv.lat:80/movie/Sebita2022/Manya2022/474240.mp4
+#EXTINF:-1 tvg-name="Una tumba para el Sheriff (1965)" group-title="General" tvg-chno="" x-quality="SD" ,Una tumba para el Sheriff (1965)
+http://goldtv.lat:80/movie/Sebita2022/Manya2022/474239.mkv
+#EXTINF:-1 tvg-name="Vivo para matarte (1968)" group-title="General" tvg-chno="" x-quality="SD" ,Vivo para matarte (1968)
+http://goldtv.lat:80/movie/Sebita2022/Manya2022/474237.mkv
+#EXTINF:-1 tvg-name="El gran duelo (1971)" group-title="General" tvg-chno="" x-quality="SD" ,El gran duelo (1971)
+http://goldtv.lat:80/movie/Sebita2022/Manya2022/474235.mkv
+#EXTINF:-1 tvg-name="El poni rojo (1949)" group-title="General" tvg-chno="" x-quality="SD" ,El poni rojo (1949)
+http://goldtv.lat:80/movie/Sebita2022/Manya2022/474236.mkv
+#EXTINF:-1 tvg-name="Plazo para morir (1965)" group-title="General" tvg-chno="" x-quality="SD" ,Plazo para morir (1965)
+http://goldtv.lat:80/movie/Sebita2022/Manya2022/474233.mkv
+#EXTINF:-1 tvg-name="Django y Sartana, el último duelo (1970)" group-title="General" tvg-chno="" x-quality="SD" ,Django y Sartana, el último duelo (1970)
+http://goldtv.lat:80/movie/Sebita2022/Manya2022/474234.mkv
+#EXTINF:-1 tvg-name="El hombre de Río Malo (1971)" group-title="General" tvg-chno="" x-quality="SD" ,El hombre de Río Malo (1971)
+http://goldtv.lat:80/movie/Sebita2022/Manya2022/474232.mkv
+#EXTINF:-1 tvg-name="Winchester, uno entre mil (1968)" group-title="General" tvg-chno="" x-quality="SD" ,Winchester, uno entre mil (1968)
+http://goldtv.lat:80/movie/Sebita2022/Manya2022/474229.mkv
+#EXTINF:-1 tvg-name="Y por techo un cielo de estrellas (1968)" group-title="General" tvg-chno="" x-quality="SD" ,Y por techo un cielo de estrellas (1968)
+http://goldtv.lat:80/movie/Sebita2022/Manya2022/474230.mkv
+#EXTINF:-1 tvg-name="Por mil dólares al día (1966)" group-title="General" tvg-chno="" x-quality="SD" ,Por mil dólares al día (1966)
+http://goldtv.lat:80/movie/Sebita2022/Manya2022/474231.mkv
+#EXTINF:-1 tvg-name="Peaky Blinders: El hombre inmortal (2026)" group-title="General" tvg-chno="" x-quality="SD" ,Peaky Blinders: El hombre inmortal (2026)
+http://goldtv.lat:80/movie/Sebita2022/Manya2022/474223.mp4
+#EXTINF:-1 tvg-name="Zeta (2026)" group-title="General" tvg-chno="" x-quality="SD" ,Zeta (2026)
+http://goldtv.lat:80/movie/Sebita2022/Manya2022/474222.mp4
+#EXTINF:-1 tvg-name="El gran George Foreman (2023)" group-title="General" tvg-chno="" x-quality="SD" ,El gran George Foreman (2023)
+http://goldtv.lat:80/movie/Sebita2022/Manya2022/474221.mp4
+#EXTINF:-1 tvg-name="Uno (2024)" group-title="General" tvg-chno="" x-quality="SD" ,Uno (2024)
+http://goldtv.lat:80/movie/Sebita2022/Manya2022/474220.mp4
+#EXTINF:-1 tvg-name="The Score (2022)" group-title="General" tvg-chno="" x-quality="SD" ,The Score (2022)
+http://goldtv.lat:80/movie/Sebita2022/Manya2022/474209.mkv
+#EXTINF:-1 tvg-name="The Internship (2026)" group-title="General" tvg-chno="" x-quality="SD" ,The Internship (2026)
+http://goldtv.lat:80/movie/Sebita2022/Manya2022/474216.mp4
+#EXTINF:-1 tvg-name="Tombstone (1942)" group-title="General" tvg-chno="" x-quality="SD" ,Tombstone (1942)
+http://goldtv.lat:80/movie/Sebita2022/Manya2022/474207.mkv
+#EXTINF:-1 tvg-name="Vida Bandida (2001)" group-title="General" tvg-chno="" x-quality="SD" ,Vida Bandida (2001)
+http://goldtv.lat:80/movie/Sebita2022/Manya2022/474206.mp4
+#EXTINF:-1 tvg-name="Leyenda urbana (1998)" group-title="General" tvg-chno="" x-quality="SD" ,Leyenda urbana (1998)
+http://goldtv.lat:80/movie/Sebita2022/Manya2022/474208.mp4
+#EXTINF:-1 tvg-name="La ultima profecia" group-title="General" tvg-chno="" x-quality="SD" ,La ultima profecia
+http://goldtv.lat:80/movie/Sebita2022/Manya2022/474204.mp4
+#EXTINF:-1 tvg-name="Sliver: Una invasión a la intimidad (1993)" group-title="General" tvg-chno="" x-quality="SD" ,Sliver: Una invasión a la intimidad (1993)
+http://goldtv.lat:80/movie/Sebita2022/Manya2022/474205.mkv
+#EXTINF:-1 tvg-name="Who Else To Blame (2011)" group-title="General" tvg-chno="" x-quality="SD" ,Who Else To Blame (2011)
+http://goldtv.lat:80/movie/Sebita2022/Manya2022/474203.mkv
+#EXTINF:-1 tvg-name="Blood Ties (2009)" group-title="General" tvg-chno="" x-quality="SD" ,Blood Ties (2009)
+http://goldtv.lat:80/movie/Sebita2022/Manya2022/474202.mkv
+#EXTINF:-1 tvg-name="Criminal (2004)" group-title="General" tvg-chno="" x-quality="SD" ,Criminal (2004)
+http://goldtv.lat:80/movie/Sebita2022/Manya2022/474200.mkv
+#EXTINF:-1 tvg-name="Jonah Hex (2010)" group-title="General" tvg-chno="" x-quality="SD" ,Jonah Hex (2010)
+http://goldtv.lat:80/movie/Sebita2022/Manya2022/474201.mkv
+#EXTINF:-1 tvg-name="Apocalipsis: El despertar del anticristo (2023)" group-title="General" tvg-chno="" x-quality="SD" ,Apocalipsis: El despertar del anticristo (2023)
+http://goldtv.lat:80/movie/Sebita2022/Manya2022/474199.mp4
+#EXTINF:-1 tvg-name="Amor bandido (2021)" group-title="General" tvg-chno="" x-quality="SD" ,Amor bandido (2021)
+http://goldtv.lat:80/movie/Sebita2022/Manya2022/474197.mp4
+#EXTINF:-1 tvg-name="Zodiaco (2007)" group-title="General" tvg-chno="" x-quality="SD" ,Zodiaco (2007)
+http://goldtv.lat:80/movie/Sebita2022/Manya2022/474198.mp4
+#EXTINF:-1 tvg-name="Algo con una mujer (2020)" group-title="General" tvg-chno="" x-quality="SD" ,Algo con una mujer (2020)
+http://goldtv.lat:80/movie/Sebita2022/Manya2022/474195.mkv
+#EXTINF:-1 tvg-name="El hombre de hielo (2012)" group-title="General" tvg-chno="" x-quality="SD" ,El hombre de hielo (2012)
+http://goldtv.lat:80/movie/Sebita2022/Manya2022/474196.mkv
+#EXTINF:-1 tvg-name="Zombie a los 17 (2018)" group-title="General" tvg-chno="" x-quality="SD" ,Zombie a los 17 (2018)
+http://goldtv.lat:80/movie/Sebita2022/Manya2022/474194.mkv
+#EXTINF:-1 tvg-name="Mundo animal (2018)" group-title="Internacional" tvg-chno="" x-quality="SD" ,Mundo animal (2018)
+http://goldtv.lat:80/movie/Sebita2022/Manya2022/474192.mkv
+#EXTINF:-1 tvg-name="El asesinato de Jesse James por el cobarde Robert Ford (2007)" group-title="General" tvg-chno="" x-quality="SD" ,El asesinato de Jesse James por el cobarde Robert Ford (2007)
+http://goldtv.lat:80/movie/Sebita2022/Manya2022/474193.mkv
+#EXTINF:-1 tvg-name="Crimen y Deseo (2019)" group-title="General" tvg-chno="" x-quality="SD" ,Crimen y Deseo (2019)
+http://goldtv.lat:80/movie/Sebita2022/Manya2022/474191.mkv
+#EXTINF:-1 tvg-name="Al final del tunel (2016)" group-title="General" tvg-chno="" x-quality="SD" ,Al final del tunel (2016)
+http://goldtv.lat:80/movie/Sebita2022/Manya2022/474189.mp4
+#EXTINF:-1 tvg-name="Amnesia (2000)" group-title="General" tvg-chno="" x-quality="SD" ,Amnesia (2000)
+http://goldtv.lat:80/movie/Sebita2022/Manya2022/474190.mkv
+#EXTINF:-1 tvg-name="Arde Mississippi (1988)" group-title="General" tvg-chno="" x-quality="SD" ,Arde Mississippi (1988)
+http://goldtv.lat:80/movie/Sebita2022/Manya2022/474188.mkv
+#EXTINF:-1 tvg-name="Vamos por el campeonato (2018)" group-title="General" tvg-chno="" x-quality="SD" ,Vamos por el campeonato (2018)
+http://goldtv.lat:80/movie/Sebita2022/Manya2022/474187.mkv
+#EXTINF:-1 tvg-name="Caza bajo el Sol" group-title="General" tvg-chno="" x-quality="SD" ,Caza bajo el Sol
+http://goldtv.lat:80/movie/Sebita2022/Manya2022/474186.mp4
+#EXTINF:-1 tvg-name="Wild Card (2013)" group-title="General" tvg-chno="" x-quality="SD" ,Wild Card (2013)
+http://goldtv.lat:80/movie/Sebita2022/Manya2022/474185.mkv
+#EXTINF:-1 tvg-name="Frecuencia mortal (2001)" group-title="General" tvg-chno="" x-quality="SD" ,Frecuencia mortal (2001)
+http://goldtv.lat:80/movie/Sebita2022/Manya2022/474184.mp4
+#EXTINF:-1 tvg-name="Yo te gusto No perdonaras (2019)" group-title="General" tvg-chno="" x-quality="SD" ,Yo te gusto No perdonaras (2019)
+http://goldtv.lat:80/movie/Sebita2022/Manya2022/474183.mkv
+#EXTINF:-1 tvg-name="Suburra (2015)" group-title="General" tvg-chno="" x-quality="SD" ,Suburra (2015)
+http://goldtv.lat:80/movie/Sebita2022/Manya2022/474180.mkv
+#EXTINF:-1 tvg-name="Mr.  Brooks (2007)" group-title="General" tvg-chno="" x-quality="SD" ,Mr.  Brooks (2007)
+http://goldtv.lat:80/movie/Sebita2022/Manya2022/474182.mkv
+#EXTINF:-1 tvg-name="Anonymous (2011)" group-title="General" tvg-chno="" x-quality="SD" ,Anonymous (2011)
+http://goldtv.lat:80/movie/Sebita2022/Manya2022/474181.mkv
+#EXTINF:-1 tvg-name="Lavaperros (2020)" group-title="General" tvg-chno="" x-quality="SD" ,Lavaperros (2020)
+http://goldtv.lat:80/movie/Sebita2022/Manya2022/474179.mkv
+#EXTINF:-1 tvg-name="Una familia peligrosa (2013)" group-title="General" tvg-chno="" x-quality="SD" ,Una familia peligrosa (2013)
+http://goldtv.lat:80/movie/Sebita2022/Manya2022/474177.mp4
+#EXTINF:-1 tvg-name="App (2013)" group-title="General" tvg-chno="" x-quality="SD" ,App (2013)
+http://goldtv.lat:80/movie/Sebita2022/Manya2022/474178.mkv
+#EXTINF:-1 tvg-name="Black Mass (2005)" group-title="General" tvg-chno="" x-quality="SD" ,Black Mass (2005)
+http://goldtv.lat:80/movie/Sebita2022/Manya2022/474175.mkv
+#EXTINF:-1 tvg-name="El ángel malvado (1993)" group-title="General" tvg-chno="" x-quality="SD" ,El ángel malvado (1993)
+http://goldtv.lat:80/movie/Sebita2022/Manya2022/474174.mp4
+#EXTINF:-1 tvg-name="The Snowman (1982)" group-title="General" tvg-chno="" x-quality="SD" ,The Snowman (1982)
+http://goldtv.lat:80/movie/Sebita2022/Manya2022/474176.mkv
+#EXTINF:-1 tvg-name="American Heist (2014)" group-title="General" tvg-chno="" x-quality="SD" ,American Heist (2014)
+http://goldtv.lat:80/movie/Sebita2022/Manya2022/474172.mkv
+#EXTINF:-1 tvg-name="36 quai des Orfevres (2004)" group-title="General" tvg-chno="" x-quality="SD" ,36 quai des Orfevres (2004)
+http://goldtv.lat:80/movie/Sebita2022/Manya2022/474173.mkv
+#EXTINF:-1 tvg-name="Amigo D (2018)" group-title="General" tvg-chno="" x-quality="SD" ,Amigo D (2018)
+http://goldtv.lat:80/movie/Sebita2022/Manya2022/474171.mkv
+#EXTINF:-1 tvg-name="The Drop (2022)" group-title="General" tvg-chno="" x-quality="SD" ,The Drop (2022)
+http://goldtv.lat:80/movie/Sebita2022/Manya2022/474170.mkv
+#EXTINF:-1 tvg-name="Crimen perfecto (1995)" group-title="General" tvg-chno="" x-quality="SD" ,Crimen perfecto (1995)
+http://goldtv.lat:80/movie/Sebita2022/Manya2022/474169.mkv
+#EXTINF:-1 tvg-name="End of a Gun (2016)" group-title="General" tvg-chno="" x-quality="SD" ,End of a Gun (2016)
+http://goldtv.lat:80/movie/Sebita2022/Manya2022/474168.mkv
+#EXTINF:-1 tvg-name="King: Una historia de venganza (2017)" group-title="General" tvg-chno="" x-quality="SD" ,King: Una historia de venganza (2017)
+http://goldtv.lat:80/movie/Sebita2022/Manya2022/474165.mkv
+#EXTINF:-1 tvg-name="Enemigos Publicos (2009)" group-title="General" tvg-chno="" x-quality="SD" ,Enemigos Publicos (2009)
+http://goldtv.lat:80/movie/Sebita2022/Manya2022/474167.mp4
+#EXTINF:-1 tvg-name="Mentiras verdaderas (1994)" group-title="General" tvg-chno="" x-quality="SD" ,Mentiras verdaderas (1994)
+http://goldtv.lat:80/movie/Sebita2022/Manya2022/474166.mp4
+#EXTINF:-1 tvg-name="Rio Mistico" group-title="General" tvg-chno="" x-quality="SD" ,Rio Mistico
+http://goldtv.lat:80/movie/Sebita2022/Manya2022/474164.mp4
+#EXTINF:-1 tvg-name="Ahora estamos solos (2018)" group-title="General" tvg-chno="" x-quality="SD" ,Ahora estamos solos (2018)
+http://goldtv.lat:80/movie/Sebita2022/Manya2022/474163.mkv
+#EXTINF:-1 tvg-name="Kill the Irishman (2011)" group-title="General" tvg-chno="" x-quality="SD" ,Kill the Irishman (2011)
+http://goldtv.lat:80/movie/Sebita2022/Manya2022/474162.mkv
+#EXTINF:-1 tvg-name="Infiltrator" group-title="General" tvg-chno="" x-quality="SD" ,Infiltrator
+http://goldtv.lat:80/movie/Sebita2022/Manya2022/474161.mkv
+#EXTINF:-1 tvg-name="A Father's Nightmare (2018)" group-title="General" tvg-chno="" x-quality="SD" ,A Father's Nightmare (2018)
+http://goldtv.lat:80/movie/Sebita2022/Manya2022/474160.mkv
+#EXTINF:-1 tvg-name="Fuera de Control (2020)" group-title="General" tvg-chno="" x-quality="SD" ,Fuera de Control (2020)
+http://goldtv.lat:80/movie/Sebita2022/Manya2022/474159.mp4
+#EXTINF:-1 tvg-name="Vuelo nocturno (2005)" group-title="General" tvg-chno="" x-quality="SD" ,Vuelo nocturno (2005)
+http://goldtv.lat:80/movie/Sebita2022/Manya2022/474157.mp4
+#EXTINF:-1 tvg-name="Mentiras Mortales (2012)" group-title="General" tvg-chno="" x-quality="SD" ,Mentiras Mortales (2012)
+http://goldtv.lat:80/movie/Sebita2022/Manya2022/474156.mkv
+#EXTINF:-1 tvg-name="Snatch: Cerdos y diamantes (2000)" group-title="General" tvg-chno="" x-quality="SD" ,Snatch: Cerdos y diamantes (2000)
+http://goldtv.lat:80/movie/Sebita2022/Manya2022/474158.mp4
+#EXTINF:-1 tvg-name="Mátalos suavemente (2012)" group-title="General" tvg-chno="" x-quality="SD" ,Mátalos suavemente (2012)
+http://goldtv.lat:80/movie/Sebita2022/Manya2022/474155.mkv
+#EXTINF:-1 tvg-name="El cadáver de Anna Fritz (2015)" group-title="General" tvg-chno="" x-quality="SD" ,El cadáver de Anna Fritz (2015)
+http://goldtv.lat:80/movie/Sebita2022/Manya2022/474153.mkv
+#EXTINF:-1 tvg-name="Fuerza antigángster (2013)" group-title="General" tvg-chno="" x-quality="SD" ,Fuerza antigángster (2013)
+http://goldtv.lat:80/movie/Sebita2022/Manya2022/474154.mkv
+#EXTINF:-1 tvg-name="Enemigo de todos (2016)" group-title="General" tvg-chno="" x-quality="SD" ,Enemigo de todos (2016)
+http://goldtv.lat:80/movie/Sebita2022/Manya2022/474151.mkv
+#EXTINF:-1 tvg-name="Conozcan a los Fang (2016)" group-title="General" tvg-chno="" x-quality="SD" ,Conozcan a los Fang (2016)
+http://goldtv.lat:80/movie/Sebita2022/Manya2022/474152.mkv
+#EXTINF:-1 tvg-name="Breaking In (1989)" group-title="General" tvg-chno="" x-quality="SD" ,Breaking In (1989)
+http://goldtv.lat:80/movie/Sebita2022/Manya2022/474150.mkv
+#EXTINF:-1 tvg-name="Escobar (2014)" group-title="General" tvg-chno="" x-quality="SD" ,Escobar (2014)
+http://goldtv.lat:80/movie/Sebita2022/Manya2022/474148.mp4
+#EXTINF:-1 tvg-name="Gangs of New York (1938)" group-title="General" tvg-chno="" x-quality="SD" ,Gangs of New York (1938)
+http://goldtv.lat:80/movie/Sebita2022/Manya2022/474149.mkv
+#EXTINF:-1 tvg-name="Sin rastros (2008)" group-title="General" tvg-chno="" x-quality="SD" ,Sin rastros (2008)
+http://goldtv.lat:80/movie/Sebita2022/Manya2022/474147.mkv
+#EXTINF:-1 tvg-name="Leyenda urbana 2 (2000)" group-title="General" tvg-chno="" x-quality="SD" ,Leyenda urbana 2 (2000)
+http://goldtv.lat:80/movie/Sebita2022/Manya2022/474145.mp4
+#EXTINF:-1 tvg-name="El Plan Perfecto (2006)" group-title="General" tvg-chno="" x-quality="SD" ,El Plan Perfecto (2006)
+http://goldtv.lat:80/movie/Sebita2022/Manya2022/474146.mkv
+#EXTINF:-1 tvg-name="Babysitter's Nightmare (2018)" group-title="Infantil" tvg-chno="" x-quality="SD" ,Babysitter's Nightmare (2018)
+http://goldtv.lat:80/movie/Sebita2022/Manya2022/474144.mkv
+#EXTINF:-1 tvg-name="Tierras altas (2021)" group-title="General" tvg-chno="" x-quality="SD" ,Tierras altas (2021)
+http://goldtv.lat:80/movie/Sebita2022/Manya2022/474142.mp4
+#EXTINF:-1 tvg-name="Ahora son 13 (2007)" group-title="General" tvg-chno="" x-quality="SD" ,Ahora son 13 (2007)
+http://goldtv.lat:80/movie/Sebita2022/Manya2022/474143.mkv
+#EXTINF:-1 tvg-name="Frecuencia mortal 2 (2009)" group-title="General" tvg-chno="" x-quality="SD" ,Frecuencia mortal 2 (2009)
+http://goldtv.lat:80/movie/Sebita2022/Manya2022/474141.mp4
+#EXTINF:-1 tvg-name="Traicion y Muerte (2017)" group-title="General" tvg-chno="" x-quality="SD" ,Traicion y Muerte (2017)
+http://goldtv.lat:80/movie/Sebita2022/Manya2022/474139.mkv
+#EXTINF:-1 tvg-name="Dressed to Kill (1946)" group-title="General" tvg-chno="" x-quality="SD" ,Dressed to Kill (1946)
+http://goldtv.lat:80/movie/Sebita2022/Manya2022/474140.mkv
+#EXTINF:-1 tvg-name="Murder on the Orient Express (2001)" group-title="General" tvg-chno="" x-quality="SD" ,Murder on the Orient Express (2001)
+http://goldtv.lat:80/movie/Sebita2022/Manya2022/474136.mkv
+#EXTINF:-1 tvg-name="Al borde del abismo (2012)" group-title="General" tvg-chno="" x-quality="SD" ,Al borde del abismo (2012)
+http://goldtv.lat:80/movie/Sebita2022/Manya2022/474138.mkv

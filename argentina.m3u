@@ -1,229 +1,97 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="(OFFLINE) ARG | 13 EL TRECE OPC. A" group-title="General" tvg-logo="" x-quality="SD",(OFFLINE) ARG | 13 EL TRECE OPC. A
-http://superxlatino.com:8880/Rositaggss/2C7AhY4sjNzc/490440
-#EXTINF:-1 tvg-name="(OFFLINE) ARG | 13 EL TRECE OPC. A" group-title="General" tvg-logo="" x-quality="SD",(OFFLINE) ARG | 13 EL TRECE OPC. A
-http://redworld.pro:8880/playred20/cDNtGMsKMWy4/490440
-#EXTINF:-1 tvg-name="(OFFLINE) ARG | 13 El Trece" group-title="General" tvg-logo="" x-quality="SD",(OFFLINE) ARG | 13 El Trece
-http://superxlatino.com:8880/Rositaggss/2C7AhY4sjNzc/490441
-#EXTINF:-1 tvg-name="(OFFLINE) ARG | 13 El Trece" group-title="General" tvg-logo="" x-quality="SD",(OFFLINE) ARG | 13 El Trece
-http://redworld.pro:8880/playred20/cDNtGMsKMWy4/490441
-#EXTINF:-1 tvg-name="(OFFLINE) ARG | America TV HD*" group-title="General" tvg-logo="" x-quality="SD",(OFFLINE) ARG | America TV HD*
-http://redworld.pro:8880/Platano568/Th2tMw6XyNKN/490450
-#EXTINF:-1 tvg-name="(OFFLINE) ARG | America TV HD*" group-title="General" tvg-logo="" x-quality="SD",(OFFLINE) ARG | America TV HD*
-http://redworld.pro:8880/playred20/cDNtGMsKMWy4/490450
-#EXTINF:-1 tvg-name="(OFFLINE) ARG | C5N SD" group-title="General" tvg-logo="" x-quality="SD",(OFFLINE) ARG | C5N SD
+#EXTINF:-1 tvg-name="(OFFLINE) ARG | C5N SD" group-title="General",(OFFLINE) ARG | C5N SD
 http://fivetv.org:25461/kelv48627/pretv8539/90964
-#EXTINF:-1 tvg-name="(OFFLINE) ARG | C5N SD" group-title="General" tvg-logo="" x-quality="SD",(OFFLINE) ARG | C5N SD
-http://superxlatino.com:8880/Rositaggss/2C7AhY4sjNzc/490448
-#EXTINF:-1 tvg-name="(OFFLINE) ARG | TELEFE HD" group-title="General" tvg-logo="" x-quality="SD",(OFFLINE) ARG | TELEFE HD
-http://redworld.pro:8880/Platano568/Th2tMw6XyNKN/490451
-#EXTINF:-1 tvg-name="(OFFLINE) ARG | TELEFE HD" group-title="General" tvg-logo="" x-quality="SD",(OFFLINE) ARG | TELEFE HD
-http://redworld.pro:8880/playred20/cDNtGMsKMWy4/490451
-#EXTINF:-1 tvg-name="(OFFLINE) ARG | TV Publica FHD" group-title="General" tvg-logo="" x-quality="SD",(OFFLINE) ARG | TV Publica FHD
-http://superxlatino.com:8880/Rositaggss/2C7AhY4sjNzc/490455
-#EXTINF:-1 tvg-name="(OFFLINE) ARG | TV Publica FHD" group-title="General" tvg-logo="" x-quality="SD",(OFFLINE) ARG | TV Publica FHD
-http://redworld.pro:8880/playred20/cDNtGMsKMWy4/490455
-#EXTINF:-1 tvg-name="(OFFLINE) ARG | VOLVER SD" group-title="General" tvg-logo="" x-quality="SD",(OFFLINE) ARG | VOLVER SD
-http://superxlatino.com:8880/Rositaggss/2C7AhY4sjNzc/490449
-#EXTINF:-1 tvg-name="(OFFLINE) ARG | VOLVER SD" group-title="General" tvg-logo="" x-quality="SD",(OFFLINE) ARG | VOLVER SD
-http://redworld.pro:8880/playred20/cDNtGMsKMWy4/490449
-#EXTINF:-1 tvg-name="ARG CANAL 7 SALTA" group-title="General" tvg-logo="" x-quality="SD",ARG CANAL 7 SALTA
-http://superxlatino.com:8880/Rositaggss/2C7AhY4sjNzc/490476
-#EXTINF:-1 tvg-name="ARG CANAL 7 SALTA" group-title="General" tvg-logo="" x-quality="SD",ARG CANAL 7 SALTA
-http://redworld.pro:8880/playred20/cDNtGMsKMWy4/490476
-#EXTINF:-1 tvg-name="ARG | 13 El Trece" group-title="General" tvg-logo="" x-quality="SD",ARG | 13 El Trece
-http://superxlatino.com:8880/Rositaggss/2C7AhY4sjNzc/490442
-#EXTINF:-1 tvg-name="ARG | 13 El Trece" group-title="General" tvg-logo="" x-quality="SD",ARG | 13 El Trece
-http://redworld.pro:8880/playred20/cDNtGMsKMWy4/490442
-#EXTINF:-1 tvg-name="ARG | America" group-title="General" tvg-logo="" x-quality="SD",ARG | America
+#EXTINF:-1 tvg-name="(OFFLINE) ARG | C5N SD" group-title="General",(OFFLINE) ARG | C5N SD
+http://velive.lat:8080/WmFsbldDZjRKMHdTck55RkNvL2pHVS9QOUdYbWY4UXkrYTIrejJkZDVaOD0
+#EXTINF:-1 tvg-name="16:00 - Arg - Defensa y Justicia vs Platense" group-title="General",16:00 - Arg - Defensa y Justicia vs Platense
+http://velive.lat:8080/QXhEdUlGSXFQNDc1NFVnYitFWWFYU1hzUklCUkVIcTM3RFM1Z2lEWjUrOD0
+#EXTINF:-1 tvg-name="16:00 - Arg - Estudiantes vs Newell's Old Boys" group-title="General",16:00 - Arg - Estudiantes vs Newell's Old Boys
+http://velive.lat:8080/QXhEdUlGSXFQNDc1NFVnYitFWWFYY2dTN1Ira3NwQUtocTF4WXVld0RKTT0
+#EXTINF:-1 tvg-name="18:15 - Arg - Instituto vs San Lorenzo" group-title="General",18:15 - Arg - Instituto vs San Lorenzo
+http://velive.lat:8080/QXhEdUlGSXFQNDc1NFVnYitFWWFYZGFLSHIrWXQrMDJQTGRYRk9QMTRiRT0
+#EXTINF:-1 tvg-name="ARG : Canal 26 FHD" group-title="General",ARG : Canal 26 FHD
+http://velive.lat:8080/WmFsbldDZjRKMHdTck55RkNvL2pHUWNmT01iYmMzb0pYNXl2WCs5MU9XVT0
+#EXTINF:-1 tvg-name="ARG : DEPORTV  HD" group-title="General",ARG : DEPORTV  HD
+http://velive.lat:8080/WmFsbldDZjRKMHdTck55RkNvL2pHV1VmRklhdTJYYXRyU2RIU2NrbjdZND0
+#EXTINF:-1 tvg-name="ARG I T&C SPORTS  HD" group-title="Deportes",ARG I T&C SPORTS  HD
+http://velive.lat:8080/WmFsbldDZjRKMHdTck55RkNvL2pHWFpoTkpxK3JwZUtnN1NLbXpMa1FaTT0
+#EXTINF:-1 tvg-name="ARG I T&C SPORTS INTERNA." group-title="Deportes",ARG I T&C SPORTS INTERNA.
+http://velive.lat:8080/WmFsbldDZjRKMHdTck55RkNvL2pHVUtRRGlZMElxWXdkTlhzRVdKTUNwcz0
+#EXTINF:-1 tvg-name="ARG I T&C SPORTS SD" group-title="Deportes",ARG I T&C SPORTS SD
+http://velive.lat:8080/WmFsbldDZjRKMHdTck55RkNvL2pHZkZVYnBkM3plMFQrVXBFcy8yVkVJWT0
+#EXTINF:-1 tvg-name="ARG | America" group-title="General",ARG | America
 http://fivetv.org:25461/kelv48627/pretv8539/186519
-#EXTINF:-1 tvg-name="ARG | America" group-title="General" tvg-logo="" x-quality="SD",ARG | America
-http://superxlatino.com:8880/Rositaggss/2C7AhY4sjNzc/490463
-#EXTINF:-1 tvg-name="ARG | CANAL 26 HD" group-title="General" tvg-logo="" x-quality="SD",ARG | CANAL 26 HD
-http://superxlatino.com:8880/Rositaggss/2C7AhY4sjNzc/490438
-#EXTINF:-1 tvg-name="ARG | CANAL 26 HD" group-title="General" tvg-logo="" x-quality="SD",ARG | CANAL 26 HD
-http://redworld.pro:8880/Platano568/Th2tMw6XyNKN/490438
-#EXTINF:-1 tvg-name="ARG | CRONICA TV" group-title="General" tvg-logo="" x-quality="SD",ARG | CRONICA TV
-http://superxlatino.com:8880/Rositaggss/2C7AhY4sjNzc/490473
-#EXTINF:-1 tvg-name="ARG | CRONICA TV" group-title="General" tvg-logo="" x-quality="SD",ARG | CRONICA TV
-http://redworld.pro:8880/playred20/cDNtGMsKMWy4/490473
-#EXTINF:-1 tvg-name="ARG | Cine AR" group-title="Peliculas" tvg-logo="" x-quality="SD",ARG | Cine AR
-http://superxlatino.com:8880/Rositaggss/2C7AhY4sjNzc/490461
-#EXTINF:-1 tvg-name="ARG | Cine AR" group-title="Peliculas" tvg-logo="" x-quality="SD",ARG | Cine AR
-http://redworld.pro:8880/playred20/cDNtGMsKMWy4/490461
-#EXTINF:-1 tvg-name="ARG | El Nueve  HD" group-title="General" tvg-logo="" x-quality="SD",ARG | El Nueve  HD
-http://superxlatino.com:8880/Rositaggss/2C7AhY4sjNzc/490472
-#EXTINF:-1 tvg-name="ARG | El Nueve  HD" group-title="General" tvg-logo="" x-quality="SD",ARG | El Nueve  HD
-http://superxlatino.com:8880/Rositaggss/2C7AhY4sjNzc/490460
-#EXTINF:-1 tvg-name="ARG | NET TV" group-title="General" tvg-logo="" x-quality="SD",ARG | NET TV
-http://superxlatino.com:8880/Rositaggss/2C7AhY4sjNzc/490459
-#EXTINF:-1 tvg-name="ARG | NET TV" group-title="General" tvg-logo="" x-quality="SD",ARG | NET TV
-http://redworld.pro:8880/playred20/cDNtGMsKMWy4/490459
-#EXTINF:-1 tvg-name="ARG | TELEFE" group-title="General" tvg-logo="" x-quality="SD",ARG | TELEFE
+#EXTINF:-1 tvg-name="ARG | America" group-title="General",ARG | America
+http://velive.lat:8080/WmFsbldDZjRKMHdTck55RkNvL2pHZEtZakUrQ3luekRiN1hoSWxiOS9XUT0
+#EXTINF:-1 tvg-name="ARG | CANAL 26 HD" group-title="General",ARG | CANAL 26 HD
+http://velive.lat:8080/WmFsbldDZjRKMHdTck55RkNvL2pHZTAweFVEQTNRNkJuNHlqVm0zVFplWT0
+#EXTINF:-1 tvg-name="ARG | CANAL 26 HD" group-title="General",ARG | CANAL 26 HD
+http://velive.lat:8080/WmFsbldDZjRKMHdTck55RkNvL2pHVmpNekRqdFd1V0dKZk1zNTJmSE16RT0
+#EXTINF:-1 tvg-name="ARG | El Nueve  HD" group-title="General",ARG | El Nueve  HD
+http://velive.lat:8080/WmFsbldDZjRKMHdTck55RkNvL2pHYXE2OGxqUDU1dlZOZ0k5ZExoV2k0QT0
+#EXTINF:-1 tvg-name="ARG | TELEFE" group-title="General",ARG | TELEFE
 http://fivetv.org:25461/kelv48627/pretv8539/186517
-#EXTINF:-1 tvg-name="ARG | TELEFE" group-title="General" tvg-logo="" x-quality="SD",ARG | TELEFE
-http://superxlatino.com:8880/Rositaggss/2C7AhY4sjNzc/490458
-#EXTINF:-1 tvg-name="ARG | TN HD" group-title="General" tvg-logo="" x-quality="SD",ARG | TN HD
-http://superxlatino.com:8880/Rositaggss/2C7AhY4sjNzc/490457
-#EXTINF:-1 tvg-name="ARG | TN HD" group-title="General" tvg-logo="" x-quality="SD",ARG | TN HD
-http://redworld.pro:8880/playred20/cDNtGMsKMWy4/490457
-#EXTINF:-1 tvg-name="ARG | TNT SPORTS  FHD" group-title="Deportes" tvg-logo="" x-quality="HD",ARG | TNT SPORTS  FHD
+#EXTINF:-1 tvg-name="ARG | TELEFE" group-title="General",ARG | TELEFE
+http://velive.lat:8080/WmFsbldDZjRKMHdTck55RkNvL2pHYm5HV3p0bFdtLzhvN3pjM1dlT3plOD0
+#EXTINF:-1 tvg-name="ARG | TELEFE" group-title="General",ARG | TELEFE
+http://velive.lat:8080/WmFsbldDZjRKMHdTck55RkNvL2pHU3EvMzJyTGd5NXZmbTEwb2FmSkZXST0
+#EXTINF:-1 tvg-name="ARG | TNT SPORTS  FHD" group-title="Deportes",ARG | TNT SPORTS  FHD
 http://velive.lat:8080/WmFsbldDZjRKMHdTck55RkNvL2pHVnd2WnZ2Y0FuOFBxeDBsN3FXWnhwdz0
-#EXTINF:-1 tvg-name="ARG | TV Publica" group-title="General" tvg-logo="" x-quality="SD",ARG | TV Publica
-http://superxlatino.com:8880/Rositaggss/2C7AhY4sjNzc/490456
-#EXTINF:-1 tvg-name="ARG | TV Publica" group-title="General" tvg-logo="" x-quality="SD",ARG | TV Publica
-http://redworld.pro:8880/playred20/cDNtGMsKMWy4/490456
-#EXTINF:-1 tvg-name="ARG | VER TV" group-title="General" tvg-logo="" x-quality="SD",ARG | VER TV
-http://superxlatino.com:8880/Rositaggss/2C7AhY4sjNzc/490465
-#EXTINF:-1 tvg-name="ARG | VER TV" group-title="General" tvg-logo="" x-quality="SD",ARG | VER TV
-http://redworld.pro:8880/playred20/cDNtGMsKMWy4/490465
-#EXTINF:-1 tvg-name="ARG | Volver" group-title="General" tvg-logo="" x-quality="SD",ARG | Volver
-http://superxlatino.com:8880/Rositaggss/2C7AhY4sjNzc/490462
-#EXTINF:-1 tvg-name="ARG | Volver" group-title="General" tvg-logo="" x-quality="SD",ARG | Volver
-http://redworld.pro:8880/playred20/cDNtGMsKMWy4/490462
-#EXTINF:-1 tvg-name="ARG: A24" group-title="General" tvg-logo="" x-quality="SD",ARG: A24
-http://superxlatino.com:8880/Rositaggss/2C7AhY4sjNzc/490464
-#EXTINF:-1 tvg-name="ARG: A24" group-title="General" tvg-logo="" x-quality="SD",ARG: A24
-http://superxlatino.com:8880/Rositaggss/2C7AhY4sjNzc/490446
-#EXTINF:-1 tvg-name="Batman: El Largo Halloween Parte 1 (2021)" group-title="General" tvg-logo="" x-quality="SD",Batman: El Largo Halloween Parte 1 (2021)
-http://redworld.pro:8880/movie/Platano568/Th2tMw6XyNKN/557457.mkv
-#EXTINF:-1 tvg-name="Batman: El Largo Halloween Parte 1 (2021)" group-title="General" tvg-logo="" x-quality="SD",Batman: El Largo Halloween Parte 1 (2021)
-http://redworld.pro:8880/movie/playred20/cDNtGMsKMWy4/557457.mkv
-#EXTINF:-1 tvg-name="Batman: el largo Halloween parte 2 (2021)" group-title="General" tvg-logo="" x-quality="SD",Batman: el largo Halloween parte 2 (2021)
-http://redworld.pro:8880/movie/Platano568/Th2tMw6XyNKN/557458.mkv
-#EXTINF:-1 tvg-name="Batman: el largo Halloween parte 2 (2021)" group-title="General" tvg-logo="" x-quality="SD",Batman: el largo Halloween parte 2 (2021)
-http://redworld.pro:8880/movie/playred20/cDNtGMsKMWy4/557458.mkv
-#EXTINF:-1 tvg-name="Canal Televida (Argentina)" group-title="Internacional" tvg-logo="" x-quality="SD",Canal Televida (Argentina)
-http://superxlatino.com:8880/Rositaggss/2C7AhY4sjNzc/410187
-#EXTINF:-1 tvg-name="Canal Televida (Argentina)" group-title="Internacional" tvg-logo="" x-quality="SD",Canal Televida (Argentina)
-http://redworld.pro:8880/playred20/cDNtGMsKMWy4/410187
-#EXTINF:-1 tvg-name="Dulce y Amargo (2021)" group-title="General" tvg-logo="" x-quality="SD",Dulce y Amargo (2021)
-http://redworld.pro:8880/movie/Platano568/Th2tMw6XyNKN/557543.mkv
-#EXTINF:-1 tvg-name="Dulce y Amargo (2021)" group-title="General" tvg-logo="" x-quality="SD",Dulce y Amargo (2021)
-http://redworld.pro:8880/movie/playred20/cDNtGMsKMWy4/557543.mkv
-#EXTINF:-1 tvg-name="ESPN PREMIUN HD ARGENTINA" group-title="Deportes" tvg-logo="" x-quality="SD",ESPN PREMIUN HD ARGENTINA
+#EXTINF:-1 tvg-name="ARG| 13 MAX HD" group-title="General",ARG| 13 MAX HD
+http://velive.lat:8080/WmFsbldDZjRKMHdTck55RkNvL2pHWGk3Z2Y5cWN0RXBzNVYvK2d2WGp2UT0
+#EXTINF:-1 tvg-name="ARG| 24/7 NOTICIAS HD" group-title="Noticias",ARG| 24/7 NOTICIAS HD
+http://velive.lat:8080/WmFsbldDZjRKMHdTck55RkNvL2pHYXBKTWhoRENGMVhtWHpXdlkrRUoyVT0
+#EXTINF:-1 tvg-name="ARG| A24 HD" group-title="General",ARG| A24 HD
+http://velive.lat:8080/WmFsbldDZjRKMHdTck55RkNvL2pHZDlkSGtFZWRsbG94aHVtRUorejRSQT0
+#EXTINF:-1 tvg-name="ARG| AMERICA FHD" group-title="General",ARG| AMERICA FHD
+http://velive.lat:8080/WmFsbldDZjRKMHdTck55RkNvL2pHY0d1M1R1QnNFQlVtbE85dTZrM0t1Zz0
+#EXTINF:-1 tvg-name="ARG| CANAL 10 HD" group-title="General",ARG| CANAL 10 HD
+http://velive.lat:8080/WmFsbldDZjRKMHdTck55RkNvL2pHUWMyWW9kbjRUdDhpZ3U4RTVjcnFYST0
+#EXTINF:-1 tvg-name="ARG| CANAL 22 HD" group-title="General",ARG| CANAL 22 HD
+http://velive.lat:8080/WmFsbldDZjRKMHdTck55RkNvL2pHYzVKaTcvd2djUTd2dzRDUDJHWGlBND0
+#EXTINF:-1 tvg-name="ARG| CINEAR  HD" group-title="Peliculas",ARG| CINEAR  HD
+http://velive.lat:8080/WmFsbldDZjRKMHdTck55RkNvL2pHVVRBQ1lnMm94WVlaZ1R5M2R4dVhTQT0
+#EXTINF:-1 tvg-name="ARG| CN23 HD" group-title="General",ARG| CN23 HD
+http://velive.lat:8080/WmFsbldDZjRKMHdTck55RkNvL2pHVjkwSklsOTM3bGZKY3dZOG50ZjQ4UT0
+#EXTINF:-1 tvg-name="ARG| CRONICA HD" group-title="General",ARG| CRONICA HD
+http://velive.lat:8080/WmFsbldDZjRKMHdTck55RkNvL2pHWngwV2ZsM2U3UURKcGNTL2NncUVwZz0
+#EXTINF:-1 tvg-name="ARG| EL NUEVE FHD" group-title="General",ARG| EL NUEVE FHD
+http://velive.lat:8080/WmFsbldDZjRKMHdTck55RkNvL2pHZWE1S3Y3SDNqMkozS0hjdHdWNDZrOD0
+#EXTINF:-1 tvg-name="ARG| ENCUENTRO HD" group-title="General",ARG| ENCUENTRO HD
+http://velive.lat:8080/WmFsbldDZjRKMHdTck55RkNvL2pHZExBM0RNU2NDemUrYnhUZGxwZ3l2WT0
+#EXTINF:-1 tvg-name="ARG| ESTRELLA TV HD" group-title="General",ARG| ESTRELLA TV HD
+http://velive.lat:8080/WmFsbldDZjRKMHdTck55RkNvL2pHVFgxSWZZckZleUU1YytPNlJxNzJMND0
+#EXTINF:-1 tvg-name="ARG| GARAGE  HD" group-title="General",ARG| GARAGE  HD
+http://velive.lat:8080/WmFsbldDZjRKMHdTck55RkNvL2pHUkk2TitTYW51TEdzYkNRR0tDWDU4RT0
+#EXTINF:-1 tvg-name="ARG| LA NACION HD" group-title="General",ARG| LA NACION HD
+http://velive.lat:8080/WmFsbldDZjRKMHdTck55RkNvL2pHV1hFbmFSTHFra3hPVWtFaDQ3K0plRT0
+#EXTINF:-1 tvg-name="ARG| LA PAMPA TV HD" group-title="General",ARG| LA PAMPA TV HD
+http://velive.lat:8080/WmFsbldDZjRKMHdTck55RkNvL2pHZHFWTFhUZ0ZVZkQ0OUV2enVKOFhLQT0
+#EXTINF:-1 tvg-name="ARG| TN NOTICIAS HD" group-title="Noticias",ARG| TN NOTICIAS HD
+http://velive.lat:8080/WmFsbldDZjRKMHdTck55RkNvL2pHWGFIV0IrQWpqSFhTK1dYaVMzTlNOVT0
+#EXTINF:-1 tvg-name="ARG| TRECE  FHD" group-title="General",ARG| TRECE  FHD
+http://velive.lat:8080/WmFsbldDZjRKMHdTck55RkNvL2pHVHVLNCswMzlSYlFTYjI0Q2o5L1h3Zz0
+#EXTINF:-1 tvg-name="ARG| TV PUBLICA  HD" group-title="General",ARG| TV PUBLICA  HD
+http://velive.lat:8080/WmFsbldDZjRKMHdTck55RkNvL2pHWjNHMjYzTUxSZWxvZWFUSXNKai9Zdz0
+#EXTINF:-1 tvg-name="ARG| VOLVER HD" group-title="General",ARG| VOLVER HD
+http://velive.lat:8080/WmFsbldDZjRKMHdTck55RkNvL2pHU2VmaVovR0JwSHV5OXhoVnAwWkJlZz0
+#EXTINF:-1 tvg-name="ESPN PREMIUN HD ARGENTINA" group-title="Deportes",ESPN PREMIUN HD ARGENTINA
 http://fivetv.org:25461/kelv48627/pretv8539/89731
-#EXTINF:-1 tvg-name="El Transportador: Recargado (2015)" group-title="Deportes" tvg-logo="" x-quality="SD",El Transportador: Recargado (2015)
-http://redworld.pro:8880/movie/Platano568/Th2tMw6XyNKN/560554.mkv
-#EXTINF:-1 tvg-name="El Transportador: Recargado (2015)" group-title="Deportes" tvg-logo="" x-quality="SD",El Transportador: Recargado (2015)
-http://redworld.pro:8880/movie/playred20/cDNtGMsKMWy4/560554.mkv
-#EXTINF:-1 tvg-name="El viaje más largo (2020)" group-title="General" tvg-logo="" x-quality="SD",El viaje más largo (2020)
+#EXTINF:-1 tvg-name="El viaje más largo (2020)" group-title="General",El viaje más largo (2020)
 http://fivetv.org:25461/movie/kelv48627/pretv8539/2472.mp4
-#EXTINF:-1 tvg-name="Johnny English 2: Recargado (2011)" group-title="General" tvg-logo="" x-quality="SD",Johnny English 2: Recargado (2011)
-http://redworld.pro:8880/movie/playred20/cDNtGMsKMWy4/560596.mkv
-#EXTINF:-1 tvg-name="Johnny English 2: Recargado (2011)" group-title="General" tvg-logo="" x-quality="SD",Johnny English 2: Recargado (2011)
-http://redworld.pro:8880/movie/Platano568/Th2tMw6XyNKN/560596.mkv
-#EXTINF:-1 tvg-name="Julieta Venegas- Club Speedy Telefonica Argentina \ (2013)" group-title="Internacional" tvg-logo="" x-quality="SD",Julieta Venegas- Club Speedy Telefonica Argentina \ (2013)
-http://redworld.pro:8880/movie/Platano568/Th2tMw6XyNKN/558704.mkv
-#EXTINF:-1 tvg-name="Julieta Venegas- Club Speedy Telefonica Argentina \ (2013)" group-title="Internacional" tvg-logo="" x-quality="SD",Julieta Venegas- Club Speedy Telefonica Argentina \ (2013)
-http://redworld.pro:8880/movie/playred20/cDNtGMsKMWy4/558704.mkv
-#EXTINF:-1 tvg-name="La fórmula ganadora de Jerry y Marge (2022)" group-title="General" tvg-logo="" x-quality="SD",La fórmula ganadora de Jerry y Marge (2022)
-http://superxlatino.com:8880/movie/Rositaggss/2C7AhY4sjNzc/546631.mkv
-#EXTINF:-1 tvg-name="Largo fin de semana (2021)" group-title="General" tvg-logo="" x-quality="SD",Largo fin de semana (2021)
-http://redworld.pro:8880/movie/Platano568/Th2tMw6XyNKN/557752.mkv
-#EXTINF:-1 tvg-name="Largo fin de semana (2021)" group-title="General" tvg-logo="" x-quality="SD",Largo fin de semana (2021)
-http://redworld.pro:8880/movie/playred20/cDNtGMsKMWy4/557752.mkv
-#EXTINF:-1 tvg-name="Malon- Estadio Malvinas Argentinas \ (2012)" group-title="Internacional" tvg-logo="" x-quality="SD",Malon- Estadio Malvinas Argentinas \ (2012)
-http://redworld.pro:8880/movie/Platano568/Th2tMw6XyNKN/558776.mkv
-#EXTINF:-1 tvg-name="Malon- Estadio Malvinas Argentinas \ (2012)" group-title="Internacional" tvg-logo="" x-quality="SD",Malon- Estadio Malvinas Argentinas \ (2012)
-http://redworld.pro:8880/movie/playred20/cDNtGMsKMWy4/558776.mkv
-#EXTINF:-1 tvg-name="Marga Marga TV | CL" group-title="General" tvg-logo="" x-quality="HD",Marga Marga TV | CL
+#EXTINF:-1 tvg-name="FOX: ND FARGO KVRR" group-title="General",FOX: ND FARGO KVRR
+http://velive.lat:8080/dThnRG5hejNNMlhVbExYRUxMVjZwK29mSmZ3KzNoMk1TQnUxSWN3cjZMMD0
+#EXTINF:-1 tvg-name="Marga Marga TV | CL" group-title="General",Marga Marga TV | CL
 http://velive.lat:8080/TmdXZndDdVh6NzZMTHdna0Y5dW9qVU03ditiOTE1eENkOWlXaG0zeUcvMD0
-#EXTINF:-1 tvg-name="Margaret (2011)" group-title="General" tvg-logo="" x-quality="SD",Margaret (2011)
-http://superxlatino.com:8880/movie/Rositaggss/2C7AhY4sjNzc/546692.mkv
-#EXTINF:-1 tvg-name="Marilyn Manson- Live At Maximus Festival Argentina \ (2016)" group-title="Internacional" tvg-logo="" x-quality="SD",Marilyn Manson- Live At Maximus Festival Argentina \ (2016)
-http://redworld.pro:8880/movie/Platano568/Th2tMw6XyNKN/558787.mkv
-#EXTINF:-1 tvg-name="Marilyn Manson- Live At Maximus Festival Argentina \ (2016)" group-title="Internacional" tvg-logo="" x-quality="SD",Marilyn Manson- Live At Maximus Festival Argentina \ (2016)
-http://redworld.pro:8880/movie/playred20/cDNtGMsKMWy4/558787.mkv
-#EXTINF:-1 tvg-name="Pelicula porno Argentina - XNXX.COM" group-title="Peliculas" tvg-logo="" x-quality="SD",Pelicula porno Argentina - XNXX.COM
-http://superxlatino.com:8880/movie/Rositaggss/2C7AhY4sjNzc/535345.mp4
-#EXTINF:-1 tvg-name="Pelicula porno Argentina - XNXX.COM" group-title="Peliculas" tvg-logo="" x-quality="SD",Pelicula porno Argentina - XNXX.COM
-http://redworld.pro:8880/movie/playred20/cDNtGMsKMWy4/535345.mp4
-#EXTINF:-1 tvg-name="Pelicula porno Argentina - XNXX.COM 2" group-title="Peliculas" tvg-logo="" x-quality="SD",Pelicula porno Argentina - XNXX.COM 2
-http://superxlatino.com:8880/movie/Rositaggss/2C7AhY4sjNzc/535346.mp4
-#EXTINF:-1 tvg-name="Pelicula porno Argentina - XNXX.COM 2" group-title="Peliculas" tvg-logo="" x-quality="SD",Pelicula porno Argentina - XNXX.COM 2
-http://redworld.pro:8880/movie/playred20/cDNtGMsKMWy4/535346.mp4
-#EXTINF:-1 tvg-name="RADIO 40 PRINCIPALES (ARGENTINA)" group-title="Musica" tvg-logo="" x-quality="SD",RADIO 40 PRINCIPALES (ARGENTINA)
-http://redworld.pro:8880/DanielAlex/zzxb74CQcMnA/166766
-#EXTINF:-1 tvg-name="RADIO 40 PRINCIPALES (ARGENTINA)" group-title="Musica" tvg-logo="" x-quality="SD",RADIO 40 PRINCIPALES (ARGENTINA)
-http://redworld.pro:8880/playred20/cDNtGMsKMWy4/166766
-#EXTINF:-1 tvg-name="RADIO BELGRANO AM650 (ARGENTINA)" group-title="Musica" tvg-logo="" x-quality="SD",RADIO BELGRANO AM650 (ARGENTINA)
-http://redworld.pro:8880/playred20/cDNtGMsKMWy4/166773
-#EXTINF:-1 tvg-name="RADIO BELGRANO AM650 (ARGENTINA)" group-title="Musica" tvg-logo="" x-quality="SD",RADIO BELGRANO AM650 (ARGENTINA)
-http://redworld.pro:8880/DanielAlex/zzxb74CQcMnA/166773
-#EXTINF:-1 tvg-name="RADIO CVC LA VOZ (ARGENTINA)" group-title="Musica" tvg-logo="" x-quality="SD",RADIO CVC LA VOZ (ARGENTINA)
-http://redworld.pro:8880/DanielAlex/zzxb74CQcMnA/166771
-#EXTINF:-1 tvg-name="RADIO CVC LA VOZ (ARGENTINA)" group-title="Musica" tvg-logo="" x-quality="SD",RADIO CVC LA VOZ (ARGENTINA)
-http://redworld.pro:8880/playred20/cDNtGMsKMWy4/166771
-#EXTINF:-1 tvg-name="RADIO LA POPULAR (ARGENTINA)" group-title="Musica" tvg-logo="" x-quality="SD",RADIO LA POPULAR (ARGENTINA)
-http://redworld.pro:8880/playred20/cDNtGMsKMWy4/166777
-#EXTINF:-1 tvg-name="RADIO LA POPULAR (ARGENTINA)" group-title="Musica" tvg-logo="" x-quality="SD",RADIO LA POPULAR (ARGENTINA)
-http://redworld.pro:8880/DanielAlex/zzxb74CQcMnA/166777
-#EXTINF:-1 tvg-name="RADIO LIGHT FM 97.3 (ARGENTINA)" group-title="Musica" tvg-logo="" x-quality="SD",RADIO LIGHT FM 97.3 (ARGENTINA)
-http://redworld.pro:8880/playred20/cDNtGMsKMWy4/166776
-#EXTINF:-1 tvg-name="RADIO LIGHT FM 97.3 (ARGENTINA)" group-title="Musica" tvg-logo="" x-quality="SD",RADIO LIGHT FM 97.3 (ARGENTINA)
-http://redworld.pro:8880/DanielAlex/zzxb74CQcMnA/166776
-#EXTINF:-1 tvg-name="RADIO PLANETA CUMBIA LATINA (ARGENTINA)" group-title="Musica" tvg-logo="" x-quality="SD",RADIO PLANETA CUMBIA LATINA (ARGENTINA)
-http://redworld.pro:8880/playred20/cDNtGMsKMWy4/166767
-#EXTINF:-1 tvg-name="RADIO PLANETA CUMBIA LATINA (ARGENTINA)" group-title="Musica" tvg-logo="" x-quality="SD",RADIO PLANETA CUMBIA LATINA (ARGENTINA)
-http://redworld.pro:8880/DanielAlex/zzxb74CQcMnA/166767
-#EXTINF:-1 tvg-name="RADIO RINCON GAUCHO (ARGENTINA)" group-title="Musica" tvg-logo="" x-quality="SD",RADIO RINCON GAUCHO (ARGENTINA)
-http://redworld.pro:8880/playred20/cDNtGMsKMWy4/166769
-#EXTINF:-1 tvg-name="RADIO RINCON GAUCHO (ARGENTINA)" group-title="Musica" tvg-logo="" x-quality="SD",RADIO RINCON GAUCHO (ARGENTINA)
-http://redworld.pro:8880/DanielAlex/zzxb74CQcMnA/166769
-#EXTINF:-1 tvg-name="RADIO ROCA FM CLASICOS (ARGENTINA)" group-title="Musica" tvg-logo="" x-quality="SD",RADIO ROCA FM CLASICOS (ARGENTINA)
-http://redworld.pro:8880/DanielAlex/zzxb74CQcMnA/166770
-#EXTINF:-1 tvg-name="RADIO ROCA FM CLASICOS (ARGENTINA)" group-title="Musica" tvg-logo="" x-quality="SD",RADIO ROCA FM CLASICOS (ARGENTINA)
-http://redworld.pro:8880/playred20/cDNtGMsKMWy4/166770
-#EXTINF:-1 tvg-name="RADIO SOLO ROCK NACIONAL (ARGENTINA)" group-title="Musica" tvg-logo="" x-quality="SD",RADIO SOLO ROCK NACIONAL (ARGENTINA)
-http://redworld.pro:8880/playred20/cDNtGMsKMWy4/166779
-#EXTINF:-1 tvg-name="RADIO SOLO ROCK NACIONAL (ARGENTINA)" group-title="Musica" tvg-logo="" x-quality="SD",RADIO SOLO ROCK NACIONAL (ARGENTINA)
-http://redworld.pro:8880/DanielAlex/zzxb74CQcMnA/166779
-#EXTINF:-1 tvg-name="RADIO SOLO VINILO (ARGENTINA)" group-title="Musica" tvg-logo="" x-quality="SD",RADIO SOLO VINILO (ARGENTINA)
-http://redworld.pro:8880/DanielAlex/zzxb74CQcMnA/166774
-#EXTINF:-1 tvg-name="RADIO SOLO VINILO (ARGENTINA)" group-title="Musica" tvg-logo="" x-quality="SD",RADIO SOLO VINILO (ARGENTINA)
-http://redworld.pro:8880/playred20/cDNtGMsKMWy4/166774
-#EXTINF:-1 tvg-name="ROCK & POP ( ARGENTINA )" group-title="Internacional" tvg-logo="" x-quality="SD",ROCK & POP ( ARGENTINA )
-http://redworld.pro:8880/playred20/cDNtGMsKMWy4/166764
-#EXTINF:-1 tvg-name="ROCK & POP ( ARGENTINA )" group-title="Internacional" tvg-logo="" x-quality="SD",ROCK & POP ( ARGENTINA )
-http://redworld.pro:8880/DanielAlex/zzxb74CQcMnA/166764
-#EXTINF:-1 tvg-name="Royalteen: La Princesa Margrethe (2023)" group-title="General" tvg-logo="" x-quality="SD",Royalteen: La Princesa Margrethe (2023)
-http://redworld.pro:8880/movie/Platano568/Th2tMw6XyNKN/557152.mkv
-#EXTINF:-1 tvg-name="Royalteen: La Princesa Margrethe (2023)" group-title="General" tvg-logo="" x-quality="SD",Royalteen: La Princesa Margrethe (2023)
-http://redworld.pro:8880/movie/playred20/cDNtGMsKMWy4/557152.mkv
-#EXTINF:-1 tvg-name="SOLIDARIA TV ARGENTINA" group-title="Internacional" tvg-logo="" x-quality="SD",SOLIDARIA TV ARGENTINA
-http://superxlatino.com:8880/Rositaggss/2C7AhY4sjNzc/384001
-#EXTINF:-1 tvg-name="SOLIDARIA TV ARGENTINA" group-title="Internacional" tvg-logo="" x-quality="SD",SOLIDARIA TV ARGENTINA
-http://starlatino.tv:8880/QUISPE26/dGCqN2sKVRAf/384001
-#EXTINF:-1 tvg-name="Selección Argentina, la serie - Camino a Qatar S01 E01" group-title="Series" tvg-logo="" x-quality="SD",Selección Argentina, la serie - Camino a Qatar S01 E01
-http://redworld.pro:8880/series/Platano568/Th2tMw6XyNKN/461668.mkv
-#EXTINF:-1 tvg-name="Selección Argentina, la serie - Camino a Qatar S01 E01" group-title="Series" tvg-logo="" x-quality="SD",Selección Argentina, la serie - Camino a Qatar S01 E01
-http://redworld.pro:8880/series/playred20/cDNtGMsKMWy4/461668.mkv
-#EXTINF:-1 tvg-name="Selección Argentina, la serie - Camino a Qatar S01 E02" group-title="Series" tvg-logo="" x-quality="SD",Selección Argentina, la serie - Camino a Qatar S01 E02
-http://redworld.pro:8880/series/Platano568/Th2tMw6XyNKN/461669.mp4
-#EXTINF:-1 tvg-name="Selección Argentina, la serie - Camino a Qatar S01 E02" group-title="Series" tvg-logo="" x-quality="SD",Selección Argentina, la serie - Camino a Qatar S01 E02
-http://redworld.pro:8880/series/playred20/cDNtGMsKMWy4/461669.mp4
-#EXTINF:-1 tvg-name="Selección Argentina, la serie - Camino a Qatar S01 E03" group-title="Series" tvg-logo="" x-quality="SD",Selección Argentina, la serie - Camino a Qatar S01 E03
-http://redworld.pro:8880/series/Platano568/Th2tMw6XyNKN/461670.mp4
-#EXTINF:-1 tvg-name="Selección Argentina, la serie - Camino a Qatar S01 E03" group-title="Series" tvg-logo="" x-quality="SD",Selección Argentina, la serie - Camino a Qatar S01 E03
-http://redworld.pro:8880/series/playred20/cDNtGMsKMWy4/461670.mp4
-#EXTINF:-1 tvg-name="Selección Argentina, la serie - Camino a Qatar S01 E04" group-title="Series" tvg-logo="" x-quality="SD",Selección Argentina, la serie - Camino a Qatar S01 E04
-http://redworld.pro:8880/series/Platano568/Th2tMw6XyNKN/461671.mp4
-#EXTINF:-1 tvg-name="Selección Argentina, la serie - Camino a Qatar S01 E04" group-title="Series" tvg-logo="" x-quality="SD",Selección Argentina, la serie - Camino a Qatar S01 E04
-http://redworld.pro:8880/series/playred20/cDNtGMsKMWy4/461671.mp4
-#EXTINF:-1 tvg-name="Selección Argentina, la serie - Camino a Qatar S01 E05" group-title="Series" tvg-logo="" x-quality="SD",Selección Argentina, la serie - Camino a Qatar S01 E05
-http://redworld.pro:8880/series/Platano568/Th2tMw6XyNKN/461672.mp4
-#EXTINF:-1 tvg-name="Selección Argentina, la serie - Camino a Qatar S01 E05" group-title="Series" tvg-logo="" x-quality="SD",Selección Argentina, la serie - Camino a Qatar S01 E05
-http://redworld.pro:8880/series/playred20/cDNtGMsKMWy4/461672.mp4
-#EXTINF:-1 tvg-name="Selección Argentina, la serie - Camino a Qatar S01 E06" group-title="Series" tvg-logo="" x-quality="SD",Selección Argentina, la serie - Camino a Qatar S01 E06
-http://redworld.pro:8880/series/Platano568/Th2tMw6XyNKN/461673.mp4
-#EXTINF:-1 tvg-name="Selección Argentina, la serie - Camino a Qatar S01 E06" group-title="Series" tvg-logo="" x-quality="SD",Selección Argentina, la serie - Camino a Qatar S01 E06
-http://redworld.pro:8880/series/playred20/cDNtGMsKMWy4/461673.mp4
-#EXTINF:-1 tvg-name="Stargate Puerta a las estrellas (1994)" group-title="General" tvg-logo="" x-quality="SD",Stargate Puerta a las estrellas (1994)
-http://redworld.pro:8880/movie/@hastaseptiembre@/5wGDR8VD2CJQ/546248.mkv
-#EXTINF:-1 tvg-name="TNT SPORTS ARGENTINA HD" group-title="Deportes" tvg-logo="" x-quality="SD",TNT SPORTS ARGENTINA HD
+#EXTINF:-1 tvg-name="NBC: ND FARGO KVLY" group-title="General",NBC: ND FARGO KVLY
+http://velive.lat:8080/cVFNeldNVTRQbHVxTjFYVDNoZFpNQ254OXZQS0U3aTFnQnhNREVsVlplMD0
+#EXTINF:-1 tvg-name="Soccer 09/07 09:00am - Argentina vs Egypt: FIFA World Cup 2026" group-title="Deportes",Soccer 09/07 09:00am - Argentina vs Egypt: FIFA World Cup 2026
+http://velive.lat:8080/UXZQZUVuMzFLRFZYc29jOVBxdjUzWVNMZUgrVzRES2o4TEFRa2I4SlhIUT0
+#EXTINF:-1 tvg-name="Soccer 09/07 11:00am - Argentina vs Egypt: FIFA World Cup 2026" group-title="Deportes",Soccer 09/07 11:00am - Argentina vs Egypt: FIFA World Cup 2026
+http://velive.lat:8080/UXZQZUVuMzFLRFZYc29jOVBxdjUzUWV2THZlbUZJRFlrT2NzL1QwNmI2ND0
+#EXTINF:-1 tvg-name="TNT SPORTS ARGENTINA HD" group-title="Deportes",TNT SPORTS ARGENTINA HD
 http://fivetv.org:25461/kelv48627/pretv8539/186515
-#EXTINF:-1 tvg-name="The Argument (2020)" group-title="General" tvg-logo="" x-quality="SD",The Argument (2020)
-http://redworld.pro:8880/movie/@hastaseptiembre@/5wGDR8VD2CJQ/547131.mkv
-#EXTINF:-1 tvg-name="¿Estás ahí, Dios? Soy yo, Margaret (2023)" group-title="General" tvg-logo="" x-quality="SD",¿Estás ahí, Dios? Soy yo, Margaret (2023)
-http://redworld.pro:8880/movie/Platano568/Th2tMw6XyNKN/557077.mkv
+#EXTINF:-1 tvg-name="US: CHARGE!" group-title="General",US: CHARGE!
+http://velive.lat:8080/UkpFeDByTjZjeXR3cE1WOUlVNHdOKy9lWG03bXhUMVRFYy91MVYyQWJodz0
+#EXTINF:-1 tvg-name="✦●✦ ARGENTINA DSPORTS ✦●✦" group-title="Deportes",✦●✦ ARGENTINA DSPORTS ✦●✦
+http://velive.lat:8080/NFI5dnN6WGdjc1l0UkU3U1hsVGR0bHowOTRpTVRkNUZ6VUJwWjlLcXJuUT0

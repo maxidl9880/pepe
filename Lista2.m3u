@@ -1,7 +1,3 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="(OFFLINE) ARG | C5N SD" group-title="General" tvg-logo="" x-quality="SD",(OFFLINE) ARG | C5N SD
-http://starlatino.tv:8880/live/cristian43/7483837464/490448.m3u8
 #EXTINF:-1 tvg-name="ARG | TELEFE" group-title="General" tvg-logo="" x-quality="HD",ARG | TELEFE
 http://velive.lat:8080/WmFsbldDZjRKMHdTck55RkNvL2pHU3EvMzJyTGd5NXZmbTEwb2FmSkZXST0
-#EXTINF:-1 tvg-name="ARG | TELEFE" group-title="General" tvg-logo="" x-quality="SD",ARG | TELEFE
-http://starlatino.tv:8880/live/cristian43/7483837464/490458.m3u8

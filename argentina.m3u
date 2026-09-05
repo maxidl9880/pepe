@@ -1,97 +1,15 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="(OFFLINE) ARG | C5N SD" group-title="General",(OFFLINE) ARG | C5N SD
-http://fivetv.org:25461/kelv48627/pretv8539/90964
-#EXTINF:-1 tvg-name="(OFFLINE) ARG | C5N SD" group-title="General",(OFFLINE) ARG | C5N SD
-http://velive.lat:8080/WmFsbldDZjRKMHdTck55RkNvL2pHVS9QOUdYbWY4UXkrYTIrejJkZDVaOD0
-#EXTINF:-1 tvg-name="16:00 - Arg - Defensa y Justicia vs Platense" group-title="General",16:00 - Arg - Defensa y Justicia vs Platense
-http://velive.lat:8080/QXhEdUlGSXFQNDc1NFVnYitFWWFYU1hzUklCUkVIcTM3RFM1Z2lEWjUrOD0
-#EXTINF:-1 tvg-name="16:00 - Arg - Estudiantes vs Newell's Old Boys" group-title="General",16:00 - Arg - Estudiantes vs Newell's Old Boys
-http://velive.lat:8080/QXhEdUlGSXFQNDc1NFVnYitFWWFYY2dTN1Ira3NwQUtocTF4WXVld0RKTT0
-#EXTINF:-1 tvg-name="18:15 - Arg - Instituto vs San Lorenzo" group-title="General",18:15 - Arg - Instituto vs San Lorenzo
-http://velive.lat:8080/QXhEdUlGSXFQNDc1NFVnYitFWWFYZGFLSHIrWXQrMDJQTGRYRk9QMTRiRT0
-#EXTINF:-1 tvg-name="ARG : Canal 26 FHD" group-title="General",ARG : Canal 26 FHD
+#EXTINF:-1 tvg-name="ARG : Canal 26 FHD" group-title="General" tvg-logo="" x-quality="HD",ARG : Canal 26 FHD
 http://velive.lat:8080/WmFsbldDZjRKMHdTck55RkNvL2pHUWNmT01iYmMzb0pYNXl2WCs5MU9XVT0
-#EXTINF:-1 tvg-name="ARG : DEPORTV  HD" group-title="General",ARG : DEPORTV  HD
-http://velive.lat:8080/WmFsbldDZjRKMHdTck55RkNvL2pHV1VmRklhdTJYYXRyU2RIU2NrbjdZND0
-#EXTINF:-1 tvg-name="ARG I T&C SPORTS  HD" group-title="Deportes",ARG I T&C SPORTS  HD
-http://velive.lat:8080/WmFsbldDZjRKMHdTck55RkNvL2pHWFpoTkpxK3JwZUtnN1NLbXpMa1FaTT0
-#EXTINF:-1 tvg-name="ARG I T&C SPORTS INTERNA." group-title="Deportes",ARG I T&C SPORTS INTERNA.
-http://velive.lat:8080/WmFsbldDZjRKMHdTck55RkNvL2pHVUtRRGlZMElxWXdkTlhzRVdKTUNwcz0
-#EXTINF:-1 tvg-name="ARG I T&C SPORTS SD" group-title="Deportes",ARG I T&C SPORTS SD
-http://velive.lat:8080/WmFsbldDZjRKMHdTck55RkNvL2pHZkZVYnBkM3plMFQrVXBFcy8yVkVJWT0
-#EXTINF:-1 tvg-name="ARG | America" group-title="General",ARG | America
-http://fivetv.org:25461/kelv48627/pretv8539/186519
-#EXTINF:-1 tvg-name="ARG | America" group-title="General",ARG | America
-http://velive.lat:8080/WmFsbldDZjRKMHdTck55RkNvL2pHZEtZakUrQ3luekRiN1hoSWxiOS9XUT0
-#EXTINF:-1 tvg-name="ARG | CANAL 26 HD" group-title="General",ARG | CANAL 26 HD
-http://velive.lat:8080/WmFsbldDZjRKMHdTck55RkNvL2pHZTAweFVEQTNRNkJuNHlqVm0zVFplWT0
-#EXTINF:-1 tvg-name="ARG | CANAL 26 HD" group-title="General",ARG | CANAL 26 HD
-http://velive.lat:8080/WmFsbldDZjRKMHdTck55RkNvL2pHVmpNekRqdFd1V0dKZk1zNTJmSE16RT0
-#EXTINF:-1 tvg-name="ARG | El Nueve  HD" group-title="General",ARG | El Nueve  HD
-http://velive.lat:8080/WmFsbldDZjRKMHdTck55RkNvL2pHYXE2OGxqUDU1dlZOZ0k5ZExoV2k0QT0
-#EXTINF:-1 tvg-name="ARG | TELEFE" group-title="General",ARG | TELEFE
-http://fivetv.org:25461/kelv48627/pretv8539/186517
-#EXTINF:-1 tvg-name="ARG | TELEFE" group-title="General",ARG | TELEFE
-http://velive.lat:8080/WmFsbldDZjRKMHdTck55RkNvL2pHU3EvMzJyTGd5NXZmbTEwb2FmSkZXST0
-#EXTINF:-1 tvg-name="ARG | TELEFE" group-title="General",ARG | TELEFE
-http://velive.lat:8080/WmFsbldDZjRKMHdTck55RkNvL2pHYm5HV3p0bFdtLzhvN3pjM1dlT3plOD0
-#EXTINF:-1 tvg-name="ARG | TNT SPORTS  FHD" group-title="Deportes",ARG | TNT SPORTS  FHD
+#EXTINF:-1 tvg-name="ARG | TNT SPORTS  FHD" group-title="Deportes" tvg-logo="" x-quality="HD",ARG | TNT SPORTS  FHD
 http://velive.lat:8080/WmFsbldDZjRKMHdTck55RkNvL2pHVnd2WnZ2Y0FuOFBxeDBsN3FXWnhwdz0
-#EXTINF:-1 tvg-name="ARG| 13 MAX HD" group-title="General",ARG| 13 MAX HD
-http://velive.lat:8080/WmFsbldDZjRKMHdTck55RkNvL2pHWGk3Z2Y5cWN0RXBzNVYvK2d2WGp2UT0
-#EXTINF:-1 tvg-name="ARG| 24/7 NOTICIAS HD" group-title="Noticias",ARG| 24/7 NOTICIAS HD
+#EXTINF:-1 tvg-name="ARG| 24/7 NOTICIAS HD" group-title="Noticias" tvg-logo="" x-quality="HD",ARG| 24/7 NOTICIAS HD
 http://velive.lat:8080/WmFsbldDZjRKMHdTck55RkNvL2pHYXBKTWhoRENGMVhtWHpXdlkrRUoyVT0
-#EXTINF:-1 tvg-name="ARG| A24 HD" group-title="General",ARG| A24 HD
-http://velive.lat:8080/WmFsbldDZjRKMHdTck55RkNvL2pHZDlkSGtFZWRsbG94aHVtRUorejRSQT0
-#EXTINF:-1 tvg-name="ARG| AMERICA FHD" group-title="General",ARG| AMERICA FHD
-http://velive.lat:8080/WmFsbldDZjRKMHdTck55RkNvL2pHY0d1M1R1QnNFQlVtbE85dTZrM0t1Zz0
-#EXTINF:-1 tvg-name="ARG| CANAL 10 HD" group-title="General",ARG| CANAL 10 HD
-http://velive.lat:8080/WmFsbldDZjRKMHdTck55RkNvL2pHUWMyWW9kbjRUdDhpZ3U4RTVjcnFYST0
-#EXTINF:-1 tvg-name="ARG| CANAL 22 HD" group-title="General",ARG| CANAL 22 HD
+#EXTINF:-1 tvg-name="ARG| CANAL 22 HD" group-title="General" tvg-logo="" x-quality="HD",ARG| CANAL 22 HD
 http://velive.lat:8080/WmFsbldDZjRKMHdTck55RkNvL2pHYzVKaTcvd2djUTd2dzRDUDJHWGlBND0
-#EXTINF:-1 tvg-name="ARG| CINEAR  HD" group-title="Peliculas",ARG| CINEAR  HD
+#EXTINF:-1 tvg-name="ARG| CINEAR  HD" group-title="Peliculas" tvg-logo="" x-quality="HD",ARG| CINEAR  HD
 http://velive.lat:8080/WmFsbldDZjRKMHdTck55RkNvL2pHVVRBQ1lnMm94WVlaZ1R5M2R4dVhTQT0
-#EXTINF:-1 tvg-name="ARG| CN23 HD" group-title="General",ARG| CN23 HD
-http://velive.lat:8080/WmFsbldDZjRKMHdTck55RkNvL2pHVjkwSklsOTM3bGZKY3dZOG50ZjQ4UT0
-#EXTINF:-1 tvg-name="ARG| CRONICA HD" group-title="General",ARG| CRONICA HD
-http://velive.lat:8080/WmFsbldDZjRKMHdTck55RkNvL2pHWngwV2ZsM2U3UURKcGNTL2NncUVwZz0
-#EXTINF:-1 tvg-name="ARG| EL NUEVE FHD" group-title="General",ARG| EL NUEVE FHD
-http://velive.lat:8080/WmFsbldDZjRKMHdTck55RkNvL2pHZWE1S3Y3SDNqMkozS0hjdHdWNDZrOD0
-#EXTINF:-1 tvg-name="ARG| ENCUENTRO HD" group-title="General",ARG| ENCUENTRO HD
-http://velive.lat:8080/WmFsbldDZjRKMHdTck55RkNvL2pHZExBM0RNU2NDemUrYnhUZGxwZ3l2WT0
-#EXTINF:-1 tvg-name="ARG| ESTRELLA TV HD" group-title="General",ARG| ESTRELLA TV HD
-http://velive.lat:8080/WmFsbldDZjRKMHdTck55RkNvL2pHVFgxSWZZckZleUU1YytPNlJxNzJMND0
-#EXTINF:-1 tvg-name="ARG| GARAGE  HD" group-title="General",ARG| GARAGE  HD
-http://velive.lat:8080/WmFsbldDZjRKMHdTck55RkNvL2pHUkk2TitTYW51TEdzYkNRR0tDWDU4RT0
-#EXTINF:-1 tvg-name="ARG| LA NACION HD" group-title="General",ARG| LA NACION HD
+#EXTINF:-1 tvg-name="ARG| LA NACION HD" group-title="General" tvg-logo="" x-quality="HD",ARG| LA NACION HD
 http://velive.lat:8080/WmFsbldDZjRKMHdTck55RkNvL2pHV1hFbmFSTHFra3hPVWtFaDQ3K0plRT0
-#EXTINF:-1 tvg-name="ARG| LA PAMPA TV HD" group-title="General",ARG| LA PAMPA TV HD
-http://velive.lat:8080/WmFsbldDZjRKMHdTck55RkNvL2pHZHFWTFhUZ0ZVZkQ0OUV2enVKOFhLQT0
-#EXTINF:-1 tvg-name="ARG| TN NOTICIAS HD" group-title="Noticias",ARG| TN NOTICIAS HD
-http://velive.lat:8080/WmFsbldDZjRKMHdTck55RkNvL2pHWGFIV0IrQWpqSFhTK1dYaVMzTlNOVT0
-#EXTINF:-1 tvg-name="ARG| TRECE  FHD" group-title="General",ARG| TRECE  FHD
-http://velive.lat:8080/WmFsbldDZjRKMHdTck55RkNvL2pHVHVLNCswMzlSYlFTYjI0Q2o5L1h3Zz0
-#EXTINF:-1 tvg-name="ARG| TV PUBLICA  HD" group-title="General",ARG| TV PUBLICA  HD
-http://velive.lat:8080/WmFsbldDZjRKMHdTck55RkNvL2pHWjNHMjYzTUxSZWxvZWFUSXNKai9Zdz0
-#EXTINF:-1 tvg-name="ARG| VOLVER HD" group-title="General",ARG| VOLVER HD
+#EXTINF:-1 tvg-name="ARG| VOLVER HD" group-title="General" tvg-logo="" x-quality="HD",ARG| VOLVER HD
 http://velive.lat:8080/WmFsbldDZjRKMHdTck55RkNvL2pHU2VmaVovR0JwSHV5OXhoVnAwWkJlZz0
-#EXTINF:-1 tvg-name="ESPN PREMIUN HD ARGENTINA" group-title="Deportes",ESPN PREMIUN HD ARGENTINA
-http://fivetv.org:25461/kelv48627/pretv8539/89731
-#EXTINF:-1 tvg-name="El viaje más largo (2020)" group-title="General",El viaje más largo (2020)
-http://fivetv.org:25461/movie/kelv48627/pretv8539/2472.mp4
-#EXTINF:-1 tvg-name="FOX: ND FARGO KVRR" group-title="General",FOX: ND FARGO KVRR
-http://velive.lat:8080/dThnRG5hejNNMlhVbExYRUxMVjZwK29mSmZ3KzNoMk1TQnUxSWN3cjZMMD0
-#EXTINF:-1 tvg-name="Marga Marga TV | CL" group-title="General",Marga Marga TV | CL
-http://velive.lat:8080/TmdXZndDdVh6NzZMTHdna0Y5dW9qVU03ditiOTE1eENkOWlXaG0zeUcvMD0
-#EXTINF:-1 tvg-name="NBC: ND FARGO KVLY" group-title="General",NBC: ND FARGO KVLY
-http://velive.lat:8080/cVFNeldNVTRQbHVxTjFYVDNoZFpNQ254OXZQS0U3aTFnQnhNREVsVlplMD0
-#EXTINF:-1 tvg-name="Soccer 09/07 09:00am - Argentina vs Egypt: FIFA World Cup 2026" group-title="Deportes",Soccer 09/07 09:00am - Argentina vs Egypt: FIFA World Cup 2026
-http://velive.lat:8080/UXZQZUVuMzFLRFZYc29jOVBxdjUzWVNMZUgrVzRES2o4TEFRa2I4SlhIUT0
-#EXTINF:-1 tvg-name="Soccer 09/07 11:00am - Argentina vs Egypt: FIFA World Cup 2026" group-title="Deportes",Soccer 09/07 11:00am - Argentina vs Egypt: FIFA World Cup 2026
-http://velive.lat:8080/UXZQZUVuMzFLRFZYc29jOVBxdjUzUWV2THZlbUZJRFlrT2NzL1QwNmI2ND0
-#EXTINF:-1 tvg-name="TNT SPORTS ARGENTINA HD" group-title="Deportes",TNT SPORTS ARGENTINA HD
-http://fivetv.org:25461/kelv48627/pretv8539/186515
-#EXTINF:-1 tvg-name="US: CHARGE!" group-title="General",US: CHARGE!
-http://velive.lat:8080/UkpFeDByTjZjeXR3cE1WOUlVNHdOKy9lWG03bXhUMVRFYy91MVYyQWJodz0
-#EXTINF:-1 tvg-name="✦●✦ ARGENTINA DSPORTS ✦●✦" group-title="Deportes",✦●✦ ARGENTINA DSPORTS ✦●✦
-http://velive.lat:8080/NFI5dnN6WGdjc1l0UkU3U1hsVGR0bHowOTRpTVRkNUZ6VUJwWjlLcXJuUT0

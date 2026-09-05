@@ -1,15 +1,1 @@
-#EXTM3U
-#EXTINF:-1 tvg-name="ARG : Canal 26 FHD" group-title="General" tvg-logo="" x-quality="HD",ARG : Canal 26 FHD
-http://velive.lat:8080/WmFsbldDZjRKMHdTck55RkNvL2pHUWNmT01iYmMzb0pYNXl2WCs5MU9XVT0
-#EXTINF:-1 tvg-name="ARG | TNT SPORTS  FHD" group-title="Deportes" tvg-logo="" x-quality="HD",ARG | TNT SPORTS  FHD
-http://velive.lat:8080/WmFsbldDZjRKMHdTck55RkNvL2pHVnd2WnZ2Y0FuOFBxeDBsN3FXWnhwdz0
-#EXTINF:-1 tvg-name="ARG| 24/7 NOTICIAS HD" group-title="Noticias" tvg-logo="" x-quality="HD",ARG| 24/7 NOTICIAS HD
-http://velive.lat:8080/WmFsbldDZjRKMHdTck55RkNvL2pHYXBKTWhoRENGMVhtWHpXdlkrRUoyVT0
-#EXTINF:-1 tvg-name="ARG| CANAL 22 HD" group-title="General" tvg-logo="" x-quality="HD",ARG| CANAL 22 HD
-http://velive.lat:8080/WmFsbldDZjRKMHdTck55RkNvL2pHYzVKaTcvd2djUTd2dzRDUDJHWGlBND0
-#EXTINF:-1 tvg-name="ARG| CINEAR  HD" group-title="Peliculas" tvg-logo="" x-quality="HD",ARG| CINEAR  HD
-http://velive.lat:8080/WmFsbldDZjRKMHdTck55RkNvL2pHVVRBQ1lnMm94WVlaZ1R5M2R4dVhTQT0
-#EXTINF:-1 tvg-name="ARG| LA NACION HD" group-title="General" tvg-logo="" x-quality="HD",ARG| LA NACION HD
-http://velive.lat:8080/WmFsbldDZjRKMHdTck55RkNvL2pHV1hFbmFSTHFra3hPVWtFaDQ3K0plRT0
-#EXTINF:-1 tvg-name="ARG| VOLVER HD" group-title="General" tvg-logo="" x-quality="HD",ARG| VOLVER HD
-http://velive.lat:8080/WmFsbldDZjRKMHdTck55RkNvL2pHU2VmaVovR0JwSHV5OXhoVnAwWkJlZz0
+{"a":[{"a":"Noticias","b":[{"a":"C5N","logo_url":"","stream_url":"http://velive.lat:8080/WmFsbldDZjRKMHdTck55RkNvL2pHVS9QOUdYbWY4UXkrYTIrejJkZDVaOD0","drm_id":"","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36","referer":""},{"a":"C5N FHD","logo_url":"","stream_url":"http://goldtv.lat:80/live/Sebita2022/Manya2022/81273","drm_id":"","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36","referer":""},{"a":"C5N HD","logo_url":"","stream_url":"http://goldtv.lat:80/live/Sebita2022/Manya2022/81274","drm_id":"","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36","referer":""}]}]}

@@ -1,9 +1,0 @@
-#EXTM3U
-#EXTINF:-1 tvg-name="ARG | America" group-title="Noticias",ARG | America
-http://starlatino.tv:8880/live/cristian43/7483837464/490463.m3u8
-#EXTINF:-1 tvg-name="ARG | TELEFE" group-title="Noticias",ARG | TELEFE
-http://starlatino.tv:8880/live/cristian43/7483837464/490458.m3u8
-#EXTINF:-1 tvg-name="ARG | TN HD" group-title="General",ARG | TN HD
-http://starlatino.tv:8880/live/cristian43/7483837464/490457.m3u8
-#EXTINF:-1 tvg-name="C5N" group-title="Noticias",C5N
-http://starlatino.tv:8880/live/cristian43/7483837464/490448.m3u8
